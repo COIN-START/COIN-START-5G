@@ -1,267 +1,316 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/5g28nev1xjfv8pg9yzpe"
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Chavo del Ocho (i)" tvg-logo="https://i.pinimg.com/originals/2e/97/a4/2e97a44a1b26e77967cdcfcccd382ef4.png" group-title="24/7",El Chavo del Ocho (i)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/35023.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball Super (i)|24/7" tvg-logo="https://w7.pngwing.com/pngs/668/707/png-transparent-dragonball-super-logo-super-dragon-ball-z-goku-gohan-majin-buu-trunks-dragon-ball-super-file-television-text-logo-thumbnail.png" group-title="24/7",Dragon Ball Super (i)|24/7
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/158332.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The Big Bang Theory (p) |24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjnJFBkm9si2Iei4H0pr-X5omAQR074NCiw&usqp=CAU" group-title="24/7",The Big Bang Theory (p) |24/7
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)"tvg-name="The Big Bang Theory (p) |24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjnJFBkm9si2Iei4H0pr-X5omAQR074NCiw&usqp=CAU" group-title="T- 24/7",The Big Bang Theory (p) |24/7
 http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/158384.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="La familia P. Luche (i)|24/7" tvg-logo="https://image.tmdb.org/t/p/original/dYKzfVfOHXY2Vg00W8LkCMwOvbv.png" group-title="24/7",La familia P. Luche (i)|24/7
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/166689.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="La familia P. Luche (i)|24/7 op2" tvg-logo="https://image.tmdb.org/t/p/original/dYKzfVfOHXY2Vg00W8LkCMwOvbv.png" group-title="24/7",La familia P. Luche (i)|24/7 op2
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/166690.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix 1 (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="24/7",NeT Flix 1 (i)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168559.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix 2 (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="24/7",NeT Flix 2 (i)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168560.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix 3 (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="24/7",NeT Flix 3 (i)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168561.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix 4 (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="24/7",NeT Flix 4 (i)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168562.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix 5 (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="24/7",NeT Flix 5 (i)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168563.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix 6 (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="24/7",NeT Flix 6 (i)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168564.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix 7 (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="24/7",NeT Flix 7 (i)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168565.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix 10 Kids (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="24/7",NeT Flix 10 Kids (i)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168566.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix 11 Kids (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="24/7",NeT Flix 11 Kids (i)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168567.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix Adventure (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="24/7",NeT Flix Adventure (i)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168568.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix Lat 18 (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="24/7",NeT Flix Lat 18 (i)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168569.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix Lat 20 (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="24/7",NeT Flix Lat 20 (i)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168570.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 1" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="24/7",H - O Max 1
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168613.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 2" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="24/7",H - O Max 2
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168614.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 3" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="24/7",H - O Max 3
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168615.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 4" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="24/7",H - O Max 4
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168616.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 5" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="24/7",H - O Max 5
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168617.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 6" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="24/7",H - O Max 6
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168618.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 7" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="24/7",H - O Max 7
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168619.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 8" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="24/7",H - O Max 8
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168620.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 9" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="24/7",H - O Max 9
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168621.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 10" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="24/7",H - O Max 10
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168622.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 11" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="24/7",H - O Max 11
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168623.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 12" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="24/7",H - O Max 12
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168624.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 13" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="24/7",H - O Max 13
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168625.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 14" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="24/7",H - O Max 14
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168626.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 15" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="24/7",H - O Max 15
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168627.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cinema Dc Comics HD i" tvg-logo="https://clipart-library.com/new_gallery/238-2388337_dc-comics-dc-comics-logo-actual.png" group-title="24/7",Cinema Dc Comics HD i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168727.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cinema Marvel Studio HD i" tvg-logo="https://w7.pngwing.com/pngs/704/824/png-transparent-marvel-studios-logo-walt-disney-studios-marvel-studios-marvel-cinematic-universe-logo-film-studio-marvel-miscellaneous-fictional-characters-studio-thumbnail.png" group-title="24/7",Cinema Marvel Studio HD i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168728.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cinema Lego Movies HD i" tvg-logo="https://www.pngitem.com/pimgs/b/114-1146421_movie-png.png" group-title="24/7",Cinema Lego Movies HD i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168729.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Juego del tronos i" tvg-logo="https://w7.pngwing.com/pngs/930/894/png-transparent-a-game-of-thrones-logo-emblem-font-game-of-trones-game-emblem-text-thumbnail.png" group-title="24/7",Juego del tronos i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168730.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cinema DC Universe HD i" tvg-logo="https://www.pngitem.com/pimgs/b/15-150543_batman-animated-png.png" group-title="24/7",Cinema DC Universe HD i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168731.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cinema Ciencia Ficcion HD i" tvg-logo="https://w7.pngwing.com/pngs/25/439/png-transparent-cinema-film-movie-theatre-miscellaneous-theater-drapes-and-stage-curtains-picture-frame-thumbnail.png" group-title="24/7",Cinema Ciencia Ficcion HD i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168732.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cinema Accion Classics HD i" tvg-logo="https://w7.pngwing.com/pngs/25/439/png-transparent-cinema-film-movie-theatre-miscellaneous-theater-drapes-and-stage-curtains-picture-frame-thumbnail.png" group-title="24/7",Cinema Accion Classics HD i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168733.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cinema Horror HD i" tvg-logo="https://w7.pngwing.com/pngs/25/439/png-transparent-cinema-film-movie-theatre-miscellaneous-theater-drapes-and-stage-curtains-picture-frame-thumbnail.png" group-title="24/7",Cinema Horror HD i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168734.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cinema Disney Pixar HD i" tvg-logo="https://w7.pngwing.com/pngs/435/682/png-transparent-mickey-mouse-the-walt-disney-company-logo-walt-disney-s-mickey-mouse-heroes-text-monochrome-thumbnail.png" group-title="24/7",Cinema Disney Pixar HD i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168735.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cinema Disney Family HD i" tvg-logo="https://w7.pngwing.com/pngs/435/682/png-transparent-mickey-mouse-the-walt-disney-company-logo-walt-disney-s-mickey-mouse-heroes-text-monochrome-thumbnail.png" group-title="24/7",Cinema Disney Family HD i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168736.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Escobar: el patron del mal i" tvg-logo="https://w7.pngwing.com/pngs/937/551/png-transparent-pablo-escobar-narcos-season-2-netflix-fernsehserie-others-television-microphone-film-thumbnail.png" group-title="24/7",Escobar: el patron del mal i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168737.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The Walking Dead i" tvg-logo="https://w7.pngwing.com/pngs/90/16/png-transparent-the-walking-dead-logo-rick-grimes-daryl-dixon-logo-the-walking-dead-season-1-the-walking-dead-text-dead-walk-thumbnail.png" group-title="24/7",The Walking Dead i
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The Walking Dead i" tvg-logo="https://w7.pngwing.com/pngs/90/16/png-transparent-the-walking-dead-logo-rick-grimes-daryl-dixon-logo-the-walking-dead-season-1-the-walking-dead-text-dead-walk-thumbnail.png" group-title="T- 24/7",The Walking Dead i
 http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168738.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball Super VIP i" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="24/7",Dragon Ball Super VIP i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168739.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson New HD i" tvg-logo="https://i.postimg.cc/XJ3Z3tqv/5a0c40db5a997e1c2cea1171.png" group-title="24/7",Los Simpson New HD i
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The Transformers i" tvg-logo="" group-title="T- 24/7",The Transformers i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168757.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Two And a Half Men HD i" tvg-logo="" group-title="T- 24/7",Two And a Half Men HD i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168759.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The Big Bang Theory HD i" tvg-logo="" group-title="T- 24/7",The Big Bang Theory HD i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168760.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The Walking Dead op2 i" tvg-logo="" group-title="T- 24/7",The Walking Dead op2 i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168761.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The new Looney Tunes i" tvg-logo="" group-title="T- 24/7",The new Looney Tunes i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168766.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The Big Bang Theory (p) op2 |24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjnJFBkm9si2Iei4H0pr-X5omAQR074NCiw&usqp=CAU" group-title="T- 24/7",The Big Bang Theory (p) op2 |24/7
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/180823.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Tom y Jerry 24/7 (i)" tvg-logo="" group-title="T- 24/7",Tom y Jerry 24/7 (i)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/277581.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The Big Bang Theory (p) op3 |24/7" tvg-logo="" group-title="T- 24/7",The Big Bang Theory (p) op3 |24/7
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278246.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The new Looney Tunes (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="T- 24/7",The new Looney Tunes (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279011.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Tom and Jerry Show (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="T- 24/7",Tom and Jerry Show (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279012.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Tio Grandpa (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="T- 24/7",Tio Grandpa (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279050.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Tom Y Jerry (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="T- 24/7",Tom Y Jerry (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279051.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="La familia P. Luche (i)|24/7" tvg-logo="https://image.tmdb.org/t/p/original/dYKzfVfOHXY2Vg00W8LkCMwOvbv.png" group-title="L- 24/7",La familia P. Luche (i)|24/7
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/166689.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="La familia P. Luche (i)|24/7 op2" tvg-logo="https://image.tmdb.org/t/p/original/dYKzfVfOHXY2Vg00W8LkCMwOvbv.png" group-title="L- 24/7",La familia P. Luche (i)|24/7 op2
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/166690.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson New HD i" tvg-logo="https://i.postimg.cc/XJ3Z3tqv/5a0c40db5a997e1c2cea1171.png" group-title="L- 24/7",Los Simpson New HD i
 http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168740.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Game of Thrones HD i" tvg-logo="https://w7.pngwing.com/pngs/930/894/png-transparent-a-game-of-thrones-logo-emblem-font-game-of-trones-game-emblem-text-thumbnail.png" group-title="24/7",Game of Thrones HD i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168741.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="La Casa de Papel HD i" tvg-logo="https://w7.pngwing.com/pngs/478/529/png-transparent-la-casa-de-papel-illustration-t-shirt-paper-hoodie-unisex-clothing-la-casa-de-papel-text-logo-sticker-thumbnail.png" group-title="24/7",La Casa de Papel HD i
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="La Casa de Papel HD i" tvg-logo="https://w7.pngwing.com/pngs/478/529/png-transparent-la-casa-de-papel-illustration-t-shirt-paper-hoodie-unisex-clothing-la-casa-de-papel-text-logo-sticker-thumbnail.png" group-title="L- 24/7",La Casa de Papel HD i
 http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168742.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Picapiedras i" tvg-logo="https://w7.pngwing.com/pngs/930/278/png-transparent-the-flintstones-and-rubbles-cartoons-the-flintstones-thumbnail.png" group-title="24/7",Los Picapiedras i
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Picapiedras i" tvg-logo="https://w7.pngwing.com/pngs/930/278/png-transparent-the-flintstones-and-rubbles-cartoons-the-flintstones-thumbnail.png" group-title="L- 24/7",Los Picapiedras i
 http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168743.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pedro Infante i" tvg-logo="https://st1.uvnimg.com/dims4/default/94c5162/2147483647/crop/976x549%2B18%2B0/resize/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe3%2F18%2Faf9a9d0c40b990dd74926592c97f%2Fpedro-infante3.jpg" group-title="24/7",Pedro Infante i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168744.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Chavo del Ocho i" tvg-logo="https://i.pinimg.com/originals/2e/97/a4/2e97a44a1b26e77967cdcfcccd382ef4.png" group-title="24/7",El Chavo del Ocho i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168745.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="La Familia Peluche i" tvg-logo="https://image.tmdb.org/t/p/original/dYKzfVfOHXY2Vg00W8LkCMwOvbv.png" group-title="24/7",La Familia Peluche i
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="La Familia Peluche i" tvg-logo="https://image.tmdb.org/t/p/original/dYKzfVfOHXY2Vg00W8LkCMwOvbv.png" group-title="L- 24/7",La Familia Peluche i
 http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168746.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Chapulin Colorado i" tvg-logo="https://w7.pngwing.com/pngs/348/4/png-transparent-el-chavo-del-ocho-chapulines-mexico-el-chapulin-colorado-chapulin-colorado-computer-wallpaper-fictional-character-animaatio-thumbnail.png" group-title="24/7",Chapulin Colorado i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168747.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MALCOLM EL DE ENMEDIO FHD i" tvg-logo="https://w7.pngwing.com/pngs/673/310/png-transparent-malcolm-in-the-middle-season-5-television-show-malcolm-in-the-middle-season-6-malcolm-in-the-middle-season-2-others-tshirt-television-family-thumbnail.png" group-title="24/7",MALCOLM EL DE ENMEDIO FHD i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168748.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Peppa Pig i" tvg-logo="https://w7.pngwing.com/pngs/484/509/png-transparent-peppa-pig-family-illustration-daddy-pig-graphy-animated-cartoon-peppa-pig-miscellaneous-fictional-character-cartoon-thumbnail.png" group-title="24/7",Peppa Pig i
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Años Maravillosos i" tvg-logo="" group-title="L- 24/7",Los Años Maravillosos i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168764.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los 3 chiflados (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="L- 24/7",Los 3 chiflados (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279037.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los osos Gummi (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="L- 24/7",Los osos Gummi (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279038.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Picapiedras (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="L- 24/7",Los Picapiedras (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279039.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los pinguinos de Madagascar (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="L- 24/7",Los pinguinos de Madagascar (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279040.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpsons (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="L- 24/7",Los Simpsons (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279041.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpsons op2 (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="L- 24/7",Los Simpsons op2 (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279042.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpsons op3 (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="L- 24/7",Los Simpsons op3 (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279043.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpsons op4 (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="L- 24/7",Los Simpsons op4 (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279044.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpsons op5 (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="L- 24/7",Los Simpsons op5 (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279045.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="La India Maria i" tvg-logo="https://media.diariolasamericas.com/p/7fa7a0b69e99bb917672cdc1f20aa321/adjuntos/216/imagenes/000/295/0000295040/855x0/smart/muere-la-actriz-mexicana-maria-elena-velasco-conocida-la-india-maria.jpg" group-title="L- 24/7",La India Maria i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168754.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="La Vaca Y El Pollito (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="L- 24/7",La Vaca Y El Pollito (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279005.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Las sombrias aventuras de Billy y Mandy (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="L- 24/7",Las sombrias aventuras de Billy y Mandy (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279009.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los chicos del barrio (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="L- 24/7",Los chicos del barrio (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279010.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpsonps HD i" tvg-logo="https://i.postimg.cc/XJ3Z3tqv/5a0c40db5a997e1c2cea1171.png" group-title="L- 24/7",Los Simpsonps HD i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168753.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix 1 (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="N- 24/7",NeT Flix 1 (i)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168559.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix 2 (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="N- 24/7",NeT Flix 2 (i)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168560.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix 3 (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="N- 24/7",NeT Flix 3 (i)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168561.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix 4 (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="N- 24/7",NeT Flix 4 (i)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168562.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix 5 (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="N- 24/7",NeT Flix 5 (i)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168563.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix 6 (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="N- 24/7",NeT Flix 6 (i)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168564.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix 7 (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="N- 24/7",NeT Flix 7 (i)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168565.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix 10 Kids (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="N- 24/7",NeT Flix 10 Kids (i)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168566.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix 11 Kids (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="N- 24/7",NeT Flix 11 Kids (i)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168567.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix Adventure (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="N- 24/7",NeT Flix Adventure (i)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168568.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix Lat 18 (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="N- 24/7",NeT Flix Lat 18 (i)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168569.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NeT Flix Lat 20 (i)" tvg-logo="https://i.pinimg.com/originals/86/eb/89/86eb89d791d6e035cdfd344b78b7bca9.png" group-title="N- N- 24/7",NeT Flix Lat 20 (i)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168570.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 1" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="H- 24/7",H - O Max 1
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168613.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 2" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="H- 24/7",H - O Max 2
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168614.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 3" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="H- 24/7",H - O Max 3
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168615.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 4" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="H- 24/7",H - O Max 4
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168616.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 5" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="H- 24/7",H - O Max 5
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168617.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 6" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="H- 24/7",H - O Max 6
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168618.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 7" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="H- 24/7",H - O Max 7
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168619.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 8" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="H- 24/7",H - O Max 8
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168620.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 9" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="H- 24/7",H - O Max 9
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168621.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 10" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="H- 24/7",H - O Max 10
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168622.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 11" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="H- 24/7",H - O Max 11
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168623.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 12" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="H- 24/7",H - O Max 12
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168624.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 13" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="H- 24/7",H - O Max 13
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168625.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 14" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="H- 24/7",H - O Max 14
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168626.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H - O Max 15" tvg-logo="https://media.es.wired.com/photos/64370240f381a957088482ca/16:9/w_1280,c_limit/Max%20ESCALADA.png" group-title="H- 24/7",H - O Max 15
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168627.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Avengers HD i" tvg-logo="http://w7.pngwing.com/pngs/82/407/png-transparent-avengers-logo-thumbnail.png" group-title="C- 24/7",Avengers HD i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168752.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dinosaurios (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="C- 24/7",Dinosaurios (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279019.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dos Hombres y Medio (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="C- 24/7",Dos Hombres y Medio (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279021.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dr House (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="C- 24/7",Dr House (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279022.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dr House op2 (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="C- 24/7",Dr House op2 (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279023.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cinema Dc Comics HD i" tvg-logo="https://clipart-library.com/new_gallery/238-2388337_dc-comics-dc-comics-logo-actual.png" group-title="C- 24/7",Cinema Dc Comics HD i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168727.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cinema Marvel Studio HD i" tvg-logo="https://w7.pngwing.com/pngs/704/824/png-transparent-marvel-studios-logo-walt-disney-studios-marvel-studios-marvel-cinematic-universe-logo-film-studio-marvel-miscellaneous-fictional-characters-studio-thumbnail.png" group-title="C- 24/7",Cinema Marvel Studio HD i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168728.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cinema Lego Movies HD i" tvg-logo="https://www.pngitem.com/pimgs/b/114-1146421_movie-png.png" group-title="C- 24/7",Cinema Lego Movies HD i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168729.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Juego del tronos i" tvg-logo="https://w7.pngwing.com/pngs/930/894/png-transparent-a-game-of-thrones-logo-emblem-font-game-of-trones-game-emblem-text-thumbnail.png" group-title="C- 24/7",Juego del tronos i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168730.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cinema DC Universe HD i" tvg-logo="https://www.pngitem.com/pimgs/b/15-150543_batman-animated-png.png" group-title="C- 24/7",Cinema DC Universe HD i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168731.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cinema Ciencia Ficcion HD i" tvg-logo="https://w7.pngwing.com/pngs/25/439/png-transparent-cinema-film-movie-theatre-miscellaneous-theater-drapes-and-stage-curtains-picture-frame-thumbnail.png" group-title="C- 24/7",Cinema Ciencia Ficcion HD i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168732.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cinema Accion Classics HD i" tvg-logo="https://w7.pngwing.com/pngs/25/439/png-transparent-cinema-film-movie-theatre-miscellaneous-theater-drapes-and-stage-curtains-picture-frame-thumbnail.png" group-title="C- 24/7",Cinema Accion Classics HD i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168733.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cinema Horror HD i" tvg-logo="https://w7.pngwing.com/pngs/25/439/png-transparent-cinema-film-movie-theatre-miscellaneous-theater-drapes-and-stage-curtains-picture-frame-thumbnail.png" group-title="C- 24/7",Cinema Horror HD i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168734.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cinema Disney Pixar HD i" tvg-logo="https://w7.pngwing.com/pngs/435/682/png-transparent-mickey-mouse-the-walt-disney-company-logo-walt-disney-s-mickey-mouse-heroes-text-monochrome-thumbnail.png" group-title="C- 24/7",Cinema Disney Pixar HD i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168735.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cinema Disney Family HD i" tvg-logo="https://w7.pngwing.com/pngs/435/682/png-transparent-mickey-mouse-the-walt-disney-company-logo-walt-disney-s-mickey-mouse-heroes-text-monochrome-thumbnail.png" group-title="C- 24/7",Cinema Disney Family HD i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168736.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Game of Thrones HD i" tvg-logo="https://w7.pngwing.com/pngs/930/894/png-transparent-a-game-of-thrones-logo-emblem-font-game-of-trones-game-emblem-text-thumbnail.png" group-title="C- 24/7",Game of Thrones HD i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168741.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pedro Infante i" tvg-logo="https://st1.uvnimg.com/dims4/default/94c5162/2147483647/crop/976x549%2B18%2B0/resize/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe3%2F18%2Faf9a9d0c40b990dd74926592c97f%2Fpedro-infante3.jpg" group-title="C- 24/7",Pedro Infante i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168744.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rosa de Guadalupe i" tvg-logo="" group-title="F- 24/7",Rosa de Guadalupe i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168755.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cantinflas i" tvg-logo="" group-title="F- 24/7",Cantinflas i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168756.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="South Park HD 24H i" tvg-logo="" group-title="F- 24/7",South Park HD 24H i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168763.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Don Gato y su Pandilla i" tvg-logo="" group-title="F- 24/7",Don Gato y su Pandilla i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168767.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Looney Toons (i)|24/7" tvg-logo="https://i.pinimg.com/originals/a6/01/6a/a6016a4613298464a7b72aeea9b2c890.png" group-title="F- 24/7",Looney Toons (i)|24/7
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181395.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pink Panter (i)|24/7" tvg-logo="" group-title="F- 24/7",Pink Panter (i)|24/7
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181396.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pinguinos de Madagascar (i)|24/7" tvg-logo="" group-title="F- 24/7",Pinguinos de Madagascar (i)|24/7
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181397.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pajaro Loco (i)|24/7" tvg-logo="" group-title="F- 24/7",Pajaro Loco (i)|24/7
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181398.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Acapulco Shore (i)|24/7" tvg-logo="" group-title="F- 24/7",Acapulco Shore (i)|24/7
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181400.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CSI Las Vegas HD 24H (i)|24/7" tvg-logo="" group-title="F- 24/7",CSI Las Vegas HD 24H (i)|24/7
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181401.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CSI Miami HD (i)|24/7" tvg-logo="" group-title="F- 24/7",CSI Miami HD (i)|24/7
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181402.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Garfield y sus amigos (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="F- 24/7",Garfield y sus amigos (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279034.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Grizzy y los lemmings (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="F- 24/7",Grizzy y los lemmings (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279035.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Peppa Pig i" tvg-logo="https://w7.pngwing.com/pngs/484/509/png-transparent-peppa-pig-family-illustration-daddy-pig-graphy-animated-cartoon-peppa-pig-miscellaneous-fictional-character-cartoon-thumbnail.png" group-title="F- 24/7",Peppa Pig i
 http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168749.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Futurama HD i" tvg-logo="https://w7.pngwing.com/pngs/995/853/png-transparent-futurama-worlds-of-tomorrow-philip-j-fry-bender-futurama-season-2-the-lesser-of-two-evils-futurama-heroes-cartoon-fictional-character-thumbnail.png" group-title="24/7",Futurama HD i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168750.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Chavo del Ocho (i)" tvg-logo="https://i.pinimg.com/originals/2e/97/a4/2e97a44a1b26e77967cdcfcccd382ef4.png" group-title="A- 24/7",El Chavo del Ocho (i)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/35023.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Escobar: el patron del mal i" tvg-logo="https://w7.pngwing.com/pngs/937/551/png-transparent-pablo-escobar-narcos-season-2-netflix-fernsehserie-others-television-microphone-film-thumbnail.png" group-title="A- 24/7",Escobar: el patron del mal i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168737.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Chavo del Ocho i" tvg-logo="https://i.pinimg.com/originals/2e/97/a4/2e97a44a1b26e77967cdcfcccd382ef4.png" group-title="A- 24/7",El Chavo del Ocho i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168745.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Estrenos Kung Fu Panda 4 (i)|24/7" tvg-logo="" group-title="A- 24/7",Estrenos Kung Fu Panda 4 (i)|24/7
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181399.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Chema HD (i)|24/7" tvg-logo="" group-title="A- 24/7",El Chema HD (i)|24/7
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181403.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ed Edd y Eddy (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="A- 24/7",Ed Edd y Eddy (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279006.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Chavo del 8 (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="A- 24/7",El Chavo del 8 (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279007.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Chapulin Colorado (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="A- 24/7",El Chapulin Colorado (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279027.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Increible Mundo De Gumball (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="A- 24/7",El Increible Mundo De Gumball (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279028.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El laboratorio de Dexter (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="A- 24/7",El laboratorio de Dexter (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279029.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Mentalista (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="A- 24/7",El Mentalista (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279030.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Mentalista op2 (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="A- 24/7",El Mentalista op2 (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279031.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Escandalosos (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="A- 24/7",Escandalosos (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279033.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Chapulin Colorado i" tvg-logo="https://w7.pngwing.com/pngs/348/4/png-transparent-el-chavo-del-ocho-chapulines-mexico-el-chapulin-colorado-chapulin-colorado-computer-wallpaper-fictional-character-animaatio-thumbnail.png" group-title="A- 24/7",Chapulin Colorado i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168747.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MALCOLM EL DE ENMEDIO FHD i" tvg-logo="https://w7.pngwing.com/pngs/673/310/png-transparent-malcolm-in-the-middle-season-5-television-show-malcolm-in-the-middle-season-6-malcolm-in-the-middle-season-2-others-tshirt-television-family-thumbnail.png" group-title="B- 24/7",MALCOLM EL DE ENMEDIO FHD i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168748.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Mazingerz i" tvg-logo="" group-title="B- 24/7",Mazingerz i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168765.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Malcolm El De En Medio (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="B- 24/7",Malcolm El De En Medio (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279046.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pokemon i" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/2560px-International_Pok%C3%A9mon_logo.svg.png" group-title="24/7",Pokemon i
 http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168751.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Avengers HD i" tvg-logo="http://w7.pngwing.com/pngs/82/407/png-transparent-avengers-logo-thumbnail.png" group-title="24/7",Avengers HD i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168752.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpsonps HD i" tvg-logo="https://i.postimg.cc/XJ3Z3tqv/5a0c40db5a997e1c2cea1171.png" group-title="24/7",Los Simpsonps HD i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168753.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="La India Maria i" tvg-logo="https://media.diariolasamericas.com/p/7fa7a0b69e99bb917672cdc1f20aa321/adjuntos/216/imagenes/000/295/0000295040/855x0/smart/muere-la-actriz-mexicana-maria-elena-velasco-conocida-la-india-maria.jpg" group-title="24/7",La India Maria i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168754.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rosa de Guadalupe i" tvg-logo="" group-title="24/7",Rosa de Guadalupe i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168755.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cantinflas i" tvg-logo="" group-title="24/7",Cantinflas i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168756.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The Transformers i" tvg-logo="" group-title="24/7",The Transformers i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168757.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Johnny Bravo i" tvg-logo="" group-title="24/7",Johnny Bravo i
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Mansion Foster Para Amigos Imaginarios (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="B- 24/7",Mansion Foster Para Amigos Imaginarios (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279048.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Masha y el Oso (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="B- 24/7",Masha y el Oso (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279049.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Alf (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="B- 24/7",Alf (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279013.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Chip & Dale al rescate (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="B- 24/7",Chip & Dale al rescate (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279014.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Johnny Bravo (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="B- 24/7",Johnny Bravo (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279015.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Johnny Bravo i" tvg-logo="" group-title="B- 24/7",Johnny Bravo i
 http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168758.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Two And a Half Men HD i" tvg-logo="" group-title="24/7",Two And a Half Men HD i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168759.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The Big Bang Theory HD i" tvg-logo="" group-title="24/7",The Big Bang Theory HD i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168760.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The Walking Dead op2 i" tvg-logo="" group-title="24/7",The Walking Dead op2 i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168761.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Friends FHD i" tvg-logo="" group-title="24/7",Friends FHD i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168762.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="South Park HD 24H i" tvg-logo="" group-title="24/7",South Park HD 24H i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168763.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Años Maravillosos i" tvg-logo="" group-title="24/7",Los Años Maravillosos i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168764.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Mazingerz i" tvg-logo="" group-title="24/7",Mazingerz i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168765.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The new Looney Tunes i" tvg-logo="" group-title="24/7",The new Looney Tunes i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168766.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Don Gato y su Pandilla i" tvg-logo="" group-title="24/7",Don Gato y su Pandilla i
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168767.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The Big Bang Theory (p) op2 |24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjnJFBkm9si2Iei4H0pr-X5omAQR074NCiw&usqp=CAU" group-title="24/7",The Big Bang Theory (p) op2 |24/7
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/180823.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball Super 2 (i)|24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="24/7",Dragon Ball Super 2 (i)|24/7
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bluey (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="B- 24/7",Bluey (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279016.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bob Esponja (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="B- 24/7",Bob Esponja (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279017.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bob Esponja op2 (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="B- 24/7",Bob Esponja op2 (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279018.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball Super (i)|24/7" tvg-logo="https://w7.pngwing.com/pngs/668/707/png-transparent-dragonball-super-logo-super-dragon-ball-z-goku-gohan-majin-buu-trunks-dragon-ball-super-file-television-text-logo-thumbnail.png" group-title="D- 24/7",Dragon Ball Super (i)|24/7
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/158332.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball Super VIP i" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="D- 24/7",Dragon Ball Super VIP i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168739.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball Super 2 (i)|24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="D- 24/7",Dragon Ball Super 2 (i)|24/7
 http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181391.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball  Z freezer (i)|24/7" tvg-logo="" group-title="24/7",Dragon Ball  Z freezer (i)|24/7
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball  Z freezer (i)|24/7" tvg-logo="" group-title="D- 24/7",Dragon Ball  Z freezer (i)|24/7
 http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181392.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball (i)|24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="24/7",Dragon Ball (i)|24/7
 http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181393.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball GT (i)|24/7" tvg-logo="" group-title="24/7",Dragon Ball GT (i)|24/7
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball GT (i)|24/7" tvg-logo="" group-title="D- 24/7",Dragon Ball GT (i)|24/7
 http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181394.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Looney Toons (i)|24/7" tvg-logo="https://i.pinimg.com/originals/a6/01/6a/a6016a4613298464a7b72aeea9b2c890.png" group-title="24/7",Looney Toons (i)|24/7
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181395.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pink Panter (i)|24/7" tvg-logo="" group-title="24/7",Pink Panter (i)|24/7
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181396.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pinguinos de Madagascar (i)|24/7" tvg-logo="" group-title="24/7",Pinguinos de Madagascar (i)|24/7
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181397.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pajaro Loco (i)|24/7" tvg-logo="" group-title="24/7",Pajaro Loco (i)|24/7
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181398.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Estrenos Kung Fu Panda 4 (i)|24/7" tvg-logo="" group-title="24/7",Estrenos Kung Fu Panda 4 (i)|24/7
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181399.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Acapulco Shore (i)|24/7" tvg-logo="" group-title="24/7",Acapulco Shore (i)|24/7
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181400.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CSI Las Vegas HD 24H (i)|24/7" tvg-logo="" group-title="24/7",CSI Las Vegas HD 24H (i)|24/7
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181401.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CSI Miami HD (i)|24/7" tvg-logo="" group-title="24/7",CSI Miami HD (i)|24/7
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181402.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Chema HD (i)|24/7" tvg-logo="" group-title="24/7",El Chema HD (i)|24/7
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181403.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Tom y Jerry 24/7 (i)" tvg-logo="" group-title="24/7",Tom y Jerry 24/7 (i)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/277581.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The Big Bang Theory (p) op3 |24/7" tvg-logo="" group-title="24/7",The Big Bang Theory (p) op3 |24/7
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278246.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="La Vaca Y El Pollito (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",La Vaca Y El Pollito (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279005.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ed Edd y Eddy (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Ed Edd y Eddy (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279006.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Chavo del 8 (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",El Chavo del 8 (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279007.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Futurama (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Futurama (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279008.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Las sombrias aventuras de Billy y Mandy (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Las sombrias aventuras de Billy y Mandy (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279009.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los chicos del barrio (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Los chicos del barrio (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279010.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The new Looney Tunes (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",The new Looney Tunes (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279011.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Tom and Jerry Show (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Tom and Jerry Show (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279012.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Alf (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Alf (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279013.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Chip & Dale al rescate (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Chip & Dale al rescate (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279014.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Johnny Bravo (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Johnny Bravo (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279015.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bluey (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Bluey (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279016.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bob Esponja (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Bob Esponja (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279017.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bob Esponja op2 (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Bob Esponja op2 (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279018.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dinosaurios (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Dinosaurios (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279019.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dos Hombres y Medio (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Dos Hombres y Medio (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279021.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dr House (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Dr House (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279022.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dr House op2 (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Dr House op2 (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279023.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Dragon Ball (24/7)(P)
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="D- 24/7",Dragon Ball (24/7)(P)
 http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279024.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball Super (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Dragon Ball Super (24/7)(P)
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball Super (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="D- 24/7",Dragon Ball Super (24/7)(P)
 http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279025.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball Super op2 (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Dragon Ball Super op2 (24/7)(P)
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball Super op2 (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="D- 24/7",Dragon Ball Super op2 (24/7)(P)
 http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279026.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Chapulin Colorado (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",El Chapulin Colorado (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279027.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Increible Mundo De Gumball (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",El Increible Mundo De Gumball (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279028.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El laboratorio de Dexter (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",El laboratorio de Dexter (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279029.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Mentalista (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",El Mentalista (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279030.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Mentalista op2 (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",El Mentalista op2 (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279031.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Escandalosos (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Escandalosos (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279033.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Garfield y sus amigos (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Garfield y sus amigos (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279034.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Grizzy y los lemmings (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Grizzy y los lemmings (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279035.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los 3 chiflados (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Los 3 chiflados (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279037.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los osos Gummi (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Los osos Gummi (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279038.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Picapiedras (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Los Picapiedras (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279039.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los pinguinos de Madagascar (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Los pinguinos de Madagascar (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279040.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpsons (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Los Simpsons (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279041.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpsons op2 (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Los Simpsons op2 (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279042.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpsons op3 (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Los Simpsons op3 (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279043.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpsons op4 (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Los Simpsons op4 (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279044.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpsons op5 (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Los Simpsons op5 (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279045.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Malcolm El De En Medio (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Malcolm El De En Medio (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279046.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Mansion Foster Para Amigos Imaginarios (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Mansion Foster Para Amigos Imaginarios (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279048.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Masha y el Oso (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Masha y el Oso (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279049.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Tio Grandpa (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Tio Grandpa (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279050.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Tom Y Jerry (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="24/7",Tom Y Jerry (24/7)(P)
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279051.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ACCESO TOTAL 2" tvg-logo="" group-title="CASA DE LOS FAMOSOS",ACCESO TOTAL 2
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168715.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Futurama HD i" tvg-logo="https://w7.pngwing.com/pngs/995/853/png-transparent-futurama-worlds-of-tomorrow-philip-j-fry-bender-futurama-season-2-the-lesser-of-two-evils-futurama-heroes-cartoon-fictional-character-thumbnail.png" group-title="E- 24/7",Futurama HD i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168750.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Friends FHD i" tvg-logo="" group-title="E- 24/7",Friends FHD i
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168762.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Futurama (24/7)(P)" tvg-logo="https://btv.mx/posters/1721646803429.png" group-title="E- 24/7",Futurama (24/7)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279008.m3u8
