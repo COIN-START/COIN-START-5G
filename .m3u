@@ -192,12 +192,11 @@ http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7X3hEKUkNMW
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GOLDEN PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN PLUS
 http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000560&type=stream.m3u8?start=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GOLDEN PREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN PREMIER
-http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1xv1Gu1FBQ2GxfS0yPsS6Ye/.m3u8&type=stream.m3u8
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/158784.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DE PELICULA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16288_dark_360w_270h.png" group-title="F- CINE Y SERIES",DE PELICULA
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/77
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278456.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DE PELICULA PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png" group-title="F- CINE Y SERIES",DE PELICULA PLUS
-http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1zddx6Q9_WF9dFeze83R9-g/.m3u8&type=stream.m3u8
-
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278457.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bandamax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18101_dark_360w_270h.png" group-title="G- Musica",Bandamax
 http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000404&type=stream.m3u8?start=-1
