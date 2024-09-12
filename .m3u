@@ -195,52 +195,39 @@ http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278456.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DE PELICULA PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png" group-title="F- CINE Y SERIES",DE PELICULA PLUS
 http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278457.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bandamax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18101_dark_360w_270h.png" group-title="G- Musica",Bandamax
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000404&type=stream.m3u8?start=-1
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Canal de la Musica" tvg-logo="http://x.playerlatino.live/canaldelamusica.png" group-title="G- Musica",Canal de la Musica
-https://bgtv.xyz/play/play-900.php?ul=962&token=asdasfasdda
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Djing Ibiza" tvg-logo="http://x.playerlatino.live/djing.png" group-title="G- Musica",Djing Ibiza
-https://bgtv.xyz/play/play-900.php?ul=277&token=asdasfasdda
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Hit TV" tvg-logo="http://x.playerlatino.live/hittv.png" group-title="G- Musica",Hit TV
-https://bgtv.xyz/play/play-900.php?ul=201&token=asdasfasdda
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15969_dark_360w_270h.png" group-title="G- Musica",HTV
-http://bgtv.xyz/play/play-900.php?ul=66&token=asdasfasdda
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="G- Musica",MTV
-http://bgtv.xyz/play/play-900.php?ul=69&token=asdasfasdda
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MTV Live" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66419_dark_360w_270h.png" group-title="G- Musica",MTV Live
-https://bgtv.xyz/play/play-900.php?ul=70&token=asdasfasdda
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MTV Sur" tvg-logo="http://x.playerlatino.live/mtv.png" group-title="G- Musica",MTV Sur
-http://bgtv.xyz/play/play-900.php?ul=823&token=asdasfasdda
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MTV WW" tvg-logo="http://x.playerlatino.live/mtv.png" group-title="G- Musica",MTV WW
-http://bgtv.xyz/play/play-900.php?ul=954&token=asdasfasdda
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Much Music" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72139_dark_360w_270h.png" group-title="G- Musica",Much Music
-http://bgtv.xyz/play/play-900.php?ul=950&token=asdasfasdda
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Music Now" tvg-logo="http://x.playerlatino.live/play.png" group-title="G- Musica",Music Now
-http://bgtv.xyz/play/play-900.php?ul=690&token=asdasfasdda
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Music Top" tvg-logo="http://x.playerlatino.live/musictop.png" group-title="G- Musica",Music Top
-http://bgtv.xyz/play/play-900.php?ul=691&token=asdasfasdda
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Quiero Musica" tvg-logo="http://x.playerlatino.live/quieromusica.png" group-title="G- Musica",Quiero Musica
-http://bgtv.xyz/play/play-900.php?ul=958&token=asdasfasdda
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Retro Music" tvg-logo="http://x.playerlatino.live/retromusic.png" group-title="G- Musica",Retro Music
-http://bgtv.xyz/play/play-900.php?ul=692&token=asdasfasdda
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ritmoson Latino" tvg-logo="http://x.playerlatino.live/ritmoson.png" group-title="G- Musica",Ritmoson Latino
-http://bgtv.xyz/play/play-900.php?ul=154&token=asdasfasdda
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Telehit" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15211_dark_360w_270h.png" group-title="G- Musica",Telehit
-http://bgtv.xyz/play/play-900.php?ul=91&token=asdasfasdda
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TLR (Teleritmo)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32749_dark_360w_270h.png" group-title="G- Musica",TLR (Teleritmo)
-http://bgtv.xyz/play/play-900.php?ul=299&token=asdasfasdda
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Tu Musica HD" tvg-logo="http://x.playerlatino.live/tumusicahd.png" group-title="G- Musica",Tu Musica HD
-http://bgtv.xyz/play/play-900.php?ul=516&token=asdasfasdda
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s42567_dark_360w_270h.png" group-title="G- Musica",VH1
-http://bgtv.xyz/play/play-900.php?ul=101&token=asdasfasdda
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Video Rola" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25615_dark_360w_270h.png" group-title="G- Musica",Video Rola
-http://bgtv.xyz/play/play-900.php?ul=359&token=asdasfasdda
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Videos: 1Music" tvg-logo="http://x.playerlatino.live/play.png" group-title="G- Musica",Videos: 1Music
-http://bgtv.xyz/play/play-900.php?ul=433&token=asdasfasdda
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Videos: Company Radio TV" tvg-logo="http://x.playerlatino.live/play.png" group-title="G- Musica",Videos: Company Radio TV
-http://bgtv.xyz/play/play-900.php?ul=435&token=asdasfasdda
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Videos: Dream TV" tvg-logo="http://x.playerlatino.live/play.png" group-title="G- Musica",Videos: Dream TV
-http://bgtv.xyz/play/play-900.php?ul=439&token=asdasfasdda
+#EXTINF:-1 tvg-id="" tvg-name="TELERITMO (MX)(P)" tvg-logo="" group-title="Musica",TELERITMO (MX)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV (MX)(P)" tvg-logo="" group-title="Musica",MTV (MX)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS (MX)(P)" tvg-logo="" group-title="Musica",MTV HITS (MX)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BANDAMAX (MX)(P)" tvg-logo="https://btv.mx/posters/1724880919544.png" group-title="Musica",BANDAMAX (MX)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BANDAMAX HD (MX)(P)" tvg-logo="https://btv.mx/posters/1724880919544.png" group-title="Musica",BANDAMAX HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BANDAMAX LQ (MX)(P)" tvg-logo="https://btv.mx/posters/1724880919544.png" group-title="Musica",BANDAMAX LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXA TV (MX)(P)" tvg-logo="" group-title="Musica",EXA TV (MX)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00'S (MX)(P)" tvg-logo="" group-title="Musica",MTV 00'S (MX)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE (MX)(P)" tvg-logo="" group-title="Musica",MTV LIVE (MX)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD (MX)(P)" tvg-logo="" group-title="Musica",MTV LIVE HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE LQ (MX)(P)" tvg-logo="" group-title="Musica",MTV LIVE LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV LQ (MX)(P)" tvg-logo="" group-title="Musica",MTV LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEHIT PLUS HD (MX)(P)" tvg-logo="" group-title="Musica",TELEHIT PLUS HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278612.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEHIT URBANO (MX)(P)" tvg-logo="" group-title="Musica",TELEHIT URBANO (MX)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEHIT PLUS LQ (MX)(P)" tvg-logo="" group-title="Musica",TELEHIT PLUS LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEHIT PLUS (MX)(P)" tvg-logo="" group-title="Musica",TELEHIT PLUS (MX)(P)
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278615.m3u8
+
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="H- DEPORTES",ESPN
