@@ -131,7 +131,8 @@ http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278495.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO MUNDI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="E- PREMIUM",HBO MUNDI
 http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278500.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="E- PREMIUM",HBO PLUS
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278489.m3u8
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278490.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO POP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="E- PREMIUM",HBO POP
 http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278502.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO SIGNATURE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="E- PREMIUM",HBO SIGNATURE
