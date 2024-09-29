@@ -23,8 +23,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?=-1
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8?=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5
 http://cdn1host.online:2999/live/happy2024/newyear/1457.m3u8?=-1?start=-1
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5
-http://ch16.zomo.fyi/auth/410173.m3u8?token=Nd4zh5fIrGjMpWiJ3rTBNLd6HBJuj3I93O6e9JbVCtRp1b5rhWnsssyfmRJZk6bgSR7Dj5x10gCpfZ6VNTAH4ke7X3BBbmH3zCVf6yEO2uKRKg8BQoGIZTxdVidWh1VpVWHY_6s_RqIeAA2VLdkmji25qtnaaLBFA1ogaY-MNg9Bv3K-N8ERDRUZ8JokP2vDXd744Z0_MzaInyfXP1yIz2smv7EwPjgd5EM6CfI1v3MA_l44uG1scPcaCBzHHCJ-7RTbxEg2yy1E-rMoaxYkKrKd2HWmPTVcMExM-F3HiZecdtiEfdvlku7jkByngpKryMTgtLSaZw0ARyG26ER_AWaQMq7fH55oolAkMkK5CAqxoNHELYnCtCArdAfW0k9vOfgXoxUPTBSg0L0j80UU8H9vSbW1JEsq8JING3oK7VQkFw1HfJyMJ3DCxVigspnD24a6BSJtgfcgfAfNuiSoSUrTzH4TwMzVAvABsZOhQxg3G-K1OIX5XipBeTSYulUIdDqXH7PyjqRAJlFs_pjred7UdoA4UifMii0H2PmLY3mGsk33v3Z6_FzMeifoCxrdr_QMfiqoCxDme3aW8q2_wk__5mhOrKECq3MmcaNmR1d_qP9pa0SojWmKHupiVHjw
+
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZTECA 7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="A- TV MX",AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8?=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESTRELLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/509px-Estrella_TV_Logo_2020.png?20210701011117" group-title="A- TV MX",ESTRELLA TV
