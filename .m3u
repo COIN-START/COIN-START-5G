@@ -158,39 +158,39 @@ http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&passwo
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SONY MOVIE" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SonyMovies.png" group-title="F- CINE Y SERIES",SONY MOVIE
 http://bantel.iptvperu.tv:1935/cdnnjf/sonymovies/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="F- CINE Y SERIES",UNIVERSAL HD
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=118extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=118&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="F- CINE Y SERIES",STUDIO UNIVERSAL
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=86extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=86&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="WARNER HD" tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png" group-title="F- CINE Y SERIES",WARNER HD
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=17extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=17&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="F- CINE Y SERIES",TNT
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=74extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=74&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TNT SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="F- CINE Y SERIES",TNT SERIES
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=33extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=33&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SPACE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="F- CINE Y SERIES",SPACE
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=79extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=79&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="F- CINE Y SERIES",A&E
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=20extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=20&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="F- CINE Y SERIES",AMC
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=78extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=78&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PARAMOUNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="F- CINE Y SERIES",PARAMOUNT
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1166extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1166&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="F- CINE Y SERIES",CINEMAX
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=82extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=82&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CINECANAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="F- CINE Y SERIES",CINECANAL
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=73extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=73&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GOLDEN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1624extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1624&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GOLDEN EDGE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN EDGE
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=84extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=84&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GOLDEN PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN PLUS
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=75extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=75&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GOLDEN PREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN PREMIER
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=83extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=83&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DE PELICULA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16288_dark_360w_270h.png" group-title="F- CINE Y SERIES",DE PELICULA
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=85extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=85&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DE PELICULA PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png" group-title="F- CINE Y SERIES",DE PELICULA PLUS
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1699extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1699&extension=m3u8
 
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="BANDAMAX (MX)(P)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18101_dark_360w_270h.png" group-title="Musica",BANDAMAX (MX)(P)
 http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278603.m3u8?=-1
@@ -228,19 +228,19 @@ http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278615.m3u8?=-1
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="H- DEPORTES",ESPN
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=97extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=97&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="H- DEPORTES",ESPN 2
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1456extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1456&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="H- DEPORTES",ESPN 3
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=91extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=91&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="H- DEPORTES",Fox Sports
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=92extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=92&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66365_dark_360w_270h.png" group-title="H- DEPORTES",Fox Sports 2
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=93extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=93&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Fox Sports 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105006_dark_360w_270h.png" group-title="H- DEPORTES",Fox Sports 3
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=100extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=100&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX SPORTS PREMIUM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123582_dark_360w_270h.png" group-title="H- DEPORTES",FOX SPORTS PREMIUM
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=992extension=m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=992&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="H- DEPORTES",TUDN
 http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgDG71-pUg4PfQgdh6tIYac2/.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TUDN USA" tvg-logo="http://x.playerlatino.live/tudn.png" group-title="H- DEPORTES",TUDN USA
