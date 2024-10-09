@@ -1,50 +1,107 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.8093c4913f46b6a7c9fbfd7442dc2002?rik=XMJVNX3hGLWAFg&riu=http%3a%2f%2ffanart.tv%2ffanart%2ftv%2f78020%2fhdclearart%2falf-5835b6ec28f6e.png&ehk=DpWgKU8dyXY53wBZMaQ9FaZupb3KO4yp8oG6Y0MDy%2f4%3d&risl=&pid=ImgRaw&r=0" group-title="24/7 HRS",ALF
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279013.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/lucian-films-thirteenth-deluxe-edition/images/6/64/SpongeBob_SquarePants_logo_wordmark.png" group-title="24/7 HRS",BOB SPONGE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" group-title="24/7 HRS",EL CHAVO DEL OCHO
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/35023.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/480px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="24/7 HRS",CHAPULIN COLORADO
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168747.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/906/385/png-transparent-hugh-laurie-dr-gregory-house-pilot-house-television-text-logo-thumbnail.png" group-title="24/7 HRS",Dr House
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279022.m3u8
-#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/futurama/futurama_PNG26.png" group-title="24/7 HRS",FUTURAMA
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168750.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/johnny-bravo-2-logo-png-transparent.png" group-title="24/7 HRS",Johnny Bravo
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279015.m3u8
-#EXTINF:-1 tvg-logo="https://miro.medium.com/max/1380/1*5FDqv_Jqlk___XP0eFZptQ.png" group-title="24/7 HRS",DINOSAURIOS
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279019.m3u8
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/small/122-1224325_la-vaca-y-el-pollito-vaca-eo-frango-desenho.png" group-title="24/7 HRS",La Vaca Y El Pollito
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279005.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/412/400/png-transparent-dexter-s-laboratory-logo-cartoons-dexter-s-laboratory-thumbnail.png" group-title="24/7 HRS",El laboratorio de Dexters
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279029.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/marvelmovies/images/e/ed/Marvel_Studios_2016_Transparent_Logo.png" group-title="24/7 HRS",24/7 MARVEL
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168728.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZnwLln5.png" group-title="24/7 HRS",DRAGON BALL
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181393.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e3/46/83/e34683b61a49dfd0974b73821de6a339.png" group-title="24/7 HRS",DRAGON BALL Z
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181392.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dragon_Ball_GT_logo.png/1280px-Dragon_Ball_GT_logo.png" group-title="24/7 HRS",DRAGON BALL GT
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/181394.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="24/7 HRS",DRAGON BALL SUPER
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/168739.m3u8
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/4f/4f0ca4a99c82adc701d1c18856708d3a.png" group-title="24/7 HRS",NARUTO
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=eba192f4-cd23-11eb-9091-0242ac110002&sid=eba192f4-cd23-11eb-9091-0242ac110002&userId=
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/984/727/png-transparent-happy-feet-penguins-madagascar-charming-villain-film-dreamworks-animation-madagascar-penguins-heroes-bird-product-thumbnail.png" group-title="24/7 HRS",Los pinguinos de Madagascar
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279040.m3u8
-#EXTINF:-1 tvg-logo="https://i.kym-cdn.com/photos/images/facebook/001/018/269/b21.png" group-title="24/7 HRS",THE THEORY OF BIG BANG
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/158384.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1024px-Logo_The_Simpsons.svg.png" group-title="24/7 HRS",LOS SIMPSON
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279041.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1024px-Logo_The_Simpsons.svg.png" group-title="24/7 HRS",Los Simpsons op2 
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279042.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1024px-Logo_The_Simpsons.svg.png" group-title="24/7 HRS",Los Simpsons op3 
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279043.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1024px-Logo_The_Simpsons.svg.png" group-title="24/7 HRS",Los Simpsons op4 
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279044.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1024px-Logo_The_Simpsons.svg.png" group-title="24/7 HRS",Los Simpsons op5 
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/279045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chavo del Ocho  II " tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",Chavo del Ocho  II 
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138442
+#EXTINF:-1 tvg-id="" tvg-name="Cinema BATMAN" tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",Cinema BATMAN
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138443
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Chavo del Ocho 8" tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",24/7 | Chavo del Ocho 8
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138444
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",Dragon Ball GT
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138445
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT #2" tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",Dragon Ball GT #2
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138446
+#EXTINF:-1 tvg-id="" tvg-name="Cinema John Wick" tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",Cinema John Wick
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138448
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Harry Potter" tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",Cinema Harry Potter
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138449
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Toy Story" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Toy_Story_logo.svg/300px-Toy_Story_logo.svg.png" group-title="Canales 24/7⭐️Solo diversión",Cinema Toy Story
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138450
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Infantil Disney Pixar #2" tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",Cinema Infantil Disney Pixar #2
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138451
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de Mickey Mouse HD" tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",La Casa de Mickey Mouse HD
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138452
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Terror Movies" tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",Cinema Terror Movies
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138453
+#EXTINF:-1 tvg-id="" tvg-name="Cinema ROMÁNTICO FHD" tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",Cinema ROMÁNTICO FHD
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138454
+#EXTINF:-1 tvg-id="" tvg-name="Cinema: GRAVITY FALLS" tvg-logo="https://img1.freepng.es/20180410/xeq/kisspng-logo-t-shirt-television-show-font-false-5acd409768a910.6098835415234008554287.jpg" group-title="Canales 24/7⭐️Solo diversión",Cinema: GRAVITY FALLS
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138455
+#EXTINF:-1 tvg-id="" tvg-name="Cinema: GASPARIN Y SUS AMIGOS" tvg-logo="https://img2.freepng.es/20180609/bfb/kisspng-casper-ghostly-trio-film-dreamworks-classics-casper-adventist-church-5b1ba7d5999760.0584398815285390936291.jpg" group-title="Canales 24/7⭐️Solo diversión",Cinema: GASPARIN Y SUS AMIGOS
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138456
+#EXTINF:-1 tvg-id="" tvg-name="Cinema: MALCOM  IN THE MIDDLE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/40y20showlogo.png" group-title="Canales 24/7⭐️Solo diversión",Cinema: MALCOM  IN THE MIDDLE
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138457
+#EXTINF:-1 tvg-id="" tvg-name="El Club de la Comedia HD (Solo Risas)" tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",El Club de la Comedia HD (Solo Risas)
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138459
+#EXTINF:-1 tvg-id="" tvg-name="Cinema:  Spiderman" tvg-logo="https://toppng.com//public/uploads/preview/eon-genesis-evangelion-logo-neon-genesis-evangelion-logo-11562857410famyonzk7h.png" group-title="Canales 24/7⭐️Solo diversión",Cinema:  Spiderman
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138460
+#EXTINF:-1 tvg-id="" tvg-name="Cinema:  LA ROSA DE GUADALUPE" tvg-logo="https://spng.pngfind.com/pngs/s/282-2822848_la-rosa-de-guadalupe-netflix-crocodile-hd-png.png" group-title="Canales 24/7⭐️Solo diversión",Cinema:  LA ROSA DE GUADALUPE
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138461
+#EXTINF:-1 tvg-id="" tvg-name="Cinema: MARVEL" tvg-logo="https://www.pngfind.com/pngs/m/554-5547259_name-iron-man-tony-stark-ironman-name-hd.png" group-title="Canales 24/7⭐️Solo diversión",Cinema: MARVEL
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138462
+#EXTINF:-1 tvg-id="" tvg-name="Cinema: JUNTOS UHD" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="Canales 24/7⭐️Solo diversión",Cinema: JUNTOS UHD
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138463
+#EXTINF:-1 tvg-id="" tvg-name="Cinema:  Live Action HD" tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",Cinema:  Live Action HD
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138464
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Classics" tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",Cinema Disney Classics
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138465
+#EXTINF:-1 tvg-id="" tvg-name="Cine Marvel Cronológico FHD" tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",Cine Marvel Cronológico FHD
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138467
+#EXTINF:-1 tvg-id="" tvg-name="Cinema: TOP CINE UHD" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="Canales 24/7⭐️Solo diversión",Cinema: TOP CINE UHD
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138468
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PELÍCULAS DE ACCIÓN 2" tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",24/7 PELÍCULAS DE ACCIÓN 2
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138469
+#EXTINF:-1 tvg-id="" tvg-name="Cinema:  CINE SONY UHD" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="Canales 24/7⭐️Solo diversión",Cinema:  CINE SONY UHD
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138470
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Acción UHD" tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",Cinema Acción UHD
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138471
+#EXTINF:-1 tvg-id="" tvg-name="Cinema El coyote y el Correcaminos " tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",Cinema El coyote y el Correcaminos 
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138472
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | NCIS: Los Angeles HD " tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",24/7 | NCIS: Los Angeles HD 
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138474
+#EXTINF:-1 tvg-id="" tvg-name="Cinema:  CINE REAL UHD" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="Canales 24/7⭐️Solo diversión",Cinema:  CINE REAL UHD
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138475
+#EXTINF:-1 tvg-id="" tvg-name="Cinema: TU CINE UHD" tvg-logo="https://tucinecritico.com/wp-content/uploads/2021/03/LogoNegro_Mesa-de-trabajo-1.jpg" group-title="Canales 24/7⭐️Solo diversión",Cinema: TU CINE UHD
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138476
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Películas Acción" tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",Cinema Películas Acción
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138477
+#EXTINF:-1 tvg-id="" tvg-name="Cinema WESTERN HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/1200px-Starz_Encore_Westerns_Logo_2022.svg.png" group-title="Canales 24/7⭐️Solo diversión",Cinema WESTERN HD 
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138478
+#EXTINF:-1 tvg-id="" tvg-name="Cinema PADRE DE FAMILIA" tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",Cinema PADRE DE FAMILIA
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138479
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Ciencia Ficción" tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",Cinema Ciencia Ficción
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138481
+#EXTINF:-1 tvg-id="" tvg-name="Cinema PPV ESTRENOS 2 " tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",Cinema PPV ESTRENOS 2 
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138482
+#EXTINF:-1 tvg-id="" tvg-name="Cinema HITS UHD" tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",Cinema HITS UHD
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138483
+#EXTINF:-1 tvg-id="" tvg-name="Cinema M. Acción UHD" tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",Cinema M. Acción UHD
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138484
+#EXTINF:-1 tvg-id="" tvg-name="Cinema ESTRENOS Movistar UHD" tvg-logo="" group-title="Canales 24/7⭐️Solo diversión",Cinema ESTRENOS Movistar UHD
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/138485
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Peppa Pig FHD" tvg-logo="https://as01.epimg.net/meristation/imagenes/2021/05/24/videos/1621837794_049380_1621837848_portada_normal.jpg" group-title="Canales 24/7⭐️Solo diversión",24/7 | Peppa Pig FHD
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/140377
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BEN 10 FUERZA ALIENIGENA HD " tvg-logo="https://2.bp.blogspot.com/-TzCqFw6xpDQ/V_PWw-VyJJI/AAAAAAAAAX8/av8KfBKc2_gXuISVbL9ny6T_niOLtskxQCEw/s1600/prop_nav_slice_ben10af.png" group-title="Canales 24/7⭐️Solo diversión",24/7 | BEN 10 FUERZA ALIENIGENA HD 
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/140842
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BEN 10 HD" tvg-logo="https://e7.pngegg.com/pngimages/597/703/png-clipart-ben-10-animated-series-storyboard-others-miscellaneous-reading.png" group-title="Canales 24/7⭐️Solo diversión",24/7 | BEN 10 HD
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/140843
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BIRDMAN " tvg-logo="https://img2.freepng.es/20190523/lau/kisspng-harvey-birdman-animated-cartoon-hanna-barbera-comi-avenger-sitting-on-birdmans-arm-5ce63b74832244.6602266615585923725371.jpg" group-title="Canales 24/7⭐️Solo diversión",24/7 | BIRDMAN 
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/140844
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAPULÍN COLORADO ANIMADO" tvg-logo="https://www.clipartmax.com/png/middle/164-1644538_el-chapulin-colorado-chapulin-colorado-en-png.png" group-title="Canales 24/7⭐️Solo diversión",24/7 | EL CHAPULÍN COLORADO ANIMADO
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/140845
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DOCUMENTALES Animal World 4K" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/d/df/Canal_Documentary_1993.png" group-title="Canales 24/7⭐️Solo diversión",24/7 | DOCUMENTALES Animal World 4K
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/140846
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Daremound" tvg-logo="https://toppng.com/uploads/preview/dick-tracy-vector-logo-free-download-11574190303yfzhlq6drg.png" group-title="Canales 24/7⭐️Solo diversión",24/7 | Daremound
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/140847
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DIGIMON ADVENTURE " tvg-logo="https://w7.pngwing.com/pngs/732/616/png-transparent-logo-agumon-palmon-digimon-adventure-tri-digimon-game-text-logo.png" group-title="Canales 24/7⭐️Solo diversión",24/7 | DIGIMON ADVENTURE 
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/140848
+#EXTINF:-1 tvg-id="8335" tvg-name="Nᵒᵛᵉˡᵃˢ Hᴰ | UNIVISION TELENOVELAS" tvg-logo="" group-title="Canales de Novelas⭐️",Nᵒᵛᵉˡᵃˢ Hᴰ | UNIVISION TELENOVELAS
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/140866
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | AFV HOME HD " tvg-logo="http://cdn.teleon.tv/logo/afv-espanol-us.png" group-title="Canales 24/7⭐️Solo diversión",24/7 | AFV HOME HD 
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/140867
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Danny Phantom" tvg-logo="https://static3.srcdn.com/wordpress/wp-content/uploads/2021/07/danny-phantom-show-nickelodeon.jpg?q=50&fit=crop&w=960&h=500&dpr=1.5" group-title="Canales 24/7⭐️Solo diversión",24/7 | Danny Phantom
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/145826
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cars Disney" tvg-logo="https://i.ytimg.com/vi/bTn6qZ8709Q/maxresdefault.jpg" group-title="Canales 24/7⭐️Solo diversión",24/7 | Cars Disney
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/145899
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Kenan y Kel" tvg-logo="https://www.vibe.com/wp-content/uploads/2016/07/kenankel-opening1.jpg?w=640" group-title="Canales 24/7⭐️Solo diversión",24/7 | Kenan y Kel
+http://latintvplus.com:8000/Lapsus0OO22x1x/03987ClI1119mx22x/145900
 #EXTINF:-1 tvg-logo="https://www.malcolminthemiddle.co.uk/wp-content/uploads/2019/04/Logo.png" group-title="24/7 HRS",MALCOLM EL DE EN MEDIO
 http://2.magmas5.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=138457&extension=ts
