@@ -49,7 +49,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TLNOVELAS" tvg-logo="https://x.playerlatino.live/tlnovelas.png" group-title="B- NOVELAS",TLNOVELAS
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=40&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PASIONES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png" group-title="B- NOVELAS",PASIONES
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/263522.ts
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/1468.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEMUNDO FLORIDA USA" tvg-logo="https://btv.mx/posters/1720842845264.png" group-title="B- NOVELAS",TELEMUNDO FLORIDA USA
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8?=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEMUNDO" tvg-logo="https://btv.mx/posters/1720842845264.png" group-title="B- NOVELAS",TELEMUNDO 
@@ -57,11 +57,11 @@ http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&passwo
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png" group-title="B- NOVELAS",TELEMUNDO INTERNACIONAL
 http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/1504.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNICABLE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png" group-title="B- NOVELAS",UNICABLE
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278445.m3u8?=-1
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=24&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZ CORAZÓN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" group-title="B- NOVELAS",AZ CORAZÓN
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/158612.m3u8?=-1
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=29&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GLITZ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61514_dark_360w_270h.png" group-title="B- NOVELAS",GLITZ
-https://tvfullprime.site:443/Geovanny22/qR4DDA4ZQYgE/190736.ts&type=stream.m3u8?=-1?start=-1
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=36&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY SCIENCE
