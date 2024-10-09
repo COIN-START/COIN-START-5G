@@ -245,15 +245,4 @@ http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&passwo
 http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgDG71-pUg4PfQgdh6tIYac2/.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TUDN USA" tvg-logo="http://x.playerlatino.live/tudn.png" group-title="H- DEPORTES",TUDN USA
 http://190.185.121.102:58092/play/a00m
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CLARO SPORTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="H- DEPORTES",CLARO SPORTS
-http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1xOq7qoMtCDdDqkahwmPPB9/.m3u8?=-1&type=stream.m3u8?=-1
-#EXTINF:-1 tvg-id="ClaroSports.mx(m3u4u)" tvg-name="CLARO SPORTS 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="H- DEPORTES",CLARO SPORTS 2
-https://dai.google.com/linear/hls/event/erhZGvvqQdmR8xTfFO3MZw/master.m3u8?=-1
-#EXTINF:-1 tvg-id="ClaroSports.mx(m3u4u)" tvg-name="CLARO SPORTS 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="H- DEPORTES",CLARO SPORTS 4
-https://dai.google.com/linear/hls/event/UDhGuB7fSvuKDebY72_m_Q/master.m3u8?=-1
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="H- DEPORTES",NBA TV
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000032&type=stream.m3u8?=-1?start=-1
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MLB NETWORK" tvg-logo="https://img.mlbstatic.com/mlb-images/image/private/t_w372/mlb/th6vhnyqopc1hoqwym7q.jpg" group-title="H- DEPORTES",MLB NETWORK
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000228&type=stream.m3u8?=-1?start=-1
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NFL NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45399_dark_360w_270h.png" group-title="H- DEPORTES",NFL NETWORK
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000263&type=stream.m3u8?=-1?start=-1
+
