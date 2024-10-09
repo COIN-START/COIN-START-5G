@@ -115,38 +115,34 @@ http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&passwo
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="E- PREMIUM",HBO HD
 http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgC6fFV-A2dSvpQ8Bq-aG9U9/.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="E- PREMIUM",HBO2
-http://br055.shop:8880/live/1uzBQuF2FQ/jtFm50oNx0/428.m3u8?=-1
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="E- PREMIUM",HBO2
-http://cdn1host.online:2999/happy2024/newyear/121
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=121&extension=m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO FAMILY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="E- PREMIUM",HBO FAMILY
-http://br055.shop:8880/live/1uzBQuF2FQ/jtFm50oNx0/425.m3u8?=-1
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO FAMILY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="E- PREMIUM",HBO FAMILY
-http://cdn1host.online:2999/happy2024/newyear/119
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=119&extension=m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO MUNDI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="E- PREMIUM",HBO MUNDI
-http://br055.shop:8880/live/1uzBQuF2FQ/jtFm50oNx0/421.m3u8?=-1
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO MUNDI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="E- PREMIUM",HBO MUNDI
-http://cdn1host.online:2999/happy2024/newyear/1628
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1628&extension=m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="E- PREMIUM",HBO PLUS
-http://br055.shop:8880/live/1uzBQuF2FQ/jtFm50oNx0/424.m3u8?=-1
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="E- PREMIUM",HBO PLUS
-http://cdn1host.online:2999/happy2024/newyear/610
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=610&extension=m3u8
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO POP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="E- PREMIUM",HBO POP
-http://br055.shop:8880/live/1uzBQuF2FQ/jtFm50oNx0/420.m3u8?=-1
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=117&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO SIGNATURE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="E- PREMIUM",HBO SIGNATURE
-http://br055.shop:8880/live/1uzBQuF2FQ/jtFm50oNx0/422.m3u8?=-1
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=118&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="E- PREMIUM",HBO XTREME
-http://br055.shop:8880/live/1uzBQuF2FQ/jtFm50oNx0/419.m3u8?=-1
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=298&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNIVERSAL CINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL CINEMA
-http://br055.shop:8880/live/1uzBQuF2FQ/jtFm50oNx0/18643.m3u8?=-1
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1662&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNIVERSAL COMEDY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL COMEDY
-http://br055.shop:8880/live/1uzBQuF2FQ/jtFm50oNx0/449.m3u8?=-1
+http://br055.shop:8880/streaming/clients_live.php?username=1uzBQuF2FQ&password=jtFm50oNx0&stream=449extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNIVERSAL CRIME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121868_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL CRIME
-http://br055.shop:8880/live/1uzBQuF2FQ/jtFm50oNx0/450.m3u8?=-1
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1663&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNIVERSAL PREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL PREMIER
-http://br055.shop:8880/live/1uzBQuF2FQ/jtFm50oNx0/393.m3u8?=-1
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1661&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNIVERSAL REALITY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121867_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL REALITY
-http://br055.shop:8880/live/1uzBQuF2FQ/jtFm50oNx0/451.m3u8?=-1
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1664&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISTRITO COMEDIA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55980_dark_360w_270h.png" group-title="F- CINE Y SERIES",DISTRITO COMEDIA
