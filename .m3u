@@ -49,7 +49,8 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TLNOVELAS" tvg-logo="https://x.playerlatino.live/tlnovelas.png" group-title="B- NOVELAS",TLNOVELAS
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=40&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PASIONES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png" group-title="B- NOVELAS",PASIONES
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278436.m3u8?=-1
+http://x9.cdn.latincdn.net:25461/streaming/clients_live.php?username=mwtv012020&password=1d13dwqef34t2oOasxc3!~~2&stream=306&extension=m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEMUNDO FLORIDA USA" tvg-logo="https://btv.mx/posters/1720842845264.png" group-title="B- NOVELAS",TELEMUNDO FLORIDA USA
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8?=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEMUNDO" tvg-logo="https://btv.mx/posters/1720842845264.png" group-title="B- NOVELAS",TELEMUNDO 
@@ -159,7 +160,7 @@ http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgAkizbPLp7v
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FX HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" group-title="F- CINE Y SERIES",FX HD
 http://br055.shop:8880/live/1uzBQuF2FQ/jtFm50oNx0/440.m3u8?=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="F- CINE Y SERIES",SONY CHANNEL
-http://br055.shop:8880/live/1uzBQuF2FQ/jtFm50oNx0/411.m3u8?=-1
+http://bantel.iptvperu.tv:1935/cdnnjf/sonymovies/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="F- CINE Y SERIES",UNIVERSAL HD
 http://br055.shop:8880/live/1uzBQuF2FQ/jtFm50oNx0/394.m3u8?=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="F- CINE Y SERIES",STUDIO UNIVERSAL
