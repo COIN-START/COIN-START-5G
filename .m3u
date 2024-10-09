@@ -21,7 +21,7 @@ https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZ CINEMA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" group-title="A- TV MX",AZ CINEMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NE9VE" tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="A- TV MX",NE9VE
-http://offshore.lat:8080/streaming/clients_live.php?username=changeESUS@&password=7QcXgwrCWfYv&stream=230603&extension=m3u8
+http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/230603.m3u8?=-1
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FORO TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66635_dark_360w_270h.png" group-title="A- TV MX",FORO TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e35aff6b1fdb0008ea8441livestitch/master.m3u8?=-1?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
