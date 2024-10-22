@@ -155,5 +155,53 @@ http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/389809.m3u8
 http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/389810.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24h | Disney Movies" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaVAzzY84SZ6dPMybtfFYE7erauspsZDf33rAcgjDpBQPnUcLRKNgiQW80VWCgfs2Q.png" group-title="F",24h | Disney Movies
 http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/389811.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.8093c4913f46b6a7c9fbfd7442dc2002?rik=XMJVNX3hGLWAFg&riu=http%3a%2f%2ffanart.tv%2ffanart%2ftv%2f78020%2fhdclearart%2falf-5835b6ec28f6e.png&ehk=DpWgKU8dyXY53wBZMaQ9FaZupb3KO4yp8oG6Y0MDy%2f4%3d&risl=&pid=ImgRaw&r=0" group-title="24/7 HRS",ALF
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/744
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/animaniacs/images/d/d9/Animaniacs_%285%29.png" group-title="24/7 HRS",ANIMANIACS
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/333
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/lucian-films-thirteenth-deluxe-edition/images/6/64/SpongeBob_SquarePants_logo_wordmark.png" group-title="24/7 HRS",BOB SPONGE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+#EXTINF:-1 tvg-logo="https://www.vippng.com/png/full/201-2013595_el-chavo-el-chavo-del-8-letra.png" group-title="24/7 HRS",EL CHAVO DEL OCHO
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/11527.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/480px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="24/7 HRS",CHAPULIN COLORADO
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/338
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0f/50/36/0f5036f3966e6bb4fc610c4a7342869b.png" group-title="24/7 HRS",CORRECAMINOS
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/248674.ts
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/futurama/futurama_PNG26.png" group-title="24/7 HRS",FUTURAMA
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/346235.ts
+#EXTINF:-1 tvg-logo="https://i2.wp.com/formby.es/wp-content/uploads/2014/05/pinkpantherlogo.png" group-title="24/7 HRS",PANTERA ROSA
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/248612.ts
+#EXTINF:-1 tvg-logo="https://miro.medium.com/max/1380/1*5FDqv_Jqlk___XP0eFZptQ.png" group-title="24/7 HRS",DINOSAURIOS
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/208584.ts
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-DreamWorks-1.png" group-title="24/7 HRS",24/7 DREAMWORKS
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/297294.ts
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/08/Pixar-symbol-500x155.jpg" group-title="24/7 HRS",24/7 DISNEY PIXAR
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/297289.ts
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/marvelmovies/images/e/ed/Marvel_Studios_2016_Transparent_Logo.png" group-title="24/7 HRS",24/7 MARVEL
+http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/177987
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZnwLln5.png" group-title="24/7 HRS",DRAGON BALL
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/263253.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e3/46/83/e34683b61a49dfd0974b73821de6a339.png" group-title="24/7 HRS",DRAGON BALL Z
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/287642.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dragon_Ball_GT_logo.png/1280px-Dragon_Ball_GT_logo.png" group-title="24/7 HRS",DRAGON BALL GT
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/783
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="24/7 HRS",DRAGON BALL SUPER
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/438.ts
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/4f/4f0ca4a99c82adc701d1c18856708d3a.png" group-title="24/7 HRS",NARUTO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=eba192f4-cd23-11eb-9091-0242ac110002&sid=eba192f4-cd23-11eb-9091-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R404141aa90894f89d7090785b3e1685d?rik=ml589mK99ne4GQ&pid=ImgRaw" group-title="24/7 HRS",CABALLEROS DEL ZODIACO
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/297286.ts
+#EXTINF:-1 tvg-logo="https://i.kym-cdn.com/photos/images/facebook/001/018/269/b21.png" group-title="24/7 HRS",THE THEORY OF BIG BANG
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/297288.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1024px-Logo_The_Simpsons.svg.png" group-title="24/7 HRS",LOS SIMPSON
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/291793.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Thundercats_logo_2011.png/250px-Thundercats_logo_2011.png" group-title="24/7 HRS",THUNDERCATS
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/2621
 #EXTINF:-1 tvg-logo="https://www.malcolminthemiddle.co.uk/wp-content/uploads/2019/04/Logo.png" group-title="24/7 HRS",MALCOLM EL DE EN MEDIO
-http://2.magmas5.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=138457&extension=ts
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/765
+
+
+
+#EXTINF:-1 tvg-logo="https://www.malcolminthemiddle.co.uk/wp-content/uploads/2019/04/Logo.png" group-title="24/7 HRS",MALCOLM EL DE EN MEDIO
+http://2.magmas5.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=138457&extension=m3u8
