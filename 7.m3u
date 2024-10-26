@@ -1,205 +1,54 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Don gato y su Pandilla" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaiQVe2MKr3PhOBuGqB1zsORiti_KI_s9AhjDDab-gRcRMurZWfO9UCu6lSCNpLs2A.png" group-title="A",24H | Don gato y su Pandilla
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/263252.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Dragon Ball" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBjtJZRU2lmr9MQ_PFrAA-esZnUpMZfp83wGq77yJwBZFCYKiwUH73YQTyy-WNpA38c.png" group-title="A",24H | Dragon Ball
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/263253.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Dragon Ball GT" tvg-logo="https://w7.pngwing.com/pngs/38/645/png-transparent-dragon-ball-gt-son-goku-illustration-dragon-ball-z-dokkan-battle-dragon-ball-xenoverse-goku-gohan-son-hand-vertebrate-fictional-character-thumbnail.png" group-title="A",24H | Dragon Ball GT
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/248616.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Dragon Ball Super" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaCmh812t4kBrSUgCH-FjnbBuaL5S3ZiHP14p_EQn-52Go--JoQDl2ydCRW4BlP7XU.png" group-title="A",24H | Dragon Ball Super
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/438.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Dragon Ball Z" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmboqdJ-Rx8gKz6Zzu-6i8pT8OXAGuuNL5MAjvZEhciEBNh2hc6EN03ff-QxyPigWGU.png" group-title="A",24H | Dragon Ball Z
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/217685.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Dragon Ball Z" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmb2Uae5xR0_KNi4FdwMmV6MgAWnXa2TM6CdOdGgduDMiLQx4_k0uimGK3hUFRMgASM.png" group-title="A",24H | Dragon Ball Z
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/287642.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H Kids | Dragon Ball (M)" tvg-logo="http://offshore.lat:8080/images/58590865b4c94aa6d302fffef4a066ad.png" group-title="A",24H Kids | Dragon Ball (M)
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/263166.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Batman" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaVC1y-zktCTrflq6i5yKj5EXVENxMp4z4cSdSFNMqL3tMMXAhvFRNnz4vQxqJrftg.jpg" group-title="B",24/7 Batman
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/413754.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | BEN 10" tvg-logo="http://offshore.lat:8080/images/-7oKEATgI6CdWxwKW-B7i75A78k3CySVQIcSgKKtLmlUYf6SH1PWbP-RurRC1xLurhwDSR-f47aFNvvDflN-DiUW93frQbMY6qxUFYQakMA.png" group-title="B",24H | BEN 10
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/382929.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Coraje - El Perro Cobarde" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbgbnyvSnL-KFp-_jbbf77LQjDE2QlMg70vYksg8xfpEcMTZJenO0SAh6W5rQFWu1M.png" group-title="B",24H | Coraje - El Perro Cobarde
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/389808.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Dinosaurios" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbT_RJY2-b1yYdpYhmlL9LaHP2MufztnhB4-ECjv_GiaXuS0mKLGAE2XVZdh8aN86s.png" group-title="B",24H | Dinosaurios
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/208584.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Dora la exploradora" tvg-logo="http://offshore.lat:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXVM4lEjCBXXlFWoZvOYlZ3ileuN2AKmoqlOITm30pzwdDmXt_usmPvMEdjRlcBMFw.png" group-title="B",24H | Dora la exploradora
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/389797.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | DreamWorks" tvg-logo="http://offshore.lat:8080/images/-7oKEATgI6CdWxwKW-B7i8cveP39Q5eSPtf3Eri_bB-bymJGl2yO2BoLC3MMpPt9r8O9EY64KheGZQ-vZCgGVYjuLb3jwRNnClD3glFrKPw.jpg" group-title="B",24H | DreamWorks
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/297294.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | El Pájaro Loco y sus Amigos" tvg-logo="http://offshore.lat:8080/images/Z9P7BwxXlTl-k8RLQ286tHdRYVMwNGV5_6AjE3pFa_lz3kxeGwCZFRGXZNz32ofsnkXypztwcjyLKAuuo4CsOpxbvmofu6odjQbc-Tm2tYMZkTFFqOYPpNPoDQeWUJfx1PtplmaQACmEAI08KYjrXWIZEhOSq8rmhMDEl_UEnhPmDUz5IWgQpWQqjO4OtE7ZHV13AFKYNVEjwmfA_pePHg.png" group-title="B",24H | El Pájaro Loco y sus Amigos
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/274259.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | El Show de Bugs Bunny" tvg-logo="http://offshore.lat:8080/images/Z9P7BwxXlTl-k8RLQ286tNbnG_1DVSnWZorADyeyUteGi3mJpvmofwLZkjObFFcw4L6Whwh7HfwELWfHEgxSaxwRwrAmUfEGMg2Hj2fgKdJKKQUkxguSelmg_sNd867FiVA3i9HE4t28eSdDEUdf7riBuun50Ll78poZ6OILGmaqwtMUclRBSU6c2SHlqpUXs8qWyXTQIJguXt-x4Aun3w.png" group-title="B",24H | El Show de Bugs Bunny
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/274255.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | El Show de Scooby Doo" tvg-logo="http://offshore.lat:8080/images/Z9P7BwxXlTl-k8RLQ286tGpzmM1g136COi1x-n8vwdM88bGrvcJ67_aG0OXgLzSCz-DmiA43Jh5Cqrd8_ksDf-qSHafAMTrWlGtP3oY3_P5y_WweFCdEsBTFzPx2-j2mLZS3eJ1ESQnZOEWNbxmKfsm39WUILRc5ObbvgmvIK24.png" group-title="B",24H | El Show de Scooby Doo
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/274252.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Futurama" tvg-logo="http://offshore.lat:8080/images/Bp-vRtZEje6kFpdMZzWxZ8SVTkU_EtEJ6c-exM-KwFeZLk0cnGJLvr7CnV5J6JPPfh3uN9THxfAxynp37RWthfBJT2ADO2CQ2IwLndMmpmI.png" group-title="B",24H | Futurama
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/346235.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Gravity Falls" tvg-logo="http://offshore.lat:8080/images/KeoQQENyQNzuYokg-zs6u91uE9XtEp0VlD0opLO8crfxIXKhhyOAx7AhWg1pRXsSQoVdWZYaqZRQyfxv_eHhC19cQgYkgq0TlX-M9r3z_1g.png" group-title="B",24H | Gravity Falls
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/297284.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Hey Arnold" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZGxiSYS1RVhRUsfb61fyZ6DP_J2cSLkPg-Gd0yJkEwiRFRAFoJh6uQTBTbPyTr4OQ.png" group-title="B",24H | Hey Arnold
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/263187.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Looney Tunes" tvg-logo="http://offshore.lat:8080/images/Bp-vRtZEje6kFpdMZzWxZ6cgsfKAJ9payY22Ia8GnXqRmW5l24qJNNbLAISS9ZSLmzqExrl2AvKHXw5zabBKlU10ms2RbRZytBuihGMSQS8.png" group-title="B",24H | Looney Tunes
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/297291.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Los Picapiedra" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbTvq3kaQvK_7zdQ8sQdxz-FmW4NcsUOH5_c3bD_-zPPs0TTSL6QMH6Ip2k-NOe06U.png" group-title="B",24H | Los Picapiedra
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/203853.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Mi Bella Genio" tvg-logo="http://offshore.lat:8080/images/lb-BhnAujc55IW2ml_t6tX0sGs_8XBANFZA1JUZFEX4h8iCd_nHECwrL654l-9wsBebouCdfM_nk7h_JMtX-1rtzcagcpYlI7gEW8k0f7uz9mNK2YSqk3ef6X8-j1nhBHwHcujGEuFFSEPwj3xTRqw.jpg" group-title="B",24H | Mi Bella Genio
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/297287.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Pantera Rosa" tvg-logo="http://offshore.lat:8080/images/VjcWddadysoiVJIoAuuzd4wQHC2DerFCKoQdK6lHYdH1xkkyWPa5RmVw5Ntc8oZBBXIlOxI60IHkXMd2GzTEDA.jpg" group-title="B",24H | Pantera Rosa
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/297299.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Plim Plim" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbwD3CaIdB03DEuguytPiHngacb2tkcqkOtRJ88FYJEDprtEOol-6sg_jWxuISxrTo.png" group-title="B",24H | Plim Plim
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/207821.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Pocoyo" tvg-logo="http://offshore.lat:8080/images/L8DfQd6t9s2XQShvTDjfPHcaHFYuygkojNpoWNqC-0TudXeE9c6KQHx_srzrjPgbDLzyPh4oTmtmAWCIfmiakXt_QNVH1jw-Fy9DnnC_LME.png" group-title="B",24H | Pocoyo
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/318964.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Chapulin Colorado" tvg-logo="http://offshore.lat:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjhPOwnga7pVJji_2pwSJxBrcmWNlyJcjpCLHK3GD7XKDnIytrmzVBErxVup2p7rJ-SwOfhtqhDTvlNhNzIHSfwCV_nP2dOzAmnarWh2slDKNqRsVdVxgzFRZMv9amd_rx.png" group-title="C",24H | Chapulin Colorado
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/415967.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | El Chavo del 8" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZ2txtaJafY7crZeIGuTDs94J_ArLxQbRL-4zUr3wEkTecLhNqk7AAFYBRYd5yM4vw.png" group-title="C",24H | El Chavo del 8
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/11527.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | El Chavo del Ocho P2" tvg-logo="" group-title="C",24H | El Chavo del Ocho P2
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/383387.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Los Simpson" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaExxtc2k9XE5FpOFyk52q6DahcsjrdumZDz7uDWehzzYfS6sj9cFKLynfa6CeDHX8.jpg" group-title="D",24H | Los Simpson
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/291793.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Los Simpson" tvg-logo="http://offshore.lat:8080/images/-7oKEATgI6CdWxwKW-B7iw5dQd2yT6WqP1wjdvEvMIHyhwK3wcejC71RvHPwYOeBbG9072Cf5HiD0M0q7tIe54yhlo06CYc_N2K0Ma9iRcs.jpg" group-title="D",24H | Los Simpson
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/383359.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | LOS SIMPSONS 12-17" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZ9we10sLzBdho5Zs5B52FKgd2Emzhyyxf1OQsCLVJkg_BC8AxUPlXNx_19kF5l0Uk.png" group-title="D",24H | LOS SIMPSONS 12-17
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/294012.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | LOS SIMPSONS 1-5" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZ9we10sLzBdho5Zs5B52FKgd2Emzhyyxf1OQsCLVJkg_BC8AxUPlXNx_19kF5l0Uk.png" group-title="D",24H | LOS SIMPSONS 1-5
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/294010.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | LOS SIMPSONS 18-21" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZ9we10sLzBdho5Zs5B52FKgd2Emzhyyxf1OQsCLVJkg_BC8AxUPlXNx_19kF5l0Uk.png" group-title="D",24H | LOS SIMPSONS 18-21
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/294013.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | LOS SIMPSONS 27-30" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZ9we10sLzBdho5Zs5B52FKgd2Emzhyyxf1OQsCLVJkg_BC8AxUPlXNx_19kF5l0Uk.png" group-title="D",24H | LOS SIMPSONS 27-30
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/294014.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | LOS SIMPSONS 6-11" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZ9we10sLzBdho5Zs5B52FKgd2Emzhyyxf1OQsCLVJkg_BC8AxUPlXNx_19kF5l0Uk.png" group-title="D",24H | LOS SIMPSONS 6-11
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/294011.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Bob Esponja" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZ4lgG5qJcG_XKmym-XBvFARKowvtVd5X6vS5zllgLZImeOcIxQitjxJW5IecQN64o.png" group-title="E",24H | Bob Esponja
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/389813.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Caso Cerrado" tvg-logo="http://offshore.lat:8080/images/wXI6kGce21-eNeszIM2pwAL0aw-c9MFjxgzctoWZ5EqpiL4XLuuNT3g5BMJkfOVse4t5DhJOudItIWOciOObAsEeEZHAO5UAZxaB-YekMGVcrbg_GksN-zdQCe6h43QR.png" group-title="E",24H | Caso Cerrado
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/297298.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Cero en Conducta" tvg-logo="http://offshore.lat:8080/images/f7580d491de94917ee68e9a5d9be5e10.jpg" group-title="E",24H | Cero en Conducta
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/296951.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Cinema Disney Pixar" tvg-logo="http://offshore.lat:8080/images/-7oKEATgI6CdWxwKW-B7i-zGfRVx49lW628PWwT_vUUI--n0GwkyDzx-RKRqFyJJCx_0nVAms15QW6nANdmEZt9tLvpl98EKk9QGhIQizC8.jpg" group-title="E",24H | Cinema Disney Pixar
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/297289.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Cinema Universe" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZkUu4tXeD8KzCIXeCzsr9Hx-mxu3H2HIaWiMVyMJeQCsZe7BmyAhub99raHwz6JQI.png" group-title="E",24H | Cinema Universe
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/389812.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | El principe del Rap" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmae_NiEFAQPWFzciY-O-SYFpZ_0UT9WSJTXaPHLwFI-nE9_EEc7B_eZ7LYDDXO22R0.png" group-title="E",24H | El principe del Rap
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/273906.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Harry Potter*" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZwwgcalc3su30f26X7ldqItJe39KOVplFXCL9_jDD2AEpbrwOz0V-5AQ_2OSY0-eI.png" group-title="E",24H | Harry Potter*
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/376465.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Humor es los comediantes" tvg-logo="http://offshore.lat:8080/images/cbb0a1f81fc9f4ce9b26c84c057e2a46.jpg" group-title="E",24H | Humor es los comediantes
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/296950.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | La Teoria del Big Bang" tvg-logo="" group-title="E",24H | La Teoria del Big Bang
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/383388.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Los Caballeros del Zodiaco" tvg-logo="http://offshore.lat:8080/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcFsAZZhcQLGOskSqvLz_ft9aBMUzl2y4lb1o0tIt-MG9AWHWm-Cla09X2ngaRm7tYo.jpg" group-title="E",24H | Los Caballeros del Zodiaco
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/297286.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Los Caballeros del Zodiaco" tvg-logo="http://offshore.lat:8080/images/qsuE33ZlG4FNrdVzoff-opAxIdvz0getU22-b_sDHa15ayo59diNORAOEirP038sXiAvWrOu4v8Ep3Fys1lhH2uH5GvXBMjGYxOJQ-409uE.png" group-title="E",24H | Los Caballeros del Zodiaco
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/383390.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Los padrinos mágicos" tvg-logo="http://offshore.lat:8080/images/dTTqLGZdJMYPezOl5TGOjy99D6jiv4hVcLazZHEnh4xYRKSIyfNJunzXGQVAdACox3Qi0Rf-im_x7ykmidPJ_r1-EdJY9gye5RrZiMot33q_dhKW27KFWuuLxl6mN7O2.jpg" group-title="E",24H | Los padrinos mágicos
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/274253.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Malcolm en el medio" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYChxrjK8sOgA4787eUXayExtpRyRJg3qY59pdvT_Qbr4YaSpFuph3rCaNnwF5VwlA.jpg" group-title="E",24H | Malcolm en el medio
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/396453.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Mr Bean" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBj2ZZ6KgNsg8QLpUO3AZeFOyr4PfYLRCSSLzp_ZNwlruuOyvWvhALTl-JTBFOvzEuA.png" group-title="E",24H | Mr Bean
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/208602.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Mr. Bean Animado" tvg-logo="http://offshore.lat:8080/images/2gBtq5jR3sQLKPx1caFXejyf5ypFWOporZoA9Yxxhw-g0TM99pkJb0Oo3kAb540Nh6mcdrCrCf_2n3u39lDZrVGpNpBZ528TlqnUz0jzslcnoLrFjz0BYoZb3LWAESu8pc5xQuAR47lKzCGLIDeGLDREMn7_3kPUscqPgsphzx8dixuekoLcU4GINQSRhUvR.jpg" group-title="E",24H | Mr. Bean Animado
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/306166.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Pokémon" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZpKTLxRf_wvdDx_t8x0kdKDDrK-Eb_qdXMO26DNXRCOgH-FnbbLX_tKrvEubDEAxU.png" group-title="E",24H | Pokémon
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/389807.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Smallville" tvg-logo="http://offshore.lat:8080/images/bd771a80e06982493ac6d021a7cc091b.png" group-title="E",24H | Smallville
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/481.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | The Big Bang Theory" tvg-logo="http://offshore.lat:8080/images/-7oKEATgI6CdWxwKW-B7i6nR0uMqY5SkXrMrzcK_1FydElJ-TDPmoNGdz41MrneJ5P2IXx7-PAdedAc3qozTNLUceRZHojbDszsszgGERE0.jpg" group-title="E",24H | The Big Bang Theory
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/297288.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | The Good Doctor" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaUBgYSFcxKPIbY6w2ISOf7tNB3hmAY8UgzK5zv8WwcUYUHzxy1-vf6pmN2JNvf9UM.png" group-title="E",24H | The Good Doctor
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/274268.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | The Walking Dead" tvg-logo="http://offshore.lat:8080/images/yKopI9K_dqsexvW7iRYa45LNx0DAMo71MyFpkYBQJx6cKZ6qsTu2l8UV6fyK3UrVu2CEnESARx-UVzZcKXjMCA0mxMmdQzR3jY6t25NyAsA.jpg" group-title="E",24H | The Walking Dead
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/389852.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Chernobyl" tvg-logo="http://offshore.lat:8080/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qun2sIeQGhmF4Z5RzqsBUpmGASTrbA17khhPEwrOM8JFWg23GbdHmzLq0hQb2rDZGFI.jpg" group-title="F",24H | Chernobyl
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/274256.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | El coche fantástico" tvg-logo="http://offshore.lat:8080/images/gx_1Ye8-YjPaPiCdUVeQPWhvm1koOXtWf82xd79qv9X7DCBLX47FLFIq_-V0IOYhuKEOUk-CCL845nHc4FOcS4ifYgxap2Sgx2pwn1Dyovo.jpg" group-title="F",24H | El coche fantástico
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/274260.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Cantinflas" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZhjh6YfIoyW_Vbdv8Y1dWH2A0yDpLKhPVOd1TrecB8nj8nx-tzzMX1EzxnXDy2C90.png" group-title="F",24H | Cantinflas
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/11526.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | ALF" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYPaph9JeKPh0KRqBz9el9ate82hGx4v8BFT5_txWkvBuXNT9Qz92GXJ0WO6rfxkb4.png" group-title="F",24H | ALF
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/236535.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Naruto" tvg-logo="http://offshore.lat:8080/images/Z9P7BwxXlTl-k8RLQ286tGbdfcAPM5Izo0zyPHWM_SInh898rQzWEwRVjYLy660nAikF6gimIY1nQG9D6grUKV1rlAVPVIxt-GkUzfP2RfoL6OrfFqvqqqBs2RVUSXl5xmNPZpHVYLm0QqDK5mBs-wwd55uHxoGlUSt3J4c6upJijVgQ7_Ds_2vjweKugRGoSxU1Oon_ntjZ40zLArQnfYq_ryH3WX5D" group-title="F",24H | Naruto
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/248603.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | La Pantera Rosa" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBhlCHd1fxctLP2KW2pQTRW2yfhEonGOQ_I1mIRwPiYssQR5PvhsnMTyHu7Ek__4o8Q.png" group-title="F",24H | La Pantera Rosa
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/248612.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Los PicaPiedra" tvg-logo="http://offshore.lat:25461/images/b5b3c04a1fe72dcb53b9061a325a8497.png" group-title="F",24H | Los PicaPiedra
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/248638.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Mr. Bean" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBhSkQ5cCQqFT2BGVWjm-rGAwm5r13QuKfdkyJEyTxnO1oXAOXDRyHCdw40p8-cg35g.png" group-title="F",24H | Mr. Bean
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/248673.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | El Correcaminos" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZGXlpk27N-TRa7kWQBiw9YTQgKEAAzt5Zyktqf1NZeuobF3p5skgB7v-yrqkm384A.png" group-title="F",24H | El Correcaminos
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/248674.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Chespirito" tvg-logo="http://offshore.lat:8080/images/64d53233e09ffcca0e0a60697784759c.png" group-title="F",24H | Chespirito
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/248684.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Games of Thrones" tvg-logo="http://offshore.lat:8080/images/8e98dfd8c199304cb531e336c66aa190.png" group-title="F",24H | Games of Thrones
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/262945.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Paw Patrol" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYN2-UKdHi2Ige-WTaCJuU3rei8glMQyoRcXwwFGBLiBlWP7VuIdxQqj3Gd6IkcrLg.png" group-title="F",24H | Paw Patrol
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/203599.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Rocky" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmabLsiEDVeGPxFL0_-QyhOFvDuy330Le561feNz1tVLsH6sdcQnOhUyMMSR1AKaF0U.png" group-title="F",24H | Rocky
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/239663.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Moisés y los Diez Mandamientos" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosma8jv528eyzGUpr3eMoKfflSUxwBDw3RdHIQ7PLXa5ZQTg2j7IXrisVFDke3XR_6G0.png" group-title="F",24H | Moisés y los Diez Mandamientos
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/237112.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Peppa Pig" tvg-logo="http://offshore.lat:8080/images/-7oKEATgI6CdWxwKW-B7iyIM7xExNKfVpHoDvy6fvLKTK_dBM2TFMAVZZly95Q_16ojcfq6IvJgnRMQ3ZXaMi97QVkRVlsvsZV8Dd1FPSKI.png" group-title="F",24H | Peppa Pig
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/297290.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | FBI" tvg-logo="http://offshore.lat:8080/images/Fh-6giaULF5oCS1U_GwOtbhOZn_LPNW2VlWk5KnTRgJChSfGlzsBWM5bvAU8dReZ2OPFzTVa7Po2QKyGZI0gWcbqBjDLoLZnozMGA6hMUU8.jpg" group-title="F",24H | FBI
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/297297.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | La familia P. Luche" tvg-logo="https://elcomercio.pe/resizer/Hk5doNRSzzU02kVejlFMxM5FWNQ=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/EKQNCSXZTFEHDAVJEZYONUDWI4.jpg" group-title="F",24H | La familia P. Luche
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/383384.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | ¿Quién mató a Sara?" tvg-logo="" group-title="F",24H | ¿Quién mató a Sara?
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/383385.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | El asombroso mundo de Gumball" tvg-logo="" group-title="F",24H | El asombroso mundo de Gumball
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/383386.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Daniel el travieso" tvg-logo="http://offshore.lat:8080/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qundGSTrqKSOhGjwE_NR7tGWPt2hzCxVzlI3-JgHSFdNn5NjkbkOJypQocYVw9iR6lRZoSCL7jmZlSJccVrsL6o0UEcRPIhsK_Enj18beqS_1-jfzGYVbior9Qv0O_bSXu0.jpg" group-title="F",24H | Daniel el travieso
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/383389.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Los 3 Chiflados" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYK_BuCCeiASnZ6T8CMqfwj6KFd-4_TpU7uYvCmCDWoVkks1Lp2d6qX3v8aA5Xp_3E.png" group-title="F",24H | Los 3 Chiflados
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/389809.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Batman" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbLnnnejxS5RjJQQ6KoQLH-gvbOQ-n6DtGX13VEslxfZb-tNUNt6l4U0Mm_ViWYtXg.png" group-title="F",24H | Batman
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/389810.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24h | Disney Movies" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaVAzzY84SZ6dPMybtfFYE7erauspsZDf33rAcgjDpBQPnUcLRKNgiQW80VWCgfs2Q.png" group-title="F",24h | Disney Movies
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/389811.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.8093c4913f46b6a7c9fbfd7442dc2002?rik=XMJVNX3hGLWAFg&riu=http%3a%2f%2ffanart.tv%2ffanart%2ftv%2f78020%2fhdclearart%2falf-5835b6ec28f6e.png&ehk=DpWgKU8dyXY53wBZMaQ9FaZupb3KO4yp8oG6Y0MDy%2f4%3d&risl=&pid=ImgRaw&r=0" group-title="A-24/7",ALF
+http://2.magmas5.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=129321&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.8093c4913f46b6a7c9fbfd7442dc2002?rik=XMJVNX3hGLWAFg&riu=http%3a%2f%2ffanart.tv%2ffanart%2ftv%2f78020%2fhdclearart%2falf-5835b6ec28f6e.png&ehk=DpWgKU8dyXY53wBZMaQ9FaZupb3KO4yp8oG6Y0MDy%2f4%3d&risl=&pid=ImgRaw&r=0" group-title="24/7 HRS",ALF
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/744
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/animaniacs/images/d/d9/Animaniacs_%285%29.png" group-title="24/7 HRS",ANIMANIACS
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/333
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/lucian-films-thirteenth-deluxe-edition/images/6/64/SpongeBob_SquarePants_logo_wordmark.png" group-title="24/7 HRS",BOB SPONGE
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/animaniacs/images/d/d9/Animaniacs_%285%29.png" group-title="A-24/7",ANIMANIACS
+http://2.magmas5.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=129354&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/lucian-films-thirteenth-deluxe-edition/images/6/64/SpongeBob_SquarePants_logo_wordmark.png" group-title="A-24/7",BOB SPONGE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
-#EXTINF:-1 tvg-logo="https://www.vippng.com/png/full/201-2013595_el-chavo-el-chavo-del-8-letra.png" group-title="24/7 HRS",EL CHAVO DEL OCHO
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/11527.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/480px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="24/7 HRS",CHAPULIN COLORADO
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/338
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0f/50/36/0f5036f3966e6bb4fc610c4a7342869b.png" group-title="24/7 HRS",CORRECAMINOS
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/248674.ts
-#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/futurama/futurama_PNG26.png" group-title="24/7 HRS",FUTURAMA
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/346235.ts
-#EXTINF:-1 tvg-logo="https://i2.wp.com/formby.es/wp-content/uploads/2014/05/pinkpantherlogo.png" group-title="24/7 HRS",PANTERA ROSA
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/248612.ts
-#EXTINF:-1 tvg-logo="https://miro.medium.com/max/1380/1*5FDqv_Jqlk___XP0eFZptQ.png" group-title="24/7 HRS",DINOSAURIOS
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/208584.ts
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-DreamWorks-1.png" group-title="24/7 HRS",24/7 DREAMWORKS
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/297294.ts
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/08/Pixar-symbol-500x155.jpg" group-title="24/7 HRS",24/7 DISNEY PIXAR
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/297289.ts
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/marvelmovies/images/e/ed/Marvel_Studios_2016_Transparent_Logo.png" group-title="24/7 HRS",24/7 MARVEL
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/177987
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZnwLln5.png" group-title="24/7 HRS",DRAGON BALL
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/263253.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e3/46/83/e34683b61a49dfd0974b73821de6a339.png" group-title="24/7 HRS",DRAGON BALL Z
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/287642.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dragon_Ball_GT_logo.png/1280px-Dragon_Ball_GT_logo.png" group-title="24/7 HRS",DRAGON BALL GT
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/783
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="24/7 HRS",DRAGON BALL SUPER
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/438.ts
+
+#EXTINF:-1 tvg-logo="https://www.vippng.com/png/full/201-2013595_el-chavo-el-chavo-del-8-letra.png" group-title="A-24/7",EL CHAVO DEL OCHO
+http://2.magmas5.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=129315&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/480px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="A-24/7",CHAPULIN COLORADO
+http://2.magmas5.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=129323&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/dc57f8bbf4b28ec9d9f2e1431f2951c2cc7f7930d18dcc6114457118d8c49da4.jpg" group-title="A-24/7",LOS CHICOS DEL BARRIO
+http://2.magmas5.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=159340&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/56C419D441937015999353B53E1910B557519026CDA80BE18BFD667A9F2157C6/scale?width=440&aspectRatio=1.78&format=webp" group-title="A-24/7",Cars Disney
+http://2.magmas5.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=145899&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/formby.es/wp-content/uploads/2014/05/pinkpantherlogo.png" group-title="B-24/7",PANTERA ROSA
+http://2.magmas5.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=129347&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://miro.medium.com/max/1380/1*5FDqv_Jqlk___XP0eFZptQ.png" group-title="B-24/7",DINOSAURIOS
+http://2.magmas5.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=129314&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/08/Pixar-symbol-500x155.jpg" group-title="B-24/7",24/7 DISNEY PIXAR
+http://2.magmas5.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=138451&extension=m3u8
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/marvelmovies/images/e/ed/Marvel_Studios_2016_Transparent_Logo.png" group-title="B-24/7",24/7 MARVEL
+http://2.magmas5.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=129366&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZnwLln5.png" group-title="C-24/7",DRAGON BALL
+http://2.magmas5.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=129328&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e3/46/83/e34683b61a49dfd0974b73821de6a339.png" group-title="C-24/7",DRAGON BALL Z
+http://2.magmas5.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=129329&extension=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dragon_Ball_GT_logo.png/1280px-Dragon_Ball_GT_logo.png" group-title="C-24/7",DRAGON BALL GT
+http://2.magmas5.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=129334&extension=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="C-24/7",DRAGON BALL SUPER
+http://2.magmas5.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=129326&extension=m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/4f/4f0ca4a99c82adc701d1c18856708d3a.png" group-title="24/7 HRS",NARUTO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=eba192f4-cd23-11eb-9091-0242ac110002&sid=eba192f4-cd23-11eb-9091-0242ac110002&userId=
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R404141aa90894f89d7090785b3e1685d?rik=ml589mK99ne4GQ&pid=ImgRaw" group-title="24/7 HRS",CABALLEROS DEL ZODIACO
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/297286.ts
+http://2.magmas5.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=162184&extension=m3u8
 #EXTINF:-1 tvg-logo="https://i.kym-cdn.com/photos/images/facebook/001/018/269/b21.png" group-title="24/7 HRS",THE THEORY OF BIG BANG
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/297288.ts
+http://2.magmas5.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=129352&extension=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1024px-Logo_The_Simpsons.svg.png" group-title="24/7 HRS",LOS SIMPSON
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/291793.ts
+http://2.magmas5.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=136246&extension=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Thundercats_logo_2011.png/250px-Thundercats_logo_2011.png" group-title="24/7 HRS",THUNDERCATS
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/2621
-#EXTINF:-1 tvg-logo="https://www.malcolminthemiddle.co.uk/wp-content/uploads/2019/04/Logo.png" group-title="24/7 HRS",MALCOLM EL DE EN MEDIO
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/765
+http://2.magmas5.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=162186&extension=m3u8
+
 
 
 
