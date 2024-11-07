@@ -1,90 +1,89 @@
 #EXTM3U url-tvg=""
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTNj49jp1M5fQNhDXYPJccivxlqyaSRPd6mt4KRSyNuF4bRYhrLMU7EJ2a&s=10" group-title="ESTRENOS HD",VENOM 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTNj49jp1M5fQNhDXYPJccivxlqyaSRPd6mt4KRSyNuF4bRYhrLMU7EJ2a&s=10" group-title="A- ESTRENOS HD",VENOM 3
 https://delivery-node-bzdgp1kzc5nj2wp0.voe-network.net/engine/hls2-c/01/12552/uwxc0fvhmgzp_,n,.urlset/master.m3u8?t=oGu2LngyXqJHSniDuB06wfdautBwBM7cOaj9x1e_ieU&s=1730949381&e=14400&f=62764823&node=delivery-node-etnh2hts8ppjned0.voe-network.net&i=201.106&sp=2500&asn=8151
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Tvd4RLy3uro/maxresdefault.jpg" group-title="ESTRENOS HD",JOKER 2
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Tvd4RLy3uro/maxresdefault.jpg" group-title="A- ESTRENOS HD",JOKER 2
 http://vod.tuxchannel.mx/peliculas/720/joker%20folie%20a%20deux%202024.mkv
-#EXTINF:-1 tvg-logo="https://elestoque.org/wp-content/uploads/2024/09/transformers-one-web.jpg" group-title="ESTRENOS HD",TRANSFORMES ONE
+#EXTINF:-1 tvg-logo="https://elestoque.org/wp-content/uploads/2024/09/transformers-one-web.jpg" group-title="A- ESTRENOS HD",TRANSFORMES ONE
 http://vod.tuxchannel.mx/peliculas/720/transformers%20one%202024.mkv
-#EXTINF:-1 tvg-logo="https://mty360.net/wp-content/uploads/2016/12/hellboy-the-crooked-man.jpg" group-title="ESTRENOS HD",HELLBOY THE CROOKED MAN
+#EXTINF:-1 tvg-logo="https://mty360.net/wp-content/uploads/2016/12/hellboy-the-crooked-man.jpg" group-title="A- ESTRENOS HD",HELLBOY THE CROOKED MAN
 http://vod.tuxchannel.mx/peliculas/720/hellboy%20the%20crooked%20man%202024.mkv
-#EXTINF:-1 tvg-logo="https://areajugones.sport.es/wp-content/uploads/2024/10/los-hombres-lobo-netflix-1.jpg" group-title="ESTRENOS HD",LOS HOMBRES LOBO
+#EXTINF:-1 tvg-logo="https://areajugones.sport.es/wp-content/uploads/2024/10/los-hombres-lobo-netflix-1.jpg" group-title="A- ESTRENOS HD",LOS HOMBRES LOBO
 http://vod.tuxchannel.mx/peliculas/720/family%20pack%202024.mkv
-#EXTINF:-1 tvg-logo="https://www.lt10.com.ar/multimedia/in1509972620181.jpeg" group-title="ESTRENOS HD",AHI AFUERA
+#EXTINF:-1 tvg-logo="https://www.lt10.com.ar/multimedia/in1509972620181.jpeg" group-title="A- ESTRENOS HD",AHI AFUERA
 http://vod.tuxchannel.mx/peliculas/720/outside%202024.mkv
-#EXTINF:-1 tvg-logo="https://static1.moviewebimages.com/wordpress/wp-content/uploads/2024/07/1992-movie-poster-with-tyrese-gibson-scott-eastwood-and-ray-liotta.jpg" group-title="ESTRENOS HD",1992
+#EXTINF:-1 tvg-logo="https://static1.moviewebimages.com/wordpress/wp-content/uploads/2024/07/1992-movie-poster-with-tyrese-gibson-scott-eastwood-and-ray-liotta.jpg" group-title="A- ESTRENOS HD",1992
 https://www.polimor.club/movies/1992.mp4
-
-#EXTINF:-1 tvg-logo="https://www.loslunesseriefilos.com/wp-content/uploads/2024/10/robot-salvaje-pelicula-2024-768x431.jpg" group-title="ESTRENOS HD",ROBOT SALVAJE
+#EXTINF:-1 tvg-logo="https://www.loslunesseriefilos.com/wp-content/uploads/2024/10/robot-salvaje-pelicula-2024-768x431.jpg" group-title="A- ESTRENOS HD",ROBOT SALVAJE
 https://castlempire.site:443/movie/esteb5982roj/CchZQLdGB3/364262.mkv
-#EXTINF:-1 tvg-logo="https://sgsonfilm.net/wp-content/uploads/2024/09/17684370.jpg" group-title="ESTRENOS HD",BEETLEJUICE 2
+#EXTINF:-1 tvg-logo="https://sgsonfilm.net/wp-content/uploads/2024/09/17684370.jpg" group-title="A- ESTRENOS HD",BEETLEJUICE 2
 http://vod.tuxchannel.mx/peliculas/720/beetlejuice%20beetlejuice%202024.mkv
-#EXTINF:-1 tvg-logo="https://images.savoysystems.co.uk/KIW/30183090.jpg" group-title="ESTRENOS HD",ALIEN ROMULUS
+
+#EXTINF:-1 tvg-logo="https://images.savoysystems.co.uk/KIW/30183090.jpg" group-title="B- ACCION",ALIEN ROMULUS
 http://vod.tuxchannel.mx/peliculas/720/alien%20romulus%202024.mkv
-#EXTINF:-1 tvg-logo="https://web-ticketing.novacinemas.cr/CDN/Image/Entity//FilmAdvertising/HO00001610?v=1" group-title="ESTRENOS HD",LA SUSTANCIA
+#EXTINF:-1 tvg-logo="https://web-ticketing.novacinemas.cr/CDN/Image/Entity//FilmAdvertising/HO00001610?v=1" group-title="B- ACCION",LA SUSTANCIA
 https://www.polimor.club/movies/sustancia.mp4
-#EXTINF:-1 tvg-logo="https://www.funcinema.com.ar/wp-content/uploads/2024/09/horrores.jpg" group-title="ESTRENOS HD",LOS HORRORES DE CADDO LAKE
+#EXTINF:-1 tvg-logo="https://www.funcinema.com.ar/wp-content/uploads/2024/09/horrores.jpg" group-title="C- SUSPENSO",LOS HORRORES DE CADDO LAKE
 http://vod.tuxchannel.mx/peliculas/720/caddo%20lake%202024.mkv
-#EXTINF:-1 tvg-logo="https://www.loslunesseriefilos.com/wp-content/uploads/2024/07/el-hoyo-dos-poster-netflix.jpg" group-title="ESTRENOS HD",EL HOYO 2
+#EXTINF:-1 tvg-logo="https://www.loslunesseriefilos.com/wp-content/uploads/2024/07/el-hoyo-dos-poster-netflix.jpg" group-title="C- SUSPENSO",EL HOYO 2
 https://castlempire.site:443/movie/esteb5982roj/CchZQLdGB3/363220.mkv
-#EXTINF:-1 tvg-logo="https://www.heavenofhorror.com/wp-content/uploads/2024/10/CTRL-Netflix-Movie-Review.jpg" group-title="ESTRENOS HD",CTRL
+#EXTINF:-1 tvg-logo="https://www.heavenofhorror.com/wp-content/uploads/2024/10/CTRL-Netflix-Movie-Review.jpg" group-title="D- DRAMA",CTRL
 https://castlempire.site:443/movie/esteb5982roj/CchZQLdGB3/363217.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/oreeF3l8IOiZFjdZCwaPetYDSqx.jpg" group-title="ESTRENOS HD",EL DIARIO
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/oreeF3l8IOiZFjdZCwaPetYDSqx.jpg" group-title="E- COMEDIA",EL DIARIO
 http://vod.tuxchannel.mx/peliculas/720/el%20diario%202024.mkv
-#EXTINF:-1 tvg-logo="https://cineypalomitas.com/wp-content/uploads/2024/10/El-misterio-de-Salems-Lot.jpg" group-title="ESTRENOS HD",EL MISTERIO DE SALEM´S LOT
+#EXTINF:-1 tvg-logo="https://cineypalomitas.com/wp-content/uploads/2024/10/El-misterio-de-Salems-Lot.jpg" group-title="C- SUSPENSO",EL MISTERIO DE SALEM´S LOT
 https://castlempire.site:443/movie/esteb5982roj/CchZQLdGB3/362809.mkv
 
-#EXTINF:-1 tvg-logo="https://www.dslweb.de/public/resources/images/anbieter/paramount-plus/paramount-plus-apartment-7a-aufmacher.jpg" group-title="ESTRENOS HD",DEPARTAMENTO 7A
+#EXTINF:-1 tvg-logo="https://www.dslweb.de/public/resources/images/anbieter/paramount-plus/paramount-plus-apartment-7a-aufmacher.jpg" group-title="C- SUSPENSO",DEPARTAMENTO 7A
 http://vod.tuxchannel.mx/peliculas/720/apartment%207a%202024.mkv
-#EXTINF:-1 tvg-logo="https://www.cinestamberlick.com/assets/uploads/ca82f-no-hables.jpg" group-title="ESTRENOS HD",NO HABLES CON EXTRAÑOS
+#EXTINF:-1 tvg-logo="https://www.cinestamberlick.com/assets/uploads/ca82f-no-hables.jpg" group-title="C- SUSPENSO",NO HABLES CON EXTRAÑOS
 https://www.polimor.club/movies/nohables.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Wolfs_%28film_2024%29_-_logo.png/640px-Wolfs_%28film_2024%29_-_logo.png" group-title="ESTRENOS HD",LOBOS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Wolfs_%28film_2024%29_-_logo.png/640px-Wolfs_%28film_2024%29_-_logo.png" group-title="B- ACCION",LOBOS
 https://cinevallstorage.com/stuff/wolfs.mp4
-#EXTINF:-1 tvg-logo="https://media.canal10.com.uy/adjuntos/229/imagenes/002/813/0002813079.jpg" group-title="ESTRENOS HD",SED DE VENGANZA 2
+#EXTINF:-1 tvg-logo="https://media.canal10.com.uy/adjuntos/229/imagenes/002/813/0002813079.jpg" group-title="B- ACCION",SED DE VENGANZA 2
 https://cinevallstorage.com/stuff/venganza.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xWLFu_GOZ54/maxresdefault.jpg" group-title="ESTRENOS HD",LOS TIPOS MALOS ¿TRUCO O ATRACO?
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xWLFu_GOZ54/maxresdefault.jpg" group-title="E- ANIMACION",LOS TIPOS MALOS ¿TRUCO O ATRACO?
 http://vod.tuxchannel.mx/peliculas/720/the%20bad%20guys%20haunted%20heist%202024.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wSZbtiFIK1fkKZdSRtn2kz2Ttfd.jpg" group-title="ESTRENOS HD",AGENTE CINTURON NEGRO
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wSZbtiFIK1fkKZdSRtn2kz2Ttfd.jpg" group-title="B- ACCION",AGENTE CINTURON NEGRO
 http://vod.tuxchannel.mx/peliculas/720/officer%20black%20belt%202024.mkv
-#EXTINF:-1 tvg-logo="https://staticg.sportskeeda.com/editor/2024/09/95f82-17260793079662-1920.jpg" group-title="ESTRENOS HD",TECHNOBOYS
+#EXTINF:-1 tvg-logo="https://staticg.sportskeeda.com/editor/2024/09/95f82-17260793079662-1920.jpg" group-title="E- COMEDIA",TECHNOBOYS
 https://cinevallstorage.com/stuff/techno.mp4
-#EXTINF:-1 tvg-logo="https://www.accioncine.es/wp-content/uploads/2024/09/los-feos.jpg" group-title="ESTRENOS HD",LOS FEOS
+#EXTINF:-1 tvg-logo="https://www.accioncine.es/wp-content/uploads/2024/09/los-feos.jpg" group-title="B- ACCION",LOS FEOS
 https://cinevallstorage.com/stuff/feos.mp4
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.WffWkbsQ5FZ9mIVa36hmJwHaEK?rs=1&pid=ImgDetMain" group-title="ESTRENOS HD",PARPADEA DOS VECES
-https://cinevallstorage.com/stuff/parpadea.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/c49ceb9e7d71f5a8e45ca09fd9114b63ecdee8bbe8da26484e8d7f5c9504d147._UR1920,1080_SX720_FMjpg_.jpg" group-title="ESTRENOS HD",HUNTING GAMES
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/c49ceb9e7d71f5a8e45ca09fd9114b63ecdee8bbe8da26484e8d7f5c9504d147._UR1920,1080_SX720_FMjpg_.jpg" group-title="B- ACCION",HUNTING GAMES
 http://vod.tuxchannel.mx/peliculas/720/hunting%20games%202023.mkv
 
-#EXTINF:-1 tvg-logo="https://www.nextgame.es/wp-content/uploads/2024/04/La-Trampa-Shyamalan-Trailer.jpg" group-title="ESTRENOS HD",LA TRAMPA
+#EXTINF:-1 tvg-logo="https://www.nextgame.es/wp-content/uploads/2024/04/La-Trampa-Shyamalan-Trailer.jpg" group-title="B- ACCION",LA TRAMPA
 https://www.polimor.club/movies/trampa.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Pxml1ckGD84/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDWSGou_nkUPw3sjCkn8HW2-S4nKg" group-title="ESTRENOS HD",REBEL RIDGE
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Pxml1ckGD84/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDWSGou_nkUPw3sjCkn8HW2-S4nKg" group-title="B- ACCION",REBEL RIDGE
 https://cinevallstorage.com/stuff/rebel.mp4
-#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p27684052_v_h11_aa.jpg?w=1280&h=720" group-title="ESTRENOS HD",THE KILLER
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p27684052_v_h11_aa.jpg?w=1280&h=720" group-title="B- ACCION",THE KILLER
 https://www.polimor.club/movies/killer.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1RM8dZTE9Bc/maxresdefault.jpg" group-title="ESTRENOS HD",LONGLESS
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1RM8dZTE9Bc/maxresdefault.jpg" group-title="C- SUSPENSO",LONGLESS
 https://cinevallstorage.com/stuff/longless.mp4
-#EXTINF:-1 tvg-logo="https://avanzada.mx/wp-content/uploads/2024/04/correr-para-vivir.jpg" group-title="ESTRENOS HD",CORRER PARA VIVIR
+#EXTINF:-1 tvg-logo="https://avanzada.mx/wp-content/uploads/2024/04/correr-para-vivir.jpg" group-title="C- SUSPENSO",CORRER PARA VIVIR
 https://cinevallstorage.com/stuff/correr.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/lpKx4bcx73scNNZ7q8JXdnS0RKJ.jpg" group-title="ESTRENOS HD",BIENVENIDOS AL PARAISO
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/lpKx4bcx73scNNZ7q8JXdnS0RKJ.jpg" group-title="E- COMEDIA",BIENVENIDOS AL PARAISO
 https://cinevallstorage.com/stuff/paraiso.mp4
-#EXTINF:-1 tvg-logo="https://services.meteored.com/img/article/tornados-2024-la-pelicula-twister-estrena-un-nuevo-capitulo-luego-de-28-anos-mira-el-avance-1715679320174_1280.jpg" group-title="ESTRENOS HD",TORNADOS
+#EXTINF:-1 tvg-logo="https://services.meteored.com/img/article/tornados-2024-la-pelicula-twister-estrena-un-nuevo-capitulo-luego-de-28-anos-mira-el-avance-1715679320174_1280.jpg" group-title="B- ACCION",TORNADOS
 http://vod.tuxchannel.mx/peliculas/720/twisters%202024.mkv
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-07-02/e_jackpot_07022024.jpg" group-title="ESTRENOS HD",JACKPOT LOTERIA MORTAL
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-07-02/e_jackpot_07022024.jpg" group-title="E- COMEDIA",JACKPOT LOTERIA MORTAL
 https://www.polimor.club/movies/loteria.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Hg7McW2ogSE/maxresdefault.jpg" group-title="ESTRENOS HD",EXHUMAN LA TUMBA DEL DIABLO
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Hg7McW2ogSE/maxresdefault.jpg" group-title="C- SUSPENSO",EXHUMAN LA TUMBA DEL DIABLO
 https://www.polimor.club/movies/exhuma.mp4
-#EXTINF:-1 tvg-logo="https://baztabonline.com/wp-content/uploads/2024/06/%D8%AA%D8%B1%DB%8C%D9%84%D8%B1-%D9%81%DB%8C%D9%84%D9%85-The-Union-%D9%85%D9%86%D8%AA%D8%B4%D8%B1-%D8%B4%D8%AF.jpg" group-title="ESTRENOS HD",EL SINDICATO
+#EXTINF:-1 tvg-logo="https://baztabonline.com/wp-content/uploads/2024/06/%D8%AA%D8%B1%DB%8C%D9%84%D8%B1-%D9%81%DB%8C%D9%84%D9%85-The-Union-%D9%85%D9%86%D8%AA%D8%B4%D8%B1-%D8%B4%D8%AF.jpg" group-title="B- ACCION",EL SINDICATO
 http://vod.tuxchannel.mx/peliculas/720/the%20union%202024.mkv
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PYQ9AduUZ_Y/sddefault.jpg" group-title="ESTRENOS HD",EL SECUESTRO DEL PAPA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PYQ9AduUZ_Y/sddefault.jpg" group-title="D- DRAMA",EL SECUESTRO DEL PAPA
 https://www.polimor.club/movies/papa.mp4
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.adzIMfn8ueiST2O3rgduAQHaEK?rs=1&pid=ImgDetMain" group-title="ESTRENOS HD",AL RESCATE DE FONDO DE BIKINI: LA PELICULA DE ARENITA MEJILLA
 http://vod.tuxchannel.mx/peliculas/720/saving%20bikini%20bottom%20the%20sandy%20cheeks%20movie%202024.mkv
-#EXTINF:-1 tvg-logo="https://cdn.marvel.com/content/1x/deadpoolandwolverine_lob_log_def_03.png" group-title="ESTRENOS HD",DEADPOOL AND WOLVERINE
+#EXTINF:-1 tvg-logo="https://cdn.marvel.com/content/1x/deadpoolandwolverine_lob_log_def_03.png" group-title="A- ESTRENOS HD",DEADPOOL AND WOLVERINE
 https://www.polimor.club/movies/deadpool3.mp4
-#EXTINF:-1 tvg-logo="https://ovaciones.com/wp-content/uploads/2024/05/Daniel-Reza-2024-05-07T173633.163.png" group-title="ESTRENOS HD",MI VILLANO FAVORITO 4
+#EXTINF:-1 tvg-logo="https://ovaciones.com/wp-content/uploads/2024/05/Daniel-Reza-2024-05-07T173633.163.png" group-title="A- ESTRENOS HD",MI VILLANO FAVORITO 4
 http://vod.tuxchannel.mx/peliculas/720/despicable%20me%204%202024.mkv
-#EXTINF:-1 tvg-logo="https://admin.esports.gg/wp-content/uploads/2024/03/a-quiet-place-day-1-1-968x544.jpg" group-title="ESTRENOS HD",UN LUGAR EN SILENCIO DIA UNO
+#EXTINF:-1 tvg-logo="https://admin.esports.gg/wp-content/uploads/2024/03/a-quiet-place-day-1-1-968x544.jpg" group-title="A- ESTRENOS HD",UN LUGAR EN SILENCIO DIA UNO
 http://vod.tuxchannel.mx/peliculas/720/a%20quiet%20place%20day%20one%202024.mkv
 #EXTINF:-1 tvg-logo="https://cinesunidosweb.blob.core.windows.net/slider/HO00005092.jpg" group-title="ESTRENOS HD",MAXXXINE
 https://www.polimor.club/movies/maxxine.mp4
@@ -621,89 +620,4 @@ http://tv.nousiptv.com:8080/movie/AR10429/10429B/1154253.mkv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/h_hd7ioIqVc/maxresdefault.jpg" group-title="ESTRENOS HD",LA ELEFANTA DEL MAGO
 http://45.179.164.59:8181/Peliculas/La.elefanta.del.mago.2023.720p-dual-lat.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Borderlands (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtEZi4eZxDjxcDIeMbkQ8HmvRs1.jpg" group-title="VOD-ESTRENOS",Borderlands (Dual-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/185909.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Killer (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PCnxKZZIVRanWb710pNpYVkCSw.jpg" group-title="VOD-ESTRENOS",The Killer (Dual-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/185913.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shepherd: Isla Fantasma (Dual-2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdzkeoMn3krFBwt4rnMuGDZLkkP.jpg" group-title="VOD-TERROR",Shepherd: Isla Fantasma (Dual-2021)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/185914.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bienvenidos al paraiso (Lat-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aedMyPKufo1MfMy6bIzS5b7jVav.jpg" group-title="VOD-ESTRENOS",Bienvenidos al paraiso (Lat-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/186055.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sismo magnitud 9.5 (Dual-2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jg0cSHHCuiOnFQfEGRGlmZpU4OE.jpg" group-title="VOD-ESTRENOS",Sismo magnitud 9.5 (Dual-2023)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/186056.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Descifrando a Susie (Dual-2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoXSy3lWsQ1XQI3OmI2ocaqgTCL.jpg" group-title="VOD-ESTRENOS",Descifrando a Susie (Dual-2023)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/186062.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Hombre Sin Miedo (Dual-2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDbM1L5LHTd9h33MSh2jgQmXmAr.jpg" group-title="VOD-ESTRENOS",El Hombre Sin Miedo (Dual-2022)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/186063.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La ultima caceria (Dual-2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifnOVSIuQpL8TC0bn4mBiX0cOr9.jpg" group-title="VOD-WESTERN",La ultima caceria (Dual-2022)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/186079.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A primera vista (Dual-1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLq1kcFJuM0H6rNRCNdoRvChU77.jpg" group-title="VOD-DRAMA",A primera vista (Dual-1999)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/186320.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mejor viuda que mal acompañada (Lat-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur1asYaaZFrMVxkV69gQHP5Kmjo.jpg" group-title="VOD-ESTRENOS",Mejor viuda que mal acompañada (Lat-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/186321.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los vigilantes (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UgIqUyDhxRsMEGcZ3V9WortIp1.jpg" group-title="VOD-ESTRENOS",Los vigilantes (Dual-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/186322.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Parpadea dos veces (Lat-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4o3f9dmxB9TyFNMncvwspSoVLJ.jpg" group-title="VOD-ESTRENOS",Parpadea dos veces (Lat-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/186323.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Torre (Dual-2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CgvLrylM3RmjRmZXyb6B4AXtj2.jpg" group-title="VOD-ACCION",La Torre (Dual-2012)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/186458.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La tierra que el tiempo olvido (Sub-1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Jtm4aP4kj4vHimFfnLqjnm8LqF.jpg" group-title="VOD-CLASICO",La tierra que el tiempo olvido (Sub-1974)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/186537.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nadie te oye: perfume de violetas (2001-Lat)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWuhAHj0vK4UNZvJZevxobkmGDq.jpg" group-title="VOD-DRAMA",Nadie te oye: perfume de violetas (2001-Lat)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/186632.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rebel Ridge (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ymTgBQ8rCouE27oHpAUfgKEgRAj.jpg" group-title="VOD-ESTRENOS",Rebel Ridge (Dual-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/186819.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Disco, Ibiza, Locomia (Esp-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/beLbZExOZ64LzbqJbbbjhlqbezi.jpg" group-title="VOD-ESTRENOS",Disco, Ibiza, Locomia (Esp-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/186843.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Beetlejuice Beetlejuice (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWJw7dCWHcfMLr0irTHAPIKrJ4I.jpg" group-title="VOD-ESTRENOS",Beetlejuice Beetlejuice (Dual-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190326.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Technoboys (Lat-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEV0y4SeLBlZ3LpF6l9Ilqkb21p.jpg" group-title="VOD-ESTRENOS",Technoboys (Lat-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190327.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Boxeador (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejGvY8gVc8J9Hjln0xWRV94CqMk.jpg" group-title="VOD-ESTRENOS",Boxeador (Dual-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190328.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los feos (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abNsPyjwSYwOVsx2m0mWrq22xGk.jpg" group-title="VOD-ESTRENOS",Los feos (Dual-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190329.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Agente cinturon negro (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/inEhHhxWx9uPb4jFtstDy3Gpu0o.jpg" group-title="VOD-ESTRENOS",Agente cinturon negro (Dual-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190330.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Cuervo (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/X9iFHeIYgfqoZImvdidx8b9v4R.jpg" group-title="VOD-ESTRENOS",El Cuervo (Dual-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190331.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Parpadea dos veces (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtvvyUXTLVDWWYlHBaBlA4CeTLg.jpg" group-title="VOD-ESTRENOS",Parpadea dos veces (Dual-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190332.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Exorcismo (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imZhdkfRxvHrzxRejRqodI9sJbr.jpg" group-title="VOD-ESTRENOS",El Exorcismo (Dual-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190333.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Borderlands (4K-Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtEZi4eZxDjxcDIeMbkQ8HmvRs1.jpg" group-title="VOD-4K",Borderlands (4K-Dual-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190334.mkv
-#EXTINF:-1 tvg-id="" tvg-name="De noche con el diablo (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jga2jfUWXuVdaBn3WojJooLTSeC.jpg" group-title="VOD-ESTRENOS",De noche con el diablo (Dual-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190335.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La sustancia (Lat-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg" group-title="VOD-ESTRENOS",La sustancia (Lat-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190336.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Watchmen: Capitulo 1 (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tE2vZ6HdlmKaBh0wpsvHCf7HJKo.jpg" group-title="VOD-ESTRENOS",Watchmen: Capitulo 1 (Dual-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190337.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tuesday: Abrazando la vida (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EnPKqX41YK6VPGp7LTd9Yhkra3.jpg" group-title="VOD-ESTRENOS",Tuesday: Abrazando la vida (Dual-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190338.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Transformers One (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynqqkPy8RiawjGtWFIsF9pmYZtJ.jpg" group-title="VOD-ESTRENOS",Transformers One (Dual-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190339.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bandida: La número uno (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVF4hqkBD1maZueHDEhhe02kNhj.jpg" group-title="VOD-ESTRENOS",Bandida: La número uno (Dual-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190340.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Romper el círculo (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4c3IdUFnS8qd3qrMol1b3Rq5MqF.jpg" group-title="VOD-ESTRENOS",Romper el círculo (Dual-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190341.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sed de venganza (Dual-2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Gaq1xOwSzcBs3IbdMRmiOXiJX4.jpg" group-title="VOD-ACCION",Sed de venganza (Dual-2017)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190342.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sed de venganza 2 (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgA5hN3NjNNSTXYOmAI6KNKOzbp.jpg" group-title="VOD-ESTRENOS",Sed de venganza 2 (Dual-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190343.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Longing (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sn9pXNT0ODNQ7kHV0dteOWtHIVy.jpg" group-title="VOD-ESTRENOS",Longing (Dual-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190344.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wanted Man (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOH1ejWdBWgn1bzv0jsnZ2fAUWG.jpg" group-title="VOD-ESTRENOS",Wanted Man (Dual-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190345.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lobos (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNNVMzJg7NVqxRu8mDLEwIiQgDJ.jpg" group-title="VOD-ESTRENOS",Lobos (Dual-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190346.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Robot salvaje (Lat-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDoXpaKZmrzCSJH63zZvQQ9A7VK.jpg" group-title="VOD-ESTRENOS",Robot salvaje (Lat-2024)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190347.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mars Express (Dual-2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEC0dFieUjpkveilI9GQdTfUFc9.jpg" group-title="VOD-ANIME",Mars Express (Dual-2023)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190348.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Perfect Blue (Dual-1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kk8p22JheV6MB0fBXOOUgZK9UWQ.jpg" group-title="VOD-ANIME",Perfect Blue (Dual-1998)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190349.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fear: Pasión obsesiva (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MaX1W7kAAoKIFHpXvfMGpIjCXN.jpg" group-title="VOD-SUSPENSO",Fear: Pasión obsesiva (1996)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190350.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mision suicida (2024-Dual)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naYxXiVGudVNbJ3KgbG91Bg6xOQ.jpg" group-title="VOD-ESTRENOS",Mision suicida (2024-Dual)
-http://tvbross.com:8880/movie/1uzBQuF2FQ/jtFm50oNx0/190351.mkv
+
