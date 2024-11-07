@@ -1,6 +1,6 @@
 #EXTM3U url-tvg=""
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Tvd4RLy3uro/maxresdefault.jpg" group-title="ESTRENOS HD",VENOM 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTNj49jp1M5fQNhDXYPJccivxlqyaSRPd6mt4KRSyNuF4bRYhrLMU7EJ2a&s=10" group-title="ESTRENOS HD",VENOM 3
 https://delivery-node-bzdgp1kzc5nj2wp0.voe-network.net/engine/hls2-c/01/12552/uwxc0fvhmgzp_,n,.urlset/master.m3u8?t=oGu2LngyXqJHSniDuB06wfdautBwBM7cOaj9x1e_ieU&s=1730949381&e=14400&f=62764823&node=delivery-node-etnh2hts8ppjned0.voe-network.net&i=201.106&sp=2500&asn=8151
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Tvd4RLy3uro/maxresdefault.jpg" group-title="ESTRENOS HD",JOKER 2
 http://vod.tuxchannel.mx/peliculas/720/joker%20folie%20a%20deux%202024.mkv
