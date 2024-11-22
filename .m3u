@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/69wkng943dsv6mw6nq8g"
 #EXTINF:-1 tvg-id="Aztecauno.mx(m3u4u)" tvg-name="AZTECA UNO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="A- TV MX",AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?=autoplay=-1
-#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="LAS ESTRELLAS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="A- TV MX",LAS ESTRELLAS
+#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="LAS ESTRELLAS" tvg-logo="https://myworldtv.net/imagenes/canales/estrellas.png" group-title="A- TV MX",LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8?=autoplay=-1
 #EXTINF:-1 tvg-id="Canal5.mx(m3u4u)" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5
 http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=3719&extension=ts
