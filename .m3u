@@ -143,7 +143,7 @@ http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&passwo
 #EXTINF:-1 tvg-id="StarChannel.mx(m3u4u)" tvg-name="STAR CHANNEL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88534_dark_360w_270h.png" group-title="F- CINE Y SERIES",STAR CHANNEL HD
 http://bantel-cdn1.iptvperu.tv:1935/cdnjry/StarChannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FX.mx(m3u4u)" tvg-name="FX HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" group-title="F- CINE Y SERIES",FX HD
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=19&extension=m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnpos/FX/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="F- CINE Y SERIES",SONY CHANNEL
 http://x9.cdn.latincdn.net:25461/live/mwtv012020/1d13dwqef34t2oOasxc3!~~2/86.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.mx(m3u4u)" tvg-name="SONY MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/598px-Sony_Movies_Logo.svg.png" group-title="F- CINE Y SERIES",SONY MOVIE
