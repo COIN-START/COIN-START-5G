@@ -291,8 +291,8 @@ http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&passwo
 #EXTINF:-1 tvg-id="FoxSports3.mx(m3u4u)" tvg-name="Fox Sports 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105006_dark_360w_270h.png" group-title="H- DEPORTES",Fox Sports 3
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=100&extension=m3u8
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx(m3u4u)" tvg-name="FOX SPORTS PREMIUM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123582_dark_360w_270h.png" group-title="H- DEPORTES",FOX SPORTS PREMIUM
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/156098
+http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=101727&extension=m3u8
 #EXTINF:-1 tvg-id="TUDN.mx(m3u4u)" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="H- DEPORTES",TUDN
-http://ch16.zomo.fyi/play/hls/eyJpdiI6ImNtNWNKeVRzSDBaT3RyOVNxejhRT2c9PSIsInZhbHVlIjoiSEl0UmFCZnhRRERieVRMVlpjNUhmUkFHMHlVMTNDR1B6NHc1ZVJHc1RBSWxtVlZTcmliMk1tbFc1aktSc3QrWiIsIm1hYyI6IjVmYTZiYzRiYzk0M2JmZGRkNTFjNTM1NTYyMTFjZDA5ZWZlMTA0YWJkYTg1NzM4NjczM2MxZWQ0ZDllY2E4YWEiLCJ0YWciOiIifQ==/a9ced371-373b-47a4-a676-5bce2020d1f4.m3u8?lvtoken=eyJpdiI6IkM0YXgvV2NnSjhOOTJwWDdITWp5NGc9PSIsInZhbHVlIjoiSzZtcVRGaEdUVlpncG5IN0gxaEw2ZnZ1UGVWL01CL3U2anRoS2Zzbm1XbEJUQmVncDNLTUd6WVJaTzNoUnZPaGlQbGFLMWlPb3F3MVlrVTJYdXl6bUNEcW1rS3ljOFFkcndsaXExbGlYc0RSZkttdS9GbWZPWDdEZy8vVytXVk41cG5WbDRqQ1lLNG1hcEdFaWNjWU5ZUEdTVCtrZ2pBQ1BqYzFRSHpkb3I
+http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=88777&extension=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TUDN USA" tvg-logo="http://x.playerlatino.live/tudn.png" group-title="H- DEPORTES",TUDN USA
 http://190.185.121.102:58092/play/a00m
