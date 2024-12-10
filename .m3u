@@ -140,6 +140,7 @@ http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&passwo
 http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=659&extension=m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.mx(m3u4u)" tvg-name="COMEDY CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="F- CINE Y SERIES",COMEDY CENTRAL
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=23&extension=m3u8
+#EXTVLCOPT:http-user-agent=Roku/DVP(10.10.10)
 #EXTINF:-1 tvg-id="StarChannel.mx(m3u4u)" tvg-name="STAR CHANNEL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88534_dark_360w_270h.png" group-title="F- CINE Y SERIES",STAR CHANNEL HD
 http://bantel-cdn1.iptvperu.tv:1935/cdnjry/StarChannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FX.mx(m3u4u)" tvg-name="FX HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" group-title="F- CINE Y SERIES",FX HD
@@ -156,6 +157,7 @@ http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&passwo
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=17&extension=m3u8
 #EXTINF:-1 tvg-id="TNT.mx(m3u4u)" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="F- CINE Y SERIES",TNT
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=74&extension=m3u8
+#EXTVLCOPT:http-user-agent=Roku/DVP(10.10.10)
 #EXTINF:-1 tvg-id="TNTSeries.mx(m3u4u)" tvg-name="TNT SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="F- CINE Y SERIES",TNT SERIES
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=33&extension=m3u8
 #EXTINF:-1 tvg-id="Space.mx(m3u4u)" tvg-name="SPACE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="F- CINE Y SERIES",SPACE
@@ -168,6 +170,7 @@ http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&passwo
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1166&extension=m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx(m3u4u)" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="F- CINE Y SERIES",CINEMAX
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=82&extension=m3u8
+#EXTVLCOPT:http-user-agent=Roku/DVP(10.10.10)
 #EXTINF:-1 tvg-id="Cinecanal.mx(m3u4u)" tvg-name="CINECANAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="F- CINE Y SERIES",CINECANAL
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=73&extension=m3u8
 #EXTINF:-1 tvg-id="Golden.mx(m3u4u)" tvg-name="GOLDEN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN
