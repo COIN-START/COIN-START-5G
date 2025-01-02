@@ -29,8 +29,7 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 #EXTINF:-1 tvg-id="ImagenTV.mx(m3u4u)" tvg-name="IMAGEN TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" group-title="A- TV MX",IMAGEN TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-Editing COIN-START-5G/.m3u at main · COIN-START/COIN-START-5G 
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MULTIMEDIOS MONTERREY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="A- TV MX",MULTIMEDIOS MONTERREY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
