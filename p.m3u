@@ -1,4 +1,6 @@
 #EXTM3U url-tvg=""
+#EXTINF:-1 tvg-logo="https://movies.sterkinekor.co.za/CDN/media/entity/get/FilmTitleGraphic/HO00003149?referenceScheme=HeadOffice&allowPlaceHolder=true" group-title="A- ESTRENOS HD",MUFASA
+https://cinevallstorage.com/stuff/mufasa.mp4
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCbhBF778DDb-Noii8Rh_Q1lva8Qv37e55pgTFXapdrHlx2Bc26WhKdqRoSx9RB8SAjkLha5cZxBZl2YIj_GcqrU4BHSLZSY50Aj08gZ6g-0HE8niVbmBX7BswsUsV062aObs7eFD5YXch/s1600/Front.jpg" group-title="A- ESTRENOS HD",47 RONIN
 http://amepz.xyz:2052/movie/Diazvp27/Guillermina/188380.mkv
@@ -31,12 +33,10 @@ https://www.polimor.club/movies/MEGALOPOLIS.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTNj49jp1M5fQNhDXYPJccivxlqyaSRPd6mt4KRSyNuF4bRYhrLMU7EJ2a&s=10" group-title="A- ESTRENOS HD",VENOM 3
-https://delivery-node-bzdgp1kzc5nj2wp0.voe-network.net/engine/hls2-c/01/12552/uwxc0fvhmgzp_,n,.urlset/master.m3u8?t=oGu2LngyXqJHSniDuB06wfdautBwBM7cOaj9x1e_ieU&s=1730949381&e=14400&f=62764823&node=delivery-node-etnh2hts8ppjned0.voe-network.net&i=201.106&sp=2500&asn=8151
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Tvd4RLy3uro/maxresdefault.jpg" group-title="A- ESTRENOS HD",JOKER 2
-http://vod.tuxchannel.mx/peliculas/720/joker%20folie%20a%20deux%202024.mkv
+
+
 #EXTINF:-1 tvg-logo="https://elestoque.org/wp-content/uploads/2024/09/transformers-one-web.jpg" group-title="A- ESTRENOS HD",TRANSFORMES ONE
-http://vod.tuxchannel.mx/peliculas/720/transformers%20one%202024.mkv
+https://www.polimor.club/movies/transformers.mp4
 #EXTINF:-1 tvg-logo="https://mty360.net/wp-content/uploads/2016/12/hellboy-the-crooked-man.jpg" group-title="A- ESTRENOS HD",HELLBOY THE CROOKED MAN
 http://vod.tuxchannel.mx/peliculas/720/hellboy%20the%20crooked%20man%202024.mkv
 #EXTINF:-1 tvg-logo="https://areajugones.sport.es/wp-content/uploads/2024/10/los-hombres-lobo-netflix-1.jpg" group-title="A- ESTRENOS HD",LOS HOMBRES LOBO
@@ -46,7 +46,7 @@ http://vod.tuxchannel.mx/peliculas/720/outside%202024.mkv
 #EXTINF:-1 tvg-logo="https://static1.moviewebimages.com/wordpress/wp-content/uploads/2024/07/1992-movie-poster-with-tyrese-gibson-scott-eastwood-and-ray-liotta.jpg" group-title="A- ESTRENOS HD",1992
 https://www.polimor.club/movies/1992.mp4
 #EXTINF:-1 tvg-logo="https://www.loslunesseriefilos.com/wp-content/uploads/2024/10/robot-salvaje-pelicula-2024-768x431.jpg" group-title="A- ESTRENOS HD",ROBOT SALVAJE
-https://castlempire.site:443/movie/esteb5982roj/CchZQLdGB3/364262.mkv
+https://www.polimor.club/movies/robot.mp4
 #EXTINF:-1 tvg-logo="https://sgsonfilm.net/wp-content/uploads/2024/09/17684370.jpg" group-title="A- ESTRENOS HD",BEETLEJUICE 2
 http://vod.tuxchannel.mx/peliculas/720/beetlejuice%20beetlejuice%202024.mkv
 
