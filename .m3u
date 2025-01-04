@@ -20,7 +20,7 @@ https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZ CINEMA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" group-title="A- TV MX",AZ CINEMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NE9VE" tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="A- TV MX",NE9VE
-http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/230603.m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/122625.ts
 #EXTINF:-1 tvg-id="ForoTV.mx(m3u4u)" tvg-name="FORO TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66635_dark_360w_270h.png" group-title="A- TV MX",FORO TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e35aff6b1fdb0008ea8441livestitch/master.m3u8?=-1?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="Once.mx(m3u4u)" tvg-name="ONCE HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png" group-title="A- TV MX",ONCE HD
@@ -36,9 +36,9 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MULTIMEDIOS CDMX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/800px-Multimedios_Canal_Seis_Logo.svg.png" group-title="A- TV MX",MULTIMEDIOS CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVMAS" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/tvmas.png" group-title="A- TV MX",TVMAS
-https://marine2.miplay.cl/tvmas/playlist.m3u8?=-1
+https://marine2.miplay.cl/tvmas/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ONCE NIÑOS" tvg-logo="https://onceninasyninos.tv/wp-content/uploads/2019/07/cropped-Nuevo_Logo_ON-2019-e1561997594507.png" group-title="A- TV MX",ONCE NIÑOS
-https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8?=-1
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="A- TV MX",RT
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8?=-1
 #EXTINF:-1 tvg-id="ADN40.mx(m3u4u)" tvg-name="ADN40" tvg-logo="https://cdn.mitvstatic.com/channels/adn-40-m.png" group-title="A- TV MX",ADN40
@@ -65,7 +65,7 @@ http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/122527.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScience.mx(m3u4u)" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY SCIENCE
 http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79463.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY H&H" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="C- CULTURA",DISCOVERY H&H
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/122527.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx(m3u4u)" tvg-name="DISCOVERY WORLD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY WORLD
 http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79467.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.mx(m3u4u)" tvg-name="DISCOVERY TURBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY TURBO
@@ -83,31 +83,31 @@ http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79478.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx(m3u4u)" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY CHANNEL
 http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79454.m3u8
 #EXTINF:-1 tvg-id="HGTV.mx(m3u4u)" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png" group-title="C- CULTURA",HGTV
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1425&extension=m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/79474.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="C- CULTURA",DISCOVERY ID
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=32&extension=m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/79458.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/150px-TLC_USA_logo.png" group-title="C- CULTURA",DISCOVERY TLC
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=65&extension=m3u8
+
 
 
 #EXTINF:-1 tvg-id="Tooncast.mx(m3u4u)" tvg-name="TOONCAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="D- INFANTIL",TOONCAST
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=55&extension=m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/11941.ts
 #EXTINF:-1 tvg-id="DiscoveryKids.mx(m3u4u)" tvg-name="DISCOVERY KIDS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" group-title="D- INFANTIL",DISCOVERY KIDS
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=43&extension=m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/11925.ts
 #EXTINF:-1 tvg-id="Nickelodeon(English).mx(m3u4u)" tvg-name="NICKELODEO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="D- INFANTIL",NICKELODEO
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=48&extension=m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.mx(m3u4u)" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="D- INFANTIL",CARTOON NETWORK
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=50&extension=m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/11922.ts
 #EXTINF:-1 tvg-id="DisneyChannel.mx(m3u4u)" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19234_dark_360w_270h.png" group-title="D- INFANTIL",DISNEY CHANNEL
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=46&extension=m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/11927.ts
 #EXTINF:-1 tvg-id="Cartoonito.mx(m3u4u)" tvg-name="CARTOONITO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png" group-title="D- INFANTIL",CARTOONITO
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=52&extension=m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/11918.ts
 #EXTINF:-1 tvg-id="BabyTv.mx(m3u4u)" tvg-name="BABY TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56036_dark_360w_270h.png" group-title="D- INFANTIL",BABY TV
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1701&extension=m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/11917.ts
 #EXTINF:-1 tvg-id="NickJr.mx(m3u4u)" tvg-name="NICK JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60295_dark_360w_270h.png" group-title="D- INFANTIL",NICK JR
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=45&extension=m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/11937.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISNEY JR" tvg-logo="http://3.bp.blogspot.com/-VvbUqgHc5Pw/VJIJWAJLxfI/AAAAAAAAHi0/A0nDmO29zwk/s1600/Logo%2BDisney_Junior.png" group-title="D- INFANTIL",DISNEY JR
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=44&extension=m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/11928.ts
 
 
 
