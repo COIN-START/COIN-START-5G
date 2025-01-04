@@ -139,10 +139,10 @@ http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/90083.m3u8
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1664&extension=m3u8
 
 #EXTINF:-1 tvg-id="DistritoComedia.mx(m3u4u)" tvg-name="DISTRITO COMEDIA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55980_dark_360w_270h.png" group-title="F- CINE Y SERIES",DISTRITO COMEDIA
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=659&extension=m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.mx(m3u4u)" tvg-name="COMEDY CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="F- CINE Y SERIES",COMEDY CENTRAL
 http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/122586.m3u8
-#EXTVLCOPT:http-user-agent=Roku/DVP(10.10.10)
+#EXTINF:-1 tvg-id="ComedyCentral.mx(m3u4u)" tvg-name="COMEDY CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="F- CINE Y SERIES",COMEDY CENTRAL
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/79058.ts
+
 #EXTINF:-1 tvg-id="StarChannel.mx(m3u4u)" tvg-name="STAR CHANNEL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88534_dark_360w_270h.png" group-title="F- CINE Y SERIES",STAR CHANNEL HD
 http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/46186.m3u8
 #EXTINF:-1 tvg-id="FX.mx(m3u4u)" tvg-name="FX HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" group-title="F- CINE Y SERIES",FX HD
@@ -150,43 +150,43 @@ http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/46132.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="F- CINE Y SERIES",SONY CHANNEL
 http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/46176.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.mx(m3u4u)" tvg-name="SONY MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/598px-Sony_Movies_Logo.svg.png" group-title="F- CINE Y SERIES",SONY MOVIE
-http://bantel.iptvperu.tv:1935/cdnnjf/sonymovies/chunks.m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/46175.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="F- CINE Y SERIES",UNIVERSAL HD
-http://bantel-cdn1.iptvperu.tv:1935/cdnpos/universalchannel/playlist.m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/46218.ts
 #EXTINF:-1 tvg-id="StudioUniversal.mx(m3u4u)" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="F- CINE Y SERIES",STUDIO UNIVERSAL
 http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/46217.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="WARNER HD" tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png" group-title="F- CINE Y SERIES",WARNER HD
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=17&extension=m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/46249.ts
 #EXTINF:-1 tvg-id="TNT.mx(m3u4u)" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="F- CINE Y SERIES",TNT
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=74&extension=m3u8
-#EXTVLCOPT:http-user-agent=Roku/DVP(10.10.10)
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/46236.ts
+
 #EXTINF:-1 tvg-id="TNTSeries.mx(m3u4u)" tvg-name="TNT SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="F- CINE Y SERIES",TNT SERIES
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=33&extension=m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/46240.ts
 #EXTINF:-1 tvg-id="Space.mx(m3u4u)" tvg-name="SPACE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="F- CINE Y SERIES",SPACE
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=79&extension=m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/46178.ts
 #EXTINF:-1 tvg-id="AandE.mx(m3u4u)" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="F- CINE Y SERIES",A&E
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=20&extension=m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/46085.ts
 #EXTINF:-1 tvg-id="AMC.mx(m3u4u)" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="F- CINE Y SERIES",AMC
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=78&extension=m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/46092.ts
 #EXTINF:-1 tvg-id="Paramount.mx(m3u4u)" tvg-name="PARAMOUNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="F- CINE Y SERIES",PARAMOUNT
 http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/414732.m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx(m3u4u)" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="F- CINE Y SERIES",CINEMAX
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=82&extension=m3u8
-#EXTVLCOPT:http-user-agent=Roku/DVP(10.10.10)
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/46111.ts
+
 #EXTINF:-1 tvg-id="Cinecanal.mx(m3u4u)" tvg-name="CINECANAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="F- CINE Y SERIES",CINECANAL
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=73&extension=m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/46110.ts
 #EXTINF:-1 tvg-id="Golden.mx(m3u4u)" tvg-name="GOLDEN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1624&extension=m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/46143.ts
 #EXTINF:-1 tvg-id="GoldenEdge.mx(m3u4u)" tvg-name="GOLDEN EDGE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN EDGE
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=84&extension=m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/46139.ts
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx(m3u4u)" tvg-name="GOLDEN PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN PLUS
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=75&extension=m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/46138.ts
 #EXTINF:-1 tvg-id="GoldenPremier.mx(m3u4u)" tvg-name="GOLDEN PREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN PREMIER
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=83&extension=m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/46141.ts
 #EXTINF:-1 tvg-id="DePelicula.mx(m3u4u)" tvg-name="DE PELICULA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16288_dark_360w_270h.png" group-title="F- CINE Y SERIES",DE PELICULA
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=85&extension=m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/46121.ts
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx(m3u4u)" tvg-name="DE PELICULA PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png" group-title="F- CINE Y SERIES",DE PELICULA PLUS
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1699&extension=m3u8
+http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/46118.ts
 
 
 
