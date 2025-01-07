@@ -28,7 +28,10 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
 #EXTINF:-1 tvg-id="Teleformula.mx(m3u4u)" tvg-name="TELEFORMULA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34344_dark_360w_270h.png" group-title="A- TV MX",TELEFORMULA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
+/576.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx(m3u4u)" tvg-name="IMAGEN TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" group-title="A- TV MX",IMAGEN TV
+http://plpro.org/stream/secure/ZKj1AmM8ZwtjAwbkZQEyBwR4BzRlBGR6AmRmMQb4BTWzBwuzBGH6MGZmMajkAmZ2ZwpmZwH0BQHlsTHmATSvAGSxAwMwZJMzL2A8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGN7VSAHFl1ZJQZtDaIcoTDiFSIOI0IWH1EYYHkLZlx/576.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx(m3u4u)" tvg-name="IMAGEN TV -1 hora" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" group-title="A- TV MX",IMAGEN TV -1 hora
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 
