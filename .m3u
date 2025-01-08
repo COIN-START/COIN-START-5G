@@ -48,6 +48,10 @@ https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8?=-1
 #EXTINF:-1 tvg-id="ADN40.mx(m3u4u)" tvg-name="ADN40" tvg-logo="http://x.playerlatino.live/adn40.png" group-title="A- TV MX",ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
+#EXTINF:-1 tvg-id="ADN40.mx(m3u4u)" tvg-name="TLC" tvg-logo="http://x.playerlatino.live/adn40.png" group-title="A- TV MX",TLC
+http://plpro.org/stream/secure/ZKj1AmM8ZwtjAwbkZQEyBwR4BzRlBGR6AmRmMQb4BTWzBwuzBGH6MGZmMajkAmZ2ZwpmZwH0BQHlsTHmATSvAGSxAwMwZJMzL2A8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGN7VSAHFl1ZJQZtDaIcoTDiFSIOI0IWH1EYYHkLZlx/911.m3u8
+
+
 
 #EXTINF:-1 tvg-id="TLNovelas.mx(m3u4u)" tvg-name="TLNOVELAS" tvg-logo="https://x.playerlatino.live/tlnovelas.png" group-title="B- NOVELAS",TLNOVELAS
 http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/218439.m3u8
