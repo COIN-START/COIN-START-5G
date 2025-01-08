@@ -1,4 +1,38 @@
 #EXTM3U url-tvg=""
+
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-logo="https://archive.org/download/y-voawiub-cgogp-qu-p-7-xgok-at-lsrk-1/yVOAWIubCgogpQuP7XgokAtLSrk%20%281%29.jpg" group-title="EL JUEGO DEL CALAMAR",Capitulo 1
+https://archive.org/download/el-juego-del-calamar-temporada-1-capitulo-1/El%20juego%20del%20calamar%20Temporada%201%20C%C3%A1pitulo%201.mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/y-voawiub-cgogp-qu-p-7-xgok-at-lsrk-1/yVOAWIubCgogpQuP7XgokAtLSrk%20%281%29.jpg" group-title="EL JUEGO DEL CALAMAR",Capitulo 2
+https://archive.org/download/el-juego-del-calamar-temporada-1-capitulo-2/El%20juego%20del%20calamar%20Temporada%201%20C%C3%A1pitulo%202.mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/y-voawiub-cgogp-qu-p-7-xgok-at-lsrk-1/yVOAWIubCgogpQuP7XgokAtLSrk%20%281%29.jpg" group-title="EL JUEGO DEL CALAMAR",Capitulo 3
+https://archive.org/download/el-juego-del-calamar-temporada-1-capitulo-3/El%20juego%20del%20calamar%20Temporada%201%20C%C3%A1pitulo%203.mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/y-voawiub-cgogp-qu-p-7-xgok-at-lsrk-1/yVOAWIubCgogpQuP7XgokAtLSrk%20%281%29.jpg" group-title="EL JUEGO DEL CALAMAR",Capitulo 4
+https://archive.org/download/el-juego-del-calamar-temporada-1-capitulo-4/El%20juego%20del%20calamar%20Temporada%201%20C%C3%A1pitulo%204.mp4
+
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/y-voawiub-cgogp-qu-p-7-xgok-at-lsrk-1/yVOAWIubCgogpQuP7XgokAtLSrk%20%281%29.jpg" group-title="EL JUEGO DEL CALAMAR",Capitulo 5
+https://archive.org/download/el-juego-del-calamar-temporada-1-capitulo-5_202412/El%20juego%20del%20calamar%20Temporada%201%20C%C3%A1pitulo%205.mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/y-voawiub-cgogp-qu-p-7-xgok-at-lsrk-1/yVOAWIubCgogpQuP7XgokAtLSrk%20%281%29.jpg" group-title="EL JUEGO DEL CALAMAR",Capitulo 6
+https://archive.org/download/el-juego-del-calamar-temporada-1-capitulo-6/El%20juego%20del%20calamar%20Temporada%201%20C%C3%A1pitulo%206.mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/y-voawiub-cgogp-qu-p-7-xgok-at-lsrk-1/yVOAWIubCgogpQuP7XgokAtLSrk%20%281%29.jpg" group-title="EL JUEGO DEL CALAMAR",Capitulo 7
+https://archive.org/download/el-juego-del-calamar-temporada-1-capitulo-7/El%20juego%20del%20calamar%20Temporada%201%20C%C3%A1pitulo%207.mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/y-voawiub-cgogp-qu-p-7-xgok-at-lsrk-1/yVOAWIubCgogpQuP7XgokAtLSrk%20%281%29.jpg" group-title="EL JUEGO DEL CALAMAR",Capitulo 8
+https://archive.org/download/el-juego-del-calamar-temporada-1-capitulo-8/El%20juego%20del%20calamar%20Temporada%201%20C%C3%A1pitulo%208.mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/y-voawiub-cgogp-qu-p-7-xgok-at-lsrk-1/yVOAWIubCgogpQuP7XgokAtLSrk%20%281%29.jpg" group-title="EL JUEGO DEL CALAMAR",Capitulo 
+https://archive.org/download/el-juego-del-calamar-temporada-1-capitulo-9/El%20juego%20del%20calamar%20Temporada%201%20C%C3%A1pitulo%209.mp4
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2024/12/Juego-del-Calamar-2.jpg" group-title="EL JUEGO DEL CALAMAR 2",Capitulo 1
 https://archive.org/download/el-juego-del-calamar-2x-1/El%20juego%20del%20calamar%202x1.mp4
 
@@ -6,7 +40,7 @@ https://archive.org/download/el-juego-del-calamar-2x-1/El%20juego%20del%20calama
 https://archive.org/download/el-juego-del-calamar-2x-2/El%20juego%20del%20calamar%202x2.mp4
 
 #EXTINF:-1 tvg-logo="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2024/12/Juego-del-Calamar-2.jpg" group-title="EL JUEGO DEL CALAMAR 2",Capitulo 3
-https://archive.org/download/el-juego-del-calamar-2x-3/El%20juego%20del%20calamar%202x4.mp4
+https://archive.org/download/el-juego-del-calamar-2x-3/El%20juego%20del%20calamar%202x3.mp4
 
 #EXTINF:-1 tvg-logo="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2024/12/Juego-del-Calamar-2.jpg" group-title="EL JUEGO DEL CALAMAR 2",Capitulo 4
 https://archive.org/download/el-juego-del-calamar-temporada-2-capitulo-4/El%20juego%20del%20calamar%20Temporada%202%20C%C3%A1pitulo%204.mp4
