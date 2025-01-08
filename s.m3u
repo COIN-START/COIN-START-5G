@@ -1,3 +1,22 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-logo="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2024/12/Juego-del-Calamar-2.jpg" group-title="EL JUEGO DEL CALAMAR 2",Capitulo 1
 https://archive.org/download/el-juego-del-calamar-2x-1/El%20juego%20del%20calamar%202x1.mp4
+
+#EXTINF:-1 tvg-logo="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2024/12/Juego-del-Calamar-2.jpg" group-title="EL JUEGO DEL CALAMAR 2",Capitulo 2
+https://archive.org/download/el-juego-del-calamar-2x-2/El%20juego%20del%20calamar%202x2.mp4
+
+#EXTINF:-1 tvg-logo="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2024/12/Juego-del-Calamar-2.jpg" group-title="EL JUEGO DEL CALAMAR 2",Capitulo 3
+https://archive.org/download/el-juego-del-calamar-2x-3/El%20juego%20del%20calamar%202x4.mp4
+
+#EXTINF:-1 tvg-logo="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2024/12/Juego-del-Calamar-2.jpg" group-title="EL JUEGO DEL CALAMAR 2",Capitulo 4
+https://archive.org/download/el-juego-del-calamar-temporada-2-capitulo-4/El%20juego%20del%20calamar%20Temporada%202%20C%C3%A1pitulo%204.mp4
+
+
+#EXTINF:-1 tvg-logo="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2024/12/Juego-del-Calamar-2.jpg" group-title="EL JUEGO DEL CALAMAR 2",Capitulo 5
+https://archive.org/download/el-juego-del-calamar-temporada-2-capitulo-5/El%20juego%20del%20calamar%20Temporada%202%20C%C3%A1pitulo%205.mp4
+
+#EXTINF:-1 tvg-logo="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2024/12/Juego-del-Calamar-2.jpg" group-title="EL JUEGO DEL CALAMAR 2",Capitulo 6
+https://archive.org/download/el-juego-del-calamar-temporada-2-capitulo-6/El%20juego%20del%20calamar%20Temporada%202%20C%C3%A1pitulo%206.mp4
+
+#EXTINF:-1 tvg-logo="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2024/12/Juego-del-Calamar-2.jpg" group-title="EL JUEGO DEL CALAMAR 2",Capitulo 7
+https://archive.org/download/el-juego-del-calamar-temporada-2-capitulo-7/El%20juego%20del%20calamar%20Temporada%202%20C%C3%A1pitulo%207.mp4
