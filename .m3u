@@ -25,7 +25,7 @@ http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/122625.ts
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 
 #EXTINF:-1 tvg-id="Once.mx(m3u4u)" tvg-name="ONCE HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png" group-title="A- TV MX",ONCE HD
-https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
+http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/122582.m3u8
 #EXTINF:-1 tvg-id="Teleformula.mx(m3u4u)" tvg-name="TELEFORMULA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34344_dark_360w_270h.png" group-title="A- TV MX",TELEFORMULA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 /576.m3u8
@@ -45,7 +45,7 @@ https://marine2.miplay.cl/tvmas/playlist.m3u8
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="A- TV MX",RT
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8?=-1
-#EXTINF:-1 tvg-id="ADN40.mx(m3u4u)" tvg-name="ADN40" tvg-logo="https://cdn.mitvstatic.com/channels/adn-40-m.png" group-title="A- TV MX",ADN40
+#EXTINF:-1 tvg-id="ADN40.mx(m3u4u)" tvg-name="ADN40" tvg-logo="http://x.playerlatino.live/adn40.png" group-title="A- TV MX",ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 
