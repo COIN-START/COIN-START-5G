@@ -45,10 +45,10 @@ https://marine2.miplay.cl/tvmas/playlist.m3u8
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="A- TV MX",RT
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8?=-1
-#EXTINF:-1 tvg-id="ADN40.mx(m3u4u)" tvg-name="ADN40" tvg-logo="http://x.playerlatino.live/tlc.png" group-title="A- TV MX",ADN40
+#EXTINF:-1 tvg-id="ADN40.mx(m3u4u)" tvg-name="ADN40" tvg-logo="http://x.playerlatino.live/adn40.png" group-title="A- TV MX",ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-id="ADN40.mx(m3u4u)" tvg-name="TLC" tvg-logo="http://x.playerlatino.live/adn40.png" group-title="A- TV MX",TLC
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://x.playerlatino.live/tlc.png" group-title="A- TV MX",TLC
 http://plpro.org/stream/secure/ZKj1AmM8ZwtjAwbkZQEyBwR4BzRlBGR6AmRmMQb4BTWzBwuzBGH6MGZmMajkAmZ2ZwpmZwH0BQHlsTHmATSvAGSxAwMwZJMzL2A8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGN7VSAHFl1ZJQZtDaIcoTDiFSIOI0IWH1EYYHkLZlx/911.m3u8
 
 
