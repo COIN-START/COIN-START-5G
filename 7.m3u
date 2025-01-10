@@ -49,7 +49,7 @@ http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guil
 #EXTINF:-1 tvg-logo="https://i.kym-cdn.com/photos/images/facebook/001/018/269/b21.png" group-title="D- 24/7",THE THEORY OF BIG BANG
 http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=131193&extension=m3u8
 
-#EXTINF:-1 tvg-logo="blob:https://www.klipartz.com/31554fce-07de-4564-a9b2-8675edceafd9" group-title="D- 24/7",LOS SIMPSON
+#EXTINF:-1 tvg-logo="https://archive.org/download/klipartz.com_202501/klipartz.com.png" group-title="D- 24/7",LOS SIMPSON
 http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56282&extension=m3u8
 
 
