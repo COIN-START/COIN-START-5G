@@ -1,0 +1,48 @@
+{
+  "menu": {
+    "TV Vivo": {
+      "description": "Transmisión en vivo de canales de televisión.",
+      "options": [
+        "Ver canales en vivo",
+        "Agregar más canales"
+      ]
+    },
+    "Series": {
+      "description": "Disfruta de una variedad de series educativas y de entretenimiento.",
+      "options": [
+        "Ver series disponibles",
+        "Agregar más series"
+      ]
+    },
+    "Películas": {
+      "description": "Accede a una colección de películas educativas y de entretenimiento.",
+      "options": [
+        "Ver películas disponibles",
+        "Agregar más películas"
+      ]
+    },
+    "Pluto": {
+      "description": "Contenido de Pluto TV.",
+      "options": [
+        "Ver canales de Pluto",
+        "Agregar más contenido de Pluto"
+      ]
+    },
+    "24/7": {
+      "description": "Contenido disponible las 24 horas, los 7 días de la semana.",
+      "options": [
+        "Ver contenido 24/7",
+        "Agregar más contenido 24/7"
+      ]
+    },
+    "Agregar Más Videos": {
+      "description": "Opción para añadir más videos a cualquiera de las categorías anteriores.",
+      "options": [
+        "Agregar video corto",
+        "Agregar serie",
+        "Agregar película",
+        "Agregar contenido de TV vivo"
+      ]
+    }
+  }
+}
