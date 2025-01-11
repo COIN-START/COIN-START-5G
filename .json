@@ -5,6 +5,15 @@
       "options": [
         "Ver canales en vivo",
         "Agregar más canales"
+      ],
+      "testContent": [
+        {
+          "tvg-id": "Aztecauno.mx(m3u4u)",
+          "tvg-name": "AZTECA UNO",
+          "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png",
+          "group-title": "A- TV MX",
+          "url": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?=autoplay=-1"
+        }
       ]
     },
     "Series": {
@@ -12,6 +21,15 @@
       "options": [
         "Ver series disponibles",
         "Agregar más series"
+      ],
+      "testContent": [
+        {
+          "tvg-id": "Aztecauno.mx(m3u4u)",
+          "tvg-name": "AZTECA UNO",
+          "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png",
+          "group-title": "A- TV MX",
+          "url": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?=autoplay=-1"
+        }
       ]
     },
     "Películas": {
@@ -19,6 +37,15 @@
       "options": [
         "Ver películas disponibles",
         "Agregar más películas"
+      ],
+      "testContent": [
+        {
+          "tvg-id": "Aztecauno.mx(m3u4u)",
+          "tvg-name": "AZTECA UNO",
+          "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png",
+          "group-title": "A- TV MX",
+          "url": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?=autoplay=-1"
+        }
       ]
     },
     "Pluto": {
@@ -26,6 +53,15 @@
       "options": [
         "Ver canales de Pluto",
         "Agregar más contenido de Pluto"
+      ],
+      "testContent": [
+        {
+          "tvg-id": "Aztecauno.mx(m3u4u)",
+          "tvg-name": "AZTECA UNO",
+          "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png",
+          "group-title": "A- TV MX",
+          "url": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?=autoplay=-1"
+        }
       ]
     },
     "24/7": {
@@ -33,6 +69,15 @@
       "options": [
         "Ver contenido 24/7",
         "Agregar más contenido 24/7"
+      ],
+      "testContent": [
+        {
+          "tvg-id": "Aztecauno.mx(m3u4u)",
+          "tvg-name": "AZTECA UNO",
+          "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png",
+          "group-title": "A- TV MX",
+          "url": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?=autoplay=-1"
+        }
       ]
     },
     "Agregar Más Videos": {
@@ -42,6 +87,15 @@
         "Agregar serie",
         "Agregar película",
         "Agregar contenido de TV vivo"
+      ],
+      "testContent": [
+        {
+          "tvg-id": "Aztecauno.mx(m3u4u)",
+          "tvg-name": "AZTECA UNO",
+          "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png",
+          "group-title": "A- TV MX",
+          "url": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?=autoplay=-1"
+        }
       ]
     }
   }
