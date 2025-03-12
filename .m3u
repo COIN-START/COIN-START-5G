@@ -125,23 +125,23 @@ http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/11928.ts
 
 
 #EXTINF:-1 tvg-id="HBO.mx(m3u4u)" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="E- PREMIUM",HBO HD
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=185&extension=m3u8
+http://nxtv2112.xyz/5MUK2Fhqtq/wqq6nhKF4W/46144.m3u8
 #EXTINF:-1 tvg-id="HBO2.mx(m3u4u)" tvg-name="HBO2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="E- PREMIUM",HBO2
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/46148.m3u8
+http://nxtv2112.xyz/5MUK2Fhqtq/wqq6nhKF4W/195527.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.mx(m3u4u)" tvg-name="HBO FAMILY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="E- PREMIUM",HBO FAMILY
 http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/46152.m3u8
 #EXTINF:-1 tvg-id="HBOMundi.mx(m3u4u)" tvg-name="HBO MUNDI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="E- PREMIUM",HBO MUNDI
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/46148.m3u8
+http://nxtv2112.xyz/5MUK2Fhqtq/wqq6nhKF4W/96204.m3u8
 #EXTINF:-1 tvg-id="HBOPlus.mx(m3u4u)" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="E- PREMIUM",HBO PLUS
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/46156.m3u8
+http://nxtv2112.xyz/5MUK2Fhqtq/wqq6nhKF4W/46158.m3u8
 #EXTINF:-1 tvg-id="HBOPop.mx(m3u4u)" tvg-name="HBO POP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="E- PREMIUM",HBO POP
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/96202.m3u8
+http://nxtv2112.xyz/live/5MUK2Fhqtq/wqq6nhKF4W/96201.m3u8
 #EXTINF:-1 tvg-id="HBOSignature.mx(m3u4u)" tvg-name="HBO SIGNATURE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="E- PREMIUM",HBO SIGNATURE
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/46162.m3u8
+http://nxtv2112.xyz/live/5MUK2Fhqtq/wqq6nhKF4W/46162.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.mx(m3u4u)" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="E- PREMIUM",HBO XTREME
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/96207.m3u8
+http://nxtv2112.xyz/live/5MUK2Fhqtq/wqq6nhKF4W/96209.m3u8
 #EXTINF:-1 tvg-id="UniversalCinema.mx(m3u4u)" tvg-name="UNIVERSAL CINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL CINEMA
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/90078.m3u8
+http://nxtv2112.xyz/5MUK2Fhqtq/wqq6nhKF4W/90078.m3u8
 #EXTINF:-1 tvg-id="UniversalComedy.mx(m3u4u)" tvg-name="UNIVERSAL COMEDY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL COMEDY
 http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/90081.ts
 #EXTINF:-1 tvg-id="UniversalCrime.mx(m3u4u)" tvg-name="UNIVERSAL CRIME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121868_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL CRIME
