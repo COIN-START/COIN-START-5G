@@ -1,5 +1,6 @@
 #EXTM3U url-tvg=""
-
+#EXTINF:-1 tvg-logo="https://www.loslunesseriefilos.com/wp-content/uploads/2024/10/robot-salvaje-pelicula-2024-768x431.jpg" group-title="A- ESTRENOS HD",ROBOT SALVAJE
+http://208.88.245.81/nuevo/robot.salvaje.2024.dual.mkv
 
 #EXTINF:-1 tvg-logo="https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/02/sonic-3-movie-trailer-logo.jpg" group-title="A- ESTRENOS HD",SONIC 3
 http://vod.tuxchannel.mx/peliculas/720/sonic%20the%20hedgehog%203%202024.mkv
@@ -69,8 +70,7 @@ http://vod.tuxchannel.mx/peliculas/720/family%20pack%202024.mkv
 http://vod.tuxchannel.mx/peliculas/720/outside%202024.mkv
 #EXTINF:-1 tvg-logo="https://static1.moviewebimages.com/wordpress/wp-content/uploads/2024/07/1992-movie-poster-with-tyrese-gibson-scott-eastwood-and-ray-liotta.jpg" group-title="A- ESTRENOS HD",1992
 https://www.polimor.club/movies/1992.mp4
-#EXTINF:-1 tvg-logo="https://www.loslunesseriefilos.com/wp-content/uploads/2024/10/robot-salvaje-pelicula-2024-768x431.jpg" group-title="A- ESTRENOS HD",ROBOT SALVAJE
-https://www.polimor.club/movies/robot.mp4
+
 #EXTINF:-1 tvg-logo="https://sgsonfilm.net/wp-content/uploads/2024/09/17684370.jpg" group-title="A- ESTRENOS HD",BEETLEJUICE 2
 http://vod.tuxchannel.mx/peliculas/720/beetlejuice%20beetlejuice%202024.mkv
 
