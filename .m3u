@@ -25,12 +25,12 @@ https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZ CINEMA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" group-title="A- TV MX",AZ CINEMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NE9VE" tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="A- TV MX",NE9VE
-http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/122625.ts
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/4bd7b188-1383-4b37-a9e6-57de3f481fa0.m3u8
 #EXTINF:-1 tvg-id="ForoTV.mx(m3u4u)" tvg-name="FORO TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66635_dark_360w_270h.png" group-title="A- TV MX",FORO TV
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 
 #EXTINF:-1 tvg-id="Once.mx(m3u4u)" tvg-name="ONCE HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png" group-title="A- TV MX",ONCE HD
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/122582.m3u8
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/7eb4686c-162d-4207-b42f-7d5a34a72e67.m3u8
 #EXTINF:-1 tvg-id="Teleformula.mx(m3u4u)" tvg-name="TELEFORMULA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34344_dark_360w_270h.png" group-title="A- TV MX",TELEFORMULA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 /576.m3u8
@@ -54,24 +54,23 @@ https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8?=-1
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://x.playerlatino.live/tlc.png" group-title="A- TV MX",TLC
-http://plpro.org/stream/secure/ZKj1AmM8ZwtjAwbkZQEyBwR4BzRlBGR6AmRmMQb4BTWzBwuzBGH6MGZmMajkAmZ2ZwpmZwH0BQHlsTHmATSvAGSxAwMwZJMzL2A8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGN7VSAHFl1ZJQZtDaIcoTDiFSIOI0IWH1EYYHkLZlx/911.m3u8
-
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/35796936-fd1c-4e7a-acdf-35c13037e6be.m3u8
 
 
 #EXTINF:-1 tvg-id="TLNovelas.mx(m3u4u)" tvg-name="TLNOVELAS" tvg-logo="https://x.playerlatino.live/tlnovelas.png" group-title="B- NOVELAS",TLNOVELAS
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/218439.m3u8
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/4b6045cf-2699-4419-b354-f7203ccc7f3f.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PASIONES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png" group-title="B- NOVELAS",PASIONES
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79073.m3u8
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/6c00bca2-bba8-4668-9808-50d5a769d12a.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEMUNDO FLORIDA USA" tvg-logo="https://btv.mx/posters/1720842845264.png" group-title="B- NOVELAS",TELEMUNDO FLORIDA USA
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8?=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEMUNDO" tvg-logo="https://btv.mx/posters/1720842845264.png" group-title="B- NOVELAS",TELEMUNDO
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/4701.m3u8
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/d7d8d214-5bd4-405f-840e-a960130bb6f1.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.mx(m3u4u)" tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png" group-title="B- NOVELAS",TELEMUNDO INTERNACIONAL
 http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/4699.m3u8
 #EXTINF:-1 tvg-id="Unicable.mx(m3u4u)" tvg-name="UNICABLE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png" group-title="B- NOVELAS",UNICABLE
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/122656.m3u8
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/d06da579-3ece-4ab6-a325-617642224726.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZ CORAZÓN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" group-title="B- NOVELAS",AZ CORAZÓN
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/122527.m3u8
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/53a39cbb-949f-424c-88df-69729f9051c0.m3u
 
 
 
