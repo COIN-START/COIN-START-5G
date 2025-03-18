@@ -1,0 +1,703 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="CINE | CINECANAL HD" tvg-logo="https://i.postimg.cc/B6p7S6mS/CINECANAL.png" group-title="CINE",CINE | CINECANAL HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/6ae21b2f-adaa-49bd-92f8-c76186c1ea56.m3u
+#EXTINF:-1 tvg-id="CINECANAL HD.co" tvg-name="CINECANAL FHD" tvg-logo="https://i.postimg.cc/B6p7S6mS/CINECANAL.png" group-title="FHD LATINOS",CINECANAL FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b85cb40a-620b-4a43-ba9a-747b10b0078d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="https://i.postimg.cc/B6p7S6mS/CINECANAL.png" group-title="HD LATINOS",CINECANAL HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/bbe55299-e3be-4c4d-aef2-d2fe868f9a43.m3u
+#EXTINF:-1 tvg-id="CINEMAX HD.co" tvg-name="CINEMAX FHD (CO)" tvg-logo="https://i.postimg.cc/Qtn7XZZ9/CINEMAX.png" group-title="FHD LATINOS",CINEMAX FHD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/5b2165c7-c8f4-4bb6-a70b-b19bdb8c51de.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CINE | CINEMAX HD" tvg-logo="https://i.postimg.cc/Qtn7XZZ9/CINEMAX.png" group-title="CINE",CINE | CINEMAX HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/e45280f1-4df5-45db-be17-983ee90c49dd.m3u
+#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="CINE | De Pelicula Plus HD" tvg-logo="" group-title="CINE",CINE | De Pelicula Plus HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/51a6d5d8-727e-4b6e-99e6-3ed7743bf426.m3u
+#EXTINF:-1 tvg-id="" tvg-name="D Pelicula Plus FHD (MX)" tvg-logo="https://i.ibb.co/Kh19SsF/dpplus.png" group-title="FHD LATINOS",D Pelicula Plus FHD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/77f875f8-b744-4a56-a5af-c3d5a6e2d76b.m3u
+#EXTINF:-1 tvg-id="foxpremiumaction.co" tvg-name="SD | UNIVERSAL CRIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Universal_Crime_logo.png" group-title="SD LATINOS",SD | UNIVERSAL CRIME
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/15ecf91d-d1fd-49d4-a9e3-5c2fe0557104.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA FHD" tvg-logo="https://i.ibb.co/Dz3NcB1/ucinema.png" group-title="FHD LATINOS",UNIVERSAL CINEMA FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/593a9919-9be2-44a3-87f4-a46b54de671f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CINE | UNIVERSAL CINEMA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Universal_Cinema_2021.png/revision/latest?cb=20220102014101&path-prefix=es" group-title="CINE",CINE | UNIVERSAL CINEMA HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/e0363e16-dd1c-4012-b84f-2c025866f533.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME FHD (CO)" tvg-logo="https://i.ibb.co/27X3Yt6/ucrime.png" group-title="FHD LATINOS",UNIVERSAL CRIME FHD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/d94acc89-543c-4834-aa08-2fb1f2b2fb13.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CINE | UNIVERSAL CRIME HD (CO)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="CINE",CINE | UNIVERSAL CRIME HD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/1c5129c0-7aa6-4613-9f97-e6ed5c96338c.m3u
+#EXTINF:-1 tvg-id="foxpremiumcomedy.co" tvg-name="UNIVERSAL COMEDY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Universal_Comedy_logo.png/640px-Universal_Comedy_logo.png" group-title="SD LATINOS",UNIVERSAL COMEDY SD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/03d56e46-52e7-4bc3-9004-e3bfad773add.m3u
+#EXTINF:-1 tvg-id="foxpremiumfamily.co" tvg-name="UNIVERSAL REALITY FHD (CO)" tvg-logo="https://i.ibb.co/47G4F78/ureal.png" group-title="FHD LATINOS",UNIVERSAL REALITY FHD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/14afd3b7-082a-48f2-84d4-ad3c0c806aa1.m3u
+#EXTINF:-1 tvg-id="foxpremiumcomedy.co" tvg-name="SD | UNIVERSAL REALITY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Universal_Reality_2021.png/revision/latest?cb=20220102015650&path-prefix=es" group-title="SD LATINOS",SD | UNIVERSAL REALITY
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/a92c4f4f-8944-4cda-a91c-15d437692e61.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CINE | UNIVERSAL REALITY HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Universal_Reality_2021.png/revision/latest?cb=20220102015650&path-prefix=es" group-title="CINE",CINE | UNIVERSAL REALITY HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/0a3436ee-4325-470d-a1fc-3fb470de805d.m3u
+#EXTINF:-1 tvg-id="foxpremiummovies.co" tvg-name="SD | UNIVERSAL PREMIERE" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.604426719_UniversalPremiere.png.12f05e2df4549f210ad2f2219770e237.png" group-title="SD LATINOS",SD | UNIVERSAL PREMIERE
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/a73f2218-70c5-45e7-9d6e-ef85652468a4.m3u
+#EXTINF:-1 tvg-id="foxpremiumserieshd.co" tvg-name="UNIVERSAL PREMIERE FHD (CO)" tvg-logo="https://i.ibb.co/vhyghNC/unpre.png" group-title="FHD LATINOS",UNIVERSAL PREMIERE FHD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/92fc418e-aa7b-4c94-a3bd-d764a1be36ab.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CINE | UNIVERSAL PREMIERE HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Universal_Premiere_2021.png/revision/latest?cb=20220102013559&path-prefix=es" group-title="CINE",CINE | UNIVERSAL PREMIERE HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/efaa08cf-8ebc-4834-b80e-37b7411ee797.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Golden PLus FHD" tvg-logo="https://i.postimg.cc/25HHbt0y/GOLDEN-PLUS.png" group-title="FHD LATINOS",Golden PLus FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/45040202-6024-4422-bead-6e1934fad48a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier FHD" tvg-logo="https://i.postimg.cc/Dz5NQ0w2/GOLDEN-PREMIER.png" group-title="FHD LATINOS",Golden Premier FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/132d387a-6e84-40da-8230-6de963b844bd.m3u
+#EXTINF:-1 tvg-id="" tvg-name="HBO SD" tvg-logo="https://i.postimg.cc/HxgQL9gn/HBO.png" group-title="SD LATINOS",HBO SD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/46cd8b68-99a3-4898-a109-48446e3df397.m3u
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD" tvg-logo="https://i.postimg.cc/nz9cN65Q/HBO2.png" group-title="FHD LATINOS",HBO 2 FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/7337aa52-411e-4b20-b9bc-5c8d8e46364c.m3u
+#EXTINF:-1 tvg-id="hbo2.co" tvg-name="HBO 2 SD (CO)" tvg-logo="https://i.postimg.cc/nz9cN65Q/HBO2.png" group-title="SD LATINOS",HBO 2 SD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/116d14bf-59bb-4b54-875e-f1a42c3edfa0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY SD " tvg-logo="https://i.postimg.cc/5NgY5MMx/HBO-FAMILY.png" group-title="SD LATINOS",HBO FAMILY SD 
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9afb35cd-48f4-4236-91b4-1d810dfeef53.m3u
+#EXTINF:-1 tvg-id="HBO Family.co" tvg-name="HBO FAMILY FHD" tvg-logo="https://i.postimg.cc/5NgY5MMx/HBO-FAMILY.png" group-title="FHD LATINOS",HBO FAMILY FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/e7fafd72-1798-4182-85fa-461389ec979b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="https://i.postimg.cc/HxgQL9gn/HBO.png" group-title="FHD LATINOS",HBO FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/2ad6696e-f3aa-4566-88dd-23de2415ba50.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO Mundi HD" tvg-logo="" group-title="CINE",CINE | HBO Mundi HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/ddb3ef0f-fd61-447a-88ec-73066ce6d4d5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS FHD" tvg-logo="https://i.postimg.cc/7YWQYkgS/HBO-PLUS.png" group-title="FHD LATINOS",HBO PLUS FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/21e26e0e-3727-4a17-9f9d-6bd4f6811e75.m3u
+#EXTINF:-1 tvg-id="hboplus.co" tvg-name="HBO PLUS SD (CO)" tvg-logo="https://i.postimg.cc/7YWQYkgS/HBO-PLUS.png" group-title="SD LATINOS",HBO PLUS SD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/caa6799d-b3b5-4438-a5d3-08e2e0252769.m3u
+#EXTINF:-1 tvg-id="HBO POP.cl" tvg-name="HBO Pop FHD" tvg-logo="https://i.postimg.cc/tC8QvPm0/HBO-POP.png" group-title="FHD LATINOS",HBO Pop FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/3e9c5e70-91f0-4f05-9c14-bece3e7caf0e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO Pop HD" tvg-logo="https://i.postimg.cc/tC8QvPm0/HBO-POP.png" group-title="CINE",CINE | HBO Pop HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/3356901d-c1c0-4109-a5e8-e62e6878dd0a.m3u
+#EXTINF:-1 tvg-id="hbosignaturehd.co" tvg-name="HBO SIGNATURE SD" tvg-logo="https://cdn.mitvstatic.com/channels/109fb1ec-64b0-4954-ab26-5e8296e1ee76_m.jpg" group-title="SD LATINOS",HBO SIGNATURE SD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/98860b33-a2cc-4aed-b9c3-c63d60d6b718.m3u
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme FHD" tvg-logo="https://i.postimg.cc/T1Y0c7XV/HBO-XTREME.png" group-title="FHD LATINOS",HBO Xtreme FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/a81987fd-fcb3-4b92-b8b1-84892c258a04.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO Xtreme HD" tvg-logo="https://i.postimg.cc/T1Y0c7XV/HBO-XTREME.png" group-title="CINE",CINE | HBO Xtreme HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/c43ad2ae-a16b-46c8-9dcd-77aac3f35390.m3u
+#EXTINF:-1 tvg-id="paramountchannel.co" tvg-name="SD | PARAMOUNT NETWORK" tvg-logo="https://cdn.mitvstatic.com/channels/co_paramount-channel_m.png" group-title="SD LATINOS",SD | PARAMOUNT NETWORK
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/bcc44abf-9334-4763-abe9-07a014333b80.m3u
+#EXTINF:-1 tvg-id="Paramount Channel.co" tvg-name="Paramount Network FHD" tvg-logo="https://i.ibb.co/cNJ1xPz/pane.png" group-title="FHD LATINOS",Paramount Network FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b1a253bf-70ec-4dd3-9a23-5cf5e28387b4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CINE | PARAMOUNT NETWORK HD" tvg-logo="" group-title="CINE",CINE | PARAMOUNT NETWORK HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/8c1ab903-7e7c-437e-8fba-99fb08a81662.m3u
+#EXTINF:-1 tvg-id="space.co" tvg-name="SD | SPACE" tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="SD LATINOS",SD | SPACE
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/3720dce0-a8b2-48ee-9cf3-81b987d54068.m3u
+#EXTINF:-1 tvg-id="Space.co" tvg-name="SPACE FHD" tvg-logo="https://i.ibb.co/YkRGmdb/space.png" group-title="FHD LATINOS",SPACE FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/c81adc8e-ee1e-43e1-a67a-672adefb3635.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CINE | SPACE HD" tvg-logo="" group-title="CINE",CINE | SPACE HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/1b2d5472-70c7-4e34-9caf-ccb973327e1c.m3u
+#EXTINF:-1 tvg-id="studiouniversal.co" tvg-name="SD | STUDIO UNIVERSAL" tvg-logo="" group-title="SD LATINOS",SD | STUDIO UNIVERSAL
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/d713a82f-1a8c-4ae8-a84c-efe8198c83fc.m3u
+#EXTINF:-1 tvg-id="Studio Universal.co" tvg-name="Studio Universal FHD" tvg-logo="https://i.ibb.co/829X9qs/studiouniversal.png" group-title="FHD LATINOS",Studio Universal FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/7472beeb-1b77-4e16-80f9-0f686ae8b6dc.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CINE | STUDIO UNIVERSAL HD" tvg-logo="" group-title="CINE",CINE | STUDIO UNIVERSAL HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/555e5509-69f6-4e85-b776-6bcda7f69c5d.m3u
+#EXTINF:-1 tvg-id="tcm.co" tvg-name="CINE | TCM HD (CO)" tvg-logo="" group-title="CINE",CINE | TCM HD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/c6bd4857-2f1c-40d8-870d-c1b9b4c4da8d.m3u
+#EXTINF:-1 tvg-id="tnt.co" tvg-name="SD | TNT" tvg-logo="https://cdn.mitvstatic.com/channels/08f3286d-6e7e-4827-a5a7-bd227bf41674_m.jpg" group-title="SD LATINOS",SD | TNT
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/0d3c06eb-887c-4faf-b29c-eafda095e954.m3u
+#EXTINF:-1 tvg-id="tnt.co" tvg-name="TNT FHD" tvg-logo="https://i.ibb.co/7VLTsML/250-cb-20170609120943.png" group-title="FHD LATINOS",TNT FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/74bb2073-125f-46bd-bb11-56078f73c794.m3u
+#EXTINF:-1 tvg-id="tnt.co" tvg-name="CINE | TNT HD (CO)" tvg-logo="" group-title="CINE",CINE | TNT HD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/0101c54e-685a-47d0-99a6-f04b69bee9ad.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | Adrenalina Sports HD" tvg-logo="https://pbs.twimg.com/profile_images/1080017503047213056/9sMHy4R5_400x400.jpg" group-title="DEPORTES",DEP | Adrenalina Sports HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/8e116683-fd76-49ac-8548-51c5ec80f220.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | AYM SPORTS HD" tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/image/237123622527/medium/100/1478017795700b084b1cdf4ad10dc7ff9ddc91abba.jpg" group-title="DEPORTES",DEP | AYM SPORTS HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/ba58f57d-1e6b-456a-9fe3-a27bf683a208.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | TNT SPORTS (CL)" tvg-logo="https://i.ibb.co/VS7bwsB/images-q-tbn-ANd9-Gc-QVvi5d-E3-Ikzv7hyb-Kst0-Xb-I58pe9h5jz9-PQ-s.png" group-title="DEPORTES",DEP | TNT SPORTS (CL)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/6188f02b-ce22-42fe-8a86-a61cca1b954e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | TNT SPORTS PREMIUM HD (CL)" tvg-logo="https://i.ibb.co/VS7bwsB/images-q-tbn-ANd9-Gc-QVvi5d-E3-Ikzv7hyb-Kst0-Xb-I58pe9h5jz9-PQ-s.png" group-title="DEPORTES",DEP | TNT SPORTS PREMIUM HD (CL)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/c94fcb3b-3633-42e3-b1ab-f6b4ce317af4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | Claro Sports HD" tvg-logo="https://i.ibb.co/yFWQbxw/Claro-Sports.jpg" group-title="DEPORTES",DEP | Claro Sports HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/449735cf-74fd-425d-9945-771231b58302.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN HD (MX)" tvg-logo="https://pbs.twimg.com/profile_images/856564125455065089/MAJ4Buek_400x400.jpg" group-title="DEPORTES",DEP | ESPN HD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/ec5e5d0c-ce5f-487e-a923-d44242c5b4b8.m3u
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="DEP | ESPN 2 HD (MX)" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" group-title="DEPORTES",DEP | ESPN 2 HD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/f6c3675a-0031-4788-820d-0b4913ca36fc.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 2 HD (AR)" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" group-title="DEPORTES",DEP | ESPN 2 HD (AR)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9ea11491-20f3-42ca-ac4d-b627bae5ee50.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 3 HD (MX)" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="DEPORTES",DEP | ESPN 3 HD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/6760ba79-4638-47d0-b487-24514d8f1afc.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 3 HD (CO)" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="DEPORTES",DEP | ESPN 3 HD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/2ade0d27-bb28-47ad-aa55-2196e5ed1b8f.m3u
+#EXTINF:-1 tvg-id="espn-deportes" tvg-name="DEP | ESPN DEPORTES HD" tvg-logo="https://pbs.twimg.com/profile_images/1136331237218373632/NleiENDQ_400x400.png" group-title="DEPORTES",DEP | ESPN DEPORTES HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9db9023b-972f-4776-aecf-5386bae176db.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN HD (CO)" tvg-logo="https://pbs.twimg.com/profile_images/856564125455065089/MAJ4Buek_400x400.jpg" group-title="DEPORTES",DEP | ESPN HD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/12d3d8be-373a-4013-9b05-0707cd47cd10.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 4 HD (MX)" tvg-logo="https://i.ibb.co/yVmY0JL/370.png" group-title="DEPORTES",DEP | ESPN 4 HD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/8e248005-1c24-4459-a471-1329f8da3815.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | FOX Deportes HD" tvg-logo="https://i.ibb.co/hFtwNqd/8870f826e9cb1423f1bb548f93c4a86a-icon.png" group-title="DEPORTES",DEP | FOX Deportes HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b3be4505-7efa-4a5a-99d5-8516325716b9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | Fox Sports HD (MX)" tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg" group-title="DEPORTES",DEP | Fox Sports HD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/67bf848b-2f3c-4272-8860-fa5536f8cf43.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | Fox Sports HD (AR)" tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg" group-title="DEPORTES",DEP | Fox Sports HD (AR)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/8b01736f-c63d-4906-aa9a-0e9d9899c37a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | Fox Sports 2 HD (MX)" tvg-logo="https://1.bp.blogspot.com/-EGQhLPzfFjo/VjbRBEybupI/AAAAAAAAAVQ/3REUtY6advI/s1600/fox%2B2.png" group-title="DEPORTES",DEP | Fox Sports 2 HD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/c0030764-11bf-4ba9-8254-e533606a5017.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | Fox Sports 2 HD (AR)" tvg-logo="https://1.bp.blogspot.com/-EGQhLPzfFjo/VjbRBEybupI/AAAAAAAAAVQ/3REUtY6advI/s1600/fox%2B2.png" group-title="DEPORTES",DEP | Fox Sports 2 HD (AR)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/d3d77af8-fcf1-4bbb-9840-eaf32d1b78df.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | Fox Sports 3 HD (MX)" tvg-logo="https://i.ibb.co/68Cs2Y5/FSA3.png" group-title="DEPORTES",DEP | Fox Sports 3 HD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/253551b2-6ec5-475e-9b6b-7835863b03ed.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 6 HD (CO)" tvg-logo="https://i.ibb.co/GsZmpxB/2560px-ESPN-6-logo-svg.png" group-title="DEPORTES",DEP | ESPN 6 HD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/0a290a92-e8aa-4043-8cea-7e55a87c5670.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | TUDN SD (US)" tvg-logo="https://1.bp.blogspot.com/-2Qozv_IZzAU/XTHsirGYuSI/AAAAAAAA8B8/-xEieOU6gYUjWZPIh6yzZEh0-akZsMB9gCLcBGAs/s1600/TUDN.png" group-title="DEPORTES",DEP | TUDN SD (US)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/90a2fca3-0e44-458d-8654-a26de06d91d6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | TUDN HD (MX)" tvg-logo="https://i1.wp.com/radioinsight.com/wp-content/images/2019/07/tudn.png" group-title="DEPORTES",DEP | TUDN HD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/33499fe0-7ac3-4596-a167-1c9fbe122b6d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | TUDN FHD (US)" tvg-logo="https://i1.wp.com/radioinsight.com/wp-content/images/2019/07/tudn.png" group-title="DEPORTES",DEP | TUDN FHD (US)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/54a9ea28-9fe3-4297-ab1d-43aa03651f31.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | TVC Deportes (MX)" tvg-logo="https://2.bp.blogspot.com/-iTrO9u2_ycs/UgKMVLni5qI/AAAAAAAAAQg/Qlb1RXtqNaw/s1600/TVC-DEPORTEScfp.png" group-title="DEPORTES",DEP | TVC Deportes (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/f240d0f6-7251-41f6-bd5c-3f1ed7e4e3a0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | #O HD" tvg-logo="https://i1.wp.com/www.audiovisual451.com/wp-content/uploads/0-Movistar-logo.jpg" group-title="ESPAÑA",ES | #O HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/a9c00130-0138-4da0-b92f-c2734243f997.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | #VAMOS HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Vamos.svg/revision/latest/scale-to-width-down/250?cb=20180908201612" group-title="ESPAÑA",ES | #VAMOS HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/c7556503-ac99-4794-8284-1e1963807ae4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | 13TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/Trece_logo_2017.png/revision/latest/scale-to-width-down/200?cb=20171013191954" group-title="ESPAÑA",ES | 13TV
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/0a468ded-5033-4749-9ff4-244e7ee1e8d0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | A3SERIES HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e2/Atresseries.png/revision/latest/scale-to-width-down/158?cb=20160120113332" group-title="ESPAÑA",ES | A3SERIES HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/33a23b1f-1be8-4be7-a06b-a79bc25dec16.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | AMC HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/AMC_Studios.svg/revision/latest/scale-to-width-down/300?cb=20160727104455" group-title="ESPAÑA",ES | AMC HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b38bf9b1-6aec-439f-8ae6-805140137ee2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | ANTENA 3 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/03/Antena_3.svg/revision/latest/scale-to-width-down/115?cb=20170504110720" group-title="ESPAÑA",ES | ANTENA 3 HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b7e5b7f8-3cb0-4c93-b9de-a91641c6ce34.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | AXN HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/250?cb=20170702050834" group-title="ESPAÑA",ES | AXN HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/7c48f6ee-04c1-469f-aa84-1cc71c0c5c70.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | AXN WHITE HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/AXN_White_logo_%282015%29.svg/revision/latest/scale-to-width-down/200?cb=20180914131151" group-title="ESPAÑA",ES | AXN WHITE HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/fccedcc5-cd0d-4a3b-9a53-0e8c4ace4bb3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | BABY" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/BabyFirstTV.png/revision/latest?cb=20151027180337" group-title="ESPAÑA",ES | BABY
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/535708b8-9845-4fb9-b451-27698dedc12d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bc/BeINLaLiga2017.png/revision/latest/scale-to-width-down/220?cb=20170102171556" group-title="ESPAÑA",ES | MOVISTAR LA LIGA FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/8aa6335c-26ba-4680-9583-49964fcb3c01.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bc/BeINLaLiga2017.png/revision/latest/scale-to-width-down/220?cb=20170102171556" group-title="ESPAÑA",ES | MOVISTAR LA LIGA HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/bcba3b71-2419-43c9-a2cb-a8c02479a7e5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | BEMAD FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/26/BeMad.svg/revision/latest/scale-to-width-down/200?cb=20171228172553" group-title="ESPAÑA",ES | BEMAD FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/c10ac3f9-3bf2-4e0a-8521-3378c8d1177e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | BOING" tvg-logo="https://static.iptv-epg.com/es/Boing.es.png" group-title="ESPAÑA",ES | BOING
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/660ff5a1-bdc9-4a1e-a5f0-c5abb49e3446.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | BOM CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/1200px-Logo-bom.svg.png" group-title="ESPAÑA",ES | BOM CINE
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/38a14ddf-1a68-408a-8c68-7d658b1aea32.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | CALLE 13 HD" tvg-logo="https://static.wixstatic.com/media/f7464e_174e9e4a9e284071b7f46700918e38bd~mv2.png/v1/fill/w_108,h_124,al_c,usm_0.66_1.00_0.01/f7464e_174e9e4a9e284071b7f46700918e38bd~mv2.png" group-title="ESPAÑA",ES | CALLE 13 HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/661207ee-8e6c-406f-8af4-e59b8a5ebbb2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | CANAL COCINA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1f/Canal_Cocina.svg/revision/latest/scale-to-width-down/250?cb=20100605142926" group-title="ESPAÑA",ES | CANAL COCINA
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b183bfb6-a9c5-4fe1-b9a1-de37b31c48f1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | COMEDY CENTRAL HD" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/ccdesign20/assets/206b5404-1c2b-41e5-86d8-0bb8da72b957/comedy-central-logo.png" group-title="ESPAÑA",ES | COMEDY CENTRAL HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/ac436164-b4da-4454-af0a-1a48ba410526.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | COSMO HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f4/Cosmo_TV_logo_2009.svg/revision/latest/scale-to-width-down/250?cb=20100605141832" group-title="ESPAÑA",ES | COSMO HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/43e668d9-0e51-4c5d-8df9-c37d378d7056.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | CRIMEN E INVESTIGACION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Crime_and_Investigation_Canada_TV_logo.png/revision/latest/scale-to-width-down/300?cb=20141114005511" group-title="ESPAÑA",ES | CRIMEN E INVESTIGACION
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/6b91fbee-e502-4198-90b2-b543eaeff3ee.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | CUATRO HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/Cuatro_logo.png/revision/latest/scale-to-width-down/250?cb=20121227195336" group-title="ESPAÑA",ES | CUATRO HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/119ffd9f-d7ca-4378-b0bf-e78bdc9b7fac.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | DE CASA FHD" tvg-logo="https://static.iptv-epg.com/es/CanalDecasa.es.png" group-title="ESPAÑA",ES | DE CASA FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/07e83b25-1a21-452e-8879-573cf2bca977.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | DISCOVERY CHANNEL FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/03/Discovery_Channel_2009.svg/revision/latest/scale-to-width-down/200?cb=20171113070832" group-title="ESPAÑA",ES | DISCOVERY CHANNEL FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/6a560089-8ff5-4ae6-b4bf-e55413ff7fca.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | DISNEY JUNIOR" tvg-logo="http://51.161.117.219:80/images/ea8b46a59a57728af346abd8698f4ee3.png" group-title="ESPAÑA",ES | DISNEY JUNIOR
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/e21b30b5-a28a-484b-84cb-94a13fa8ca67.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | DIVINITY" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/Divinity_2012.png/revision/latest/scale-to-width-down/152?cb=20180117171741" group-title="ESPAÑA",ES | DIVINITY
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/30ec079d-fcbe-41ab-8a32-3e0d1d7685fa.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | ENERGY" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/Energy2016.png/revision/latest/scale-to-width-down/200?cb=20160319125511" group-title="ESPAÑA",ES | ENERGY
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b0e97d9a-50e1-4ebc-a8b4-61d587d9ebd4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | EUROSPORT HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/99/Eurosport_%282015%29_%28Print%29.svg/revision/latest/scale-to-width-down/147?cb=20171123114218" group-title="ESPAÑA",ES | EUROSPORT HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/4eafe3c6-7374-4ada-941f-64a4ceaf1e18.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | FDF" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/FDF_2012.png/revision/latest/scale-to-width-down/150?cb=20120731015245" group-title="ESPAÑA",ES | FDF
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/8cde91be-8388-4d48-adaa-6c8fdc6bd075.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | FOX HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/FOX_International.svg/revision/latest/scale-to-width-down/185?cb=20170519104225" group-title="ESPAÑA",ES | FOX HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b9c713bb-3205-4f9a-8766-9bb507b28722.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | HISTORIA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d5/Historia_2016.png/revision/latest/scale-to-width-down/150?cb=20180119231616" group-title="ESPAÑA",ES | HISTORIA
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/5e568aca-6fdf-44b0-b8dd-a85045178fc3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | HOLLYWOOD HD" tvg-logo="https://4.bp.blogspot.com/-SRdf6OBwhCo/VmcRKA0C-JI/AAAAAAAAHw4/Yq52WOntHj0/s200/canal%2Bhollywood.png" group-title="ESPAÑA",ES | HOLLYWOOD HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/7e449e94-a714-4e08-8764-55efcf493689.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | LA 1 HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/146px-La_1_HD_TVE.png" group-title="ESPAÑA",ES | LA 1 HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/f232e870-183b-48bc-a884-56b8c29027c4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | LA 2 FHD" tvg-logo="http://www.redipo.es/imagenes/tv/canales_tv/la_2.png" group-title="ESPAÑA",ES | LA 2 FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/37244860-f293-4be3-8da5-297be3a29ab9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | LA SEXTA HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/ba/LaSexta_2016.svg/revision/latest/scale-to-width-down/150?cb=20160411194138" group-title="ESPAÑA",ES | LA SEXTA HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/30ee13a1-1892-4e0f-bf4c-4d013e306867.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | LALIGATV HD" tvg-logo="http://coeursdefoot.fr/backEnd/images/competition/9bf74c238dd0d118d08148d31b72c0cd/primera_division.png" group-title="ESPAÑA",ES | LALIGATV HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/77d3ffbb-ab4d-4d3d-b53f-355d50eabe33.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | LALIGATV SD" tvg-logo="http://coeursdefoot.fr/backEnd/images/competition/9bf74c238dd0d118d08148d31b72c0cd/primera_division.png" group-title="ESPAÑA",ES | LALIGATV SD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/87b3abd1-d0a4-47ea-a004-b8d67cee0df9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | LIGA DE CAMPEONES HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Movistar_Liga_de_Campeones.svg/revision/latest/scale-to-width-down/250?cb=20180825173605" group-title="ESPAÑA",ES | LIGA DE CAMPEONES HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/2eede18b-3287-4223-b4d2-23b59a57cf85.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | Mega HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Mega_Spain_2015.svg/revision/latest/scale-to-width-down/250?cb=20150616084825" group-title="ESPAÑA",ES | Mega HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9a50bf60-fbae-474d-8adc-5ad2925102ca.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | MELILLA TV" tvg-logo="https://i.ibb.co/5kFhMsT/descarga-3.jpg" group-title="ESPAÑA",ES | MELILLA TV
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/96972f34-1926-4fb6-844f-8c7a2bc70fc6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR ACCION HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/20/Movistar_Acci%C3%B3n.svg/revision/latest/scale-to-width-down/180?cb=20171026145947" group-title="ESPAÑA",ES | MOVISTAR ACCION HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/354c7ae2-a82c-4d33-8712-1fbd6b3b810d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR CineDoc&Roll" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/Movistar_CineDoc%26Roll.svg/revision/latest/scale-to-width-down/250?cb=20180830183620" group-title="ESPAÑA",ES | MOVISTAR CineDoc&Roll
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/a7e2807f-05f1-42aa-9bc6-0d604e9747df.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR COMEDIA HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/05/Movistar_Comedia.svg/revision/latest/scale-to-width-down/180?cb=20171026152407" group-title="ESPAÑA",ES | MOVISTAR COMEDIA HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9cd82d8b-4eaf-49db-9f49-fed3aa20ca3a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DCINE ESPANOL" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/revision/latest/scale-to-width-down/180?cb=20171026151009" group-title="ESPAÑA",ES | MOVISTAR DCINE ESPANOL
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/7510d2bf-818c-49b8-8d37-2051b926cbdc.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DRAMA HD" tvg-logo="http://www.movistarplus.es/recorte/?id=CPCOLE&v=DPBLAN&r=samepg&t=m" group-title="ESPAÑA",ES | MOVISTAR DRAMA HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9736d375-3014-4467-a666-3a58856abd07.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR ESTRENOS HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1d/Movistar_Estrenos.svg/revision/latest/scale-to-width-down/225?cb=20171026172342" group-title="ESPAÑA",ES | MOVISTAR ESTRENOS HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/52ad2e66-0e16-4801-b884-eed0e93207d9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN F1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Movistar_Formula_1_2016.svg/revision/latest/scale-to-width-down/200?cb=20171026154219" group-title="ESPAÑA",ES | DAZN F1 HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9ecdee43-5192-4d97-aacb-3dde7538a714.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR SERIES HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/Movistar_Series.svg/revision/latest/scale-to-width-down/180?cb=20171117191559" group-title="ESPAÑA",ES | MOVISTAR SERIES HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/47abe843-15ec-4f98-8488-1a3733a2169f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR Seriesmania" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/Movistar_Seriesman%C3%ADa.svg/revision/latest/scale-to-width-down/200?cb=20180830183601" group-title="ESPAÑA",ES | MOVISTAR Seriesmania
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/f1d857ea-b4e4-45ec-96f7-ed869e722be2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | NAT GEO WILD HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a6/Nat_Geo_Wild.svg/revision/latest/scale-to-width-down/200?cb=20170426190523" group-title="ESPAÑA",ES | NAT GEO WILD HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/ac8014c8-117c-4dbd-8911-60221791a17d.m3u
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="ES | NATIONAL GEOGRAPHIC HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/250?cb=20170701154034" group-title="ESPAÑA",ES | NATIONAL GEOGRAPHIC HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/141e3391-c2c7-4449-a36e-7b3e487274b0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | NEOX " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/Logo_neox_rst.png/revision/latest?cb=20140923153727" group-title="ESPAÑA",ES | NEOX 
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/a4b4eb0d-765c-4bbb-9dae-0407c5408c53.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | NICKELODEON" tvg-logo="http://51.161.117.219:80/images/74c88f3c967009030c1392659e3cdb4a.png" group-title="ESPAÑA",ES | NICKELODEON
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/e50a19e6-12a1-4788-99d9-7c223e77fa34.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | NOVA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/49/Logo_nova_2015.png/revision/latest?cb=20150429165020" group-title="ESPAÑA",ES | NOVA
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/2f534257-3c33-4587-9d6c-d746b36fe21f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | ODISEA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Odisea.png/revision/latest/scale-to-width-down/250?cb=20160430224323" group-title="ESPAÑA",ES | ODISEA
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/d285e5ab-bc7b-4f4f-9a55-57cc38d685cc.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | ENFAMILIA" tvg-logo="http://51.161.117.219:80/images/b90344c89a2c3290e12dd80b1e7c08c8.png" group-title="ESPAÑA",ES | ENFAMILIA
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/cae62690-576b-425f-afe7-01e4d3159db8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | PARAMOUNT" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353" group-title="ESPAÑA",ES | PARAMOUNT
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/c531b360-c7cc-4f80-b9b9-22d787b1efed.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | SOMOS FHD" tvg-logo="" group-title="ESPAÑA",ES | SOMOS FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/8bdfd6b4-d966-4e1c-b957-2cd455f47bcf.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | TCM HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b9/TCM_logo_old.png/revision/latest/scale-to-width-down/200?cb=20160603144851" group-title="ESPAÑA",ES | TCM HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/c197a776-2317-4546-a9a9-160cec8df47a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | TELECINCO HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/Telecinco.svg/revision/latest/scale-to-width-down/150?cb=20120312235721" group-title="ESPAÑA",ES | TELECINCO HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/c084afde-8504-4272-aa9a-cc2fd89ecb82.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | TNT HD" tvg-logo="https://www.willustrator.ch/images/referenzen/tnt.png" group-title="ESPAÑA",ES | TNT HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9bb1a400-99fc-4dda-9aaf-68c6b7bd1e4b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | TOROS HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/51/TorosTV2016.png/revision/latest/scale-to-width-down/220?cb=20170225124357" group-title="ESPAÑA",ES | TOROS HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/93b0fce3-4005-4c0e-aba7-4d24a8a08f8e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | TVE 24h" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bf/24h_bug.png/revision/latest/scale-to-width-down/200?cb=20171106033802" group-title="ESPAÑA",ES | TVE 24h
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/ed40005c-f6f1-4b1c-8876-db975b44c326.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GA1AV1S10N ALBUQUERQUE SANTA FE" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/47_es.png" group-title="GALAVISION",GA1AV1S10N ALBUQUERQUE SANTA FE
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/f9c55dea-4b79-4cc6-b5f0-d45d5e67c846.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GA1AV1S10N ATLANTA" tvg-logo="http://disfruta.net:80/images/c388c242c79f90d2faa6ea5a561bb9e9.png" group-title="GALAVISION",GA1AV1S10N ATLANTA
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/a54b4648-2daf-40a9-8175-6e20c5456245.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GA1AV1S10N AUSTIN" tvg-logo="http://disfruta.net:80/images/074aad96a5ed0ce5d5ecce5817b634ad.png" group-title="GALAVISION",GA1AV1S10N AUSTIN
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/cc95467a-b9bc-4972-b815-eb26777d3a5f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GA1AV1S10N CLEVELAND" tvg-logo="http://disfruta.net:80/images/e6b0612c0b621a848c0792cf5fdf956c.png" group-title="GALAVISION",GA1AV1S10N CLEVELAND
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/61deec38-3bb8-462a-bb4e-7ad90d59ebba.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GA1AV1S10N DALLAS" tvg-logo="http://disfruta.net:80/images/78b48f4d9cd735474a28e122132a36d1.png" group-title="GALAVISION",GA1AV1S10N DALLAS
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/7129405a-f52b-4ddc-82da-9f9ed7fb2680.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GA1AV1S10N EAST" tvg-logo="http://disfruta.net:80/images/d187ea57abd8a43eff89c9d4b04cea51.png" group-title="GALAVISION",GA1AV1S10N EAST
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/94cb4c4e-b634-40e0-93d0-a12076a84d2b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GA1AV1S10N FRESNO" tvg-logo="http://disfruta.net:80/images/2c379236497d21cf57e0720fb496e300.png" group-title="GALAVISION",GA1AV1S10N FRESNO
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/328dbb6f-6ad3-44cd-8556-4e41e0c71dec.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GA1AV1S10N HOUSTON" tvg-logo="http://disfruta.net:80/images/0539dfd5b40aee1fdce8be923982be20.png" group-title="GALAVISION",GA1AV1S10N HOUSTON
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/afaa7639-92b1-475e-aea8-f39526e28381.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GA1AV1S10N LA" tvg-logo="http://disfruta.net:80/images/434fc3232f448901bbca09d1106baeb6.png" group-title="GALAVISION",GA1AV1S10N LA
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/5682b6b5-6699-4bab-9eeb-1216f152fb0e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GA1AV1S10N LAS VEGAS" tvg-logo="http://disfruta.net:80/images/637b14fec69c1c89563f3b4196b8eebe.png" group-title="GALAVISION",GA1AV1S10N LAS VEGAS
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/81736521-c0af-45b1-9bce-142c363efeef.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GA1AV1S10N MIAMI" tvg-logo="http://disfruta.net:80/images/1d4f62e2dccb34448c697c83f6033dc9.png" group-title="GALAVISION",GA1AV1S10N MIAMI
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/88d1e6e0-8239-402a-8c60-d6e1879e1b4f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GA1AV1S10N NY" tvg-logo="http://disfruta.net:80/images/747ce1379c3332219c372af1ec06ecab.png" group-title="GALAVISION",GA1AV1S10N NY
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/fda642a6-ed4a-4216-ad06-56c0ba4b35e0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GA1AV1S10N PHILADELPHIA" tvg-logo="http://disfruta.net:80/images/06641d1908b6dfcb710594724b6fe25b.png" group-title="GALAVISION",GA1AV1S10N PHILADELPHIA
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/827c54b3-e31c-4c3a-8435-16c2b581a26b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GA1AV1S10N PHOENIX" tvg-logo="http://disfruta.net:80/images/edea9e8feef1dc3c5f66e48f335c2192.png" group-title="GALAVISION",GA1AV1S10N PHOENIX
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/7f5b514c-139e-408f-b81e-e8afb9ae2697.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GA1AV1S10N RALEIGH" tvg-logo="http://disfruta.net:80/images/e12e75a5d212a6da54cab5af65badf7d.png" group-title="GALAVISION",GA1AV1S10N RALEIGH
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9c842e07-3913-4c0b-a114-ba415102aaad.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GA1AV1S10N SACRAMENTO" tvg-logo="http://disfruta.net:80/images/10a54eb3a10577f1f8ef0fbcd33be2ce.png" group-title="GALAVISION",GA1AV1S10N SACRAMENTO
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/10e14905-3619-4daa-9271-6867f9bd2de1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GA1AV1S10N SALT LAKE" tvg-logo="http://disfruta.net:80/images/38cbd539823c817b86115f20b651adf2.png" group-title="GALAVISION",GA1AV1S10N SALT LAKE
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/e4f8e281-5824-4219-bfb5-272c064433e0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GA1AV1S10N SAN ANTONIO" tvg-logo="http://disfruta.net:80/images/a2147affca683f9b58186864f359f80d.png" group-title="GALAVISION",GA1AV1S10N SAN ANTONIO
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/c9de8645-1fcc-4556-a0bb-977b3a38884e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GA1AV1S10N SAN FRANCISCO" tvg-logo="http://disfruta.net:80/images/d487a67282a39a57d0039f4b3e243718.png" group-title="GALAVISION",GA1AV1S10N SAN FRANCISCO
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b1e87e43-5a3e-4429-b4e1-2e02139759a3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GA1AV1S10N WEST" tvg-logo="http://disfruta.net:80/images/46fe8ba256e2ddd2d87d6a4f3c89676a.png" group-title="GALAVISION",GA1AV1S10N WEST
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/d95484bb-bf57-42f7-87cb-48be0e430740.m3u
+#EXTINF:-1 tvg-id="" tvg-name="INF | BABY TV" tvg-logo="https://i.ibb.co/RPSL8Gr/babytv-1.jpg" group-title="INFANTILES",INF | BABY TV
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/e0721232-7204-4467-9435-81575703092b.m3u
+#EXTINF:-1 tvg-id="babytv.co" tvg-name="Baby First SD" tvg-logo="https://i.ibb.co/RPSL8Gr/babytv-1.jpg" group-title="SD LATINOS",Baby First SD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/51a5e4f5-a335-45b6-aa4d-b370c55cd9d1.m3u
+#EXTINF:-1 tvg-id="babytv.co" tvg-name="BABY TV HD (MX)" tvg-logo="https://i.ibb.co/RPSL8Gr/babytv-1.jpg" group-title="HD LATINOS",BABY TV HD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/3962e8ec-d867-4cf2-af6b-2d61a1a8c5d7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="INF | CARTOONITO" tvg-logo="https://i.postimg.cc/9MhYqhDD/CARTOONITO.png" group-title="INFANTILES",INF | CARTOONITO
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/e4df415d-3f55-40bc-8ab3-6aef8f366a81.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO FHD" tvg-logo="https://i.postimg.cc/9MhYqhDD/CARTOONITO.png" group-title="FHD LATINOS",CARTOONITO FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/c5f9b595-99ff-4d34-b91e-d281035ece10.m3u
+#EXTINF:-1 tvg-id="CARTOONITO.co" tvg-name="CARTOONITO HD" tvg-logo="https://i.postimg.cc/9MhYqhDD/CARTOONITO.png" group-title="HD LATINOS",CARTOONITO HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/5ba217ea-eb2a-4ba3-9893-3c9988abbad2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="https://i.postimg.cc/XqVMLmzJ/CARTOON-NETWORK.png" group-title="HD LATINOS",Cartoon Network HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/ab4eb754-3076-43f9-8eaf-f51384805d4d.m3u
+#EXTINF:-1 tvg-id="CartoonNetworkNorthAtlantic.us" tvg-name="Cartoon Network FHD" tvg-logo="https://i.postimg.cc/XqVMLmzJ/CARTOON-NETWORK.png" group-title="FHD LATINOS",Cartoon Network FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/80a4d271-1712-4142-93f0-095769e94be4.m3u
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="INF | CARTOON NETWORK HD (MX)" tvg-logo="https://i.postimg.cc/XqVMLmzJ/CARTOON-NETWORK.png" group-title="INFANTILES",INF | CARTOON NETWORK HD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/05208f2f-6cd7-4a15-8e81-500e2a4eceb3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS SD" tvg-logo="" group-title="SD LATINOS",DISCOVERY KIDS SD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/761d1730-eab4-4343-bdbd-df4bdfe3f3bb.m3u
+#EXTINF:-1 tvg-id="DiscoveryKids.cl" tvg-name="Discovery Kids FHD" tvg-logo="https://i.postimg.cc/c1YxXJxZ/DISCOVERY-KIDS.png" group-title="FHD LATINOS",Discovery Kids FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/19ea5b6b-8cf5-43af-9976-27f4ffb8e5ed.m3u
+#EXTINF:-1 tvg-id="disneychannel.co" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://i.postimg.cc/J4dW8y59/DISNEY-CHANNEL.png" group-title="SD LATINOS",DISNEY CHANNEL SD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/ec674ff9-6c4a-457b-9192-a9b7f85be712.m3u
+#EXTINF:-1 tvg-id="disney.mx" tvg-name="INF | DISNEY HD (MX)" tvg-logo="" group-title="INFANTILES",INF | DISNEY HD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/66a6a165-2f24-45c2-92c9-4272c552de5e.m3u
+#EXTINF:-1 tvg-id="disneyjunior.co" tvg-name="DISNEY JR SD (CO)" tvg-logo="" group-title="SD LATINOS",DISNEY JR SD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/16cd0e51-da49-4356-b70b-0376d615a89c.m3u
+#EXTINF:-1 tvg-id="disneyjunior.co" tvg-name="INF | Disney Jr. FHD (MX)" tvg-logo="" group-title="INFANTILES",INF | Disney Jr. FHD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/fa6a7281-3cd9-4f2f-82d6-5d596b2eccfb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="INF | DISNEY JUNIOR HD (MX)" tvg-logo="" group-title="INFANTILES",INF | DISNEY JUNIOR HD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/7809b88a-2c44-4d97-81e1-ba3f8332473e.m3u
+#EXTINF:-1 tvg-id="DISNEY CHANNEL HD.cl" tvg-name="Disney Channel FHD" tvg-logo="https://i.postimg.cc/J4dW8y59/DISNEY-CHANNEL.png" group-title="FHD LATINOS",Disney Channel FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/da1494f3-2343-4031-afff-fa74b0fd1443.m3u
+#EXTINF:-1 tvg-id="" tvg-name="INF | Nick HD" tvg-logo="" group-title="INFANTILES",INF | Nick HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/18b10866-3e8a-4498-8cac-66ba48aae26e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="INF | TeenNick HD" tvg-logo="" group-title="INFANTILES",INF | TeenNick HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b680a7d7-87ad-4a63-8f05-c620f2c40502.m3u
+#EXTINF:-1 tvg-id="Teen Nick.co" tvg-name="Teen Nick FHD" tvg-logo="https://i.ibb.co/4tRdXMK/AKed-OLSKLq-8-KM04-PImx-PCSZXkz-Vwxxsu-Fp9t-N3o-CBDi-s900-c-k-c0x00ffffff-no-rj.jpg" group-title="FHD LATINOS",Teen Nick FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/d4ab0c5f-33b8-492c-b604-61b29ae213e0.m3u
+#EXTINF:-1 tvg-id="nickelodeon.co" tvg-name="Nick FHD (CO)" tvg-logo="https://i.ibb.co/f9tXPpF/nick.png" group-title="FHD LATINOS",Nick FHD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/68aedbef-8931-430e-ab25-c3f182a43868.m3u
+#EXTINF:-1 tvg-id="nick.co" tvg-name="INF | NICK HD (MX)" tvg-logo="" group-title="INFANTILES",INF | NICK HD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/d8c961e3-b3d2-4bdd-95b3-6c8dcb107094.m3u
+#EXTINF:-1 tvg-id="" tvg-name="INF | Nick Jr. HD" tvg-logo="" group-title="INFANTILES",INF | Nick Jr. HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/cab75eb0-4998-48c3-8d43-33066b8ab008.m3u
+#EXTINF:-1 tvg-id="" tvg-name="INF | Tooncast HD" tvg-logo="" group-title="INFANTILES",INF | Tooncast HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/42b9359f-8cd0-4214-b8ec-c2ceccbe3105.m3u
+#EXTINF:-1 tvg-id="" tvg-name="INF | TOONCAST HD (MX)" tvg-logo="" group-title="INFANTILES",INF | TOONCAST HD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/45396ceb-9e45-4e4c-acb8-16c490ea3016.m3u
+#EXTINF:-1 tvg-id="Animal Planet.co" tvg-name="Animal Planet FHD (CO)" tvg-logo="https://i.postimg.cc/MpFXMbrN/ANIMAL-PLANET.png" group-title="FHD LATINOS",Animal Planet FHD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/72e77331-3f6a-4134-907c-3ac137a40814.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MUN | CNN EN ESPAÑOL HD" tvg-logo="https://i.ibb.co/9pTYkXh/go-de-cnn-en-espa195177ol-2010-2015.jpg" group-title="MUNDOS",MUN | CNN EN ESPAÑOL HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/e307cb05-47e3-4dc5-b9cd-2a203ade99c4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MUN | CNN México" tvg-logo="" group-title="MUNDOS",MUN | CNN México
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/034e413d-b6f1-4087-a5a1-8131d4214892.m3u
+#EXTINF:-1 tvg-id="" tvg-name="SD | DISCOVERY CHANNEL" tvg-logo="https://cdn.mitvstatic.com/channels/26431e28-bd69-4174-9abc-d509ddb267e8_m.jpg" group-title="SD LATINOS",SD | DISCOVERY CHANNEL
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/69b4a170-7187-4e46-a921-cd007735c431.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD (CO)" tvg-logo="https://i.postimg.cc/Rh2rmKQG/DISCOVERY-CHANNEL.png" group-title="FHD LATINOS",Discovery Channel FHD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/146c7996-e8b8-4ebc-8ee0-3382dcc68eb7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MUN | HGTV HD (MX)" tvg-logo="" group-title="MUNDOS",MUN | HGTV HD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/8e24bb09-cd5a-4a9d-ae0a-63cb02dcc028.m3u
+#EXTINF:-1 tvg-id="discoveryscience.co" tvg-name="Discovery Science SD " tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="SD LATINOS",Discovery Science SD 
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/f844c8d3-e1b0-4984-9d83-22e8802fd935.m3u
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-hd-theater_m.png" group-title="SD LATINOS",DISCOVERY THEATER SD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/84d36276-8b91-484f-a942-33a57ab12172.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater FHD" tvg-logo="https://i.postimg.cc/Yq9XtvvB/DISCOVERY-TEATHER.png" group-title="FHD LATINOS",Discovery Theater FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/eb295dca-3f78-4d47-bf60-a865666c5439.m3u
+#EXTINF:-1 tvg-id="discoveryturbo.co" tvg-name="DISCOVERY TURBO SD (CO)" tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="SD LATINOS",DISCOVERY TURBO SD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/fcb19709-f9cc-4b1c-9a51-9c07ad38c948.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo FHD (CO)" tvg-logo="https://i.postimg.cc/gknfNSqh/DISCOVERY-TURBO.png" group-title="FHD LATINOS",Discovery Turbo FHD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/05890c25-cc8d-4a1f-8ec1-fd2756300735.m3u
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="DISCOVERY WORLD SD " tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="SD LATINOS",DISCOVERY WORLD SD 
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/38aa1a1a-41fc-4404-be93-a69180fca80d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World FHD" tvg-logo="https://i.postimg.cc/pXBM9hZG/DISCOVERY-WORLD.png" group-title="FHD LATINOS",Discovery World FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/91435ae9-53f7-45bb-bff7-130fd7889536.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MUN | EUROPA (CO)" tvg-logo="" group-title="MUNDOS",MUN | EUROPA (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/43229b4d-cd24-4886-bf07-e97603ce3e71.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MUN | FILM & ARTS " tvg-logo="" group-title="MUNDOS",MUN | FILM & ARTS 
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/766b7053-3a90-42a3-b301-a3221b6aa44c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts FHD (MX)" tvg-logo="https://i.postimg.cc/153F8ThL/FILM-ARTS.png" group-title="FHD LATINOS",Film & Arts FHD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b839d1bb-1fa0-4573-808b-3f577ab7668d.m3u
+#EXTINF:-1 tvg-id="history2.co" tvg-name="H2 SD (CO)" tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png" group-title="SD LATINOS",H2 SD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/5f53a9b3-651e-4962-911f-3f504a0123db.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MUN | HISTORY HD (MX)" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="MUNDOS",MUN | HISTORY HD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/38f199b3-6620-4478-bfe2-3c626ad0cf7c.m3u
+#EXTINF:-1 tvg-id="history.co" tvg-name="SD | HISTORY" tvg-logo="https://cdn.mitvstatic.com/channels/976613c0-bf70-498c-b2d0-a83373964c02_m.jpg" group-title="SD LATINOS",SD | HISTORY
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/3888e51b-c9c9-4fea-a077-951e468465e9.m3u
+#EXTINF:-1 tvg-id="HISTORY CHANNEL.co" tvg-name="HISTORY FHD" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="FHD LATINOS",HISTORY FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/2901a167-d189-49a3-a2f8-aec7f0798b09.m3u
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="NAT GEO HD (CO)" tvg-logo="https://i.ibb.co/P4dNYdJ/unnamed.jpg" group-title="HD LATINOS",NAT GEO HD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/260bce83-4b7e-4486-9529-2779c3ffd5ce.m3u
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="NAT GEO SD (CO)" tvg-logo="https://i.ibb.co/P4dNYdJ/unnamed.jpg" group-title="SD LATINOS",NAT GEO SD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/a229dd44-a741-4a28-8109-42b36e2b3038.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MUN | NTN24  (CO)" tvg-logo="" group-title="MUNDOS",MUN | NTN24  (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/2f963f3d-d12b-49c0-8372-3eebdb4f6c33.m3u
+#EXTINF:-1 tvg-id="tlc.co" tvg-name="TLC SD" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_m.png" group-title="SD LATINOS",TLC SD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/35796936-fd1c-4e7a-acdf-35c13037e6be.m3u
+#EXTINF:-1 tvg-id="unicable.mx" tvg-name="MUN | UNICABLE (MX)" tvg-logo="" group-title="MUNDOS",MUN | UNICABLE (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/d06da579-3ece-4ab6-a325-617642224726.m3u
+#EXTINF:-1 tvg-id="unicable.mx" tvg-name="MUN | Unicable FHD (MX)" tvg-logo="" group-title="MUNDOS",MUN | Unicable FHD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/3ba692dd-2590-4b96-a2a2-a090c64a42fe.m3u
+#EXTINF:-1 tvg-id="worldofbusinessideas.mx" tvg-name="MUN | Wobi FHD (MX)" tvg-logo="" group-title="MUNDOS",MUN | Wobi FHD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/80c0e201-ddd1-4ac1-90f1-e180b881f33c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX | ADN40 FHD" tvg-logo="" group-title="MEXICO",MX | ADN40 FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9e6d0606-5689-4ee0-964d-b9afb865a2e6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZ Cinema FHD" tvg-logo="" group-title="MEXICO",MX | AZ Cinema FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9f45462b-ca86-4775-b212-f1a2407dc02c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX | Corazon FHD" tvg-logo="" group-title="MEXICO",MX | Corazon FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/8bc7ba02-238c-42f7-8026-8d1f87b6c592.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX | Azteca Internacional HD" tvg-logo="" group-title="MEXICO",MX | Azteca Internacional HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/39c4d802-057a-4da0-8753-ff70d9706d60.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZTECA SIETE FHD" tvg-logo="" group-title="MEXICO",MX | AZTECA SIETE FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/03b51641-dbeb-4ded-ad3a-cd294e4a2529.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX | Azteca UNO -1 hora FHD" tvg-logo="https://i.ibb.co/FXQKTcx/ezgif-4-f11a976989.png" group-title="MEXICO",MX | Azteca UNO -1 hora FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/e35a2b5a-7564-4c2c-b70a-345766f75d89.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX | Canal 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Canal52016.png" group-title="MEXICO",MX | Canal 5 FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/5d01c94d-5dad-46c6-b532-e29da7c7cb3a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX | Canal de las Estrellas FHD" tvg-logo="" group-title="MEXICO",MX | Canal de las Estrellas FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/04dcadbe-7eaa-44e0-98ad-ed9ce3abebf1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX | Foro TV FHD" tvg-logo="" group-title="MEXICO",MX | Foro TV FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/d106b4e7-e270-47a3-8d47-ab438497fcf7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX | IMAGEN TV FHD" tvg-logo="" group-title="MEXICO",MX | IMAGEN TV FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/5c571eff-8cda-4528-9bb8-84ead89d3f08.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX | Milenio TV FHD" tvg-logo="" group-title="MEXICO",MX | Milenio TV FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9aa576ee-7564-4e2a-ab4e-be00bea1605e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX | Multimedios FHD" tvg-logo="" group-title="MEXICO",MX | Multimedios FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/5ecc6edc-72e7-46ba-85b2-cd0a1ab3d9c7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX | Multimedios CDMX FHD" tvg-logo="" group-title="MEXICO",MX | Multimedios CDMX FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/85a9643a-7f94-4bd0-a8b2-16463e707991.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX | NU9VE TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nueve-mx.png" group-title="MEXICO",MX | NU9VE TV FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/4bd7b188-1383-4b37-a9e6-57de3f481fa0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX | Once FHD" tvg-logo="" group-title="MEXICO",MX | Once FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/78517342-6302-4d38-8b1c-982acfa91bcd.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX: TV Azteca HD" tvg-logo="https://logowik.com/content/uploads/images/tv-azteca5717.jpg" group-title="MEXICO",MX: TV Azteca HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/70a9af8f-9801-48aa-928c-191afa6533a9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX: AZ Corazon" tvg-logo="" group-title="MEXICO",MX: AZ Corazon
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/53a39cbb-949f-424c-88df-69729f9051c0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX: Azteca 7" tvg-logo="" group-title="MEXICO",MX: Azteca 7
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/1974a50b-a1f4-4bdd-a361-4c4810c0e3ea.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX: Azteca Uno" tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-uno-mx.png" group-title="MEXICO",MX: Azteca Uno
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/7e4961f0-0642-412f-962b-8ea1699c28e3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX: CANAL Once" tvg-logo="" group-title="MEXICO",MX: CANAL Once
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/7eb4686c-162d-4207-b42f-7d5a34a72e67.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX: Teleformula" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_formula.png" group-title="MEXICO",MX: Teleformula
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/37434a4c-c0ef-4e7a-942f-a708ed79fe56.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX: ForoTV" tvg-logo="" group-title="MEXICO",MX: ForoTV
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/17d88d85-3f24-4dad-9202-84f222978117.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX | IMAGEN TV HD" tvg-logo="" group-title="MEXICO",MX | IMAGEN TV HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/7d0b6a4d-8251-4c10-ac48-4d0dbd6e5749.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX: Las Estrellas" tvg-logo="" group-title="MEXICO",MX: Las Estrellas
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/a544ce76-dba7-4053-bcb0-62e8f667b065.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX: Milenio TV" tvg-logo="" group-title="MEXICO",MX: Milenio TV
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/675864b7-27ff-4dd5-87c2-56e4e48a5908.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO BOSTON" tvg-logo="https://i.ibb.co/n1rKH1b/Telemundo.jpg" group-title="TELEMUNDO",TELEMUNDO BOSTON
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/d7d8d214-5bd4-405f-840e-a960130bb6f1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 39 DALLAS" tvg-logo="https://i.ibb.co/n1rKH1b/Telemundo.jpg" group-title="TELEMUNDO",TELEMUNDO 39 DALLAS
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/3d5e3c55-a814-4ee1-8d06-6d029f3f0d2e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 44 CHICAGO" tvg-logo="https://i.ibb.co/n1rKH1b/Telemundo.jpg" group-title="TELEMUNDO",TELEMUNDO 44 CHICAGO
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/5d4ef922-b1f3-4457-bd40-724a41cdec89.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 47 NEW YORK" tvg-logo="https://i.ibb.co/n1rKH1b/Telemundo.jpg" group-title="TELEMUNDO",TELEMUNDO 47 NEW YORK
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b0f4e434-7bb0-439a-a174-16f9a3235c13.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 48 SAN FRANCISCO" tvg-logo="https://i.ibb.co/n1rKH1b/Telemundo.jpg" group-title="TELEMUNDO",TELEMUNDO 48 SAN FRANCISCO
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/715d63c1-6643-49bf-9ae8-16bf45d5a759.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 51 MIAMI" tvg-logo="https://i.ibb.co/n1rKH1b/Telemundo.jpg" group-title="TELEMUNDO",TELEMUNDO 51 MIAMI
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/89f64455-d941-4d72-87a6-27c8348c2afc.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 52 LOS ANGELES" tvg-logo="https://i.ibb.co/n1rKH1b/Telemundo.jpg" group-title="TELEMUNDO",TELEMUNDO 52 LOS ANGELES
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/afa09344-9066-4ebe-89c7-02c76a99976d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 60 SAN ANTONIO" tvg-logo="https://i.ibb.co/n1rKH1b/Telemundo.jpg" group-title="TELEMUNDO",TELEMUNDO 60 SAN ANTONIO
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/157335da-8978-46ca-8133-65645e38b349.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO HOUSTON" tvg-logo="https://i.ibb.co/n1rKH1b/Telemundo.jpg" group-title="TELEMUNDO",TELEMUNDO HOUSTON
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/269526db-264f-4785-baf8-d5dabb8bb870.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO LAS VEGAS" tvg-logo="https://i.ibb.co/n1rKH1b/Telemundo.jpg" group-title="TELEMUNDO",TELEMUNDO LAS VEGAS
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/bbb582bd-7279-43a5-a1c1-428cb612fd7d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VN1MAS ALBUQUERQUE SANTA FE" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/17_es.png" group-title="UNIMAS",VN1MAS ALBUQUERQUE SANTA FE
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/14c14c3f-5fc6-474d-b750-b04987ac22a2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VN1MAS AUSTIN" tvg-logo="http://disfruta.net:80/images/3db114116fafed3405221ea689281b5b.png" group-title="UNIMAS",VN1MAS AUSTIN
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/162a5b77-c102-49c1-9ef7-8d0169373768.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VN1MAS CLEVELAND" tvg-logo="http://disfruta.net:80/images/03ad68d0b48846b981b0ae869a7c7f4c.png" group-title="UNIMAS",VN1MAS CLEVELAND
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/33b9295e-14d0-4944-b752-fc891b3c083e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VN1MAS EAST" tvg-logo="http://disfruta.net:80/images/f7908d2bf1b93574556158438e65c058.png" group-title="UNIMAS",VN1MAS EAST
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/a5dfd1d2-7edc-4538-a72b-bed6d27a3fd7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VN1MAS FRESNO" tvg-logo="http://disfruta.net:80/images/2f13fbceb2a2fda4280b790ae8bca8bf.png" group-title="UNIMAS",VN1MAS FRESNO
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/803fc077-95dc-4449-9fdf-5304e82133c3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VN1MAS HOUSTON" tvg-logo="http://disfruta.net:80/images/034618dde88a31a12c0804698704fcc8.png" group-title="UNIMAS",VN1MAS HOUSTON
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9783788d-e08c-4ba5-a4e3-e6622de9c3ee.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VN1MAS LAS VEGAS" tvg-logo="http://disfruta.net:80/images/82f716e60ecbae210d13a7f3b4a55836.png" group-title="UNIMAS",VN1MAS LAS VEGAS
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9ebe2fd3-df92-4981-bab6-e68abfb56631.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VN1MAS NY" tvg-logo="http://disfruta.net:80/images/2fb45911eb0730998ed0e6ff7eac263c.png" group-title="UNIMAS",VN1MAS NY
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/c4ea6192-0716-4fd0-b138-3decd8d55eb2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VN1MAS PHILADELPHIA" tvg-logo="http://disfruta.net:80/images/ad8375ea89455925f30cd3dbcbefe3ed.png" group-title="UNIMAS",VN1MAS PHILADELPHIA
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/019f8162-a393-4440-b106-9052f7b1353d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VN1MAS PHOENIX" tvg-logo="http://disfruta.net:80/images/365ede941fb9af15a8abad6d97ec6cc2.png" group-title="UNIMAS",VN1MAS PHOENIX
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/44d3d31e-3386-4251-8529-c758cf5aee13.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VN1MAS RALEIGH" tvg-logo="http://disfruta.net:80/images/42e85b86ef374ecb2b2119d40b64143d.png" group-title="UNIMAS",VN1MAS RALEIGH
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/24adc18d-82d0-4bde-8b1f-8f42416ac2f7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VN1MAS SACRAMENTO" tvg-logo="http://disfruta.net:80/images/0cef9baaf38627a93c53e513c3e40b48.png" group-title="UNIMAS",VN1MAS SACRAMENTO
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/bfae0950-abc2-4ad8-a057-efc46cc6b60d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VN1MAS SALT LAKE" tvg-logo="http://disfruta.net:80/images/6e4d18ac7b37a2b50dc0b5e2de656a09.png" group-title="UNIMAS",VN1MAS SALT LAKE
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/ad7cc862-c507-4f5e-b287-eb1ec56c60f0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VN1MAS SAN ANTONIO" tvg-logo="http://disfruta.net:80/images/c2e37d6f6c3d2eca5967de83de35e95a.png" group-title="UNIMAS",VN1MAS SAN ANTONIO
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/3b51b4eb-98cc-4bfb-aa88-879117cf6006.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VN1MAS SAN FRANCISCO" tvg-logo="http://disfruta.net:80/images/55ae5ba441acf9c03c1623263e748edd.png" group-title="UNIMAS",VN1MAS SAN FRANCISCO
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/2d10cb43-9b06-4236-b894-e8a6cce3a0af.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VN1MAS ARIZONA" tvg-logo="http://disfruta.net:80/images/dc4fee0a26f35acc41b7b401490b20fd.png" group-title="UNIMAS",VN1MAS ARIZONA
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/f09e7833-9711-4e64-9480-34428de87d2f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION LOS ANGELES" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="UNIVISION",UNIVISION LOS ANGELES
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/34223f3f-ac71-4d42-8e9a-1bd1fc3e6de7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION ATLANTA" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="UNIVISION",UNIVISION ATLANTA
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/09d8363a-bcdf-43a3-ac30-d54c9a1605a1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION AUSTIN" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="UNIVISION",UNIVISION AUSTIN
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/1d7767ca-e542-4258-af66-c887a75fac57.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION CHICAGO" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="UNIVISION",UNIVISION CHICAGO
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/5853f95e-5a15-4b49-b48c-f1b7a38849d0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION CLEVELAND" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="UNIVISION",UNIVISION CLEVELAND
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/812b9c85-a641-400f-ad75-5536ea7e1a04.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION EAST" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="UNIVISION",UNIVISION EAST
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/fcdfad0c-f726-4262-a28b-7eb48e354f96.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION HOUSTON" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="UNIVISION",UNIVISION HOUSTON
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/4949bb71-ddb2-40f1-9bbe-eff45acefbac.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION MIAMI" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="UNIVISION",UNIVISION MIAMI
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/84ab4cbd-f3fa-49d2-aaea-d120ee4e44de.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION NY" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="UNIVISION",UNIVISION NY
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/8d7c5695-1772-458c-aa01-c726ad228030.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION PHILADELPHIA" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="UNIVISION",UNIVISION PHILADELPHIA
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/1b1e3ffc-9339-48df-bbbb-d4146ed1efae.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION PHOENIX" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="UNIVISION",UNIVISION PHOENIX
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/efb036bd-a00f-4780-a5dd-f21db4fb82da.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION RALEIGH" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="UNIVISION",UNIVISION RALEIGH
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/fd8cb168-ee17-41b6-be13-ceb6dbfe5bf2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION SALT LAKE" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="UNIVISION",UNIVISION SALT LAKE
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b4ae3b79-14f1-4a27-91f9-6efdbd595201.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION SAN ANTONIO" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="UNIVISION",UNIVISION SAN ANTONIO
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/44464ccf-3eee-4d7b-8f63-2625efb7fb0d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION SAN FRANCISCO" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="UNIVISION",UNIVISION SAN FRANCISCO
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/de1a1ddc-4df7-4cb7-a84d-eb1c23f176d3.m3u
+#EXTINF:-1 tvg-id="aandelatamerica.co" tvg-name="A&E SD" tvg-logo="https://i.postimg.cc/g0Nqd3FS/a-and-e-logo.png" group-title="SD LATINOS",A&E SD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/37ecfff5-fb23-4c07-9bd9-b5dfb6667cc5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="A&E FHD" tvg-logo="https://i.postimg.cc/g0Nqd3FS/a-and-e-logo.png" group-title="FHD LATINOS",A&E FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/0602a483-e851-4fe4-80e7-f1d0ea963231.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | A&E HD" tvg-logo="https://i.postimg.cc/g0Nqd3FS/a-and-e-logo.png" group-title="VARIEDADES",VAR | A&E HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/7bf4516a-bf76-4af4-8604-2be214c25570.m3u
+#EXTINF:-1 tvg-id="AMC.co" tvg-name="AMC FHD" tvg-logo="https://i.postimg.cc/sfv65VXL/AMC.png" group-title="FHD LATINOS",AMC FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/13e36a75-f5af-4eac-b7a7-bba24351d816.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | AMC HD" tvg-logo="https://i.postimg.cc/ZRPmCYHM/descarga-4.png" group-title="VARIEDADES",VAR | AMC HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9b56600d-0994-4e8d-8dc5-89d9e778afa3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="https://i.postimg.cc/wjj5h2xk/AXN.png" group-title="FHD LATINOS",AXN FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/46664cb6-bb35-45c7-8577-7e989e8e9cf0.m3u
+#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="Bandamax SD" tvg-logo="https://i.postimg.cc/5N4KDhK1/bandamax.png" group-title="SD LATINOS",Bandamax SD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/98e7ecbc-1cb5-49cd-8df7-ae073bb521cb.m3u
+#EXTINF:-1 tvg-id="comedycentral.co" tvg-name="Comedy Central SD " tvg-logo="https://i.postimg.cc/VvdhKt8S/COMEDY-CENTRAL.png" group-title="SD LATINOS",Comedy Central SD 
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b1332685-cc83-441e-bbf4-d82adc4c0f06.m3u
+#EXTINF:-1 tvg-id="COMEDY CENTRAL HD.pe" tvg-name="Comedy Central FHD" tvg-logo="https://i.postimg.cc/VvdhKt8S/COMEDY-CENTRAL.png" group-title="FHD LATINOS",Comedy Central FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/d8aa94b1-f67c-412f-99e9-26120a7d5eae.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | Comedy Central HD" tvg-logo="https://i.postimg.cc/VvdhKt8S/COMEDY-CENTRAL.png" group-title="VARIEDADES",VAR | Comedy Central HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9e8a0c82-b5ae-4085-9aa8-f9638518f5a4.m3u
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="DISCOVERY H&H SD" tvg-logo="https://i.postimg.cc/k4wXwrhG/discoveryhh.png" group-title="SD LATINOS",DISCOVERY H&H SD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/cec60b6f-11dc-4faf-9195-db2df5b1658a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H FHD" tvg-logo="https://i.postimg.cc/pVnbRc4B/DISCOVERY-H-H.png" group-title="FHD LATINOS",Discovery H&H FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/73f2f9f2-1d78-4f08-8eb3-4d820c9d6388.m3u
+#EXTINF:-1 tvg-id="eentertainmentandes.co" tvg-name="E! Entertainment SD" tvg-logo="https://i.postimg.cc/bvnRkHgV/e.png" group-title="SD LATINOS",E! Entertainment SD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/fad168f8-ffa3-4b13-9316-285800b501e2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment FHD" tvg-logo="https://i.postimg.cc/6pf6X6TR/E.png" group-title="FHD LATINOS",E! Entertainment FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/d07076af-8cb3-4050-bd9b-51785ee854ff.m3u
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT HD.cl" tvg-name="E! Entertainment HD" tvg-logo="https://i.postimg.cc/bvnRkHgV/e.png" group-title="HD LATINOS",E! Entertainment HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/4415d9fb-3759-482a-bd14-3a4809d0af84.m3u
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="EL GOURMET SD (CO)" tvg-logo="https://i.postimg.cc/7ZTd6zFX/gourmet.png" group-title="SD LATINOS",EL GOURMET SD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/cac354eb-7356-44fb-92c7-cc72aeba2251.m3u
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet FHD" tvg-logo="https://i.postimg.cc/xCxyFSKV/GOURMET.png" group-title="FHD LATINOS",El Gourmet FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/8f269004-ecdf-4297-9749-b98aab8cc740.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | El Gourmet HD" tvg-logo="https://i.postimg.cc/7ZTd6zFX/gourmet.png" group-title="VARIEDADES",VAR | El Gourmet HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/06376849-d10f-46df-913f-a3f7f1751150.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | FOOD NETWORK HD" tvg-logo="https://i.postimg.cc/G3KCwkRy/food.png" group-title="VARIEDADES",VAR | FOOD NETWORK HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/69101891-5a76-4afa-a62f-b0a1cbaf325a.m3u
+#EXTINF:-1 tvg-id="Food Network HD.cl" tvg-name="Food Network FHD" tvg-logo="https://i.postimg.cc/gJbSdp59/FOOD-NETWORK.png" group-title="FHD LATINOS",Food Network FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/5703e77d-e27d-4e74-b519-fa885934c86f.m3u
+#EXTINF:-1 tvg-id="fox.co" tvg-name="SD | STAR CHANNEL" tvg-logo="https://i.ibb.co/fHHFLcj/descarga-10.png" group-title="SD LATINOS",SD | STAR CHANNEL
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/c5d962bf-67b5-4e02-967d-0d75fb92d307.m3u
+#EXTINF:-1 tvg-id="fox.co" tvg-name="STAR CHANNEL FHD (CO)" tvg-logo="https://i.ibb.co/fHHFLcj/descarga-10.png" group-title="FHD LATINOS",STAR CHANNEL FHD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/cdc86df7-0c49-42f9-9867-e4cb2b0588e9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | STAR CHANNEL HD" tvg-logo="https://i.ibb.co/fHHFLcj/descarga-10.png" group-title="VARIEDADES",VAR | STAR CHANNEL HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/6b7710f4-b748-413e-815f-dd37ce3215b9.m3u
+#EXTINF:-1 tvg-id="fx.co" tvg-name="SD | FX " tvg-logo="https://i.postimg.cc/QtQ4pHRc/fx.jpg" group-title="SD LATINOS",SD | FX 
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/89ae625f-969f-47a7-9333-437f6fef71d0.m3u
+#EXTINF:-1 tvg-id="Canal FX (Costa Rica)" tvg-name="FX FHD" tvg-logo="https://i.postimg.cc/G2ZD8PY6/FX.png" group-title="FHD LATINOS",FX FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9735ffcc-58f0-4bae-a4a5-2b4383562e00.m3u
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="VAR | FX HD (MX)" tvg-logo="https://i.postimg.cc/QtQ4pHRc/fx.jpg" group-title="VARIEDADES",VAR | FX HD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/92a0b04f-15a4-481d-a150-ceaf9bb5b6a6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | Hola TV HD" tvg-logo="https://i.postimg.cc/Sx6ZMXCq/221.png" group-title="VARIEDADES",VAR | Hola TV HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b2d6860b-8023-4af7-807f-53f302769af6.m3u
+#EXTINF:-1 tvg-id="holatv.co" tvg-name="Hola TV FHD (CO)" tvg-logo="https://i.postimg.cc/Sx6ZMXCq/221.png" group-title="FHD LATINOS",Hola TV FHD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/f72a63e3-8363-4417-93c1-077cd851c4d2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | HTV HD" tvg-logo="https://i.postimg.cc/xd82Yksf/htv.png" group-title="VARIEDADES",VAR | HTV HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/e93c2f37-c5ca-4253-b03d-f07a4e34f068.m3u
+#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="SD | Investigation Discovery" tvg-logo="https://i.postimg.cc/ZKJDmgHb/id.png" group-title="SD LATINOS",SD | Investigation Discovery
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/6e0c4b7b-63dd-4ae7-b75d-e345853800d0.m3u
+#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery FHD" tvg-logo="https://i.postimg.cc/ZKJDmgHb/id.png" group-title="FHD LATINOS",Investigation Discovery FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/29a47549-5124-44a3-a8aa-07fce4e85d0e.m3u
+#EXTINF:-1 tvg-id="lifetime.co" tvg-name="LIFETIME SD " tvg-logo="https://i.postimg.cc/Cxk029xF/lifetime.png" group-title="SD LATINOS",LIFETIME SD 
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b37687ec-2b02-44e4-98e1-542de61c6ebb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime FHD" tvg-logo="https://i.postimg.cc/Cxk029xF/lifetime.png" group-title="FHD LATINOS",Lifetime FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/a6f24014-e709-43c8-b5e3-78ac57802e5b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | Lifetime HD (MX)" tvg-logo="https://i.postimg.cc/Cxk029xF/lifetime.png" group-title="VARIEDADES",VAR | Lifetime HD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/6c287066-e253-4bc7-b2be-b9afa79c0369.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | MAS CHIC" tvg-logo="https://i.postimg.cc/MKrXxkwV/mas-chic.png" group-title="VARIEDADES",VAR | MAS CHIC
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/907596d7-3e96-4534-965c-6ad34b1bd02a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic FHD" tvg-logo="https://i.postimg.cc/MKrXxkwV/mas-chic.png" group-title="FHD LATINOS",Mas Chic FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/77bc0dc0-f2b7-4dc0-b77c-263a1d5b84ad.m3u
+#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="VAR | Mas Chic HD (MX)" tvg-logo="https://i.postimg.cc/MKrXxkwV/mas-chic.png" group-title="VARIEDADES",VAR | Mas Chic HD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/358e0dda-ad12-49ac-bb1e-14f5a2a78bc7.m3u
+#EXTINF:-1 tvg-id="mtv.co" tvg-name="MTV SD " tvg-logo="https://i.ibb.co/30bjCMd/mtv.png" group-title="SD LATINOS",MTV SD 
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/56ecc8a2-91b8-4a34-baed-c81ac6d3d011.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MTV FHD" tvg-logo="https://i.ibb.co/30bjCMd/mtv.png" group-title="FHD LATINOS",MTV FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/0c4a7a8d-6080-4776-8ac0-6efcd66080c8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | MTV HD" tvg-logo="https://i.postimg.cc/4xLyJDTp/mtv.png" group-title="VARIEDADES",VAR | MTV HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/0199e89f-834e-430a-b9f6-dc6541a18c7d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | MTV Hits" tvg-logo="https://i.postimg.cc/rm93rMZn/mtv-hits.png" group-title="VARIEDADES",VAR | MTV Hits
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/0075c73b-231d-4501-83e9-c898121a9230.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits SD " tvg-logo="https://i.postimg.cc/rm93rMZn/mtv-hits.png" group-title="SD LATINOS",MTV Hits SD 
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b42545e6-54d7-45a3-8e20-7e5f85bcd954.m3u
+#EXTINF:-1 tvg-id="MTV HD.cl" tvg-name="MTV LIVE HD" tvg-logo="https://i.postimg.cc/QNJX82QV/mtv-live.png" group-title="HD LATINOS",MTV LIVE HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/dfa55316-1e54-4aed-bde5-1f6c2660b61e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live FHD" tvg-logo="https://i.postimg.cc/QNJX82QV/mtv-live.png" group-title="FHD LATINOS",MTV Live FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/2a558177-3887-489e-a208-56d263c054ef.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | Pasiones HD" tvg-logo="https://i.postimg.cc/HW8T5J1c/pasiones.png" group-title="VARIEDADES",VAR | Pasiones HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/6c00bca2-bba8-4668-9808-50d5a769d12a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | Telehit HD" tvg-logo="https://i.postimg.cc/YC14gPkG/urbano-telehit.png" group-title="VARIEDADES",VAR | Telehit HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/fcf9fd0a-5e51-4cb8-ba1c-dcc453a9fbe1.m3u
+#EXTINF:-1 tvg-id="sony.co" tvg-name="SD | Sony Channel" tvg-logo="https://i.postimg.cc/zfgb2WDH/image.png" group-title="SD LATINOS",SD | Sony Channel
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/ad72dca3-02ac-40bd-9a11-9e8aa6d1680e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel FHD (CO)" tvg-logo="https://i.postimg.cc/zfgb2WDH/image.png" group-title="FHD LATINOS",Sony Channel FHD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/815d53f8-32a3-48d8-9269-4e32a2995ff6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | Sony Channel HD (CO)" tvg-logo="https://i.postimg.cc/zfgb2WDH/image.png" group-title="VARIEDADES",VAR | Sony Channel HD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9567b568-609e-4658-be9c-04e289dad717.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | USA" tvg-logo="https://seeklogo.com/images/U/usa-network-logo-9971D1071C-seeklogo.com.png" group-title="VARIEDADES",VAR | USA
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/30c408b3-fe8d-47ba-b076-f3b8a4bb85c9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="HD LATINOS",TNT NOVELAS HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b1ceaba5-102b-44e4-85d1-652a5761b84d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | TELEHIT HD" tvg-logo="https://i.postimg.cc/ZnHm4rhq/telehit-plus.png" group-title="VARIEDADES",VAR | TELEHIT HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/f4249b99-9126-4b42-97e8-73e78f2b5710.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | Telehit Música FHD (MX)" tvg-logo="https://i.postimg.cc/ZnHm4rhq/telehit-plus.png" group-title="VARIEDADES",VAR | Telehit Música FHD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/be401878-bcf9-4655-99c1-0436662c56dc.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | Telemundo Internacional HD" tvg-logo="https://i.postimg.cc/SQfzBtjf/telemundo-internacional.png" group-title="VARIEDADES",VAR | Telemundo Internacional HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/ec5d2345-0f6a-400e-8479-36f4b05cff6c.m3u
+#EXTINF:-1 tvg-id="tlnovelas.mx" tvg-name="VAR | Tlnovelas HD (MX)" tvg-logo="https://i.postimg.cc/cLS1ddjK/tlnovelas.png" group-title="VARIEDADES",VAR | Tlnovelas HD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/4b6045cf-2699-4419-b354-f7203ccc7f3f.m3u
+#EXTINF:-1 tvg-id="tntseries.cl" tvg-name="SD | TNT Series " tvg-logo="https://i.postimg.cc/W4bg9tFM/ar-tnt-series-m.png" group-title="SD LATINOS",SD | TNT Series 
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/4a440e7f-27e9-4e65-85d3-ffcb248a5fe5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series FHD" tvg-logo="https://i.postimg.cc/W4bg9tFM/ar-tnt-series-m.png" group-title="FHD LATINOS",TNT Series FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/7bc64764-22e6-4e69-a0c8-6825c5cc23d0.m3u
+#EXTINF:-1 tvg-id="EPG123.91993.schedulesdirect.org" tvg-name="VAR | TNT Series HD (MX)" tvg-logo="https://i.postimg.cc/W4bg9tFM/ar-tnt-series-m.png" group-title="VARIEDADES",VAR | TNT Series HD (MX)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/1b6e6ddb-f06b-49e4-afc3-f3c109ef380c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swim FHD" tvg-logo="https://m.media-amazon.com/images/I/31EBJJgC2PL.png" group-title="FHD LATINOS",Adult Swim FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b8347d03-3705-4d73-91cc-de90d09bffa4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | ADULT SWIM HD" tvg-logo="https://variety.com/wp-content/uploads/2014/02/adult-swim1.jpg?" group-title="VARIEDADES",VAR | ADULT SWIM HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/4a4baf2d-c393-4810-8033-a9575544f5c7.m3u
+#EXTINF:-1 tvg-id="universalchannel.co" tvg-name="UNIVERSAL SD" tvg-logo="https://i.postimg.cc/9MwVVtwC/218.png" group-title="SD LATINOS",UNIVERSAL SD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9e37aaad-e87d-4dcc-99a6-7e2231eeb88b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | UNIVERSAL HD" tvg-logo="https://i.postimg.cc/9MwVVtwC/218.png" group-title="VARIEDADES",VAR | UNIVERSAL HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/e90c4778-d0ee-4b54-9c66-881e6c4502be.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | VH1" tvg-logo="https://i.postimg.cc/NMW9RvyX/vh1hd.png" group-title="VARIEDADES",VAR | VH1
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/e4404bd3-a19e-4f91-ab42-cd74530bafdf.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | VH1 Classic" tvg-logo="https://i.postimg.cc/LhF98HJy/vh1-classic.png" group-title="VARIEDADES",VAR | VH1 Classic
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/706d7db5-5c29-4894-a8a3-8bf2b581041a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | VH1 FHD " tvg-logo="https://i.postimg.cc/NMW9RvyX/vh1hd.png" group-title="VARIEDADES",VAR | VH1 FHD 
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/4fb66adf-ca93-489c-bf7f-decd1115dc13.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VAR | VH1 HD (AR)" tvg-logo="https://i.postimg.cc/NMW9RvyX/vh1hd.png" group-title="VARIEDADES",VAR | VH1 HD (AR)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/39a19e34-b545-4e7a-b4bb-442302b7f741.m3u
+#EXTINF:-1 tvg-id="warnerchannel.co" tvg-name="SD | Warner Channel" tvg-logo="https://i.postimg.cc/4yyTwDpf/warner.png" group-title="SD LATINOS",SD | Warner Channel
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/c13aa5c7-c26d-40c1-958b-777bc677506d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel FHD" tvg-logo="https://i.postimg.cc/4yyTwDpf/warner.png" group-title="FHD LATINOS",Warner Channel FHD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/27fb94b4-d751-4294-a531-d4a534004daa.m3u
+#EXTINF:-1 tvg-id="Discovery Channel.co" tvg-name="Discovery Channel HD" tvg-logo="https://i.postimg.cc/Rh2rmKQG/DISCOVERY-CHANNEL.png" group-title="HD LATINOS",Discovery Channel HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/c06f8451-c50e-49f6-b03e-6dc84e932ca9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel SD (CO)" tvg-logo="https://i.postimg.cc/Rh2rmKQG/DISCOVERY-CHANNEL.png" group-title="SD LATINOS",Discovery Channel SD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/985e292c-14dd-46f7-b29e-acd01db57c54.m3u
+#EXTINF:-1 tvg-id="" tvg-name="HGTV SD (CO)" tvg-logo="https://i.ibb.co/dMg3n94/hgtv.png" group-title="SD LATINOS",HGTV SD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/086261ab-449f-440a-9971-cb7602a6a0b9.m3u
+#EXTINF:-1 tvg-id="HOME and HEALTH HD.cl" tvg-name="Discovery H&H HD" tvg-logo="https://i.postimg.cc/pVnbRc4B/DISCOVERY-H-H.png" group-title="HD LATINOS",Discovery H&H HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9907c5c9-a138-44f4-aa13-ff851579295b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="https://i.postimg.cc/c1YxXJxZ/DISCOVERY-KIDS.png" group-title="HD LATINOS",Discovery Kids HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/47d97366-17c7-470a-8a33-7b130cc25016.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD " tvg-logo="https://i.postimg.cc/Yq9XtvvB/DISCOVERY-TEATHER.png" group-title="HD LATINOS",Discovery Theater HD 
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9fbde385-b2c2-46ee-9e45-425dc810e6fd.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="https://i.postimg.cc/gknfNSqh/DISCOVERY-TURBO.png" group-title="HD LATINOS",Discovery Turbo HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/547bf3cb-214d-47ce-adc3-0850582bb01b.m3u
+#EXTINF:-1 tvg-id="DISCOVERY WORLD HD.pe" tvg-name="Discovery World HD" tvg-logo="https://i.postimg.cc/pXBM9hZG/DISCOVERY-WORLD.png" group-title="HD LATINOS",Discovery World HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b8ff17d5-0642-41e1-b6a4-d5a1301f9889.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="https://i.postimg.cc/J4dW8y59/DISNEY-CHANNEL.png" group-title="HD LATINOS",Disney Channel HD
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/2f27ee03-c5b7-4a7b-8aa1-6eff0318e266.m3u
+#EXTINF:-1 tvg-id="ESPN 2.co" tvg-name="ESPN 2 FHD (CO)" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" group-title="FHD LATINOS",ESPN 2 FHD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/b2fad8ac-cb12-470d-91e2-752f57b83fb9.m3u
+#EXTINF:-1 tvg-id="ESPN 3.co" tvg-name="ESPN 3 FHD (CO)" tvg-logo="https://www.impulsotv.com.ar/sites/default/files/canales/logos/espn-3-hd.png" group-title="FHD LATINOS",ESPN 3 FHD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/4c3f46cd-be2f-43b7-8b70-ca3ab8b9ffdd.m3u
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN FHD (CO)" tvg-logo="https://pbs.twimg.com/profile_images/856564125455065089/MAJ4Buek_400x400.jpg" group-title="FHD LATINOS",ESPN FHD (CO)
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/09c6dcb8-2bcd-48e0-8ac8-3de37ea6bfd2.m3u
