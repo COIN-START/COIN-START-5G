@@ -6,13 +6,12 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8?=aut
 #EXTINF:-1 tvg-id="Canal5.mx(m3u4u)" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5
 https://tvportalmx.com:3796/live/canal5live.m3u8
 
-https://tvportalmx.com:3796/live/canal5live.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal5.mx(m3u4u)" tvg-name="CANAL 5 op2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5 op2
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/5d01c94d-5dad-46c6-b532-e29da7c7cb3a.m3u8
 
-#EXTINF:-1 tvg-id="Canal5.mx(m3u4u)" tvg-name="CANAL 5 op3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5 op3
-http://iptv.ndasat.xyz:80/live/221781184158716/221781184158716/84050.m3u8
+
 
 #EXTINF:-1 tvg-id="Azteca7.mx(m3u4u)" tvg-name="AZTECA 7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="A- TV MX",AZTECA 7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
