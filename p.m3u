@@ -1,5 +1,7 @@
 #EXTM3U url-tvg=""
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevf4F8fXyL5iKmylNmHw6VQWyxkDuaYFjLQyBPL-YclbbcVRq4DIz0w-g&s=10" group-title="A- ESTRENOS HD", LAS CRONICAS DE NARNIA 1
+https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/01267/c4aze3tyogkl_n/master.m3u8?t=UDqwInaHBeTYrsCuOyTw8wGN-5-GFt69_r7cno6SKzY&s=1746832631&e=129600&f=6339012&srv=0g7xgsanrz08&i=0.4&sp=500
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevf4F8fXyL5iKmylNmHw6VQWyxkDuaYFjLQyBPL-YclbbcVRq4DIz0w-g&s=10" group-title="A- ESTRENOS HD", LA NOCHE DEL DEMONIO
 http://208.88.245.81/nuevo/insidiuos.puertaroja.dual2023.mkv
