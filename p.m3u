@@ -1,14 +1,13 @@
 #EXTM3U url-tvg=""
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoG0cLvcZv0VfXvhrxXVQO5KlqNzOJCTnKH0f6atqsWPappuvqSCwd97o&s=10" group-title="A- ESTRENOS HD", LAS CRONICAS DE NARNIA 1
-https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/01267/c4aze3tyogkl_n/master.m3u8?t=UDqwInaHBeTYrsCuOyTw8wGN-5-GFt69_r7cno6SKzY&s=1746832631&e=129600&f=6339012&srv=0g7xgsanrz08&i=0.4&sp=500
+http://matrivagoweb.xyz:8080/movie/61093343peli/123456/93061.mkv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBJKFYSbbBeuaFTDfFMP4Z75Ir0YpNm9_FEZ625v0NDZIyK7yssnf4ejI&s=10" group-title="A- ESTRENOS HD", LAS CRONICAS DE NARNIA 2
-https://s0mlxzpt0qgc8.premilkyway.com/hls2/01/03088/kgqy20w08xl2_,n,h,.urlset/master.m3u8?t=bHiOB8nMEsANAHmyiPz2sWKgNXFopFjpVZAIm_yF1cU&s=1746833242&e=129600&f=16787936&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=17072
+http://matrivagoweb.xyz:8080/movie/61093343peli/123456/93062.mkv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq3EwT4J5S_Eh5ZNGPEm8PN7HmWTLaJ9tPslZ2sHLFkeKsHnWrLlm26HQ&s=10" group-title="A- ESTRENOS HD", LAS CRONICAS DE NARNIA 3
-https://1bnpkpnpqghq0.acek-cdn.com/hls2/01/01029/2emasszlc980_o/master.m3u8?t=f1iqiKxVz4igD9aAynMjwa7R4BPD09WiEUullnwp4Vo&s=1746834279&e=129600&f=6336170&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=17072
-
+http://matrivagoweb.xyz:8080/movie/61093343peli/123456/93063.mkv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevf4F8fXyL5iKmylNmHw6VQWyxkDuaYFjLQyBPL-YclbbcVRq4DIz0w-g&s=10" group-title="A- ESTRENOS HD", LA NOCHE DEL DEMONIO
 http://208.88.245.81/nuevo/insidiuos.puertaroja.dual2023.mkv
 
