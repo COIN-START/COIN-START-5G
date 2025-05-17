@@ -138,7 +138,7 @@ https://magmaplayer.com/stream/m3u8/AwR3KmHmBS8kBQxhZGt5YwRkZP4kAmqsZGp0AmD1/hls
 #EXTINF:-1 tvg-id="HBOSignature.mx(m3u4u)" tvg-name="HBO SIGNATURE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="E- PREMIUM",HBO SIGNATURE
 http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/124.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.mx(m3u4u)" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="E- PREMIUM",HBO XTREME
-http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/120.m3u8
+http://magmaplayer.com/stream/m3u8/AwtmKmH0AI8kBQxhZGt5YwRkZP4kAmqsZGp0AmD1/hls/545.m3u8
 
 #EXTINF:-1 tvg-id="UniversalCinema.mx(m3u4u)" tvg-name="UNIVERSAL CINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL CINEMA
 http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/129.m3u8
