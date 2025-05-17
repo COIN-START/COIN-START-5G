@@ -187,6 +187,8 @@ http://magmaplayer.com/stream/m3u8/BQxjKmxlZI8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/921.
 http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/537.m3u8
 #EXTINF:-1 tvg-id="Space.mx(m3u4u)" tvg-name="SPACE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="F- CINE Y SERIES",SPACE
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/c81adc8e-ee1e-43e1-a67a-672adefb3635.m3u8
+#EXTINF:-1 tvg-id="Space.mx(m3u4u)" tvg-name="Space MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="F- CINE Y SERIES",Space MX
+http://magmaplayer.com/stream/m3u8/BQV5KmtlZ18lBQN2BwRjATH6ZGt6BQqzZQbkBGt6ZJWzBGcxLwLlBwSxLGusZGp0AmHj/hls/823.m3u8
 #EXTINF:-1 tvg-id="AandE.mx(m3u4u)" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="F- CINE Y SERIES",A&E
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/7bf4516a-bf76-4af4-8604-2be214c25570.m3u8
 #EXTINF:-1 tvg-id="AMC.mx(m3u4u)" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="F- CINE Y SERIES",AMC
