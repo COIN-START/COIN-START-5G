@@ -177,7 +177,9 @@ http://disfruta.net/live/balooshy/Dcw7jXk5T5/e90c4778-d0ee-4b54-9c66-881e6c4502b
 #EXTINF:-1 tvg-id="StudioUniversal.mx(m3u4u)" tvg-name="STUDIO UNIVERSAL MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="F- CINE Y SERIES",STUDIO UNIVERSAL MX
 https://magmaplayer.com/stream/m3u8/ZwZjKmt0AI8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/845.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="WARNER HD" tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png" group-title="F- CINE Y SERIES",WARNER HD
-http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/126.m3u8
+http://magmaplayer.com/stream/m3u8/AwN5KmRjZmWsZwNjYwLmYwDlYwRjKmR3AQp0At/hls/1032.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="WARNER MX" tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png" group-title="F- CINE Y SERIES",WARNER MX
+http://tv.zapping.life:8080/live/oliverostrinidad1/B6pUGaPaGz/9776.ts
 #EXTINF:-1 tvg-id="TNT.mx(m3u4u)" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="F- CINE Y SERIES",TNT
 http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/5020.m3u8
 
