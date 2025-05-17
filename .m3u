@@ -169,8 +169,10 @@ http://disfruta.net/live/balooshy/Dcw7jXk5T5/815d53f8-32a3-48d8-9269-4e32a2995ff
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SONY Channel MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="F- CINE Y SERIES",SONY Channel MX
 http://magmaplayer.com/stream/m3u8/BQR3KmtkAI8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/815.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.mx(m3u4u)" tvg-name="SONY MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/598px-Sony_Movies_Logo.svg.png" group-title="F- CINE Y SERIES",SONY MOVIE
-http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/125.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="F- CINE Y SERIES",UNIVERSAL HD
+http://tv.iprotv.live:80/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149742.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="F- CINE Y SERIES",Universal TV
+http://magmaplayer.com/stream/m3u8/AQV4Kmx5BS8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/998.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Universal MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="F- CINE Y SERIES",UNIVERSAL MX
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/e90c4778-d0ee-4b54-9c66-881e6c4502be.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.mx(m3u4u)" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="F- CINE Y SERIES",STUDIO UNIVERSAL
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/555e5509-69f6-4e85-b776-6bcda7f69c5d.m3u8
