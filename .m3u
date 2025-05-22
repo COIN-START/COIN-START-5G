@@ -6,7 +6,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8?=aut
 #EXTINF:-1 tvg-id="Canal5.mx(m3u4u)" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5
 http://domtvs.dyndns.tv:25461/St3LL4TV/MYftGNwzHVRw/516211
 #EXTINF:-1 tvg-id="Canal5.mx(m3u4u)" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5
-http://domtvs.dyndns.tv:25461/live/St3LL4TV/MYftGNwzHVRw/90210.ts
+http://domtvs.dyndns.tv:25461/St3LL4TV/MYftGNwzHVRw/90210
 
 #EXTINF:-1 tvg-id="Azteca7.mx(m3u4u)" tvg-name="AZTECA 7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="A- TV MX",AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
