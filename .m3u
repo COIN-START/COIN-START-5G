@@ -3,8 +3,8 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?=autoplay=-1
 #EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="LAS ESTRELLAS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="A- TV MX",LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8?=autoplay=-1
-#EXTINF:-1 tvg-id="Canal5.mx(m3u4u)" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5
-http://domtvs.dyndns.tv:25461/St3LL4TV/MYftGNwzHVRw/516211
+
+
 #EXTINF:-1 tvg-id="Canal5.mx(m3u4u)" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5
 http://magmaplayer.com/stream/m3u8/AwV1KmRjAy8lBQN2BwWzZQb5LwDjBzL3BQt6AJExLwb1AGEwBzZ0ZTD6AJV2A18kAmD3BQt/hls/106.m3u8
 
