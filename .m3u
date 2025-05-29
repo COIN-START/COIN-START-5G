@@ -1,11 +1,10 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/69wkng943dsv6mw6nq8g"
 #EXTINF:-1 tvg-id="Aztecauno.mx(m3u4u)" tvg-name="AZTECA UNO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="A- TV MX",AZTECA UNO
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?=autoplay=-1
+https://corsproxy.io/?url=https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?=autoplay=-1
 #EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="LAS ESTRELLAS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="A- TV MX",LAS ESTRELLAS
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8?=autoplay=-1
+https://corsproxy.io/?url=https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8?=autoplay=-1
 
-#EXTINF:-1 tvg-id="Canal5.mx(m3u4u)" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5
-https://corsproxy.io/?url=http://user.tvcluboficial.com/live/m/m/941.m3u8
+
 #EXTINF:-1 tvg-id="Canal5.mx(m3u4u)" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5
 https://corsproxy.io/?url=http://magmaplayer.com/stream/m3u8/AwV1KmRjAy8lBQN2BwWzZQb5LwDjBzL3BQt6AJExLwb1AGEwBzZ0ZTD6AJV2A18kAmD3BQt/hls/106.m3u8
 
@@ -54,7 +53,7 @@ https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/01267/c4aze3tyogkl_n/master.m3u8?t=UD
 
 
 #EXTINF:-1 tvg-id="TLNovelas.mx(m3u4u)" tvg-name="TLNOVELAS" tvg-logo="https://x.playerlatino.live/tlnovelas.png" group-title="B- NOVELAS",TLNOVELAS
-http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278367.m3u8
+https://corsproxy.io/?url=http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278367.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PASIONES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png" group-title="B- NOVELAS",PASIONES
