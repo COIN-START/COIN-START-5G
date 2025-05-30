@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "TV en Vivo": {
+      "url": "https://example.com/tv-en-vivo.json"
+    },
+    "Películas": {
+      "url": "https://example.com/peliculas.json"
+    },
+    "Series": {
+      "url": "https://example.com/series.json"
+    },
+    "Nuevo JSON": {
+      "url": "https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/nuevo.json"
+    }
+  }
+}
