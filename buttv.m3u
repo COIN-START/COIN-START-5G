@@ -1,5 +1,5 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-logo="" group-title="1",
+#EXTINF:-1 tvg-id="Aztecauno.mx(m3u4u)" tvg-name="AZTECA UNO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="A- TV MX",AZTECA UNO
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278201.m3u8
