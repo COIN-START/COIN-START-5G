@@ -1,5 +1,5 @@
 {
-  "providerName": "Azteca Uno",
+  "providerName": "A- TV MX",
   "language": "es-MX",
   "lastUpdated": "",
   "shortFormVideos": [
@@ -7,12 +7,8 @@
       "longDescription": "Transmisión en vivo de AZTECA UNO.",
       "thumbnail": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png",
       "releaseDate": "",
-      "genres": [
-        "entretenimiento"
-      ],
-      "tags": [
-        "televisión en vivo"
-      ],
+      "genres": ["entretenimiento"],
+      "tags": ["televisión en vivo"],
       "id": "shortform-azteca-uno-live",
       "shortDescription": "Disfruta de la programación en vivo de AZTECA UNO.",
       "title": "AZTECA UNO",
@@ -21,6 +17,348 @@
         "videos": [{
           "videoType": "HLS",
           "url": "https://corsproxy.io/?url=https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8",
+          "quality": "HD"
+        }]
+      }
+    },
+    {
+      "longDescription": "Transmisión en vivo de LAS ESTRELLAS.",
+      "thumbnail": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png",
+      "releaseDate": "",
+      "genres": ["entretenimiento"],
+      "tags": ["televisión en vivo"],
+      "id": "shortform-las-estrellas-live",
+      "shortDescription": "Disfruta de la programación en vivo de LAS ESTRELLAS.",
+      "title": "LAS ESTRELLAS",
+      "content": {
+        "duration": -1,
+        "videos": [{
+          "videoType": "HLS",
+          "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+          "quality": "HD"
+        }]
+      }
+    },
+    {
+      "longDescription": "Transmisión en vivo de CANAL 5 HD.",
+      "thumbnail": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png",
+      "releaseDate": "",
+      "genres": ["entretenimiento"],
+      "tags": ["televisión en vivo"],
+      "id": "shortform-canal-5-hd-live",
+      "shortDescription": "Disfruta de la programación en vivo de CANAL 5 HD.",
+      "title": "CANAL 5 HD",
+      "content": {
+        "duration": -1,
+        "videos": [{
+          "videoType": "HLS",
+          "url": "http://104.238.205.28:8989/278329_.m3u8",
+          "quality": "HD"
+        }]
+      }
+    },
+    {
+      "longDescription": "Transmisión en vivo de CANAL 5.",
+      "thumbnail": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png",
+      "releaseDate": "",
+      "genres": ["entretenimiento"],
+      "tags": ["televisión en vivo"],
+      "id": "shortform-canal-5-live",
+      "shortDescription": "Disfruta de la programación en vivo de CANAL 5.",
+      "title": "CANAL 5",
+      "content": {
+        "duration": -1,
+        "videos": [{
+          "videoType": "HLS",
+          "url": "http://104.238.205.28:8989/278330_.m3u8",
+          "quality": "HD"
+        }]
+      }
+    },
+    {
+      "longDescription": "Transmisión en vivo de AZTECA 7.",
+      "thumbnail": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png",
+      "releaseDate": "",
+      "genres": ["entretenimiento"],
+      "tags": ["televisión en vivo"],
+      "id": "shortform-azteca-7-live",
+      "shortDescription": "Disfruta de la programación en vivo de AZTECA 7.",
+      "title": "AZTECA 7",
+      "content": {
+        "duration": -1,
+        "videos": [{
+          "videoType": "HLS",
+          "url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8",
+          "quality": "HD"
+        }]
+      }
+    },
+    {
+      "longDescription": "Transmisión en vivo de ESTRELLA TV.",
+      "thumbnail": "http://x.playerlatino.live/estrellatv.png",
+      "releaseDate": "",
+      "genres": ["entretenimiento"],
+      "tags": ["televisión en vivo"],
+      "id": "shortform-estrella-tv-live",
+      "shortDescription": "Disfruta de la programación en vivo de ESTRELLA TV.",
+      "title": "ESTRELLA TV",
+      "content": {
+        "duration": -1,
+        "videos": [{
+          "videoType": "HLS",
+          "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
+          "quality": "HD"
+        }]
+      }
+    },
+    {
+      "longDescription": "Transmisión en vivo de AZ CLIC HD.",
+      "thumbnail": "https://x.playerlatino.live/azclic.png",
+      "releaseDate": "",
+      "genres": ["entretenimiento"],
+      "tags": ["televisión en vivo"],
+      "id": "shortform-az-clic-hd-live",
+      "shortDescription": "Disfruta de la programación en vivo de AZ CLIC HD.",
+      "title": "AZ CLIC HD",
+      "content": {
+        "duration": -1,
+        "videos": [{
+          "videoType": "HLS",
+          "url": "https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8",
+          "quality": "HD"
+        }]
+      }
+    },
+    {
+      "longDescription": "Transmisión en vivo de AZ MUNDO.",
+      "thumbnail": "https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png",
+      "releaseDate": "",
+      "genres": ["entretenimiento"],
+      "tags": ["televisión en vivo"],
+      "id": "shortform-az-mundo-live",
+      "shortDescription": "Disfruta de la programación en vivo de AZ MUNDO.",
+      "title": "AZ MUNDO",
+      "content": {
+        "duration": -1,
+        "videos": [{
+          "videoType": "HLS",
+          "url": "https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8",
+          "quality": "HD"
+        }]
+      }
+    },
+    {
+      "longDescription": "Transmisión en vivo de AZ CINEMA.",
+      "thumbnail": "https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png",
+      "releaseDate": "",
+      "genres": ["entretenimiento"],
+      "tags": ["televisión en vivo"],
+      "id": "shortform-az-cinema-live",
+      "shortDescription": "Disfruta de la programación en vivo de AZ CINEMA.",
+      "title": "AZ CINEMA",
+      "content": {
+        "duration": -1,
+        "videos": [{
+          "videoType": "HLS",
+          "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829",
+          "quality": "HD"
+        }]
+      }
+    },
+    {
+      "longDescription": "Transmisión en vivo de NE9VE.",
+      "thumbnail": "https://cdn140.picsart.com/278369393029211.png",
+      "releaseDate": "",
+      "genres": ["entretenimiento"],
+      "tags": ["televisión en vivo"],
+      "id": "shortform-ne9ve-live",
+      "shortDescription": "Disfruta de la programación en vivo de NE9VE.",
+      "title": "NE9VE",
+      "content": {
+        "duration": -1,
+        "videos": [{
+          "videoType": "HLS",
+          "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278359.m3u8",
+          "quality": "HD"
+        }]
+      }
+    },
+    {
+      "longDescription": "Transmisión en vivo de FORO TV.",
+      "thumbnail": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66635_dark_360w_270h.png",
+      "releaseDate": "",
+      "genres": ["entretenimiento"],
+      "tags": ["televisión en vivo"],
+      "id": "shortform-foro-tv-live",
+      "shortDescription": "Disfruta de la programación en vivo de FORO TV.",
+      "title": "FORO TV",
+      "content": {
+        "duration": -1,
+        "videos": [{
+          "videoType": "HLS",
+          "url": "https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true",
+          "quality": "HD"
+        }]
+      }
+    },
+    {
+      "longDescription": "Transmisión en vivo de ONCE HD.",
+      "thumbnail": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png",
+      "releaseDate": "",
+      "genres": ["entretenimiento"],
+      "tags": ["televisión en vivo"],
+      "id": "shortform-once-hd-live",
+      "shortDescription": "Disfruta de la programación en vivo de ONCE HD.",
+      "title": "ONCE HD",
+      "content": {
+        "duration": -1,
+        "videos": [{
+          "videoType": "HLS",
+          "url": "http://disfruta.net/live/balooshy/Dcw7jXk5T5/7eb4686c-162d-4207-b42f-7d5a34a72e67.m3u8",
+          "quality": "HD"
+        }]
+      }
+    },
+    {
+      "longDescription": "Transmisión en vivo de TELEFORMULA.",
+      "thumbnail": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34344_dark_360w_270h.png",
+      "releaseDate": "",
+      "genres": ["entretenimiento"],
+      "tags": ["televisión en vivo"],
+      "id": "shortform-teleformula-live",
+      "shortDescription": "Disfruta de la programación en vivo de TELEFORMULA.",
+      "title": "TELEFORMULA",
+      "content": {
+        "duration": -1,
+        "videos": [{
+          "videoType": "HLS",
+          "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505",
+          "quality": "HD"
+        }]
+      }
+    },
+    {
+      "longDescription": "Transmisión en vivo de IMAGEN TV.",
+      "thumbnail": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png",
+      "releaseDate": "",
+      "genres": ["entretenimiento"],
+      "tags": ["televisión en vivo"],
+      "id": "shortform-imagen-tv-live",
+      "shortDescription": "Disfruta de la programación en vivo de IMAGEN TV.",
+      "title": "IMAGEN TV",
+      "content": {
+        "duration": -1,
+        "videos": [{
+          "videoType": "HLS",
+          "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278343.m3u8",
+          "quality": "HD"
+        }]
+      }
+    },
+    {
+      "longDescription": "Transmisión en vivo de IMAGEN TV -1 hora.",
+      "thumbnail": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png",
+      "releaseDate": "",
+      "genres": ["entretenimiento"],
+      "tags": ["televisión en vivo"],
+      "id": "shortform-imagen-tv-1hora-live",
+      "shortDescription": "Disfruta de la programación en vivo de IMAGEN TV -1 hora.",
+      "title": "IMAGEN TV -1 hora",
+      "content": {
+        "duration": -1,
+        "videos": [{
+          "videoType": "HLS",
+          "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149",
+          "quality": "HD"
+        }]
+      }
+    },
+    {
+      "longDescription": "Transmisión en vivo de MULTIMEDIOS MONTERREY.",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png",
+      "releaseDate": "",
+      "genres": ["entretenimiento"],
+      "tags": ["televisión en vivo"],
+      "id": "shortform-multimedios-monterrey-live",
+      "shortDescription": "Disfruta de la programación en vivo de MULTIMEDIOS MONTERREY.",
+      "title": "MULTIMEDIOS MONTERREY",
+      "content": {
+        "duration": -1,
+        "videos": [{
+          "videoType": "HLS",
+          "url": "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8",
+          "quality": "HD"
+        }]
+      }
+    },
+    {
+      "longDescription": "Transmisión en vivo de MULTIMEDIOS CDMX.",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/800px-Multimedios_Canal_Seis_Logo.svg.png",
+      "releaseDate": "",
+      "genres": ["entretenimiento"],
+      "tags": ["televisión en vivo"],
+      "id": "shortform-multimedios-cdmx-live",
+      "shortDescription": "Disfruta de la programación en vivo de MULTIMEDIOS CDMX.",
+      "title": "MULTIMEDIOS CDMX",
+      "content": {
+        "duration": -1,
+        "videos": [{
+          "videoType": "HLS",
+          "url": "https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8",
+          "quality": "HD"
+        }]
+      }
+    },
+    {
+      "longDescription": "Transmisión en vivo de TVMAS.",
+      "thumbnail": "https://directostv.teleame.com/wp-content/uploads/2017/10/tvmas.png",
+      "releaseDate": "",
+      "genres": ["entretenimiento"],
+      "tags": ["televisión en vivo"],
+      "id": "shortform-tvmas-live",
+      "shortDescription": "Disfruta de la programación en vivo de TVMAS.",
+      "title": "TVMAS",
+      "content": {
+        "duration": -1,
+        "videos": [{
+          "videoType": "HLS",
+          "url": "https://marine2.miplay.cl/tvmas/playlist.m3u8",
+          "quality": "HD"
+        }]
+      }
+    },
+    {
+      "longDescription": "Transmisión en vivo de ONCE NIÑOS.",
+      "thumbnail": "https://onceninasyninos.tv/wp-content/uploads/2019/07/cropped-Nuevo_Logo_ON-2019-e1561997594507.png",
+      "releaseDate": "",
+      "genres": ["entretenimiento"],
+      "tags": ["televisión en vivo"],
+      "id": "shortform-once-ninos-live",
+      "shortDescription": "Disfruta de la programación en vivo de ONCE NIÑOS.",
+      "title": "ONCE NIÑOS",
+      "content": {
+        "duration": -1,
+        "videos": [{
+          "videoType": "HLS",
+          "url": "https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8",
+          "quality": "HD"
+        }]
+      }
+    },
+    {
+      "longDescription": "Transmisión en vivo de RT.",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png",
+      "releaseDate": "",
+      "genres": ["entretenimiento"],
+      "tags": ["televisión en vivo"],
+      "id": "shortform-rt-live",
+      "shortDescription": "Disfruta de la programación en vivo de RT.",
+      "title": "RT",
+      "content": {
+        "duration": -1,
+        "videos": [{
+          "videoType": "HLS",
+          "url": "https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8?=-1",
           "quality": "HD"
         }],
 				"language": "en-us",
