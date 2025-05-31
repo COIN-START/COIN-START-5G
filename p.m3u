@@ -1,8 +1,7 @@
 #EXTM3U url-tvg=""
 
 #EXTINF:-1 tvg-logo="https://www.apple.com/mx/tv-pr/shows-and-films/f/fountain-of-youth/images/show-home-graphic-header/key-art-01/4x1/Apple_TV_Fountain_of_Youth_key_art_graphic_header_4_1_show_home.jpg.og.jpg?1747399661942" group-title="A- ESTRENOS HD", LA FUENTE DE LA JUVENTUD
-https://be4235.rcr32.ams02.cdn255.com/download/04/09021/a1v76izlgvmu_x/La%20fuente%20de%20la%20juventud%202025%201080p%20Laitno%20mkv%20mp4?t=SzEZe2KM7tOMNHcfJBO55jK_UqeZA2IiMm-AD1jMPEA&s=1748569825&e=10800&f=45106304&srv=53&asn=&sp=500
-
+http://nxt.plus:8080/movie/orlindf/334123/259065.mkv
 #EXTINF:-1 tvg-logo="https://img.asmedia.epimg.net/resizer/v2/TLBX57N7P5CPDMDXW4LB7YV7OQ.jpg?auth=24f6565b522a70d76041974350efffaa46c7e0d1e21c80763d247a3d944443df&width=1472&height=828&smart=true" group-title="A- ESTRENOS HD", MINECRAFT
 http://vod.tuxchannel.mx/peliculas/720/a%20minecraft%20movie%202025.mkv
 
