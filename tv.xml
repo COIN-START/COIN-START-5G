@@ -2,7 +2,7 @@
     <resultLength>10</resultLength>
     <endIndex>10</endIndex>
 
-    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png">
+    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png">
         <title>AZTECA UNO</title>
         <contentId>1</contentId>
         <contentType>TV</contentType>
@@ -18,7 +18,7 @@
         <runtime>3600</runtime>
     </item>
 
-    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png">
+    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png">
         <title>LAS ESTRELLAS</title>
         <contentId>2</contentId>
         <contentType>TV</contentType>
@@ -34,7 +34,7 @@
         <runtime>3600</runtime>
     </item>
 
-    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png">
+    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png">
         <title>CANAL 5</title>
         <contentId>3</contentId>
         <contentType>TV</contentType>
@@ -50,7 +50,7 @@
         <runtime>3600</runtime>
     </item>
 
-    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png">
+    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png">
         <title>AZTECA 7</title>
         <contentId>4</contentId>
         <contentType>TV</contentType>
