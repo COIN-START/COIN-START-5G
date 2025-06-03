@@ -1,0 +1,71 @@
+<feed>
+    <resultLength>10</resultLength>
+    <endIndex>10</endIndex>
+
+    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png">
+        <title>AZTECA UNO</title>
+        <contentId>1</contentId>
+        <contentType>TV</contentType>
+        <contentQuality>HD</contentQuality>
+        <streamFormat>m3u8</streamFormat>
+        <media>
+            <streamQuality>HD</streamQuality>
+            <streamBitrate>3000</streamBitrate>
+            <streamUrl>https://corsproxy.io/?url=https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8</streamUrl>
+        </media>
+        <synopsis>Canal de televisión mexicana, parte de Grupo Salinas.</synopsis>
+        <genres>Entretenimiento</genres>
+        <runtime>3600</runtime>
+    </item>
+
+    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png">
+        <title>LAS ESTRELLAS</title>
+        <contentId>2</contentId>
+        <contentType>TV</contentType>
+        <contentQuality>HD</contentQuality>
+        <streamFormat>m3u8</streamFormat>
+        <media>
+            <streamQuality>HD</streamQuality>
+            <streamBitrate>3000</streamBitrate>
+            <streamUrl>https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8</streamUrl>
+        </media>
+        <synopsis>Canal de televisión mexicana, parte de Televisa.</synopsis>
+        <genres>Entretenimiento</genres>
+        <runtime>3600</runtime>
+    </item>
+
+    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png">
+        <title>CANAL 5</title>
+        <contentId>3</contentId>
+        <contentType>TV</contentType>
+        <contentQuality>HD</contentQuality>
+        <streamFormat>m3u8</streamFormat>
+        <media>
+            <streamQuality>HD</streamQuality>
+            <streamBitrate>3000</streamBitrate>
+            <streamUrl>http://play.tecnomolly.com:8080/live/Sventura69/xcxwtgJVbR4N/32669.ts</streamUrl>
+        </media>
+        <synopsis>Un canal de televisión mexicana que ofrece una variedad de programas.</synopsis>
+        <genres>Entretenimiento</genres>
+        <runtime>3600</runtime>
+    </item>
+
+    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png">
+        <title>AZTECA 7</title>
+        <contentId>4</contentId>
+        <contentType>TV</contentType>
+        <contentQuality>HD</contentQuality>
+        <streamFormat>m3u8</streamFormat>
+        <media>
+            <streamQuality>HD</streamQuality>
+            <streamBitrate>3000</streamBitrate>
+            <streamUrl>https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8</streamUrl>
+        </media>
+        <synopsis>Canal de televisión mexicana, parte de Grupo Salinas.</synopsis>
+        <genres>Entretenimiento</genres>
+        <runtime>3600</runtime>
+    </item>
+    
+    <!-- Continúa con los demás canales de manera similar -->
+    
+</feed>
