@@ -36,53 +36,7 @@
         <runtime>3600</runtime>
     </item>
 
-    <item sdImg="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Canal_5_logo.png/300px-Canal_5_logo.png" hdImg="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Canal_5_logo.png/300px-Canal_5_logo.png">
-        <title>CANAL 5</title>
-        <contentId>3</contentId>
-        <contentType>TV</contentType>
-        <contentQuality>HD</contentQuality>
-        <streamFormat>m3u8</streamFormat>
-        <media>
-            <streamQuality>HD</streamQuality>
-            <streamBitrate>3000</streamBitrate>
-            <streamUrl>http://play.tecnomolly.com:8080/live/Sventura69/xcxwtgJVbR4N/32669.ts</streamUrl>
-        </media>
-        <synopsis>Un canal de televisión mexicana que ofrece una variedad de programas.</synopsis>
-        <genres>Entretenimiento</genres>
-        <runtime>3600</runtime>
-    </item>
 
-        <item sdImg="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Canal_5_logo.png/300px-Canal_5_logo.png" hdImg="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Canal_5_logo.png/300px-Canal_5_logo.png">
-        <title>CANAL 5</title>
-        <contentId>3</contentId>
-        <contentType>TV</contentType>
-        <contentQuality>HD</contentQuality>
-        <streamFormat>m3u8</streamFormat>
-        <media>
-            <streamQuality>HD</streamQuality>
-            <streamBitrate>3000</streamBitrate>
-            <streamUrl>http://play.tecnomolly.com:8080/live/Sventura69/xcxwtgJVbR4N/32669.ts</streamUrl>
-        </media>
-        <synopsis>Un canal de televisión mexicana que ofrece una variedad de programas.</synopsis>
-        <genres>Entretenimiento</genres>
-        <runtime>3600</runtime>
-    </item>
-
-        <item sdImg="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Canal_5_logo.png/300px-Canal_5_logo.png" hdImg="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Canal_5_logo.png/300px-Canal_5_logo.png">
-        <title>CANAL 5</title>
-        <contentId>3</contentId>
-        <contentType>TV</contentType>
-        <contentQuality>HD</contentQuality>
-        <streamFormat>m3u8</streamFormat>
-        <media>
-            <streamQuality>HD</streamQuality>
-            <streamBitrate>3000</streamBitrate>
-            <streamUrl>http://play.tecnomolly.com:8080/live/Sventura69/xcxwtgJVbR4N/32669.ts</streamUrl>
-        </media>
-        <synopsis>Un canal de televisión mexicana que ofrece una variedad de programas.</synopsis>
-        <genres>Entretenimiento</genres>
-        <runtime>3600</runtime>
-    </item>
 
     
     <!-- Continúa con los demás canales de manera similar -->
