@@ -1,246 +1,245 @@
-<feed>
-    <!-- resultLength indicates the total number of results for this feed -->
-    <resultLength>20</resultLength>
-    <!-- endIndex indicates the number of results for this *paged* section of the feed -->
-    <endIndex>20</endIndex>
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <0>#EXTM3U url-tvg="http://m3u4u.com/epg/69wkng943dsv6mw6nq8g"</0>
+     <1>#EXTINF:-1 tvg-id="Aztecauno.mx(m3u4u)" tvg-name="AZTECA UNO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="A- TV MX",AZTECA UNO</1>
+     <2>https://corsproxy.io/?url=https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8</2>
+     <3>#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="LAS ESTRELLAS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="A- TV MX",LAS ESTRELLAS</3>
+     <4>https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8</4>
+     <5>#EXTINF:-1 tvg-id="Canal5.mx(m3u4u)" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5</5>
+     <6>http://play.tecnomolly.com:8080/live/Sventura69/xcxwtgJVbR4N/32669.ts</6>
+     <7>#EXTINF:-1 tvg-id="Canal5.mx(m3u4u)" tvg-name="CANAL 5 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5 HD</7>
+     <8>http://play.tecnomolly.com:8080/live/Sventura69/xcxwtgJVbR4N/32669.ts</8>
+     <9></9>
+     <10>#EXTINF:-1 tvg-id="Azteca7.mx(m3u4u)" tvg-name="AZTECA 7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="A- TV MX",AZTECA 7</10>
+     <11>https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8</11>
+     <12></12>
+     <13>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESTRELLA TV" tvg-logo="http://x.playerlatino.live/estrellatv.png" group-title="A- TV MX",ESTRELLA TV</13>
+     <14>https://estrellatv-roku.amagi.tv/playlist.m3u8</14>
+     <15>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZ CLIC HD" tvg-logo="https://x.playerlatino.live/azclic.png" group-title="A- TV MX",AZ CLIC HD</15>
+     <16>https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8</16>
+     <17>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZ MUNDO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png" group-title="A- TV MX",AZ MUNDO</17>
+     <18>https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8</18>
+     <19>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZ CINEMA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" group-title="A- TV MX",AZ CINEMA</19>
+     <20>https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829</20>
+     <21>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NE9VE" tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="A- TV MX",NE9VE</21>
+     <22>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278359.m3u8</22>
+     <23>#EXTINF:-1 tvg-id="ForoTV.mx(m3u4u)" tvg-name="FORO TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66635_dark_360w_270h.png" group-title="A- TV MX",FORO TV</23>
+     <24>https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true</24>
+     <25></25>
+     <26>#EXTINF:-1 tvg-id="Once.mx(m3u4u)" tvg-name="ONCE HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png" group-title="A- TV MX",ONCE HD</26>
+     <27>http://disfruta.net/live/balooshy/Dcw7jXk5T5/7eb4686c-162d-4207-b42f-7d5a34a72e67.m3u8</27>
+     <28>#EXTINF:-1 tvg-id="Teleformula.mx(m3u4u)" tvg-name="TELEFORMULA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34344_dark_360w_270h.png" group-title="A- TV MX",TELEFORMULA</28>
+     <29>https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505</29>
+     <30>#EXTINF:-1 tvg-id="ImagenTV.mx(m3u4u)" tvg-name="IMAGEN TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" group-title="A- TV MX",IMAGEN TV</30>
+     <31>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278343.m3u8</31>
+     <32>#EXTINF:-1 tvg-id="ImagenTV.mx(m3u4u)" tvg-name="IMAGEN TV -1 hora" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" group-title="A- TV MX",IMAGEN TV -1 hora</32>
+     <33>https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149</33>
+     <34></34>
+     <35></35>
+     <36>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MULTIMEDIOS MONTERREY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="A- TV MX",MULTIMEDIOS MONTERREY</36>
+     <37>https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8</37>
+     <38>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MULTIMEDIOS CDMX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/800px-Multimedios_Canal_Seis_Logo.svg.png" group-title="A- TV MX",MULTIMEDIOS CDMX</38>
+     <39>https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8</39>
+     <40>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVMAS" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/tvmas.png" group-title="A- TV MX",TVMAS</40>
+     <41>https://marine2.miplay.cl/tvmas/playlist.m3u8</41>
+     <42>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ONCE NIÑOS" tvg-logo="https://onceninasyninos.tv/wp-content/uploads/2019/07/cropped-Nuevo_Logo_ON-2019-e1561997594507.png" group-title="A- TV MX",ONCE NIÑOS</42>
+     <43>https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8</43>
+     <44>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="A- TV MX",RT</44>
+     <45>https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8?=-1</45>
+     <46>#EXTINF:-1 tvg-id="ADN40.mx(m3u4u)" tvg-name="ADN40" tvg-logo="http://x.playerlatino.live/adn40.png" group-title="A- TV MX",ADN40</46>
+     <47>https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8</47>
+     <48></48>
+     <49>#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://x.playerlatino.live/tlc.png" group-title="A- TV MX",TLC</49>
+     <50>https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/01267/c4aze3tyogkl_n/master.m3u8?t=UDqwInaHBeTYrsCuOyTw8wGN-5-GFt69_r7cno6SKzY&s=1746832631&e=129600&f=6339012&srv=0g7xgsanrz08&i=0.4&sp=500</50>
+     <51></51>
+     <52></52>
+     <53>#EXTINF:-1 tvg-id="TLNovelas.mx(m3u4u)" tvg-name="TLNOVELAS" tvg-logo="https://x.playerlatino.live/tlnovelas.png" group-title="B- NOVELAS",TLNOVELAS</53>
+     <54>http://104.238.205.28:8989/278368_.m3u8</54>
+     <55></55>
+     <56></56>
+     <57>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PASIONES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png" group-title="B- NOVELAS",PASIONES</57>
+     <58>https://corsproxy.io/?url=http://user2.tvcluboficial.com:80/live/m/m/755.m3u8</58>
+     <59>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEMUNDO USA" tvg-logo="https://btv.mx/posters/1720842845264.png" group-title="B- NOVELAS",TELEMUNDO USA</59>
+     <60>https://magmaplayer.com/stream/m3u8/AGRjKmt4BS8kBQxhZGt5YwRkZP4kAmqsZGp0AmD1/hls/888.m3u8</60>
+     <61>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEMUNDO" tvg-logo="https://btv.mx/posters/1720842845264.png" group-title="B- NOVELAS",TELEMUNDO</61>
+     <62>http://209.126.106.30:8081/live/974005b4204b4ad78588c404b9feac2a/fee8e06e2a9140369d5ee6f58ce0f265/99.m3u8</62>
+     <63>#EXTINF:-1 tvg-id="TelemundoInternacional.mx(m3u4u)" tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png" group-title="B- NOVELAS",TELEMUNDO INTERNACIONAL</63>
+     <64>http://tv.iprotv.live:80/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149860.ts</64>
+     <65>#EXTINF:-1 tvg-id="Unicable.mx(m3u4u)" tvg-name="UNICABLE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png" group-title="B- NOVELAS",UNICABLE</65>
+     <66>http://tv.iprotv.live:80/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149886.ts</66>
+     <67>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZ CORAZÓN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" group-title="B- NOVELAS",AZ CORAZÓN</67>
+     <68>http://tv.iprotv.live:80/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/97970.ts</68>
+     <69></69>
+     <70></70>
+     <71></71>
+     <72>#EXTINF:-1 tvg-id="DiscoveryScience.mx(m3u4u)" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY SCIENCE</72>
+     <73>http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/37.m3u8</73>
+     <74>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY H&H" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="C- CULTURA",DISCOVERY H&H</74>
+     <75></75>
+     <76>#EXTINF:-1 tvg-id="DiscoveryWorld.mx(m3u4u)" tvg-name="DISCOVERY WORLD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY WORLD</76>
+     <77>http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/26.m3u8</77>
+     <78>#EXTINF:-1 tvg-id="DiscoveryTurbo.mx(m3u4u)" tvg-name="DISCOVERY TURBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY TURBO</78>
+     <79>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79465.m3u8</79>
+     <80>#EXTINF:-1 tvg-id="DiscoveryTheater.mx(m3u4u)" tvg-name="DISCOVERY THEATER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY THEATER</80>
+     <81>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79464.m3u8</81>
+     <82>#EXTINF:-1 tvg-id="NationalGeographic.mx(m3u4u)" tvg-name="NACIONAL GEOGRAPHIC" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png" group-title="C- CULTURA",NACIONAL GEOGRAPHIC</82>
+     <83>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/414739.m3u8</83>
+     <84>#EXTINF:-1 tvg-id="AnimalPlanet.mx(m3u4u)" tvg-name="ANIMAL PLANET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="C- CULTURA",ANIMAL PLANET</84>
+     <85>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79446.m3u8</85>
+     <86>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HISTORY MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="C- CULTURA",HISTORY MX</86>
+     <87>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/414741.m3u8</87>
+     <88>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="C- CULTURA",H2</88>
+     <89>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79478.m3u8</89>
+     <90>#EXTINF:-1 tvg-id="DiscoveryChannel.mx(m3u4u)" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY CHANNEL</90>
+     <91>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79454.m3u8</91>
+     <92>#EXTINF:-1 tvg-id="HGTV.mx(m3u4u)" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png" group-title="C- CULTURA",HGTV</92>
+     <93>http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/79474.ts</93>
+     <94>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="C- CULTURA",DISCOVERY ID</94>
+     <95>http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/79458.ts</95>
+     <96>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/150px-TLC_USA_logo.png" group-title="C- CULTURA",DISCOVERY TLC</96>
+     <97></97>
+     <98></98>
+     <99></99>
+     <100>#EXTINF:-1 tvg-id="Tooncast.mx(m3u4u)" tvg-name="TOONCAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="D- INFANTIL",TOONCAST</100>
+     <101>http://disfruta.net/live/balooshy/Dcw7jXk5T5/45396ceb-9e45-4e4c-acb8-16c490ea3016.m3u8</101>
+     <102>#EXTINF:-1 tvg-id="DiscoveryKids.mx(m3u4u)" tvg-name="DISCOVERY KIDS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" group-title="D- INFANTIL",DISCOVERY KIDS</102>
+     <103>http://disfruta.net/live/balooshy/Dcw7jXk5T5/47d97366-17c7-470a-8a33-7b130cc25016.m3u8</103>
+     <104>#EXTINF:-1 tvg-id="Nickelodeon(English).mx(m3u4u)" tvg-name="NICKELODEO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="D- INFANTIL",NICKELODEO</104>
+     <105>http://disfruta.net/live/balooshy/Dcw7jXk5T5/68aedbef-8931-430e-ab25-c3f182a43868.m3u8</105>
+     <106>#EXTINF:-1 tvg-id="CartoonNetwork.mx(m3u4u)" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="D- INFANTIL",CARTOON NETWORK</106>
+     <107>http://disfruta.net/live/balooshy/Dcw7jXk5T5/05208f2f-6cd7-4a15-8e81-500e2a4eceb3.m3u8</107>
+     <108>#EXTINF:-1 tvg-id="DisneyChannel.mx(m3u4u)" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19234_dark_360w_270h.png" group-title="D- INFANTIL",DISNEY CHANNEL</108>
+     <109>http://disfruta.net/live/balooshy/Dcw7jXk5T5/ec674ff9-6c4a-457b-9192-a9b7f85be712.m3u8</109>
+     <110>#EXTINF:-1 tvg-id="Cartoonito.mx(m3u4u)" tvg-name="CARTOONITO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png" group-title="D- INFANTIL",CARTOONITO</110>
+     <111>http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/506.m3u8</111>
+     <112>#EXTINF:-1 tvg-id="BabyTv.mx(m3u4u)" tvg-name="BABY TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56036_dark_360w_270h.png" group-title="D- INFANTIL",BABY TV</112>
+     <113>http://disfruta.net/live/balooshy/Dcw7jXk5T5/3962e8ec-d867-4cf2-af6b-2d61a1a8c5d7.m3u8</113>
+     <114>#EXTINF:-1 tvg-id="NickJr.mx(m3u4u)" tvg-name="NICK JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60295_dark_360w_270h.png" group-title="D- INFANTIL",NICK JR</114>
+     <115>http://disfruta.net/live/balooshy/Dcw7jXk5T5/cab75eb0-4998-48c3-8d43-33066b8ab008.m3u8</115>
+     <116>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISNEY JR" tvg-logo="http://3.bp.blogspot.com/-VvbUqgHc5Pw/VJIJWAJLxfI/AAAAAAAAHi0/A0nDmO29zwk/s1600/Logo%2BDisney_Junior.png" group-title="D- INFANTIL",DISNEY JR</116>
+     <117>http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/514.m3u8</117>
+     <118></118>
+     <119></119>
+     <120></120>
+     <121>#EXTINF:-1 tvg-id="HBO.mx(m3u4u)" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="E- PREMIUM",HBO HD</121>
+     <122>https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/Amp1KmHlA18kBQxhZGt5YwRkZP4kAmqsZGp0AmD1/hls/527.m3u8</122>
+     <123>#EXTINF:-1 tvg-id="HBO2.mx(m3u4u)" tvg-name="HBO2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="E- PREMIUM",HBO2</123>
+     <124>https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/AQRjKmHlZS8kBQxhZGt5YwRkZP4kAmqsZGp0AmD1/hls/520.m3u8</124>
+     <125>#EXTINF:-1 tvg-id="HBOFamily.mx(m3u4u)" tvg-name="HBO FAMILY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="E- PREMIUM",HBO FAMILY</125>
+     <126>https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/Amt5KmHlAy8kBQxhZGt5YwRkZP4kAmqsZGp0AmD1/hls/526.m3u8</126>
+     <127>#EXTINF:-1 tvg-id="HBOMundi.mx(m3u4u)" tvg-name="HBO MUNDI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="E- PREMIUM",HBO MUNDI</127>
+     <128>https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/AGL1KmRkZQSsZGt5YwR4BF4kZGNhZGp3KmR3AQp0AD/hls/1101.m3u8</128>
+     <129>#EXTINF:-1 tvg-id="HBOPlus.mx(m3u4u)" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="E- PREMIUM",HBO PLUS</129>
+     <130>https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/AwD3KmHmAS8kBQxhZGt5YwRkZP4kAmqsZGp0AmD1/hls/534.m3u8</130>
+     <131>#EXTINF:-1 tvg-id="HBOPop.mx(m3u4u)" tvg-name="HBO POP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="E- PREMIUM",HBO POP</131>
+     <132>https://magmaplayer.com/stream/m3u8/AwR3KmHmBS8kBQxhZGt5YwRkZP4kAmqsZGp0AmD1/hls/538.m3u8</132>
+     <133>#EXTINF:-1 tvg-id="HBOSignature.mx(m3u4u)" tvg-name="HBO SIGNATURE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="E- PREMIUM",HBO SIGNATURE</133>
+     <134>https://corsproxy.io/?url=http://tv.iprotv.live:80/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149699.ts</134>
+     <135>#EXTINF:-1 tvg-id="HBOXtreme.mx(m3u4u)" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="E- PREMIUM",HBO XTREME</135>
+     <136>https://corsproxy.io/?url=http://magmaplayer.com/stream/m3u8/AwtmKmH0AI8kBQxhZGt5YwRkZP4kAmqsZGp0AmD1/hls/545.m3u8</136>
+     <137></137>
+     <138>#EXTINF:-1 tvg-id="UniversalCinema.mx(m3u4u)" tvg-name="UNIVERSAL CINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL CINEMA</138>
+     <139>https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/ZmZ5Kmx4BS8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/988.m3u8</139>
+     <140>#EXTINF:-1 tvg-id="UniversalComedy.mx(m3u4u)" tvg-name="UNIVERSAL COMEDY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL COMEDY</140>
+     <141>https://corsproxy.io/?url=http://magmaplayer.com/stream/m3u8/ZGVjKmx5Zy8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/992.m3u8</141>
+     <142>#EXTINF:-1 tvg-id="UniversalCrime.mx(m3u4u)" tvg-name="UNIVERSAL CRIME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121868_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL CRIME</142>
+     <143>https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/BQpkKmx5Ay8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/996.m3u8</143>
+     <144>#EXTINF:-1 tvg-id="UniversalPremiere.mx(m3u4u)" tvg-name="UNIVERSAL PREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL PREMIER</144>
+     <145>https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/AmpjKmRjZQAsZwNjYwLmYwDlYwRjKmR3AQp0At/hls/1003.m3u8</145>
+     <146>#EXTINF:-1 tvg-id="UniversalReality.mx(m3u4u)" tvg-name="UNIVERSAL REALITY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121867_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL REALITY</146>
+     <147>https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/BQHlKmRjZQMsZwNjYwLmYwDlYwRjKmR3AQp0At/hls/1006.m3u8</147>
+     <148></148>
+     <149>#EXTINF:-1 tvg-id="DistritoComedia.mx(m3u4u)" tvg-name="DISTRITO COMEDIA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55980_dark_360w_270h.png" group-title="F- CINE Y SERIES",DISTRITO COMEDIA</149>
+     <150>https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/ZGLkKmV5Z18lZQNhAwZhAQVhZGOsZGp0AmD2/hls/293.m3u8</150>
+     <151>#EXTINF:-1 tvg-id="ComedyCentral.mx(m3u4u)" tvg-name="COMEDY CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="F- CINE Y SERIES",COMEDY CENTRAL</151>
+     <152>https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/AGxkKmVkAy8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/216.m3u8</152>
+     <153></153>
+     <154>#EXTINF:-1 tvg-id="StarChannel.mx(m3u4u)" tvg-name="STAR CHANNEL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88534_dark_360w_270h.png" group-title="F- CINE Y SERIES",STAR CHANNEL HD</154>
+     <155>https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/ZmD3KmtmAS8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/834.m3u8</155>
+     <156>#EXTINF:-1 tvg-id="StarChannel.mx(m3u4u)" tvg-name="STAR CHANNEL MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88534_dark_360w_270h.png" group-title="F- CINE Y SERIES",STAR CHANNEL MX</156>
+     <157>http://play.tecnomolly.com:8080/live/Sventura69/xcxwtgJVbR4N/33980.ts</157>
+     <158>#EXTINF:-1 tvg-id="FX.mx(m3u4u)" tvg-name="FX HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" group-title="F- CINE Y SERIES",FX HD</158>
+     <159>https://corsproxy.io/?url=http://user2.tvcluboficial.com:80/live/m/m/495.m3u8</159>
+     <160></160>
+     <161>#EXTINF:-1 tvg-id="FX.mx(m3u4u)" tvg-name="FX MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" group-title="F- CINE Y SERIES",FX MX</161>
+     <162>https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/ZwL5KmD3A18lZQRhZGN2YwVhZwV4KmR3AQp1BD/hls/477.m3u8</162>
+     <163>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="F- CINE Y SERIES",SONY CHANNEL</163>
+     <164>http://disfruta.net/live/balooshy/Dcw7jXk5T5/815d53f8-32a3-48d8-9269-4e32a2995ff6.m3u8</164>
+     <165>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SONY Channel MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="F- CINE Y SERIES",SONY Channel MX</165>
+     <166>https://corsproxy.io/?url=http://magmaplayer.com/stream/m3u8/BQR3KmtkAI8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/815.m3u8</166>
+     <167>#EXTINF:-1 tvg-id="SonyMovies.mx(m3u4u)" tvg-name="SONY MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/598px-Sony_Movies_Logo.svg.png" group-title="F- CINE Y SERIES",SONY MOVIE</167>
+     <168>http://104.238.205.28:8989/278471_.m3u8</168>
+     <169>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="F- CINE Y SERIES",Universal TV</169>
+     <170>https://corsproxy.io/?url=http://magmaplayer.com/stream/m3u8/AQV4Kmx5BS8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/998.m3u8</170>
+     <171>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Universal MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="F- CINE Y SERIES",UNIVERSAL MX</171>
+     <172>http://disfruta.net/live/balooshy/Dcw7jXk5T5/e90c4778-d0ee-4b54-9c66-881e6c4502be.m3u8</172>
+     <173>#EXTINF:-1 tvg-id="StudioUniversal.mx(m3u4u)" tvg-name="STUDIO UNIVERSAL MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="F- CINE Y SERIES",STUDIO UNIVERSAL MX</173>
+     <174>https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/ZwZjKmt0AI8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/845.m3u8</174>
+     <175>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="WARNER MX" tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png" group-title="F- CINE Y SERIES",WARNER MX</175>
+     <176>https://corsproxy.io/?url=http://magmaplayer.com/stream/m3u8/AwN5KmRjZmWsZwNjYwLmYwDlYwRjKmR3AQp0At/hls/1032.m3u8</176>
+     <177>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="WARNER " tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png" group-title="F- CINE Y SERIES",WARNER</177>
+     <178>http://tv.zapping.life:8080/live/oliverostrinidad1/B6pUGaPaGz/9776.ts</178>
+     <179>#EXTINF:-1 tvg-id="TNT.mx(m3u4u)" tvg-name="TNT MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="F- CINE Y SERIES",TNT MX</179>
+     <180>https://corsproxy.io/?url=http://magmaplayer.com/stream/m3u8/BQxjKmxlZI8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/921.m3u8</180>
+     <181></181>
+     <182>#EXTINF:-1 tvg-id="TNTSeries.mx(m3u4u)" tvg-name="TNT SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="F- CINE Y SERIES",TNT SERIES</182>
+     <183>https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/Amx0KmxlBI8lBQN2BwRjATH6ZGt6BQqzZQbkBGt6ZJWzBGcxLwLlBwSxLGusZGp0AmHj/hls/929.m3u8</183>
+     <184>#EXTINF:-1 tvg-id="Space.mx(m3u4u)" tvg-name="SPACE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="F- CINE Y SERIES",SPACE</184>
+     <185>http://disfruta.net/live/balooshy/Dcw7jXk5T5/c81adc8e-ee1e-43e1-a67a-672adefb3635.m3u8</185>
+     <186>#EXTINF:-1 tvg-id="Space.mx(m3u4u)" tvg-name="Space MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="F- CINE Y SERIES",Space MX</186>
+     <187>https://corsproxy.io/?url=http://magmaplayer.com/stream/m3u8/BQV5KmtlZ18lBQN2BwRjATH6ZGt6BQqzZQbkBGt6ZJWzBGcxLwLlBwSxLGusZGp0AmHj/hls/823.m3u8</187>
+     <188>#EXTINF:-1 tvg-id="AandE.mx(m3u4u)" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="F- CINE Y SERIES",A&E</188>
+     <189>http://disfruta.net/live/balooshy/Dcw7jXk5T5/7bf4516a-bf76-4af4-8604-2be214c25570.m3u8</189>
+     <190>#EXTINF:-1 tvg-id="AMC.mx(m3u4u)" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="F- CINE Y SERIES",AMC</190>
+     <191>http://disfruta.net/live/balooshy/Dcw7jXk5T5/9b56600d-0994-4e8d-8dc5-89d9e778afa3.m3u8</191>
+     <192>#EXTINF:-1 tvg-id="Paramount.mx(m3u4u)" tvg-name="PARAMOUNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="F- CINE Y SERIES",PARAMOUNT</192>
+     <193>https://corsproxy.io/?url=http://user2.tvcluboficial.com:80/live/m/m/647.m3u8</193>
+     <194>#EXTINF:-1 tvg-id="Cinemax.mx(m3u4u)" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="F- CINE Y SERIES",CINEMAX</194>
+     <195>https://corsproxy.io/?url=http://user2.tvcluboficial.com:80/live/m/m/638.m3u8</195>
+     <196></196>
+     <197>#EXTINF:-1 tvg-id="Cinecanal.mx(m3u4u)" tvg-name="CINECANAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="F- CINE Y SERIES",CINECANAL</197>
+     <198>https://corsproxy.io/?url=http://user2.tvcluboficial.com:80/live/m/m/479.m3u8</198>
+     <199>#EXTINF:-1 tvg-id="Golden.mx(m3u4u)" tvg-name="GOLDEN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN</199>
+     <200>https://corsproxy.io/?url=http://magmaplayer.com/stream/secure/ZmHmKmD5A18kBQphZGxjYwLmYwL0KmR3AQt1Aj.m3u8</200>
+     <201>#EXTINF:-1 tvg-id="GoldenEdge.mx(m3u4u)" tvg-name="GOLDEN EDGE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN EDGE</201>
+     <202>https://corsproxy.io/?url=http://magmaplayer.com/stream/secure/AGH0KmD5AI8lBQN2BwWzZQb5LwDjBzL3BQt6Awx1BQczZJH4BwqxZwt6A2Z0AS8kAmD4AGp.m3u8</202>
+     <203>#EXTINF:-1 tvg-id="GOLDENPLUS.mx(m3u4u)" tvg-name="GOLDEN PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN PLUS</203>
+     <204>http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/116.m3u8</204>
+     <205>#EXTINF:-1 tvg-id="GoldenPremier.mx(m3u4u)" tvg-name="GOLDEN PREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN PREMIER</205>
+     <206>http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/435.m3u8</206>
+     <207></207>
+     <208>#EXTINF:-1 tvg-id="DePeliculaPlus.mx(m3u4u)" tvg-name="DE PELICULA PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png" group-title="F- CINE Y SERIES",DE PELICULA PLUS</208>
+     <209>https://corsproxy.io/?url=http://user2.tvcluboficial.com:80/live/m/m/1544.m3u8</209>
+     <210></210>
+     <211></211>
+     <212></212>
+     <213></213>
+     <214></214>
+     <215></215>
+     <216></216>
+     <217></217>
+     <218>#EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="H- DEPORTES",ESPN</218>
+     <219>http://disfruta.net/live/balooshy/Dcw7jXk5T5/ec5e5d0c-ce5f-487e-a923-d44242c5b4b8.m3u8</219>
+     <220>#EXTINF:-1 tvg-id="ESPN2.mx(m3u4u)" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="H- DEPORTES",ESPN 2</220>
+     <221>http://disfruta.net/live/balooshy/Dcw7jXk5T5/f6c3675a-0031-4788-820d-0b4913ca36fc.m3u8</221>
+     <222>#EXTINF:-1 tvg-id="ESPN3.mx(m3u4u)" tvg-name="ESPN 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="H- DEPORTES",ESPN 3</222>
+     <223>http://disfruta.net/live/balooshy/Dcw7jXk5T5/6760ba79-4638-47d0-b487-24514d8f1afc.m3u8</223>
+     <224>#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx(m3u4u)" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="H- DEPORTES",Fox Sports</224>
+     <225>http://disfruta.net/live/balooshy/Dcw7jXk5T5/67bf848b-2f3c-4272-8860-fa5536f8cf43.m3u8</225>
+     <226>#EXTINF:-1 tvg-id="FoxSports2.mx(m3u4u)" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66365_dark_360w_270h.png" group-title="H- DEPORTES",Fox Sports 2</226>
+     <227>http://disfruta.net/live/balooshy/Dcw7jXk5T5/c0030764-11bf-4ba9-8254-e533606a5017.m3u8</227>
+     <228>#EXTINF:-1 tvg-id="FoxSports3.mx(m3u4u)" tvg-name="Fox Sports 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105006_dark_360w_270h.png" group-title="H- DEPORTES",Fox Sports 3</228>
+     <229>http://disfruta.net/live/balooshy/Dcw7jXk5T5/253551b2-6ec5-475e-9b6b-7835863b03ed.m3u8</229>
+     <230>#EXTINF:-1 tvg-id="FoxSportsPremium.mx(m3u4u)" tvg-name="FOX SPORTS PREMIUM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123582_dark_360w_270h.png" group-title="H- DEPORTES",FOX SPORTS PREMIUM</230>
+     <231>http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/5000.m3u8</231>
+     <232>#EXTINF:-1 tvg-id="TUDN.mx(m3u4u)" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="H- DEPORTES",TUDN</232>
+     <233>http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/5007.m3u8</233>
+     <234>#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TUDN USA" tvg-logo="http://x.playerlatino.live/tudn.png" group-title="H- DEPORTES",TUDN USA</234>
+     <235>http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/5008.m3u8</235>
+     <236></236>
+     <237></237>
+     <238></238>
+     <239></239>
+     <240></240>
+ </root>
 
-    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png">
-        <title>AZTECA UNO</title>
-        <contentId>1</contentId>
-        <contentType>TV</contentType>
-        <contentQuality>HD</contentQuality>
-        <streamFormat>m3u8</streamFormat>
-        <media>
-            <streamQuality>HD</streamQuality>
-            <streamBitrate>3000</streamBitrate>
-            <streamUrl>https://corsproxy.io/?url=https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8</streamUrl>
-        </media>
-        <synopsis>Canal de televisión mexicana, parte de Grupo Salinas.</synopsis>
-        <genres>Entretenimiento</genres>
-        <runtime>3600</runtime>
-        <userAgent>Magma Player/10</userAgent>
-        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
-    </item>
-
-    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png">
-        <title>LAS ESTRELLAS</title>
-        <contentId>2</contentId>
-        <contentType>TV</contentType>
-        <contentQuality>HD</contentQuality>
-        <streamFormat>m3u8</streamFormat>
-        <media>
-            <streamQuality>HD</streamQuality>
-            <streamBitrate>3000</streamBitrate>
-            <streamUrl>https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8</streamUrl>
-        </media>
-        <synopsis>Canal de entretenimiento mexicano.</synopsis>
-        <genres>Entretenimiento</genres>
-        <runtime>3600</runtime>
-        <userAgent>Magma Player/10</userAgent>
-        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
-    </item>
-
-    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png">
-        <title>CANAL 5</title>
-        <contentId>3</contentId>
-        <contentType>TV</contentType>
-        <contentQuality>HD</contentQuality>
-        <streamFormat>m3u8</streamFormat>
-        <media>
-            <streamQuality>HD</streamQuality>
-            <streamBitrate>3000</streamBitrate>
-            <streamUrl>http://play.tecnomolly.com:8080/live/Sventura69/xcxwtgJVbR4N/32669.ts</streamUrl>
-        </media>
-        <synopsis>Canal de televisión mexicana para jóvenes.</synopsis>
-        <genres>Entretenimiento</genres>
-        <runtime>3600</runtime>
-        <userAgent>Magma Player/10</userAgent>
-        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
-    </item>
-
-    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png">
-        <title>CANAL 5 HD</title>
-        <contentId>4</contentId>
-        <contentType>TV</contentType>
-        <contentQuality>HD</contentQuality>
-        <streamFormat>m3u8</streamFormat>
-        <media>
-            <streamQuality>HD</streamQuality>
-            <streamBitrate>3000</streamBitrate>
-            <streamUrl>http://play.tecnomolly.com:8080/live/Sventura69/xcxwtgJVbR4N/32669.ts</streamUrl>
-        </media>
-        <synopsis>Versión en alta definición de Canal 5.</synopsis>
-        <genres>Entretenimiento</genres>
-        <runtime>3600</runtime>
-        <userAgent>Magma Player/10</userAgent>
-        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
-    </item>
-
-    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png">
-        <title>AZTECA 7</title>
-        <contentId>5</contentId>
-        <contentType>TV</contentType>
-        <contentQuality>HD</contentQuality>
-        <streamFormat>m3u8</streamFormat>
-        <media>
-            <streamQuality>HD</streamQuality>
-            <streamBitrate>3000</streamBitrate>
-            <streamUrl>https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8</streamUrl>
-        </media>
-        <synopsis>Canal de televisión mexicana de entretenimiento.</synopsis>
-        <genres>Entretenimiento</genres>
-        <runtime>3600</runtime>
-        <userAgent>Magma Player/10</userAgent>
-        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
-    </item>
-
-    <item sdImg="http://x.playerlatino.live/estrellatv.png" hdImg="http://x.playerlatino.live/estrellatv.png">
-        <title>ESTRELLA TV</title>
-        <contentId>6</contentId>
-        <contentType>TV</contentType>
-        <contentQuality>HD</contentQuality>
-        <streamFormat>m3u8</streamFormat>
-        <media>
-            <streamQuality>HD</streamQuality>
-            <streamBitrate>3000</streamBitrate>
-            <streamUrl>https://estrellatv-roku.amagi.tv/playlist.m3u8</streamUrl>
-        </media>
-        <synopsis>Canal de entretenimiento y cultura.</synopsis>
-        <genres>Entretenimiento</genres>
-        <runtime>3600</runtime>
-        <userAgent>Magma Player/10</userAgent>
-        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
-    </item>
-
-    <item sdImg="https://x.playerlatino.live/azclic.png" hdImg="https://x.playerlatino.live/azclic.png">
-        <title>AZ CLIC HD</title>
-        <contentId>7</contentId>
-        <contentType>TV</contentType>
-        <contentQuality>HD</contentQuality>
-        <streamFormat>m3u8</streamFormat>
-        <media>
-            <streamQuality>HD</streamQuality>
-            <streamBitrate>3000</streamBitrate>
-            <streamUrl>https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8</streamUrl>
-        </media>
-        <synopsis>Canal de entretenimiento y cultura.</synopsis>
-        <genres>Entretenimiento</genres>
-        <runtime>3600</runtime>
-        <userAgent>Magma Player/10</userAgent>
-        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
-    </item>
-
-    <item sdImg="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png" hdImg="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png">
-        <title>AZ MUNDO</title>
-        <contentId>8</contentId>
-        <contentType>TV</contentType>
-        <contentQuality>HD</contentQuality>
-        <streamFormat>m3u8</streamFormat>
-        <media>
-            <streamQuality>HD</streamQuality>
-            <streamBitrate>3000</streamBitrate>
-            <streamUrl>https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8</streamUrl>
-        </media>
-        <synopsis>Canal de televisión internacional.</synopsis>
-        <genres>Entretenimiento</genres>
-        <runtime>3600</runtime>
-        <userAgent>Magma Player/10</userAgent>
-        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
-    </item>
-
-    <item sdImg="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" hdImg="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png">
-        <title>AZ CINEMA</title>
-        <contentId>9</contentId>
-        <contentType>TV</contentType>
-        <contentQuality>HD</contentQuality>
-        <streamFormat>m3u8</streamFormat>
-        <media>
-            <streamQuality>HD</streamQuality>
-            <streamBitrate>3000</streamBitrate>
-            <streamUrl>https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829</streamUrl>
-        </media>
-        <synopsis>Canal de cine mexicano.</synopsis>
-        <genres>Cine</genres>
-        <runtime>3600</runtime>
-        <userAgent>Magma Player/10</userAgent>
-        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
-    </item>
-
-    <item sdImg="https://cdn140.picsart.com/278369393029211.png" hdImg="https://cdn140.picsart.com/278369393029211.png">
-        <title>NE9VE</title>
-        <contentId>10</contentId>
-        <contentType>TV</contentType>
-        <contentQuality>HD</contentQuality>
-        <streamFormat>m3u8</streamFormat>
-        <media>
-            <streamQuality>HD</streamQuality>
-            <streamBitrate>3000</streamBitrate>
-            <streamUrl>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278359.m3u8</streamUrl>
-        </media>
-        <synopsis>Canal de noticias y entretenimiento.</synopsis>
-        <genres>Noticias</genres>
-        <runtime>3600</runtime>
-        <userAgent>Magma Player/10</userAgent>
-        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
-    </item>
-
-    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66635_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66635_dark_360w_270h.png">
-        <title>FORO TV</title>
-        <contentId>11</contentId>
-        <contentType>TV</contentType>
-        <contentQuality>HD</contentQuality>
-        <streamFormat>m3u8</streamFormat>
-        <media>
-            <streamQuality>HD</streamQuality>
-            <streamBitrate>3000</streamBitrate>
-            <streamUrl>https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true</streamUrl>
-        </media>
-        <synopsis>Canal de noticias y análisis.</synopsis>
-        <genres>Noticias</genres>
-        <runtime>3600</runtime>
-        <userAgent>Magma Player/10</userAgent>
-        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
-    </item>
-
-    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png">
-        <title>ONCE HD</title>
-        <contentId>12</contentId>
-        <contentType>TV</contentType>
-        <contentQuality>HD</contentQuality>
-        <streamFormat>m3u8</streamFormat>
-        <media>
-            <streamQuality>HD</streamQuality>
-            <streamBitrate>3000</streamBitrate>
-            <streamUrl>https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/Amp1KmHlA18kBQxhZGt5YwRkZP4kAmqsZGp0AmD1/hls/527.m3u8</streamUrl>
-        </media>
-        <synopsis>Canal educativo y cultural.</synopsis>
-        <genres>Educación</genres>
-        <runtime>3600</runtime>
-        <userAgent>Magma Player/10</userAgent>
-        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
-    </item>
-
-    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34344_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34344_dark_360w_270h.png">
-        <title>TELEFORMULA</title>
-        <contentId>13</contentId>
-        <contentType>TV</contentType>
-        <contentQuality>HD</contentQuality>
-        <streamFormat>m3u8</streamFormat>
-        <media>
-            <streamQuality>HD</streamQuality>
-            <streamBitrate>3000</streamBitrate>
-            <streamUrl>https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505</streamUrl>
-        </media>
-        <synopsis>Canal de noticias y entretenimiento.</synopsis>
-        <genres>Noticias</genres>
-        <runtime>3600</runtime>
-        <userAgent>Magma Player/10</userAgent>
-        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
-    </item>
-
-
-
-    
-    <!-- Continúa con los demás canales de manera similar -->
-    
-</feed>
