@@ -50,21 +50,7 @@
         <runtime>3600</runtime>
     </item>
 
-    <item sdImg="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Azteca_7_logo.png/300px-Azteca_7_logo.png" hdImg="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Azteca_7_logo.png/300px-Azteca_7_logo.png">
-        <title>AZTECA 7</title>
-        <contentId>4</contentId>
-        <contentType>TV</contentType>
-        <contentQuality>HD</contentQuality>
-        <streamFormat>m3u8</streamFormat>
-        <media>
-            <streamQuality>HD</streamQuality>
-            <streamBitrate>3000</streamBitrate>
-            <streamUrl>https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8</streamUrl>
-        </media>
-        <synopsis>Canal de televisión mexicana, parte de Grupo Salinas.</synopsis>
-        <genres>Entretenimiento</genres>
-        <runtime>3600</runtime>
-    </item>
+
     
     <!-- Continúa con los demás canales de manera similar -->
     
