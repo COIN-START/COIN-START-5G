@@ -1,33 +1,33 @@
 #EXTM3U url-tvg=""
-  #EXTINF:-1 tvg-name="CAM | Hurry Up Tomorrow: Mas alla de los reflectores (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbM7cWkaHpUGiLkjd2ZaJiHLLCr.jpg" group-title="B-ESTRENOS CINECAMS", CAM | Hurry Up Tomorrow: Mas alla de los reflectores (2025)
-  https://nxt.plus:8443/movie/orlindf/334123/259975.mkv
+#EXTINF:-1 tvg-name="CAM | Hurry Up Tomorrow: Mas alla de los reflectores (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbM7cWkaHpUGiLkjd2ZaJiHLLCr.jpg" group-title="B-ESTRENOS CINECAMS", CAM | Hurry Up Tomorrow: Mas alla de los reflectores (2025)
+https://nxt.plus:8443/movie/orlindf/334123/259975.mkv
 
 
-  #EXTINF:-1 tvg-name="CAM | Lilo y Stitch (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/COzWKbKbHGsOM7HjWuYrUrlQ8r.jpg" group-title="B-ESTRENOS CAMS",CAM | Lilo y Stitch (2025)
-  https://nxt.plus:8443/movie/orlindf/334123/259072.mkv
+#EXTINF:-1 tvg-name="CAM | Lilo y Stitch (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/COzWKbKbHGsOM7HjWuYrUrlQ8r.jpg" group-title="B-ESTRENOS CAMS",CAM | Lilo y Stitch (2025)
+https://nxt.plus:8443/movie/orlindf/334123/259072.mkv
 
 
-  #EXTINF:-1 tvg-name="CAM | Misión: Imposible - Sentencia final (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haOjJGUV00dKlZaJWgjM1UD1cJV.jpg" group-title="B-ESTRENOS CAMS",CAM | Misión: Imposible - Sentencia final (2025)
-  https://nxt.plus:8443/movie/orlindf/334123/258659.mkv
+#EXTINF:-1 tvg-name="CAM | Misión: Imposible - Sentencia final (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haOjJGUV00dKlZaJWgjM1UD1cJV.jpg" group-title="B-ESTRENOS CAMS",CAM | Misión: Imposible - Sentencia final (2025)
+https://nxt.plus:8443/movie/orlindf/334123/258659.mkv
 
 
-  #EXTINF:-1 tvg-name="CAM | Destino final: Lazos de sangre (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frNkbclQpexf3aUzZrnixF3t5Hw.jpg" group-title="B-ESTRENOS CAMS",CAM | Destino final: Lazos de sangre (2025)
-  https://nxt.plus:8443/movie/orlindf/334123/257759.mkv
+#EXTINF:-1 tvg-name="CAM | Destino final: Lazos de sangre (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frNkbclQpexf3aUzZrnixF3t5Hw.jpg" group-title="B-ESTRENOS CAMS",CAM | Destino final: Lazos de sangre (2025)
+https://nxt.plus:8443/movie/orlindf/334123/257759.mkv
 
 
-  #EXTINF:-1 tvg-name="CAM | Karate Kid: Leyendas (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efNhiZPk71FTYJ30dBkWMfc939D.jpg" group-title="B-ESTRENOS CINECAMS",CAM | Karate Kid: Leyendas (2025)
-  https://nxt.plus:8443/movie/orlindf/334123/257426.mp4
+#EXTINF:-1 tvg-name="CAM | Karate Kid: Leyendas (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efNhiZPk71FTYJ30dBkWMfc939D.jpg" group-title="B-ESTRENOS CINECAMS",CAM | Karate Kid: Leyendas (2025)
+https://nxt.plus:8443/movie/orlindf/334123/257426.mp4
 
 
-  #EXTINF:-1 tvg-name="CAM | Thunderbolts* (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGOBis1KNC8AkYMcOEw4lCycfD1.jpg" group-title="B-ESTRENOS CAMS",CAM | Thunderbolts* (2025)
-  https://nxt.plus:8443/movie/orlindf/334123/256873.mkv
+#EXTINF:-1 tvg-name="CAM | Thunderbolts* (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGOBis1KNC8AkYMcOEw4lCycfD1.jpg" group-title="B-ESTRENOS CAMS",CAM | Thunderbolts* (2025)
+https://nxt.plus:8443/movie/orlindf/334123/256873.mkv
 
 
-  #EXTINF:-1 tvg-name="CAM | El amateur: Operación venganza (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LKXRXycQAx7slS7AVNPUg2qvpY.jpg" group-title="B-ESTRENOS CAMS",CAM | El amateur: Operación venganza (2025)
-  https://nxt.plus:8443/movie/orlindf/334123/256276.mp4
+#EXTINF:-1 tvg-name="CAM | El amateur: Operación venganza (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LKXRXycQAx7slS7AVNPUg2qvpY.jpg" group-title="B-ESTRENOS CAMS",CAM | El amateur: Operación venganza (2025)
+https://nxt.plus:8443/movie/orlindf/334123/256276.mp4
 
-  #EXTINF:-1 tvg-name="CAM | El contador 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njqLGG2djaHCe4bAG0ZhN9Z4x4t.jpg" group-title="B-ESTRENOS CAMS",CAM | El contador 2 (2025)
-  https://nxt.plus:8443/movie/orlindf/334123/256249.mkv
+#EXTINF:-1 tvg-name="CAM | El contador 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njqLGG2djaHCe4bAG0ZhN9Z4x4t.jpg" group-title="B-ESTRENOS CAMS",CAM | El contador 2 (2025)
+https://nxt.plus:8443/movie/orlindf/334123/256249.mkv
 
 
 
