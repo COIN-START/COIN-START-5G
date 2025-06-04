@@ -1,0 +1,79 @@
+<feed>
+    <resultLength>20</resultLength>
+    <endIndex>20</endIndex>
+
+    <item sdImg="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2BkFqgIpbWoP-NLfMNVO4P0M-EGSEhDb22uuzFURIIFls1NpS" hdImg="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2BkFqgIpbWoP-NLfMNVO4P0M-EGSEhDb22uuzFURIIFls1NpS">
+        <title>EL DIA QUE LA TIERRA EXLOTO</title>
+        <contentId>1</contentId>
+        <contentType>Movie</contentType>
+        <contentQuality>HD</contentQuality>
+        <streamFormat>mp4</streamFormat>
+        <media>
+            <streamQuality>HD</streamQuality>
+            <streamBitrate>3000</streamBitrate>
+            <streamUrl>https://corsproxy.io/?url=https://canvasolutions.com.mx/stuff/looney.mp4</streamUrl>
+        </media>
+        <synopsis>Una película sobre la explosión de la Tierra.</synopsis>
+        <genres>Ciencia Ficción</genres>
+        <runtime>120</runtime>
+        <userAgent>Magma Player/10</userAgent>
+        <epgUrl>http://example.com/epg/1</epgUrl>
+    </item>
+
+    <item sdImg="https://static.cinepolis.com/resources/mx/movies/posters/414x603/49470-824728-20250403064922.jpg" hdImg="https://static.cinepolis.com/resources/mx/movies/posters/414x603/49470-824728-20250403064922.jpg">
+        <title>UNA PELICULA DE MINECRAFT</title>
+        <contentId>2</contentId>
+        <contentType>Movie</contentType>
+        <contentQuality>HD</contentQuality>
+        <streamFormat>mkv</streamFormat>
+        <media>
+            <streamQuality>HD</streamQuality>
+            <streamBitrate>3000</streamBitrate>
+            <streamUrl>http://vod.tuxchannel.mx/peliculas/720/a%20minecraft%20movie%202025.mkv</streamUrl>
+        </media>
+        <synopsis>Una aventura en el mundo de Minecraft.</synopsis>
+        <genres>Aventura</genres>
+        <runtime>90</runtime>
+        <userAgent>Magma Player/10</userAgent>
+        <epgUrl>http://example.com/epg/2</epgUrl>
+    </item>
+
+    <item sdImg="https://static.wikia.nocookie.net/doblaje/images/0/00/Until_Dawn_2025_Poster.jpg/revision/latest?cb=20250226232045&path-prefix=es" hdImg="https://static.wikia.nocookie.net/doblaje/images/0/00/Until_Dawn_2025_Poster.jpg/revision/latest?cb=20250226232045&path-prefix=es">
+        <title>UNTIL DAWN: UNA NOCHE DE TERROR</title>
+        <contentId>3</contentId>
+        <contentType>Movie</contentType>
+        <contentQuality>HD</contentQuality>
+        <streamFormat>mkv</streamFormat>
+        <media>
+            <streamQuality>HD</streamQuality>
+            <streamBitrate>3000</streamBitrate>
+            <streamUrl>http://vod.tuxchannel.mx/peliculas/720/until%20dawn%202025.mkv</streamUrl>
+        </media>
+        <synopsis>Una noche de terror donde las decisiones marcan la diferencia.</synopsis>
+        <genres>Terror</genres>
+        <runtime>100</runtime>
+        <userAgent>Magma Player/10</userAgent>
+        <epgUrl>http://example.com/epg/3</epgUrl>
+    </item>
+
+    <item sdImg="https://www.bfdistribution.cl/wp-content/uploads/2024/07/POSTER-WEB-1.jpg" hdImg="https://www.bfdistribution.cl/wp-content/uploads/2024/07/POSTER-WEB-1.jpg">
+        <title>LA CAIDA DEL VUELO 811</title>
+        <contentId>4</contentId>
+        <contentType>Movie</contentType>
+        <contentQuality>HD</contentQuality>
+        <streamFormat>mkv</streamFormat>
+        <media>
+            <streamQuality>HD</streamQuality>
+            <streamBitrate>3000</streamBitrate>
+            <streamUrl>http://tvlatino.club:2082/movie/383837SdSqLL/TMqb3xBHRZ4q/551446.mkv</streamUrl>
+        </media>
+        <synopsis>Un thriller sobre un vuelo que enfrenta una crisis.</synopsis>
+        <genres>Thriller</genres>
+        <runtime>110</runtime>
+        <userAgent>Magma Player/10</userAgent>
+        <epgUrl>http://example.com/epg/4</epgUrl>
+    </item>
+
+    <!-- Agrega más items aquí siguiendo el mismo formato -->
+
+</feed>
