@@ -18,6 +18,7 @@
         <runtime>120</runtime>
         <userAgent>Magma Player/10</userAgent>
         <epgUrl>http://example.com/epg/1</epgUrl>
+        <logoSize width="250" height="389"/>
     </item>
 
     <item sdImg="https://static.cinepolis.com/resources/mx/movies/posters/414x603/49470-824728-20250403064922.jpg" hdImg="https://static.cinepolis.com/resources/mx/movies/posters/414x603/49470-824728-20250403064922.jpg">
@@ -36,6 +37,7 @@
         <runtime>90</runtime>
         <userAgent>Magma Player/10</userAgent>
         <epgUrl>http://example.com/epg/2</epgUrl>
+        <logoSize width="250" height="389"/>
     </item>
 
     <item sdImg="https://static.wikia.nocookie.net/doblaje/images/0/00/Until_Dawn_2025_Poster.jpg/revision/latest?cb=20250226232045&path-prefix=es" hdImg="https://static.wikia.nocookie.net/doblaje/images/0/00/Until_Dawn_2025_Poster.jpg/revision/latest?cb=20250226232045&path-prefix=es">
@@ -54,6 +56,7 @@
         <runtime>100</runtime>
         <userAgent>Magma Player/10</userAgent>
         <epgUrl>http://example.com/epg/3</epgUrl>
+        <logoSize width="250" height="389"/>
     </item>
 
     <item sdImg="https://www.bfdistribution.cl/wp-content/uploads/2024/07/POSTER-WEB-1.jpg" hdImg="https://www.bfdistribution.cl/wp-content/uploads/2024/07/POSTER-WEB-1.jpg">
@@ -72,6 +75,7 @@
         <runtime>110</runtime>
         <userAgent>Magma Player/10</userAgent>
         <epgUrl>http://example.com/epg/4</epgUrl>
+        <logoSize width="250" height="389"/>
     </item>
 
     <!-- Agrega más items aquí siguiendo el mismo formato -->
