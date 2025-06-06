@@ -1,13 +1,10 @@
+<categories>
 <!--  banner_ad: optional element which displays an at the top level category screen  -->
 <banner_ad sd_img="https://devtools.web.roku.com/videoplayer/images/missing.png" hd_img="https://devtools.web.roku.com/videoplayer/images/missing.png"/>
 <category title="Technology" description="TED Talks on Technology" sd_img="https://devtools.web.roku.com/videoplayer/images/TED_Technology.png" hd_img="https://devtools.web.roku.com/videoplayer/images/TED_Technology.png">
-<categoryLeaf title="DEPORTES" description="CULTURA" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml"/>
-<categoryLeaf title="INFANTIL" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml"/>
-<categoryLeaf title="TV EN VIVO" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml"/>
-<categoryLeaf title="NOVELAS" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml"/>
-<categoryLeaf title="CULTURA" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml"/>
-<categoryLeaf title="PREMIUM" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml"/> 
-<categoryLeaf title="CINE Y SERIES" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml"/> 
+<categoryLeaf title="TV" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml"/>
+<categoryLeaf title="NOVELAS" description="" feed="https://github.com/COIN-START/COIN-START-5G/blob/main/novelas.xml"/>
+<categoryLeaf title="Global Issues" description="" feed="https://devtools.web.roku.com/videoplayer/xml/globalissues.xml"/>
 </category>
 <category title="Entertainment" description="TED Talks on Entertainment" sd_img="https://devtools.web.roku.com/videoplayer/images/TED_Entertainment.png" hd_img="https://devtools.web.roku.com/videoplayer/images/TED_Entertainment.png">
 <categoryLeaf title="Music" description="" feed="https://devtools.web.roku.com/videoplayer/xml/music.xml"/>
@@ -17,4 +14,4 @@
 <categoryLeaf title="Creativity" description="" feed="https://devtools.web.roku.com/videoplayer/xml/creativity.xml"/>
 <categoryLeaf title="Design" description="" feed="https://devtools.web.roku.com/videoplayer/xml/design.xml"/>
 </category>
-</categories> 
+</categories>
