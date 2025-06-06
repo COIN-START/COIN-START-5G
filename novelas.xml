@@ -1,0 +1,246 @@
+<feed>
+    <!-- resultLength indicates the total number of results for this feed -->
+    <resultLength>20</resultLength>
+    <!-- endIndex indicates the number of results for this *paged* section of the feed -->
+    <endIndex>20</endIndex>
+
+    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png">
+        <title>AZTECA UNO</title>
+        <contentId>1</contentId>
+        <contentType>TV</contentType>
+        <contentQuality>HD</contentQuality>
+        <streamFormat>m3u8</streamFormat>
+        <media>
+            <streamQuality>HD</streamQuality>
+            <streamBitrate>3000</streamBitrate>
+            <streamUrl>https://corsproxy.io/?url=https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8</streamUrl>
+        </media>
+        <synopsis>Canal de televisión mexicana, parte de Grupo Salinas.</synopsis>
+        <genres>Entretenimiento</genres>
+        <runtime>3600</runtime>
+        <userAgent>Magma Player/10</userAgent>
+        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+    </item>
+
+    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png">
+        <title>LAS ESTRELLAS</title>
+        <contentId>2</contentId>
+        <contentType>TV</contentType>
+        <contentQuality>HD</contentQuality>
+        <streamFormat>m3u8</streamFormat>
+        <media>
+            <streamQuality>HD</streamQuality>
+            <streamBitrate>3000</streamBitrate>
+            <streamUrl>https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8</streamUrl>
+        </media>
+        <synopsis>Canal de entretenimiento mexicano.</synopsis>
+        <genres>Entretenimiento</genres>
+        <runtime>3600</runtime>
+        <userAgent>Magma Player/10</userAgent>
+        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+    </item>
+
+    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png">
+        <title>CANAL 5</title>
+        <contentId>3</contentId>
+        <contentType>TV</contentType>
+        <contentQuality>HD</contentQuality>
+        <streamFormat>m3u8</streamFormat>
+        <media>
+            <streamQuality>HD</streamQuality>
+            <streamBitrate>3000</streamBitrate>
+            <streamUrl>http://play.tecnomolly.com:8080/live/Sventura69/xcxwtgJVbR4N/32669.ts</streamUrl>
+        </media>
+        <synopsis>Canal de televisión mexicana para jóvenes.</synopsis>
+        <genres>Entretenimiento</genres>
+        <runtime>3600</runtime>
+        <userAgent>Magma Player/10</userAgent>
+        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+    </item>
+
+    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png">
+        <title>CANAL 5 HD</title>
+        <contentId>4</contentId>
+        <contentType>TV</contentType>
+        <contentQuality>HD</contentQuality>
+        <streamFormat>m3u8</streamFormat>
+        <media>
+            <streamQuality>HD</streamQuality>
+            <streamBitrate>3000</streamBitrate>
+            <streamUrl>http://play.tecnomolly.com:8080/live/Sventura69/xcxwtgJVbR4N/32669.ts</streamUrl>
+        </media>
+        <synopsis>Versión en alta definición de Canal 5.</synopsis>
+        <genres>Entretenimiento</genres>
+        <runtime>3600</runtime>
+        <userAgent>Magma Player/10</userAgent>
+        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+    </item>
+
+    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png">
+        <title>AZTECA 7</title>
+        <contentId>5</contentId>
+        <contentType>TV</contentType>
+        <contentQuality>HD</contentQuality>
+        <streamFormat>m3u8</streamFormat>
+        <media>
+            <streamQuality>HD</streamQuality>
+            <streamBitrate>3000</streamBitrate>
+            <streamUrl>https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8</streamUrl>
+        </media>
+        <synopsis>Canal de televisión mexicana de entretenimiento.</synopsis>
+        <genres>Entretenimiento</genres>
+        <runtime>3600</runtime>
+        <userAgent>Magma Player/10</userAgent>
+        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+    </item>
+
+    <item sdImg="http://x.playerlatino.live/estrellatv.png" hdImg="http://x.playerlatino.live/estrellatv.png">
+        <title>ESTRELLA TV</title>
+        <contentId>6</contentId>
+        <contentType>TV</contentType>
+        <contentQuality>HD</contentQuality>
+        <streamFormat>m3u8</streamFormat>
+        <media>
+            <streamQuality>HD</streamQuality>
+            <streamBitrate>3000</streamBitrate>
+            <streamUrl>https://estrellatv-roku.amagi.tv/playlist.m3u8</streamUrl>
+        </media>
+        <synopsis>Canal de entretenimiento y cultura.</synopsis>
+        <genres>Entretenimiento</genres>
+        <runtime>3600</runtime>
+        <userAgent>Magma Player/10</userAgent>
+        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+    </item>
+
+    <item sdImg="https://x.playerlatino.live/azclic.png" hdImg="https://x.playerlatino.live/azclic.png">
+        <title>AZ CLIC HD</title>
+        <contentId>7</contentId>
+        <contentType>TV</contentType>
+        <contentQuality>HD</contentQuality>
+        <streamFormat>m3u8</streamFormat>
+        <media>
+            <streamQuality>HD</streamQuality>
+            <streamBitrate>3000</streamBitrate>
+            <streamUrl>https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8</streamUrl>
+        </media>
+        <synopsis>Canal de entretenimiento y cultura.</synopsis>
+        <genres>Entretenimiento</genres>
+        <runtime>3600</runtime>
+        <userAgent>Magma Player/10</userAgent>
+        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+    </item>
+
+    <item sdImg="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png" hdImg="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png">
+        <title>AZ MUNDO</title>
+        <contentId>8</contentId>
+        <contentType>TV</contentType>
+        <contentQuality>HD</contentQuality>
+        <streamFormat>m3u8</streamFormat>
+        <media>
+            <streamQuality>HD</streamQuality>
+            <streamBitrate>3000</streamBitrate>
+            <streamUrl>https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8</streamUrl>
+        </media>
+        <synopsis>Canal de televisión internacional.</synopsis>
+        <genres>Entretenimiento</genres>
+        <runtime>3600</runtime>
+        <userAgent>Magma Player/10</userAgent>
+        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+    </item>
+
+    <item sdImg="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" hdImg="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png">
+        <title>AZ CINEMA</title>
+        <contentId>9</contentId>
+        <contentType>TV</contentType>
+        <contentQuality>HD</contentQuality>
+        <streamFormat>m3u8</streamFormat>
+        <media>
+            <streamQuality>HD</streamQuality>
+            <streamBitrate>3000</streamBitrate>
+            <streamUrl>https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829</streamUrl>
+        </media>
+        <synopsis>Canal de cine mexicano.</synopsis>
+        <genres>Cine</genres>
+        <runtime>3600</runtime>
+        <userAgent>Magma Player/10</userAgent>
+        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+    </item>
+
+    <item sdImg="https://cdn140.picsart.com/278369393029211.png" hdImg="https://cdn140.picsart.com/278369393029211.png">
+        <title>NE9VE</title>
+        <contentId>10</contentId>
+        <contentType>TV</contentType>
+        <contentQuality>HD</contentQuality>
+        <streamFormat>m3u8</streamFormat>
+        <media>
+            <streamQuality>HD</streamQuality>
+            <streamBitrate>3000</streamBitrate>
+            <streamUrl>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278359.m3u8</streamUrl>
+        </media>
+        <synopsis>Canal de noticias y entretenimiento.</synopsis>
+        <genres>Noticias</genres>
+        <runtime>3600</runtime>
+        <userAgent>Magma Player/10</userAgent>
+        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+    </item>
+
+    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66635_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66635_dark_360w_270h.png">
+        <title>FORO TV</title>
+        <contentId>11</contentId>
+        <contentType>TV</contentType>
+        <contentQuality>HD</contentQuality>
+        <streamFormat>m3u8</streamFormat>
+        <media>
+            <streamQuality>HD</streamQuality>
+            <streamBitrate>3000</streamBitrate>
+            <streamUrl>https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true</streamUrl>
+        </media>
+        <synopsis>Canal de noticias y análisis.</synopsis>
+        <genres>Noticias</genres>
+        <runtime>3600</runtime>
+        <userAgent>Magma Player/10</userAgent>
+        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+    </item>
+
+    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png">
+        <title>ONCE HD</title>
+        <contentId>12</contentId>
+        <contentType>TV</contentType>
+        <contentQuality>HD</contentQuality>
+        <streamFormat>m3u8</streamFormat>
+        <media>
+            <streamQuality>HD</streamQuality>
+            <streamBitrate>3000</streamBitrate>
+            <streamUrl>http://live.superteve.com:33527/livetv/9Wu6os8Dmg/65</streamUrl>
+        </media>
+        <synopsis>Canal educativo y cultural.</synopsis>
+        <genres>Educación</genres>
+        <runtime>3600</runtime>
+        <userAgent>Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt</userAgent>
+        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+    </item>
+
+    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34344_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34344_dark_360w_270h.png">
+        <title>TELEFORMULA</title>
+        <contentId>13</contentId>
+        <contentType>TV</contentType>
+        <contentQuality>HD</contentQuality>
+        <streamFormat>m3u8</streamFormat>
+        <media>
+            <streamQuality>HD</streamQuality>
+            <streamBitrate>3000</streamBitrate>
+            <streamUrl>https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505</streamUrl>
+        </media>
+        <synopsis>Canal de noticias y entretenimiento.</synopsis>
+        <genres>Noticias</genres>
+        <runtime>3600</runtime>
+        <userAgent>Magma Player/10</userAgent>
+        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+    </item>
+
+
+
+    
+    <!-- Continúa con los demás canales de manera similar -->
+    
+</feed>
