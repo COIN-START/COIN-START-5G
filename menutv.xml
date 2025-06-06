@@ -2,13 +2,13 @@
 <!--  banner_ad: optional element which displays an at the top level category screen  -->
 <banner_ad sd_img="https://devtools.web.roku.com/videoplayer/images/missing.png" hd_img="https://devtools.web.roku.com/videoplayer/images/missing.png"/>
 <category title="Technology" description="TED Talks on Technology" sd_img="https://devtools.web.roku.com/videoplayer/images/TED_Technology.png" hd_img="https://devtools.web.roku.com/videoplayer/images/TED_Technology.png">
-<categoryLeaf id="7" title="G_DEPORTES" description=""feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml"/>
-<categoryLeaf id="6" title="E_PREMIUM" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml"/>
-<categoryLeaf id="3" title="C_CULTURA" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml"/>
-<categoryLeaf id="4" title="D_INFANTIL" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml"/>
-<categoryLeaf id="5" title="F_CINE Y SEIRES" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml"/>
-<categoryLeaf id="1" title="A_TV EN VIVO" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml"/>
-<categoryLeaf id="2" title="B_NOVELAS" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml"/>
+<categoryLeaf title="G_DEPORTES" description=""feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml"/>
+<categoryLeaf title="E_PREMIUM" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml"/>
+<categoryLeaf title="C_CULTURA" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml"/>
+<categoryLeaf title="D_INFANTIL" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml"/>
+<categoryLeaf title="F_CINE Y SEIRES" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml"/>
+<categoryLeaf title="A_TV EN VIVO" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml"/>
+<categoryLeaf title="B_NOVELAS" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml"/>
 </category>
 <category title="Entertainment" description="TED Talks on Entertainment" sd_img="https://devtools.web.roku.com/videoplayer/images/TED_Entertainment.png" hd_img="https://devtools.web.roku.com/videoplayer/images/TED_Entertainment.png">
 <categoryLeaf title="Music" description="" feed="https://devtools.web.roku.com/videoplayer/xml/music.xml"/>
