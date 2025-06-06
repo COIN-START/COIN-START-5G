@@ -211,12 +211,12 @@
         <media>
             <streamQuality>HD</streamQuality>
             <streamBitrate>3000</streamBitrate>
-            <streamUrl>https://corsproxy.io/?url=https://magmaplayer.com/stream/secure/ZmZ5Kmx4BS8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/988.m3u8</streamUrl>
+            <streamUrl>http://live.superteve.com:33527/livetv/9Wu6os8Dmg/65</streamUrl>
         </media>
         <synopsis>Canal educativo y cultural.</synopsis>
         <genres>Educación</genres>
         <runtime>3600</runtime>
-        <userAgent>Magma Player/10</userAgent>
+        <userAgent>Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt</userAgent>
         <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
     </item>
 
