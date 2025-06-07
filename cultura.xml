@@ -1,0 +1,74 @@
+<feed>
+    <!-- resultLength indicates the total number of results for this feed -->
+    <resultLength>20</resultLength>
+    <!-- endIndex indicates the number of results for this *paged* section of the feed -->
+    <endIndex>20</endIndex>
+
+<videos>
+    <video>
+        <title>DISCOVERY SCIENCE</title>
+        <thumbnail>http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png</thumbnail>
+        <url>http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/37.m3u8</url>
+    </video>
+    <video>
+        <title>DISCOVERY H&H</title>
+        <thumbnail>http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png</thumbnail>
+        <url>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278395.m3u8</url>
+    </video>
+    <video>
+        <title>DISCOVERY WORLD</title>
+        <thumbnail>http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png</thumbnail>
+        <url>http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/26.m3u8</url>
+    </video>
+    <video>
+        <title>DISCOVERY TURBO</title>
+        <thumbnail>http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png</thumbnail>
+        <url>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278414.m3u8</url>
+    </video>
+    <video>
+        <title>DISCOVERY THEATER</title>
+        <thumbnail>http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png</thumbnail>
+        <url>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79464.m3u8</url>
+    </video>
+    <video>
+        <title>NACIONAL GEOGRAPHIC</title>
+        <thumbnail>https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png</thumbnail>
+        <url>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/414739.m3u8</url>
+    </video>
+    <video>
+        <title>ANIMAL PLANET</title>
+        <thumbnail>http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png</thumbnail>
+        <url>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79446.m3u8</url>
+    </video>
+    <video>
+        <title>HISTORY MX</title>
+        <thumbnail>https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png</thumbnail>
+        <url>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/414741.m3u8</url>
+    </video>
+    <video>
+        <title>H2</title>
+        <thumbnail>https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png</thumbnail>
+        <url>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79478.m3u8</url>
+    </video>
+    <video>
+        <title>DISCOVERY CHANNEL</title>
+        <thumbnail>http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png</thumbnail>
+        <url>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79454.m3u8</url>
+    </video>
+    <video>
+        <title>HGTV</title>
+        <thumbnail>http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png</thumbnail>
+        <url>http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/79474.ts</url>
+    </video>
+    <video>
+        <title>DISCOVERY ID</title>
+        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png</thumbnail>
+        <url>http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/79458.ts</url>
+    </video>
+</videos>
+
+
+    
+    <!-- Continúa con los demás canales de manera similar -->
+    
+</feed>
