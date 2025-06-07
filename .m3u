@@ -25,7 +25,7 @@ http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278359.m3u8
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 
 #EXTINF:-1 tvg-id="Once.mx(m3u4u)" tvg-name="ONCE HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png" group-title="A- TV MX",ONCE HD
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/7eb4686c-162d-4207-b42f-7d5a34a72e67.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278332.m3u8
 #EXTINF:-1 tvg-id="Teleformula.mx(m3u4u)" tvg-name="TELEFORMULA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34344_dark_360w_270h.png" group-title="A- TV MX",TELEFORMULA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 #EXTINF:-1 tvg-id="ImagenTV.mx(m3u4u)" tvg-name="IMAGEN TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" group-title="A- TV MX",IMAGEN TV
@@ -48,7 +48,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8?=-1
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://x.playerlatino.live/tlc.png" group-title="A- TV MX",TLC
-https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/01267/c4aze3tyogkl_n/master.m3u8?t=UDqwInaHBeTYrsCuOyTw8wGN-5-GFt69_r7cno6SKzY&s=1746832631&e=129600&f=6339012&srv=0g7xgsanrz08&i=0.4&sp=500
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278407.m3u8
 
 
 #EXTINF:-1 tvg-id="TLNovelas.mx(m3u4u)" tvg-name="TLNOVELAS" tvg-logo="https://x.playerlatino.live/tlnovelas.png" group-title="B- NOVELAS",TLNOVELAS
@@ -73,11 +73,11 @@ http://tv.iprotv.live:80/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/97970.
 #EXTINF:-1 tvg-id="DiscoveryScience.mx(m3u4u)" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY SCIENCE
 http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/37.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY H&H" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="C- CULTURA",DISCOVERY H&H
-
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278395.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx(m3u4u)" tvg-name="DISCOVERY WORLD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY WORLD
 http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/26.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.mx(m3u4u)" tvg-name="DISCOVERY TURBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY TURBO
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79465.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278414.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTheater.mx(m3u4u)" tvg-name="DISCOVERY THEATER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY THEATER
 http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79464.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx(m3u4u)" tvg-name="NACIONAL GEOGRAPHIC" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png" group-title="C- CULTURA",NACIONAL GEOGRAPHIC
@@ -120,68 +120,68 @@ http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/514.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO.mx(m3u4u)" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="E- PREMIUM",HBO HD
-https://corsproxy.io/?url=http://user2.tvcluboficial.com:80/live/m/m/62.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278498.m3u8
 #EXTINF:-1 tvg-id="HBO2.mx(m3u4u)" tvg-name="HBO2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="E- PREMIUM",HBO2
-https://corsproxy.io/?url=http://user2.tvcluboficial.com:80/live/m/m/300.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278493.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.mx(m3u4u)" tvg-name="HBO FAMILY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="E- PREMIUM",HBO FAMILY
-https://corsproxy.io/?url=http://galaxypro.online:8080/live/Diegojama116/Djama07122024/709555.ts
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278496.m3u8
 #EXTINF:-1 tvg-id="HBOMundi.mx(m3u4u)" tvg-name="HBO MUNDI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="E- PREMIUM",HBO MUNDI
-https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/AGL1KmRkZQSsZGt5YwR4BF4kZGNhZGp3KmR3AQp0AD/hls/1101.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278501.m3u8
 #EXTINF:-1 tvg-id="HBOPlus.mx(m3u4u)" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="E- PREMIUM",HBO PLUS
-https://corsproxy.io/?url=http://user2.tvcluboficial.com:80/live/m/m/64.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278490.m3u8
 #EXTINF:-1 tvg-id="HBOPop.mx(m3u4u)" tvg-name="HBO POP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="E- PREMIUM",HBO POP
-https://corsproxy.io/?url=http://user2.tvcluboficial.com:80/live/m/m/977.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278503.m3u8
 #EXTINF:-1 tvg-id="HBOSignature.mx(m3u4u)" tvg-name="HBO SIGNATURE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="E- PREMIUM",HBO SIGNATURE
-https://corsproxy.io/?url=http://tv.iprotv.live:80/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149699.ts
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278505.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.mx(m3u4u)" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="E- PREMIUM",HBO XTREME
-https://corsproxy.io/?url=http://magmaplayer.com/stream/m3u8/AwtmKmH0AI8kBQxhZGt5YwRkZP4kAmqsZGp0AmD1/hls/545.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278508.m3u8
 
 #EXTINF:-1 tvg-id="UniversalCinema.mx(m3u4u)" tvg-name="UNIVERSAL CINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL CINEMA
-https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/ZmZ5Kmx4BS8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/988.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278472.m3u8
 #EXTINF:-1 tvg-id="UniversalComedy.mx(m3u4u)" tvg-name="UNIVERSAL COMEDY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL COMEDY
-https://corsproxy.io/?url=http://magmaplayer.com/stream/m3u8/ZGVjKmx5Zy8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/992.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278473.m3u8
 #EXTINF:-1 tvg-id="UniversalCrime.mx(m3u4u)" tvg-name="UNIVERSAL CRIME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121868_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL CRIME
-https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/BQpkKmx5Ay8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/996.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278474.m3u8
 #EXTINF:-1 tvg-id="UniversalPremiere.mx(m3u4u)" tvg-name="UNIVERSAL PREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL PREMIER
-https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/AmpjKmRjZQAsZwNjYwLmYwDlYwRjKmR3AQp0At/hls/1003.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278476.m3u8
 #EXTINF:-1 tvg-id="UniversalReality.mx(m3u4u)" tvg-name="UNIVERSAL REALITY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121867_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL REALITY
-https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/BQHlKmRjZQMsZwNjYwLmYwDlYwRjKmR3AQp0At/hls/1006.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278478.m3u8
 
 #EXTINF:-1 tvg-id="DistritoComedia.mx(m3u4u)" tvg-name="DISTRITO COMEDIA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55980_dark_360w_270h.png" group-title="F- CINE Y SERIES",DISTRITO COMEDIA
-https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/ZGLkKmV5Z18lZQNhAwZhAQVhZGOsZGp0AmD2/hls/293.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278416.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.mx(m3u4u)" tvg-name="COMEDY CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="F- CINE Y SERIES",COMEDY CENTRAL
-https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/AGxkKmVkAy8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/216.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278409.m3u8
 
 #EXTINF:-1 tvg-id="StarChannel.mx(m3u4u)" tvg-name="STAR CHANNEL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88534_dark_360w_270h.png" group-title="F- CINE Y SERIES",STAR CHANNEL HD
-https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/ZmD3KmtmAS8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/834.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278516.m3u8
 #EXTINF:-1 tvg-id="StarChannel.mx(m3u4u)" tvg-name="STAR CHANNEL MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88534_dark_360w_270h.png" group-title="F- CINE Y SERIES",STAR CHANNEL MX
-http://play.tecnomolly.com:8080/live/Sventura69/xcxwtgJVbR4N/33980.ts
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278516.m3u8
 #EXTINF:-1 tvg-id="FX.mx(m3u4u)" tvg-name="FX HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" group-title="F- CINE Y SERIES",FX HD
 https://corsproxy.io/?url=http://user2.tvcluboficial.com:80/live/m/m/495.m3u8
 
 #EXTINF:-1 tvg-id="FX.mx(m3u4u)" tvg-name="FX MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" group-title="F- CINE Y SERIES",FX MX
-https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/ZwL5KmD3A18lZQRhZGN2YwVhZwV4KmR3AQp1BD/hls/477.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278427.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="F- CINE Y SERIES",SONY CHANNEL
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/815d53f8-32a3-48d8-9269-4e32a2995ff6.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278404.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SONY Channel MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="F- CINE Y SERIES",SONY Channel MX
-https://corsproxy.io/?url=http://magmaplayer.com/stream/m3u8/BQR3KmtkAI8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/815.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278405.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.mx(m3u4u)" tvg-name="SONY MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/598px-Sony_Movies_Logo.svg.png" group-title="F- CINE Y SERIES",SONY MOVIE
 http://104.238.205.28:8989/278471_.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="F- CINE Y SERIES",Universal TV
-https://corsproxy.io/?url=http://magmaplayer.com/stream/m3u8/AQV4Kmx5BS8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/998.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278449.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Universal MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="F- CINE Y SERIES",UNIVERSAL MX
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/e90c4778-d0ee-4b54-9c66-881e6c4502be.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278518.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.mx(m3u4u)" tvg-name="STUDIO UNIVERSAL MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="F- CINE Y SERIES",STUDIO UNIVERSAL MX
-https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/ZwZjKmt0AI8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/845.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278518.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="WARNER MX" tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png" group-title="F- CINE Y SERIES",WARNER MX
-https://corsproxy.io/?url=http://magmaplayer.com/stream/m3u8/AwN5KmRjZmWsZwNjYwLmYwDlYwRjKmR3AQp0At/hls/1032.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278454.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="WARNER " tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png" group-title="F- CINE Y SERIES",WARNER 
-http://tv.zapping.life:8080/live/oliverostrinidad1/B6pUGaPaGz/9776.ts
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278454.m3u8
 #EXTINF:-1 tvg-id="TNT.mx(m3u4u)" tvg-name="TNT MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="F- CINE Y SERIES",TNT MX
-https://corsproxy.io/?url=http://magmaplayer.com/stream/m3u8/BQxjKmxlZI8lZQNhAwZhAQVhZGOsZGp0AmD2/hls/921.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278520.m3u8
 
 #EXTINF:-1 tvg-id="TNTSeries.mx(m3u4u)" tvg-name="TNT SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="F- CINE Y SERIES",TNT SERIES
-https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/Amx0KmxlBI8lBQN2BwRjATH6ZGt6BQqzZQbkBGt6ZJWzBGcxLwLlBwSxLGusZGp0AmHj/hls/929.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278443.m3u8
 #EXTINF:-1 tvg-id="Space.mx(m3u4u)" tvg-name="SPACE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="F- CINE Y SERIES",SPACE
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/c81adc8e-ee1e-43e1-a67a-672adefb3635.m3u8
 #EXTINF:-1 tvg-id="Space.mx(m3u4u)" tvg-name="Space MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="F- CINE Y SERIES",Space MX
@@ -189,25 +189,25 @@ https://corsproxy.io/?url=http://magmaplayer.com/stream/m3u8/BQV5KmtlZ18lBQN2BwR
 #EXTINF:-1 tvg-id="AandE.mx(m3u4u)" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="F- CINE Y SERIES",A&E
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/7bf4516a-bf76-4af4-8604-2be214c25570.m3u8
 #EXTINF:-1 tvg-id="AMC.mx(m3u4u)" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="F- CINE Y SERIES",AMC
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/9b56600d-0994-4e8d-8dc5-89d9e778afa3.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278394.m3u8
 #EXTINF:-1 tvg-id="Paramount.mx(m3u4u)" tvg-name="PARAMOUNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="F- CINE Y SERIES",PARAMOUNT
 https://corsproxy.io/?url=http://user2.tvcluboficial.com:80/live/m/m/647.m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx(m3u4u)" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="F- CINE Y SERIES",CINEMAX
-https://corsproxy.io/?url=http://user2.tvcluboficial.com:80/live/m/m/638.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278468.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.mx(m3u4u)" tvg-name="CINECANAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="F- CINE Y SERIES",CINECANAL
 https://corsproxy.io/?url=http://user2.tvcluboficial.com:80/live/m/m/479.m3u8
 #EXTINF:-1 tvg-id="Golden.mx(m3u4u)" tvg-name="GOLDEN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN
 https://corsproxy.io/?url=http://magmaplayer.com/stream/secure/ZmHmKmD5A18kBQphZGxjYwLmYwL0KmR3AQt1Aj.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx(m3u4u)" tvg-name="GOLDEN EDGE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN EDGE
-https://corsproxy.io/?url=http://magmaplayer.com/stream/secure/AGH0KmD5AI8lBQN2BwWzZQb5LwDjBzL3BQt6Awx1BQczZJH4BwqxZwt6A2Z0AS8kAmD4AGp.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278481.m3u8
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx(m3u4u)" tvg-name="GOLDEN PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN PLUS
-http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/116.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278485.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx(m3u4u)" tvg-name="GOLDEN PREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN PREMIER
-http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/435.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278486.m3u8
 
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx(m3u4u)" tvg-name="DE PELICULA PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png" group-title="F- CINE Y SERIES",DE PELICULA PLUS
-https://corsproxy.io/?url=http://user2.tvcluboficial.com:80/live/m/m/1544.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278457.m3u8
 
 
 
