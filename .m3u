@@ -125,7 +125,7 @@ https://corsproxy.io/?url=http://user2.tvcluboficial.com:80/live/m/m/62.m3u8
 #EXTINF:-1 tvg-id="HBO2.mx(m3u4u)" tvg-name="HBO2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="E- PREMIUM",HBO2
 https://corsproxy.io/?url=http://user2.tvcluboficial.com:80/live/m/m/300.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.mx(m3u4u)" tvg-name="HBO FAMILY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="E- PREMIUM",HBO FAMILY
-https://corsproxy.io/?url=http://user2.tvcluboficial.com:80/live/m/m/63.m3u8
+https://corsproxy.io/?url=http://galaxypro.online:8080/live/Diegojama116/Djama07122024/709555.ts
 #EXTINF:-1 tvg-id="HBOMundi.mx(m3u4u)" tvg-name="HBO MUNDI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="E- PREMIUM",HBO MUNDI
 https://corsproxy.io/?url=https://magmaplayer.com/stream/m3u8/AGL1KmRkZQSsZGt5YwR4BF4kZGNhZGp3KmR3AQp0AD/hls/1101.m3u8
 #EXTINF:-1 tvg-id="HBOPlus.mx(m3u4u)" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="E- PREMIUM",HBO PLUS
