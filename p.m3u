@@ -1,6 +1,7 @@
 #EXTM3U url-tvg=""
 --------------------------------------------------------------------------ESTRENOS 2025---------------------------------------------------------------------------------------
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2BkFqgIpbWoP-NLfMNVO4P0M-EGSEhDb22uuzFURIIFls1NpS" group-title="A-ESTRENOS HD",EL DIA QUE LA TIERRA EXLOTO
+http://tvpremiund.ddns.me:33200/movie/azplay1682/9010383728/82046.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2BkFqgIpbWoP-NLfMNVO4P0M-EGSEhDb22uuzFURIIFls1NpS" group-title="A-ESTRENOS HD",EL DIA QUE LA TIERRA EXLOTO
 https://canvasolutions.com.mx/stuff/looney.mp4
 #EXTINF:-1 tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/49470-824728-20250403064922.jpg" group-title="A-ESTRENOS HD",UNA PELICULA DE MINECRAFT
