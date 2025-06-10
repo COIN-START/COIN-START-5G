@@ -12,8 +12,8 @@
 <categoryLeaf title="ESTRENOS 2025" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/p.xml" />
 <categoryLeaf title="Inspiration" description="" feed="https://devtools.web.roku.com/videoplayer/xml/inspiration.xml" />
 </category>
-<category title="Design" description="TED Talks on Design" sd_img="https://devtools.web.roku.com/videoplayer/images/TED_Design.png" hd_img="https://devtools.web.roku.com/videoplayer/images/TED_Design.png">
-<categoryLeaf title="Creativity" description="" feed="https://devtools.web.roku.com/videoplayer/xml/creativity.xml"/>
+<category title="SERIES" description="" sd_img="https://devtools.web.roku.com/videoplayer/images/TED_Design.png" hd_img="https://devtools.web.roku.com/videoplayer/images/TED_Design.png">
+<categoryLeaf title="ACCION" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/SERIES.xml"/>
 <categoryLeaf title="Design" description="" feed="https://devtools.web.roku.com/videoplayer/xml/design.xml" />
 </category>
 </categories>
