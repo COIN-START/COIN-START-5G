@@ -1,8 +1,8 @@
 <feed>
     <!-- resultLength indicates the total number of results for this feed -->
-    <resultLength>06</resultLength>
+    <resultLength>20</resultLength>
     <!-- endIndex indicates the number of results for this *paged* section of the feed -->
-    <endIndex>06</endIndex>
+    <endIndex>20</endIndex>
 
 <item sdImg="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png" hdImg="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png">
     <title>PASIONES</title>
