@@ -1,14 +1,14 @@
 <categories>
 <!-- banner_ad: optional element which displays an at the top level category screen -->
 <banner_ad sd_img="https://devtools.web.roku.com/videoplayer/images/missing.png" hd_img="https://devtools.web.roku.com/videoplayer/images/missing.png"/>
-<category title="TV MX" description="JRTV" sd_img="https://devtools.web.roku.com/videoplayer/images/TED_Technology.png" hd_img="https://devtools.web.roku.com/videoplayer/images/TED_Technology.png">
+<category title="TV MX" description="" sd_img="https://devtools.web.roku.com/videoplayer/images/TED_Technology.png" hd_img="https://devtools.web.roku.com/videoplayer/images/TED_Technology.png">
 <categoryLeaf title="TV EN VIVO" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/tv.xml" />
 <categoryLeaf title="NOVELAS" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/novelas.xml" />
 <categoryLeaf title="CULTURA" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/cultura.xml" />
 <categoryLeaf title="INFANTIL" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/INFANTIL.xml" />
 <categoryLeaf title="PREMIUM" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/PREMIUM.xml" />
 </category>
-<category title="PELICULAS" description="ESTRENOS" sd_img="https://devtools.web.roku.com/videoplayer/images/TED_Entertainment.png" hd_img="https://devtools.web.roku.com/videoplayer/images/TED_Entertainment.png">
+<category title="PELICULAS" description="" sd_img="https://devtools.web.roku.com/videoplayer/images/TED_Entertainment.png" hd_img="https://devtools.web.roku.com/videoplayer/images/TED_Entertainment.png">
 <categoryLeaf title="ESTRENOS 2025" description="" feed="https://raw.githubusercontent.com/COIN-START/COIN-START-5G/refs/heads/main/p.xml" />
 <categoryLeaf title="Inspiration" description="" feed="https://devtools.web.roku.com/videoplayer/xml/inspiration.xml" />
 </category>
