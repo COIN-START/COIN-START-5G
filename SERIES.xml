@@ -1,0 +1,49 @@
+<feed>
+    <!-- resultLength indicates the total number of results for this feed -->
+    <resultLength>20</resultLength>
+    <!-- endIndex indicates the number of results for this *paged* section of the feed -->
+    <endIndex>20</endIndex>
+  
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png">
+    <title>AZTECA UNO</title>
+    <contentId>1</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal de televisión mexicana, parte de Grupo Salinas.</synopsis>
+    <genres>Entretenimiento</genres>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+
+    <episodes>
+        <episode>
+            <title>Episodio 1</title>
+            <description>Descripción del episodio 1.</description>
+            <airDate>2025-06-01</airDate>
+            <streamUrl>https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6_episode1.m3u8</streamUrl>
+        </episode>
+        <episode>
+            <title>Episodio 2</title>
+            <description>Descripción del episodio 2.</description>
+            <airDate>2025-06-08</airDate>
+            <streamUrl>https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6_episode2.m3u8</streamUrl>
+        </episode>
+        <episode>
+            <title>Episodio 3</title>
+            <description>Descripción del episodio 3.</description>
+            <airDate>2025-06-15</airDate>
+            <streamUrl>https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6_episode3.m3u8</streamUrl>
+        </episode>
+        <!-- Agrega más episodios según sea necesario -->
+    </episodes>
+</item>
+
+    
+    <!-- Continúa con los demás canales de manera similar -->
+    
+</feed>
