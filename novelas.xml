@@ -1,46 +1,116 @@
 <feed>
     <!-- resultLength indicates the total number of results for this feed -->
-    <resultLength>20</resultLength>
+    <resultLength>06</resultLength>
     <!-- endIndex indicates the number of results for this *paged* section of the feed -->
-    <endIndex>20</endIndex>
+    <endIndex>06</endIndex>
 
-<videos>
-    <video>
-        <title>TLNOVELAS</title>
-        <thumbnail>https://x.playerlatino.live/tlnovelas.png</thumbnail>
-        <url>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278367.m3u8</url>
-    </video>
-    <video>
-        <title>PASIONES</title>
-        <thumbnail>https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png</thumbnail>
-        <url>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278403.m3u8</url>
-    </video>
-    <video>
-        <title>TELEMUNDO USA</title>
-        <thumbnail>https://btv.mx/posters/1720842845264.png</thumbnail>
-        <url>https://magmaplayer.com/stream/m3u8/AGRjKmt4BS8kBQxhZGt5YwRkZP4kAmqsZGp0AmD1/hls/888.m3u8</url>
-    </video>
-    <video>
-        <title>TELEMUNDO</title>
-        <thumbnail>https://btv.mx/posters/1720842845264.png</thumbnail>
-        <url>http://209.126.106.30:8081/live/974005b4204b4ad78588c404b9feac2a/fee8e06e2a9140369d5ee6f58ce0f265/99.m3u8</url>
-    </video>
-    <video>
-        <title>TELEMUNDO INTERNACIONAL</title>
-        <thumbnail>http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png</thumbnail>
-        <url>https://corsproxy.io/?url=http://magmaplayer.com/stream/m3u8/BGxkKmRkZQusZGt3YwR5ZP42Zl42AS8kAmD5ZQD/hls/1108.m3u8</url>
-    </video>
-    <video>
-        <title>UNICABLE</title>
-        <thumbnail>http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png</thumbnail>
-        <url>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278446.m3u8</url>
-    </video>
-    <video>
-        <title>AZ CORAZÓN</title>
-        <thumbnail>https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png</thumbnail>
-        <url>http://tv.iprotv.live:80/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/97970.ts</url>
-    </video>
-</videos>
+<item sdImg="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png" hdImg="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png">
+    <title>PASIONES</title>
+    <contentId>2</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278403.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal de telenovelas y entretenimiento.</synopsis>
+    <genres>Novelas</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="https://btv.mx/posters/1720842845264.png" hdImg="https://btv.mx/posters/1720842845264.png">
+    <title>TELEMUNDO USA</title>
+    <contentId>3</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>https://magmaplayer.com/stream/m3u8/AGRjKmt4BS8kBQxhZGt5YwRkZP4kAmqsZGp0AmD1/hls/888.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal de televisión en español que ofrece noticias y entretenimiento.</synopsis>
+    <genres>Novelas</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="https://btv.mx/posters/1720842845264.png" hdImg="https://btv.mx/posters/1720842845264.png">
+    <title>TELEMUNDO</title>
+    <contentId>4</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://209.126.106.30:8081/live/974005b4204b4ad78588c404b9feac2a/fee8e06e2a9140369d5ee6f58ce0f265/99.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal de entretenimiento y noticias en español.</synopsis>
+    <genres>Novelas</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png">
+    <title>TELEMUNDO INTERNACIONAL</title>
+    <contentId>5</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>https://corsproxy.io/?url=http://magmaplayer.com/stream/m3u8/BGxkKmRkZQusZGt3YwR5ZP42Zl42AS8kAmD5ZQD/hls/1108.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal de entretenimiento internacional en español.</synopsis>
+    <genres>Novelas</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png">
+    <title>UNICABLE</title>
+    <contentId>6</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278446.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal de telenovelas y entretenimiento.</synopsis>
+    <genres>Novelas</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" hdImg="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png">
+    <title>AZ CORAZÓN</title>
+    <contentId>7</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://tv.iprotv.live:80/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/97970.ts</streamUrl>
+    </media>
+    <synopsis>Canal de entretenimiento y telenovelas.</synopsis>
+    <genres>Novelas</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
 
 
     
