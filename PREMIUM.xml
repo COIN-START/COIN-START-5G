@@ -1,0 +1,233 @@
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png">
+    <title>HBO HD</title>
+    <contentId>1</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278498.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal premium que ofrece películas y series de alta calidad.</synopsis>
+    <genres>Premium</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png">
+    <title>HBO2</title>
+    <contentId>2</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278493.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal premium que ofrece una variedad de películas y series.</synopsis>
+    <genres>Premium</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png">
+    <title>HBO FAMILY</title>
+    <contentId>3</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278496.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal que ofrece películas familiares y programación infantil.</synopsis>
+    <genres>Premium</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png">
+    <title>HBO MUNDI</title>
+    <contentId>4</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278501.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal que presenta películas y series de todo el mundo.</synopsis>
+    <genres>Premium</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png">
+    <title>HBO PLUS</title>
+    <contentId>5</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278490.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal que ofrece programación de HBO con un enfoque en películas.</synopsis>
+    <genres>Premium</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png">
+    <title>HBO POP</title>
+    <contentId>6</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278503.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal que presenta películas y series populares de HBO.</synopsis>
+    <genres>Premium</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png">
+    <title>HBO SIGNATURE</title>
+    <contentId>7</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278505.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal que ofrece contenido exclusivo de HBO.</synopsis>
+    <genres>Premium</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png">
+    <title>HBO XTREME</title>
+    <contentId>8</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278508.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal que ofrece películas de acción y aventura de HBO.</synopsis>
+    <genres>Premium</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png">
+    <title>UNIVERSAL CINEMA</title>
+    <contentId>9</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278472.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal que presenta las mejores películas de Universal Studios.</synopsis>
+    <genres>Premium</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png">
+    <title>UNIVERSAL COMEDY</title>
+    <contentId>10</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278473.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal de comedia que presenta películas y series cómicas.</synopsis>
+    <genres>Premium</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121868_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121868_dark_360w_270h.png">
+    <title>UNIVERSAL CRIME</title>
+    <contentId>11</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278474.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal que ofrece dramas y documentales sobre crímenes.</synopsis>
+    <genres>Premium</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png">
+    <title>UNIVERSAL PREMIER</title>
+    <contentId>12</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278476.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal que presenta estrenos de películas de Universal.</synopsis>
+    <genres>Premium</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121867_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121867_dark_360w_270h.png">
+    <title>UNIVERSAL REALITY</title>
+    <contentId>13</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278478.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal que ofrece programas de telerrealidad y entretenimiento.</synopsis>
+    <genres>Premium</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
