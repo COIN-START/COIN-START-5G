@@ -177,7 +177,7 @@
         <streamBitrate>3000</streamBitrate>
         <streamUrl>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278473.m3u8</streamUrl>
     </media>
-    <synopsis>Canal de comedia que presenta películas y series cómicas.</synopsis>
+    <synopsis>Canal de comedia que presenta películas y series cómicas</synopsis>
     <genres>Premium</genres>
     <runtime>3600</runtime>
     <userAgent>Magma Player/10</userAgent>
