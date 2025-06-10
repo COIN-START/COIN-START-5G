@@ -4,69 +4,221 @@
     <!-- endIndex indicates the number of results for this *paged* section of the feed -->
     <endIndex>20</endIndex>
 
-<videos>
-    <video>
-        <title>DISCOVERY SCIENCE</title>
-        <thumbnail>http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png</thumbnail>
-        <url>http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/37.m3u8</url>
-    </video>
-    <video>
-        <title>DISCOVERY H&H</title>
-        <thumbnail>http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png</thumbnail>
-        <url>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278395.m3u8</url>
-    </video>
-    <video>
-        <title>DISCOVERY WORLD</title>
-        <thumbnail>http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png</thumbnail>
-        <url>http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/26.m3u8</url>
-    </video>
-    <video>
-        <title>DISCOVERY TURBO</title>
-        <thumbnail>http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png</thumbnail>
-        <url>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278414.m3u8</url>
-    </video>
-    <video>
-        <title>DISCOVERY THEATER</title>
-        <thumbnail>http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png</thumbnail>
-        <url>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79464.m3u8</url>
-    </video>
-    <video>
-        <title>NACIONAL GEOGRAPHIC</title>
-        <thumbnail>https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png</thumbnail>
-        <url>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/414739.m3u8</url>
-    </video>
-    <video>
-        <title>ANIMAL PLANET</title>
-        <thumbnail>http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png</thumbnail>
-        <url>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79446.m3u8</url>
-    </video>
-    <video>
-        <title>HISTORY MX</title>
-        <thumbnail>https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png</thumbnail>
-        <url>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/414741.m3u8</url>
-    </video>
-    <video>
-        <title>H2</title>
-        <thumbnail>https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png</thumbnail>
-        <url>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79478.m3u8</url>
-    </video>
-    <video>
-        <title>DISCOVERY CHANNEL</title>
-        <thumbnail>http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png</thumbnail>
-        <url>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79454.m3u8</url>
-    </video>
-    <video>
-        <title>HGTV</title>
-        <thumbnail>http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png</thumbnail>
-        <url>http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/79474.ts</url>
-    </video>
-    <video>
-        <title>DISCOVERY ID</title>
-        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png</thumbnail>
-        <url>http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/79458.ts</url>
-    </video>
-</videos>
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png">
+    <title>DISCOVERY SCIENCE</title>
+    <contentId>1</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/37.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal dedicado a la ciencia y la tecnología.</synopsis>
+    <genres>Cultura</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
 
+<item sdImg="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" hdImg="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png">
+    <title>DISCOVERY H&H</title>
+    <contentId>2</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278395.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal de documentales sobre historia y ciencia.</synopsis>
+    <genres>Cultura</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png">
+    <title>DISCOVERY WORLD</title>
+    <contentId>3</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/26.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal que explora el mundo natural y la ciencia.</synopsis>
+    <genres>Cultura</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png">
+    <title>DISCOVERY TURBO</title>
+    <contentId>4</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278414.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal de documentales sobre automóviles y velocidad.</synopsis>
+    <genres>Cultura</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png">
+    <title>DISCOVERY THEATER</title>
+    <contentId>5</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79464.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal de documentales sobre cine y teatro.</synopsis>
+    <genres>Cultura</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png" hdImg="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png">
+    <title>NACIONAL GEOGRAPHIC</title>
+    <contentId>6</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/414739.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal dedicado a la naturaleza y la vida salvaje.</synopsis>
+    <genres>Cultura</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png">
+    <title>ANIMAL PLANET</title>
+    <contentId>7</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79446.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal sobre la vida animal y la conservación.</synopsis>
+    <genres>Cultura</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" hdImg="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png">
+    <title>HISTORY MX</title>
+    <contentId>8</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/414741.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal sobre historia y documentales.</synopsis>
+    <genres>Cultura</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" hdImg="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png">
+    <title>H2</title>
+    <contentId>9</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79478.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal de documentales sobre historia.</synopsis>
+    <genres>Cultura</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png">
+    <title>DISCOVERY CHANNEL</title>
+    <contentId>10</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79454.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal que ofrece documentales sobre diversos temas.</synopsis>
+    <genres>Cultura</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png">
+    <title>HGTV</title>
+    <contentId>11</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/79474.ts</streamUrl>
+    </media>
+    <synopsis>Canal de diseño y decoración del hogar.</synopsis>
+    <genres>Cultura</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
+
+<item sdImg="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" hdImg="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png">
+    <title>DISCOVERY ID</title>
+    <contentId>12</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/79458.ts</streamUrl>
+    </media>
+    <synopsis>Canal de documentales sobre crímenes y misterios.</synopsis>
+    <genres>Cultura</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
 
     
     <!-- Continúa con los demás canales de manera similar -->
