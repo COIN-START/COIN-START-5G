@@ -1,0 +1,23 @@
+<feed>
+    <!-- resultLength indicates the total number of results for this feed -->
+    <resultLength>20</resultLength>
+    <!-- endIndex indicates the number of results for this *paged* section of the feed -->
+    <endIndex>20</endIndex>
+
+<item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png">
+    <title>DISCOVERY SCIENCE</title>
+    <contentId>1</contentId>
+    <contentType>TV</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>m3u8</streamFormat>
+    <media>
+        <streamQuality>HD</streamQuality>
+        <streamBitrate>3000</streamBitrate>
+        <streamUrl>http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/37.m3u8</streamUrl>
+    </media>
+    <synopsis>Canal dedicado a la ciencia y la tecnología.</synopsis>
+    <genres>Cultura</genres>
+    <runtime>3600</runtime>
+    <userAgent>Magma Player/10</userAgent>
+    <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
+</item>
