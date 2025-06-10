@@ -58,11 +58,6 @@
     <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
 </item>
 
-    
-    <!-- Continúa con los demás canales de manera similar -->
-    
-</feed>
-
 <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png">
     <title>CARTOON NETWORK</title>
     <contentId>4</contentId>
