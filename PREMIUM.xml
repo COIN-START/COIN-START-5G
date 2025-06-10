@@ -1,3 +1,9 @@
+<feed>
+    <!-- resultLength indicates the total number of results for this feed -->
+    <resultLength>20</resultLength>
+    <!-- endIndex indicates the number of results for this *paged* section of the feed -->
+    <endIndex>20</endIndex>
+    
 <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png">
     <title>HBO HD</title>
     <contentId>1</contentId>
