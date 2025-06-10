@@ -69,7 +69,7 @@
         <streamBitrate>3000</streamBitrate>
         <streamUrl>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278414.m3u8</streamUrl>
     </media>
-    <synopsis>Canal de documentales sobre automóviles y velocidad.</synopsis>
+    <synopsis>Canal de documentales sobre automóviles y velocidad</synopsis>
     <genres>Cultura</genres>
     <runtime>3600</runtime>
     <userAgent>Magma Player/10</userAgent>
@@ -87,7 +87,7 @@
         <streamBitrate>3000</streamBitrate>
         <streamUrl>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79464.m3u8</streamUrl>
     </media>
-    <synopsis>Canal de documentales sobre cine y teatro.</synopsis>
+    <synopsis>Canal de documentales sobre cine y teatro</synopsis>
     <genres>Cultura</genres>
     <runtime>3600</runtime>
     <userAgent>Magma Player/10</userAgent>
@@ -105,7 +105,7 @@
         <streamBitrate>3000</streamBitrate>
         <streamUrl>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/414739.m3u8</streamUrl>
     </media>
-    <synopsis>Canal dedicado a la naturaleza y la vida salvaje.</synopsis>
+    <synopsis>Canal dedicado a la naturaleza y la vida salvaje</synopsis>
     <genres>Cultura</genres>
     <runtime>3600</runtime>
     <userAgent>Magma Player/10</userAgent>
@@ -123,7 +123,7 @@
         <streamBitrate>3000</streamBitrate>
         <streamUrl>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79446.m3u8</streamUrl>
     </media>
-    <synopsis>Canal sobre la vida animal y la conservación.</synopsis>
+    <synopsis>Canal sobre la vida animal y la conservación</synopsis>
     <genres>Cultura</genres>
     <runtime>3600</runtime>
     <userAgent>Magma Player/10</userAgent>
@@ -141,7 +141,7 @@
         <streamBitrate>3000</streamBitrate>
         <streamUrl>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/414741.m3u8</streamUrl>
     </media>
-    <synopsis>Canal sobre historia y documentales.</synopsis>
+    <synopsis>Canal sobre historia y documentales</synopsis>
     <genres>Cultura</genres>
     <runtime>3600</runtime>
     <userAgent>Magma Player/10</userAgent>
@@ -159,7 +159,7 @@
         <streamBitrate>3000</streamBitrate>
         <streamUrl>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79478.m3u8</streamUrl>
     </media>
-    <synopsis>Canal de documentales sobre historia.</synopsis>
+    <synopsis>Canal de documentales sobre historia</synopsis>
     <genres>Cultura</genres>
     <runtime>3600</runtime>
     <userAgent>Magma Player/10</userAgent>
@@ -177,7 +177,7 @@
         <streamBitrate>3000</streamBitrate>
         <streamUrl>http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79454.m3u8</streamUrl>
     </media>
-    <synopsis>Canal que ofrece documentales sobre diversos temas.</synopsis>
+    <synopsis>Canal que ofrece documentales sobre diversos temas</synopsis>
     <genres>Cultura</genres>
     <runtime>3600</runtime>
     <userAgent>Magma Player/10</userAgent>
@@ -195,7 +195,7 @@
         <streamBitrate>3000</streamBitrate>
         <streamUrl>http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/79474.ts</streamUrl>
     </media>
-    <synopsis>Canal de diseño y decoración del hogar.</synopsis>
+    <synopsis>Canal de diseño y decoración del hogar</synopsis>
     <genres>Cultura</genres>
     <runtime>3600</runtime>
     <userAgent>Magma Player/10</userAgent>
@@ -211,9 +211,9 @@
     <media>
         <streamQuality>HD</streamQuality>
         <streamBitrate>3000</streamBitrate>
-        <streamUrl>http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/79458.ts</streamUrl>
+        <streamUrl>http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/79458.m3u8</streamUrl>
     </media>
-    <synopsis>Canal de documentales sobre crímenes y misterios.</synopsis>
+    <synopsis>Canal de documentales sobre crímenes y misterios</synopsis>
     <genres>Cultura</genres>
     <runtime>3600</runtime>
     <userAgent>Magma Player/10</userAgent>
