@@ -49,27 +49,9 @@
         <media>
             <streamQuality>HD</streamQuality>
             <streamBitrate>3000</streamBitrate>
-            <streamUrl>http://play.tecnomolly.com:8080/live/Sventura69/xcxwtgJVbR4N/32669.ts</streamUrl>
+            <streamUrl>http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278330.m3u8</streamUrl>
         </media>
         <synopsis>Canal de televisión mexicana para jóvenes.</synopsis>
-        <genres>Entretenimiento</genres>
-        <runtime>3600</runtime>
-        <userAgent>Magma Player/10</userAgent>
-        <epgUrl>http://m3u4u.com/epg/69wkng943dsv6mw6nq8g</epgUrl>
-    </item>
-
-    <item sdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" hdImg="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png">
-        <title>CANAL 5 HD</title>
-        <contentId>4</contentId>
-        <contentType>TV</contentType>
-        <contentQuality>HD</contentQuality>
-        <streamFormat>m3u8</streamFormat>
-        <media>
-            <streamQuality>HD</streamQuality>
-            <streamBitrate>3000</streamBitrate>
-            <streamUrl>http://tv.zapping.life:8080/jmontenegro2/Wq6em8LfSG/87598</streamUrl>
-        </media>
-        <synopsis>Versión en alta definición de Canal 5.</synopsis>
         <genres>Entretenimiento</genres>
         <runtime>3600</runtime>
         <userAgent>Magma Player/10</userAgent>
