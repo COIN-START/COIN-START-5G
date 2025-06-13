@@ -62,7 +62,7 @@ https://magmaplayer.com/stream/m3u8/AGRjKmt4BS8kBQxhZGt5YwRkZP4kAmqsZGp0AmD1/hls
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEMUNDO" tvg-logo="https://btv.mx/posters/1720842845264.png" group-title="B- NOVELAS",TELEMUNDO
 http://209.126.106.30:8081/live/974005b4204b4ad78588c404b9feac2a/fee8e06e2a9140369d5ee6f58ce0f265/99.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.mx(m3u4u)" tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png" group-title="B- NOVELAS",TELEMUNDO INTERNACIONAL
-https://corsproxy.io/?url=http://magmaplayer.com/stream/m3u8/BGxkKmRkZQusZGt3YwR5ZP42Zl42AS8kAmD5ZQD/hls/1108.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278685.m3u8
 #EXTINF:-1 tvg-id="Unicable.mx(m3u4u)" tvg-name="UNICABLE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png" group-title="B- NOVELAS",UNICABLE
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278446.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZ CORAZÓN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" group-title="B- NOVELAS",AZ CORAZÓN
@@ -219,9 +219,9 @@ http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278457.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="H- DEPORTES",ESPN
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278578.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx(m3u4u)" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="H- DEPORTES",ESPN 2
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/f6c3675a-0031-4788-820d-0b4913ca36fc.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278762.m3u8
 #EXTINF:-1 tvg-id="ESPN3.mx(m3u4u)" tvg-name="ESPN 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="H- DEPORTES",ESPN 3
-http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278580.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278763.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx(m3u4u)" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="H- DEPORTES",Fox Sports
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278598.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.mx(m3u4u)" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66365_dark_360w_270h.png" group-title="H- DEPORTES",Fox Sports 2
