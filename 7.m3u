@@ -50,13 +50,12 @@ http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guil
 http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=131193&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/klipartz.com_202501/klipartz.com.png" group-title="D- 24/7",LOS SIMPSON
-http://nxtv2112.xyz/live/5MUK2Fhqtq/wqq6nhKF4W/428566.m3u8
+http://tv.zapping.life:8080/live/nguarin1/NyQv3tktG1/94881.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUnL2Ei8oZoH2Vav0ZFs2iuZu9_g-0ToBFgw&s" group-title="D- 24/7",DOCTOR HOUSE
-http://tvhomesmart.xyz:8080/live/53samu48de45pe97w/47wuma84duwe57/250477.m3u8
+http://tv.zapping.life:8080/live/nguarin1/NyQv3tktG1/94881.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.malcolminthemiddle.co.uk/wp-content/uploads/2019/04/Logo.png" group-title="D- 24/7",MALCOLM EL DE EN MEDIO
-https://corsproxy.io/?url=http://user.tvcluboficial.com/live/m/m/518.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.malcolminthemiddle.co.uk/wp-content/uploads/2019/04/Logo.png" group-title="D- 24/7",MALCOLM EL DE EN MEDIO
-https://corsproxy.io/?url=http://user.tvcluboficial.com/live/m/m/911.m3u8
+http://tv.zapping.life:8080/live/nguarin1/NyQv3tktG1/94860.m3u8
