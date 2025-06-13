@@ -217,13 +217,13 @@ http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278457.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="H- DEPORTES",ESPN
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/ec5e5d0c-ce5f-487e-a923-d44242c5b4b8.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278578.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx(m3u4u)" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="H- DEPORTES",ESPN 2
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/f6c3675a-0031-4788-820d-0b4913ca36fc.m3u8
 #EXTINF:-1 tvg-id="ESPN3.mx(m3u4u)" tvg-name="ESPN 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="H- DEPORTES",ESPN 3
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/6760ba79-4638-47d0-b487-24514d8f1afc.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278580.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx(m3u4u)" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="H- DEPORTES",Fox Sports
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/67bf848b-2f3c-4272-8860-fa5536f8cf43.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278598.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.mx(m3u4u)" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66365_dark_360w_270h.png" group-title="H- DEPORTES",Fox Sports 2
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/c0030764-11bf-4ba9-8254-e533606a5017.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.mx(m3u4u)" tvg-name="Fox Sports 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105006_dark_360w_270h.png" group-title="H- DEPORTES",Fox Sports 3
@@ -231,7 +231,7 @@ http://disfruta.net/live/balooshy/Dcw7jXk5T5/253551b2-6ec5-475e-9b6b-7835863b03e
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx(m3u4u)" tvg-name="FOX SPORTS PREMIUM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123582_dark_360w_270h.png" group-title="H- DEPORTES",FOX SPORTS PREMIUM
 http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/5000.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx(m3u4u)" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="H- DEPORTES",TUDN
-http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/5007.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278559.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TUDN USA" tvg-logo="http://x.playerlatino.live/tudn.png" group-title="H- DEPORTES",TUDN USA
 http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/5008.m3u8
 
