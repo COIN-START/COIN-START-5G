@@ -71,29 +71,29 @@ http://tv.iprotv.live:80/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/97970.
 
 
 #EXTINF:-1 tvg-id="DiscoveryScience.mx(m3u4u)" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY SCIENCE
-http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/37.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278621.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY H&H" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="C- CULTURA",DISCOVERY H&H
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278395.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx(m3u4u)" tvg-name="DISCOVERY WORLD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY WORLD
-http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/26.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278626.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.mx(m3u4u)" tvg-name="DISCOVERY TURBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY TURBO
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278414.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTheater.mx(m3u4u)" tvg-name="DISCOVERY THEATER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY THEATER
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79464.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278622.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx(m3u4u)" tvg-name="NACIONAL GEOGRAPHIC" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png" group-title="C- CULTURA",NACIONAL GEOGRAPHIC
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/414739.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278636.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.mx(m3u4u)" tvg-name="ANIMAL PLANET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="C- CULTURA",ANIMAL PLANET
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79446.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278616.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HISTORY MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="C- CULTURA",HISTORY MX
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/414741.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278628.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="C- CULTURA",H2
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79478.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278630.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx(m3u4u)" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY CHANNEL
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/79454.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278618.m3u8
 #EXTINF:-1 tvg-id="HGTV.mx(m3u4u)" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png" group-title="C- CULTURA",HGTV
 http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/79474.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="C- CULTURA",DISCOVERY ID
-http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/79458.ts
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278633.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/150px-TLC_USA_logo.png" group-title="C- CULTURA",DISCOVERY TLC
 
 
