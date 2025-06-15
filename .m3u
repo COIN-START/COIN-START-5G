@@ -97,25 +97,28 @@ http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278633.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/150px-TLC_USA_logo.png" group-title="C- CULTURA",DISCOVERY TLC
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278407.m3u8
 
-
+#EXTINF:-1 tvg-id="Tooncast.mx(m3u4u)" tvg-name="BITME" tvg-logo="https://x.playerlatino.live/bitme.png" group-title="D- INFANTIL",BITME
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278522.m3u8
 #EXTINF:-1 tvg-id="Tooncast.mx(m3u4u)" tvg-name="TOONCAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="D- INFANTIL",TOONCAST
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/45396ceb-9e45-4e4c-acb8-16c490ea3016.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278551.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.mx(m3u4u)" tvg-name="DISCOVERY KIDS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" group-title="D- INFANTIL",DISCOVERY KIDS
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/47d97366-17c7-470a-8a33-7b130cc25016.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278536.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon(English).mx(m3u4u)" tvg-name="NICKELODEO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="D- INFANTIL",NICKELODEO
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/68aedbef-8931-430e-ab25-c3f182a43868.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278553.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon(English).mx(m3u4u)" tvg-name="TEENNICK" tvg-logo="http://x.playerlatino.live/teennick.png" group-title="D- INFANTIL",TEENNICK
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278550.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.mx(m3u4u)" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="D- INFANTIL",CARTOON NETWORK
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/05208f2f-6cd7-4a15-8e81-500e2a4eceb3.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278525.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.mx(m3u4u)" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19234_dark_360w_270h.png" group-title="D- INFANTIL",DISNEY CHANNEL
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/ec674ff9-6c4a-457b-9192-a9b7f85be712.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278538.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.mx(m3u4u)" tvg-name="CARTOONITO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png" group-title="D- INFANTIL",CARTOONITO
-http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/506.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278527.m3u8
 #EXTINF:-1 tvg-id="BabyTv.mx(m3u4u)" tvg-name="BABY TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56036_dark_360w_270h.png" group-title="D- INFANTIL",BABY TV
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/3962e8ec-d867-4cf2-af6b-2d61a1a8c5d7.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278532.m3u8
 #EXTINF:-1 tvg-id="NickJr.mx(m3u4u)" tvg-name="NICK JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60295_dark_360w_270h.png" group-title="D- INFANTIL",NICK JR
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/cab75eb0-4998-48c3-8d43-33066b8ab008.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278545.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISNEY JR" tvg-logo="http://3.bp.blogspot.com/-VvbUqgHc5Pw/VJIJWAJLxfI/AAAAAAAAHi0/A0nDmO29zwk/s1600/Logo%2BDisney_Junior.png" group-title="D- INFANTIL",DISNEY JR
-http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/514.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278542.m3u8
 
 
 
