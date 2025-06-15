@@ -219,15 +219,15 @@ http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278457.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" tvg-name="CLARO SPORTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="H- DEPORTES",CLARO SPORTS
+#EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" tvg-name="CLARO SPORTS" tvg-logo="https://x.playerlatino.live/clarosports.png" group-title="H- DEPORTES",CLARO SPORTS
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278578.m3u8
 
 
-#EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" tvg-name="ESPN" tvg-logo="https://x.playerlatino.live/clarosports.png" group-title="H- DEPORTES",ESPN
+#EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" tvg-name="ESPN" tvg-logo="https://x.playerlatino.live/espn.png" group-title="H- DEPORTES",ESPN
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278556.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx(m3u4u)" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="H- DEPORTES",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.mx(m3u4u)" tvg-name="ESPN 2" tvg-logo="https://x.playerlatino.live/espn.png" group-title="H- DEPORTES",ESPN 2
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278762.m3u8
-#EXTINF:-1 tvg-id="ESPN3.mx(m3u4u)" tvg-name="ESPN 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="H- DEPORTES",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3.mx(m3u4u)" tvg-name="ESPN 3" tvg-logo="https://x.playerlatino.live/espn.png" group-title="H- DEPORTES",ESPN 3
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278763.m3u8
 #EXTINF:-1 tvg-id="ESPN3.mx(m3u4u)" tvg-name="ESPN 4" tvg-logo="https://x.playerlatino.live/espn.png" group-title="H- DEPORTES",ESPN 4
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278582.m3u8
