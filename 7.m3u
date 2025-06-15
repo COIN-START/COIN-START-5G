@@ -1,24 +1,39 @@
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.8093c4913f46b6a7c9fbfd7442dc2002?rik=XMJVNX3hGLWAFg&riu=http%3a%2f%2ffanart.tv%2ffanart%2ftv%2f78020%2fhdclearart%2falf-5835b6ec28f6e.png&ehk=DpWgKU8dyXY53wBZMaQ9FaZupb3KO4yp8oG6Y0MDy%2f4%3d&risl=&pid=ImgRaw&r=0" group-title="A- 24/7",ALF
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279013.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/animaniacs/images/d/d9/Animaniacs_%285%29.png" group-title="A- 24/7",ANIMANIACS
-http://nxtv2112.xyz/live/5MUK2Fhqtq/wqq6nhKF4W/575708.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lavacayelpollito.png" group-title="A- 24/7",LA VACA Y EL POLLITO
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279005.m3u8
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/25/10/15/5039486.png" group-title="A- 24/7",LA VACA Y EL POLLITO
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279006.m3u8
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/grim_evil_the_grim_adventures_of_billy_mandy-191983912-large.jpg" group-title="A- 24/7",Billy y Mandy
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279009.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/10f114bd96cbfc0c94d1ad7ff1903db05471af8b488e0c76cfaa544297787272.jpg" group-title="A- 24/7",LOS CHICOS DEL BARRIO
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279010.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/310410860/s718/tom-y-jerry.jpg" group-title="A- 24/7",TOM Y JERRY
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279012.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/lucian-films-thirteenth-deluxe-edition/images/6/64/SpongeBob_SquarePants_logo_wordmark.png" group-title="A- 24/7",BOB SPONGE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279017.m3u8
 #EXTINF:-1 tvg-logo="https://www.vippng.com/png/full/201-2013595_el-chavo-el-chavo-del-8-letra.png" group-title="A- 24/7",EL CHAVO DEL OCHO
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279007.m3u8
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ec545603-cf4e-48e0-936d-5376ea12fdc0/dfkp5gk-b67dcfb1-e294-4658-b959-1da345673a32.png/v1/fill/w_1156,h_691/jimmy_neutron_boy_genius_logo_png_2022_by_wcwjunkbox_dfkp5gk-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY1IiwicGF0aCI6IlwvZlwvZWM1NDU2MDMtY2Y0ZS00OGUwLTkzNmQtNTM3NmVhMTJmZGMwXC9kZmtwNWdrLWI2N2RjZmIxLWUyOTQtNDY1OC1iOTU5LTFkYTM0NTY3M2EzMi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.0lAFK13Uxn6XWma0ozTlmOOP-U1oo1fY5_OdXwuhyIE" group-title="A- 24/7",JIMMY NEUTRON
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56664&extension=m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://pngimg.com/uploads/futurama/futurama_PNG26.png" group-title="B- 24/7",FUTURAMA
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279008.m3u8
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/johnnybravo.png" group-title="B- 24/7",JHONY BRAVO
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279015.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles-series/500/579/001_m.jpg" group-title="B- 24/7",DEXTER
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279029.m3u8
 
 #EXTINF:-1 tvg-logo="https://miro.medium.com/max/1380/1*5FDqv_Jqlk___XP0eFZptQ.png" group-title="B- 24/7",DINOSAURIOS
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56613&extension=m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279019.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-DreamWorks-1.png" group-title="B- 24/7",DREAMWORKS
 http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56443&extension=m3u8
@@ -33,16 +48,17 @@ http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guil
 http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56616&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e3/46/83/e34683b61a49dfd0974b73821de6a339.png" group-title="C- 24/7",DRAGON BALL Z
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56621&extension=m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279024.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dragon_Ball_GT_logo.png/1280px-Dragon_Ball_GT_logo.png" group-title="C- 24/7",DRAGON BALL GT
-http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56622&extension=m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279025.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="C- 24/7",DRAGON BALL SUPER
 http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56618&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/4f/4f0ca4a99c82adc701d1c18856708d3a.png" group-title="C- 24/7",NARUTO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=eba192f4-cd23-11eb-9091-0242ac110002&sid=eba192f4-cd23-11eb-9091-0242ac110002&userId=
+
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R404141aa90894f89d7090785b3e1685d?rik=ml589mK99ne4GQ&pid=ImgRaw" group-title="C- 24/7",CABALLEROS DEL ZODIACO
 http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=130986&extension=m3u8
 
