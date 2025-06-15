@@ -46,16 +46,16 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R404141aa90894f89d7090785b3e1685d?rik=ml589mK99ne4GQ&pid=ImgRaw" group-title="C- 24/7",CABALLEROS DEL ZODIACO
 http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=130986&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.kym-cdn.com/photos/images/facebook/001/018/269/b21.png" group-title="D- 24/7",THE THEORY OF BIG BANG
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" group-title="D- 24/7",THE THEORY OF BIG BANG
 http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=131193&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/klipartz.com_202501/klipartz.com.png" group-title="D- 24/7",LOS SIMPSON
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279045.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUnL2Ei8oZoH2Vav0ZFs2iuZu9_g-0ToBFgw&s" group-title="D- 24/7",DOCTOR HOUSE
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/drhouse.png" group-title="D- 24/7",DOCTOR HOUSE
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279023.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.malcolminthemiddle.co.uk/wp-content/uploads/2019/04/Logo.png" group-title="D- 24/7",MALCOLM EL DE EN MEDIO
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="D- 24/7",MALCOLM EL DE EN MEDIO
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279046.m3u8
