@@ -91,11 +91,11 @@ http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278630.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx(m3u4u)" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY CHANNEL
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278618.m3u8
 #EXTINF:-1 tvg-id="HGTV.mx(m3u4u)" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png" group-title="C- CULTURA",HGTV
-http://todoplus.digital:80/5MUK2Fhqtq/wqq6nhKF4W/79474.ts
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278430.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="C- CULTURA",DISCOVERY ID
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278633.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/150px-TLC_USA_logo.png" group-title="C- CULTURA",DISCOVERY TLC
-
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278407.m3u8
 
 
 #EXTINF:-1 tvg-id="Tooncast.mx(m3u4u)" tvg-name="TOONCAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="D- INFANTIL",TOONCAST
@@ -147,8 +147,16 @@ http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278476.m3u8
 #EXTINF:-1 tvg-id="UniversalReality.mx(m3u4u)" tvg-name="UNIVERSAL REALITY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121867_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL REALITY
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278478.m3u8
 
+#EXTINF:-1 tvg-id="DistritoComedia.mx(m3u4u)" tvg-name="AXN" tvg-logo="http://x.playerlatino.live/axn.png" group-title="F- CINE Y SERIES",AXN
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278386.m3u8
+#EXTINF:-1 tvg-id="DistritoComedia.mx(m3u4u)" tvg-name="AE" tvg-logo="https://x.playerlatino.live/ae.png" group-title="F- CINE Y SERIES",AE
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278389.m3u8
+#EXTINF:-1 tvg-id="AMC.mx(m3u4u)" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="F- CINE Y SERIES",AMC
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278394.m3u8
+
 #EXTINF:-1 tvg-id="DistritoComedia.mx(m3u4u)" tvg-name="DISTRITO COMEDIA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55980_dark_360w_270h.png" group-title="F- CINE Y SERIES",DISTRITO COMEDIA
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278416.m3u8
+
 #EXTINF:-1 tvg-id="ComedyCentral.mx(m3u4u)" tvg-name="COMEDY CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="F- CINE Y SERIES",COMEDY CENTRAL
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278409.m3u8
 
@@ -166,7 +174,7 @@ http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278404.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SONY Channel MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="F- CINE Y SERIES",SONY Channel MX
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278405.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.mx(m3u4u)" tvg-name="SONY MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/598px-Sony_Movies_Logo.svg.png" group-title="F- CINE Y SERIES",SONY MOVIE
-http://104.238.205.28:8989/278471_.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/27471.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="F- CINE Y SERIES",Universal TV
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278449.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Universal MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="F- CINE Y SERIES",UNIVERSAL MX
@@ -183,22 +191,17 @@ http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278520.m3u8
 #EXTINF:-1 tvg-id="TNTSeries.mx(m3u4u)" tvg-name="TNT SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="F- CINE Y SERIES",TNT SERIES
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278443.m3u8
 #EXTINF:-1 tvg-id="Space.mx(m3u4u)" tvg-name="SPACE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="F- CINE Y SERIES",SPACE
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/c81adc8e-ee1e-43e1-a67a-672adefb3635.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278516.m3u8
 #EXTINF:-1 tvg-id="Space.mx(m3u4u)" tvg-name="Space MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="F- CINE Y SERIES",Space MX
-https://corsproxy.io/?url=http://magmaplayer.com/stream/m3u8/BQV5KmtlZ18lBQN2BwRjATH6ZGt6BQqzZQbkBGt6ZJWzBGcxLwLlBwSxLGusZGp0AmHj/hls/823.m3u8
-#EXTINF:-1 tvg-id="AandE.mx(m3u4u)" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="F- CINE Y SERIES",A&E
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/7bf4516a-bf76-4af4-8604-2be214c25570.m3u8
-#EXTINF:-1 tvg-id="AMC.mx(m3u4u)" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="F- CINE Y SERIES",AMC
-http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278394.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278515.m3u8
+
 #EXTINF:-1 tvg-id="Paramount.mx(m3u4u)" tvg-name="PARAMOUNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="F- CINE Y SERIES",PARAMOUNT
-https://corsproxy.io/?url=http://user2.tvcluboficial.com:80/live/m/m/647.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278513.m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx(m3u4u)" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="F- CINE Y SERIES",CINEMAX
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278468.m3u8
 
-#EXTINF:-1 tvg-id="Cinecanal.mx(m3u4u)" tvg-name="CINECANAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="F- CINE Y SERIES",CINECANAL
-https://corsproxy.io/?url=http://user2.tvcluboficial.com:80/live/m/m/479.m3u8
 #EXTINF:-1 tvg-id="Golden.mx(m3u4u)" tvg-name="GOLDEN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN
-https://corsproxy.io/?url=http://magmaplayer.com/stream/secure/ZmHmKmD5A18kBQphZGxjYwLmYwL0KmR3AQt1Aj.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278479.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx(m3u4u)" tvg-name="GOLDEN EDGE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN EDGE
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278481.m3u8
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx(m3u4u)" tvg-name="GOLDEN PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN PLUS
