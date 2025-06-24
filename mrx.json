@@ -1,733 +1,793 @@
-
-	"providerName": "Roku Developers",
-	"language": "en-US",
-	"lastUpdated": "2020-03-15T02:01:00+02:00",
-	"shortFormVideos": [
-	{
-			"longDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/streaming-overview.jpg",
-			"releaseDate": "2020-01-15",
-			"genres": [
-				"educational"
-			],
-			"tags": [
-				"getting-started"
-			],
-			"id": "shortform-roku-streaming-overview",
-			"shortDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
-			"title": "Streaming overview",
-			"content": {
-				"duration": 100,
-				"videos": [{
-					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-streaming-overview-v3.mp4",
-					"quality": "HD"
-				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-15T02:39:11Z"
-			}
-		},
-		{
-			"longDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity. See how developing for the Roku platform is free and easy. There's no cost to enroll in the Roku developer program, develop channels, or publish them to the Roku Channel Store, which is Roku's app marketplace. The Roku channel UI is defined with SceneGraph, Roku's object-oriented UI XML framework, and the channel behavior is defined using BrightScript, which is Roku's scripting language.",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/roku-overview.jpg",
-			"releaseDate": "2020-01-15",
-			"genres": [
-				"educational"
-			],
-			"tags": [
-				"getting-started"
-			],
-			"id": "shortform-roku-development-overview",
-			"shortDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity",
-			"title": "Roku Development Overview",
-			"content": {
-				"duration": 248,
-				"videos": [{
-					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-overview.mp4",
-					"quality": "HD"
-				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
-			}
-		},
-		{
-			"longDescription": "Steps for enabling Developer Mode on a Roku device",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/enable-developer-mode-v1b.png",
-			"releaseDate": "2020-01-17",
-			"genres": [
-				"educational"
-			],
-			"tags": [
-				"getting-started"
-			],
-			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
-			"shortDescription": "Steps for enabling Developer Mode on a Roku device",
-			"title": "Enabling Developer Mode",
-			"content": {
-				"duration": 120,
-				"videos": [{
-					"videoType": "DASH",
-					"url": "https://ovp-selector.sr.roku.com/v1/12cdcf33-58e7-46a6-bbbf-cbb5c5fec500?format=dash",
-					"quality": "HD"
-				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
-			}
-		},
-			{
-			"longDescription": "Video highlighting Direct to Play and Enhanced Voice Control features",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/images/VoiceFeatures.jpg",
-			"releaseDate": "2020-01-17",
-			"genres": [
-				"educational"
-			],
-			"tags": [
-				"feature"
-			],
-			"id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
-			"shortDescription": "Video highlighting Direct to Play and Enhanced Voice Control features",
-			"title": "Voice Features",
-			"content": {
-				"duration": 98,
-				"videos": [{
-					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-voice-demo-v4.mp4",
-					"quality": "HD"
-				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:12Z",
-				"captions": [{
-						"language": "en",
-						"captionType": "CLOSED_CAPTION",
-						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.srt"
-					},
-					{
-						"language": "en",
-						"captionType": "CLOSED_CAPTION",
-						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.vtt"
-					}
-				]
-			}
-		}
-	],
-	"series": [{
-			"id": "series_1_tips",
-			"title": "CHESPIRITO SIN QUERER QUERIENDO",
-			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "Videos highlighting Roku products and features",
-			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk8saZeGzWUUzn8JFkC5hdBC4NrfMTzKuLpw&usqp=CAU",
-			"genres": [
-				"educational"
-			],
-			"tags": [
-				"tips"
-			],
-			"seasons": [{
-					"title": "Season 1",
-					"episodes": [{
-							"id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
-							"title": "CHEDPIRITO E01",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-03-06T20:25:52Z",
-								"videos": [{
-									"videoType": "mp4",
-									"url": "http://app.tecnomolly.com:8080/series/Edwincolo/YF4H53LUQZ/475054.mp4",
-									"quality": "HD"
-								}],
-								"duration": 187,
-								"captions": [{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.vtt"
-									}
-								],
-								"language": "en-us"
-							},
-							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk8saZeGzWUUzn8JFkC5hdBC4NrfMTzKuLpw&usqp=CAU",
-							"shortDescription": "Stream music on your Roku device",
-							"releaseDate": "2020-01-02",
-							"longDescription": "Stream music on your Roku device",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
-							"title": "CHEDPIRITO E02",
-							"episodeNumber": 2,
-							"content": {
-								"dateAdded": "2020-02-04T19:08:55Z",
-								"videos": [{
-									"videoType": "mp4",
-									"url": "http://app.tecnomolly.com:8080/series/Edwincolo/YF4H53LUQZ/476593.mp4",
-									"quality": "HD"
-								}],
-								"duration": 134,
-								"captions": [{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
-									}
-								],
-								"language": "en-us"
-							},
-							"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/images/Best_Speaker_Placement.jpg",
-							"shortDescription": "Find the best placement of your Roku audio devices",
-							"releaseDate": "2020-01-02",
-							"longDescription": "Find the best placement of your Roku audio devices",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						}
-					]
-				},
-				{
-					"title": "Season 2",
-					"episodes": [{
-							"id": "shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5",
-							"title": "Guest Mode",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-01-29T02:32:18Z",
-								"videos": [{
-									"videoType": "HLS",
-									"url": "https://d1n7kckvd41xqg.cloudfront.net/aed3cf8c357f4ef8b8e267a30ac8f25a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
-									"quality": "HD"
-								}],
-								"duration": 15,
-								"captions": [{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.vtt"
-									}
-								],
-								"language": "en-us"
-							},
-							"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/images/GUEST_MODE.jpg",
-							"shortDescription": "Let your guests stream with their own accounts",
-							"releaseDate": "2019-12-03",
-							"longDescription": "Let your guests stream with their own accounts",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "shortform-6f2088297f82e02e74e07341fd404750b56e2fbb",
-							"title": "Private Listening",
-							"episodeNumber": 2,
-							"content": {
-								"dateAdded": "2020-03-06T20:43:17Z",
-								"videos": [{
-									"videoType": "HLS",
-									"url": "https://d1n7kckvd41xqg.cloudfront.net/f137dd3848ba4bf3b70bb00b90b0eaf7/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
-									"quality": "HD"
-								}],
-								"duration": 30,
-								"captions": [{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.vtt"
-									}
-								],
-								"language": "en-us"
-							},
-							"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/images/ROKU_PRIVATE_LISTENING_012219.jpg",
-							"shortDescription": "See the benefits of the Private Listening",
-							"releaseDate": "2019-10-15",
-							"longDescription": "See the benefits of the Private Listening",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"id": "series_2_RSG",
-			"title": "SceneGraph Developers: Build a Channel",
-			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "The \"SceneGraph Developers: Build a Channel\" course teaches novice Roku developers how to develop a channel from the ground up with the Roku SDK. This course walks developers through each step in building a basic, high-performance Roku channel that passes certification. This course is ideal for developers that are new to the Roku platform and want a simple, streamlined path for quickly understanding Roku development.",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-build-channel-series.jpg",
-			"genres": [
-				"educational"
-			],
-			"tags": [
-				"RSG"
-			],
-			"seasons": [{
-					"title": "Season 1",
-					"episodes": [{
-							"id": "rsg_unit1_intro",
-							"title": "Introduction to the course",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [{
-									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-									"quality": "HD"
-								}],
-								"duration": 178,
-								"language": "en-us"
-							},
-							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/video1-intro-course-v2.png",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "rsg-unit2-developerSetup",
-							"title": "Development setup",
-							"episodeNumber": 2,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [{
-									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit2-developerSetup-v4.mp4",
-									"quality": "HD"
-								}],
-								"duration": 431,
-								"language": "en-us"
-							},
-							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit2-developerSetup-v4.png",
-							"shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-
-						{
-							"id": "video3-scenegraph-overview",
-							"title": "Core concepts",
-							"episodeNumber": 3,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [{
-									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit3-sgoverview-v3.mp4",
-									"quality": "HD"
-								}],
-								"duration": 765,
-								"language": "en-us"
-							},
-							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit3-core-concepts.png",
-							"shortDescription": "Review key concepts for developing on the Roku platform.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "Review key concepts for developing on the Roku platform. This lesson explains the basic design principles and key concepts of Roku development, provide an overview of Roku's development platform, and review the contents and structure of Roku channels. You'll learn about: SceneGraph and BrightScript, the different types of components you can use to build your channel UI, and many other topics. When you are done with this lesson, you will be ready to start working on your first Roku channel!",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-
-						{
-							"id": "rsg-unit4-contentFeed",
-							"title": "Creating the content feed",
-							"episodeNumber": 4,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [{
-									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit4-contentFeed-v3.mp4",
-									"quality": "HD"
-								}],
-								"duration": 280,
-								"language": "en-us"
-							},
-							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit4-content-feed.png",
-							"shortDescription": "Learn how the content feed is used to load and organize content in the channel.",
-							"releaseDate": "2020-07-18",
-							"longDescription": "Learn how the content feed is used to load and organize content in the channel. This lesson explains how the ContentNode maps metadata in your content feed to components in your channel UI, and it provides a few tips for creating your own feed.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-
-						{
-							"id": "video5-grid-screen",
-							"title": "Creating a Grid Screen",
-							"episodeNumber": 5,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [{
-									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit5-gridscreen-v4.mp4",
-									"quality": "HD"
-								}],
-								"duration": 1899,
-								"language": "en-us"
-							},
-							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit5-gridScreen.png",
-							"shortDescription": "Build a grid screen that displays rows of content",
-							"releaseDate": "2020-05-07",
-							"longDescription": "Build a grid screen that displays rows of content. This lesson describes how to create a basic channel that gets the videos from a content feed and displays them in a grid. It explains how to create SceneGraph components, set their attributes, and create their interfaces. It also teaches how to use BrightScript to parse the metadata in the content feed, add the metadata to content nodes, and then add the content nodes to your components.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "video6-video-player",
-							"title": "Adding the Video Player",
-							"episodeNumber": 6,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [{
-									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit6-videoplayer-v3.mp4",
-									"quality": "HD"
-								}],
-								"duration": 819,
-								"language": "en-us"
-							},
-							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit6-videoPlayer-v2a.png",
-							"shortDescription": "Add a video player to launch content into playback",
-							"releaseDate": "2020-05-13",
-							"longDescription": "Add a video player to launch content into playback. This lesson teaches how to add the SceneGraph Video node to your channel and link it to the content in other components. It explains how to open the video screen when content is selected, and close it when playback finishes or the back button is pressed on the Roku remote control.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						}
-					]
-				},
-				{
-					"title": "Season 2",
-					"episodes": [{
-							"id": "video7-debugger",
-							"title": "Debugging channels",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-05-16T02:32:24Z",
-								"videos": [{
-									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit7-debugger-v3.mp4",
-									"quality": "HD"
-								}],
-								"duration": 381,
-								"language": "en-us"
-							},
-							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit7-debugging.png",
-							"shortDescription": "Debug Roku channels using the debug console",
-							"releaseDate": "2020-05-13",
-							"longDescription": "Debug Roku channels using the debug console. This lesson teaches you how to access the debug console via Telnet and the Roku Eclipse Plug-in and use the different debug ports. It explains how to view the crash logs, stack traces, and channel performance metrics in the console, and how to use the interactive debugger to type commands for checking and updating variable values, calling functions, and stepping through the application.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "video8-detailsScreen",
-							"title": "Creating a Details Screen",
-							"episodeNumber": 2,
-							"content": {
-								"dateAdded": "2020-05-22T02:32:24Z",
-								"videos": [{
-									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit8-details-screen-v3.mp4",
-									"quality": "HD"
-								}],
-								"duration": 1251,
-								"language": "en-us"
-							},
-							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit8-detailsScreen.png",
-							"shortDescription": "Build a details screen that displays the release date, rating, genre, cast, and detailed description of the content selected from the grid screen",
-							"releaseDate": "2020-07-13",
-							"longDescription": "Build a details screen that provides more information about the content selected in the GridScreen, including the item's release date, rating, genre, cast, and detailed description. This lesson explains how to build a screen using more complex SceneGraph components. It describes how to create a Play button that launches the video player, populate the details screen with metadata that is already stored in other components, and switch the focus when the Details Screen is opened and closed.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "video9-episodesScreen",
-							"title": "Creating an Episodes Screen",
-							"episodeNumber": 3,
-							"content": {
-								"dateAdded": "2020-05-29T02:32:24Z",
-								"videos": [{
-									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit9-episodePicker-v3.mp4",
-									"quality": "HD"
-								}],
-								"duration": 2188,
-								"language": "en-us"
-							},
-							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit9-episodesScreen.png",
-							"shortDescription": "Build an episodes screen that organizes television series into seasons and episodes.",
-							"releaseDate": "2020-05-29",
-							"longDescription": "Build an episodes screen that organizes television series into seasons and episodes. The left side of the screen displays the seasons; the right side of the screen lists the episodes in the selected season. This lesson explains how to use new components such as the MarkupList and further layer components to create more complex UIs. It shows how to parse the content feed to populate an episode screen with sequentially numbered seasons and the episodes that belong in those seasons.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						}]	
-					},
-				{
-					"title": "Season 3",
-					"episodes": [{
-							"id": "video10-videoAds",
-							"title": "Displaying Video Ads",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-06-20T02:32:24Z",
-								"videos": [{
-									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit10-video-ads-part3.mp4",
-									"quality": "HD"
-								}],
-								"duration": 1380,
-								"language": "en-us"
-							},
-							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit10-video-ads.png",
-							"shortDescription": "Monetize content on the Roku platform through video ads.",
-							"releaseDate": "2020-06-20",
-							"longDescription": "Monetize content on the Roku platform through video ads. This lesson explains how to implement the Roku Advertising Framework (RAF) in order to seamlessly insert video ads into content. It describes the different client and server-side ad insertion and stitching solutions provided by RAF, and how to get started with RAF in order to display video ads in your channel.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "video11-subscriptions",
-							"title": "Offering Subscriptions",
-							"episodeNumber": 2,
-							"content": {
-								"dateAdded": "2020-06-27T02:32:24Z",
-								"videos": [{
-									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit11-subscriptions-v3.mp4",
-									"quality": "HD"
-								}],
-								"duration": 1561,
-								"language": "en-us"
-							},
-							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit11-rpay-subscriptions.png",
-							"shortDescription": "Monetize content on your channel by offering subscriptions, directly on-device, through Roku Pay",
-							"releaseDate": "2020-06-27",
-							"longDescription": "Monetize content on your channel by offering subscriptions, directly on-device, through Roku Pay. This lesson explains how to get started with Roku Pay, including how to create a channel, in-channel products, and test users. It describes how the Roku Pay workflow from checking entitlements to completing purchases and granting access to content. It explains how to integrate the Roku Web Service RESTful APIs into your backend system for validating, refunding, and canceling subscriptions.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "video12-deep-linking-part1",
-							"title": "Deep Linking (part 1)",
-							"episodeNumber": 3,
-							"content": {
-								"dateAdded": "2020-07-10T02:32:24Z",
-								"videos": [{
-									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking-v3-part1.mp4",
-									"quality": "HD"
-								}],
-								"duration": 2481,
-								"language": "en-us"
-							},
-							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking.png",
-							"shortDescription": "Implement deep linking to get users to content as fast as possible.",
-							"releaseDate": "2020-07-04",
-							"longDescription": "Implement deep linking to get users to content as fast as possible. Program your channel application to accept and process deep links upon being launched and while it is already running. Configure the playback experiences required for the content types in your feed. Create bookmarks to store the user's playback position in the device registry or backend system, and create smart bookmarks to launch the most appropriate episode in a TV series based on the user's viewing history with that series.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "video12-deep-linking-part2",
-							"title": "Deep Linking (part 2)",
-							"episodeNumber": 4,
-							"content": {
-								"dateAdded": "2020-07-10T02:32:24Z",
-								"videos": [{
-									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking-v3-part2.mp4",
-									"quality": "HD"
-								}],
-								"duration": 1567,
-								"language": "en-us"
-							},
-							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking.png",
-							"shortDescription": "Implement deep linking to get users to content as fast as possible.",
-							"releaseDate": "2020-07-04",
-							"longDescription": "Implement deep linking to get users to content as fast as possible. Program your channel application to accept and process deep links upon being launched and while it is already running. Configure the playback experiences required for the content types in your feed. Create bookmarks to store the user's playback position in the device registry or backend system, and create smart bookmarks to launch the most appropriate episode in a TV series based on the user's viewing history with that series.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "video13-certification-testing",
-							"title": "Certification Testing",
-							"episodeNumber": 5,
-							"content": {
-								"dateAdded": "2020-07-16T02:32:24Z",
-								"videos": [{
-									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit13-cert-testing-v3.mp4",
-									"quality": "HD"
-								}],
-								"duration": 848,
-								"language": "en-us"
-							},
-							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit13-cert-testing.jpg",
-							"shortDescription": "Prepare your channel to be published to the Roku channel store.",
-							"releaseDate": "2020-07-16",
-							"longDescription": "Prepare your channel to be published to the Roku channel store. This lesson explains how to test your channel's design and performance and verify that it meets all of Roku's certification criteria using Roku's test automation software and automated testing tools. It provides a quick demo of Roku's Static Analysis tool, which detects certification-related issues with your channel's code and must be passed in order for your channel to be published to the Roku channel store.",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						}
-					]
-				}
-			]
-		}
-	],
-	"movies": [{
-			"longDescription": "This video demonstrates the Roku Remote Debugger, and it shows how the BrightScript network debug protocol could be used in an integration with an IDE such as Visual Studio Code.",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a_1/images/roku-brightscript-network-debug-protocol.jpg",
-			"releaseDate": "2020-01-20",
-			"genres": [
-				"educational"
-			],
-			"tags": [
-				"demo"
-			],
-			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
-			"shortDescription": "Demonstrates the Roku Remote Debugger",
-			"title": "BrightScript debug protocol",
-			"content": {
-				"duration": 713,
-				"videos": [{
-					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-brightscript-debug-protocol.mp4",
-					"quality": "HD"
-				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
-			}
-		},
-		{
-			"longDescription": "Video that demonstrates the Roku automated channel testing software. It provides a brief overview of the technology stack, and it shows how both the Roku WebDriver and Robot Framework Library can be used for state-driven channel UI automation testing.",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4374be10035077242dde8b7fe272e509ad6e563a_1/images/basicTestReport.jpg",
-			"releaseDate": "2020-01-20",
-			"genres": [
-				"educational"
-			],
-			"tags": [
-				"demo"
-			],
-			"id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
-			"shortDescription": "Demonstrates the Roku automated channel testing software.",
-			"title": "Automated channel testing",
-			"content": {
-				"duration": 713,
-				"videos": [{
-					"videoType": "HLS",
-					"url": "https://ovp-selector.sr.roku.com/v1/f73763a9-8105-4b78-90e0-381ea0d0128b?format=hls",
-					"quality": "HD"
-				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:10Z"
-			}
-		},
-		{
-			"longDescription": "Video demonstrating how a developer can use the Developer Dashboard's user access management feature to give team members the authority to take administrative actions, which are appropriate for their respective organizational roles",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660_1/images/userManagementAccess.jpg",
-			"releaseDate": "2020-01-20",
-			"genres": [
-				"educational"
-			],
-			"tags": [
-				"demo"
-			],
-			"id": "shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660",
-			"shortDescription": "Demonstrates how a developer can use the Developer Dashboard's user access management feature",
-			"title": "Managing user access",
-			"content": {
-				"duration": 576,
-				"videos": [{
-					"videoType": "HLS",
-					"url": "https://ovp-selector.sr.roku.com/v1/0c18bf4e-b295-437c-badb-3a171a1b52aa?format=hls",
-					"quality": "HD"
-				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
-			}
-		}
-	]
-
-}
+[
+    {
+        "id": 0,
+        "group-title": "A- TV MX",
+        "name": "LAS ESTRELLAS",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s116151_dark_360w_270h.png",
+        "url": "https:\/\/channel01-onlymex.akamaized.net\/hls\/live\/2022749\/event01\/index.m3u8"
+    },
+    {
+        "id": 1,
+        "group-title": "A- TV MX",
+        "name": "AZTECA UNO",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s116153_dark_360w_270h.png",
+        "url": "https:\/\/mdstrm.com\/live-stream-playlist\/609b243156cca108312822a6.m3u8"
+    },
+    {
+        "id": 2,
+        "group-title": "A- TV MX",
+        "name": "CANAL 5",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s116152_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278330.m3u8"
+    },
+    {
+        "id": 3,
+        "group-title": "A- TV MX",
+        "name": "CANAL 5 HD",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s116152_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278329.m3u8"
+    },
+    {
+        "id": 4,
+        "group-title": "A- TV MX",
+        "name": "AZTECA 7",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s116154_dark_360w_270h.png",
+        "url": "https:\/\/mdstrm.com\/live-stream-playlist\/609ad46a7a441137107d7a81.m3u8"
+    },
+    {
+        "id": 5,
+        "group-title": "A- TV MX",
+        "name": "ESTRELLA TV",
+        "tvg-logo": "http:\/\/x.playerlatino.live\/estrellatv.png",
+        "url": "https:\/\/estrellatv-roku.amagi.tv\/playlist.m3u8"
+    },
+    {
+        "id": 6,
+        "group-title": "A- TV MX",
+        "name": "AZ CLIC HD",
+        "tvg-logo": "https:\/\/x.playerlatino.live\/azclic.png",
+        "url": "https:\/\/azt-cl.otteravision.com\/azt\/cl\/cl_1080p.m3u8"
+    },
+    {
+        "id": 7,
+        "group-title": "A- TV MX",
+        "name": "AZ MUNDO",
+        "tvg-logo": "https:\/\/imagenes.gatotv.com\/logos\/canales\/oscuros\/tv_azteca_mundo-mediano.png",
+        "url": "https:\/\/azt-mun.otteravision.com\/azt\/mun\/mun_1080p.m3u8"
+    },
+    {
+        "id": 8,
+        "group-title": "A- TV MX",
+        "name": "AZ CINEMA",
+        "tvg-logo": "https:\/\/imagenes.gatotv.com\/logos\/canales\/oscuros\/tv_azteca_cinema-mediano.png",
+        "url": "https:\/\/stream.ads.ottera.tv\/playlist.m3u8?network_id=4829"
+    },
+    {
+        "id": 9,
+        "group-title": "A- TV MX",
+        "name": "NE9VE",
+        "tvg-logo": "https:\/\/cdn140.picsart.com\/278369393029211.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278359.m3u8"
+    },
+    {
+        "id": 10,
+        "group-title": "A- TV MX",
+        "name": "FORO TV",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s66635_dark_360w_270h.png",
+        "url": "https:\/\/notusaauth.univision.com\/api\/v3\/akamai-auth\/token-auth?url=https:\/\/channel02secure-notusa.akamaized.net\/hls\/live\/2023914\/event01\/index.m3u8&redirect=true"
+    },
+    {
+        "id": 11,
+        "group-title": "A- TV MX",
+        "name": "ONCE HD",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s116166_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278332.m3u8"
+    },
+    {
+        "id": 12,
+        "group-title": "A- TV MX",
+        "name": "TELEFORMULA",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s34344_dark_360w_270h.png",
+        "url": "https:\/\/stream.ads.ottera.tv\/playlist.m3u8?network_id=4505"
+    },
+    {
+        "id": 13,
+        "group-title": "A- TV MX",
+        "name": "IMAGEN TV",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s101096_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278343.m3u8"
+    },
+    {
+        "id": 14,
+        "group-title": "A- TV MX",
+        "name": "IMAGEN TV -1 hora",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s101096_dark_360w_270h.png",
+        "url": "https:\/\/stream.ads.ottera.tv\/playlist.m3u8?network_id=6149"
+    },
+    {
+        "id": 15,
+        "group-title": "A- TV MX",
+        "name": "MULTIMEDIOS MONTERREY",
+        "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/5e\/Multimedios_Television.png",
+        "url": "https:\/\/mdstrm.com\/live-stream-playlist\/57b4dbf5dbbfc8f16bb63ce1.m3u8"
+    },
+    {
+        "id": 16,
+        "group-title": "A- TV MX",
+        "name": "MULTIMEDIOS CDMX",
+        "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fc\/Multimedios_Canal_Seis_Logo.svg\/800px-Multimedios_Canal_Seis_Logo.svg.png",
+        "url": "https:\/\/mdstrm.com\/live-stream-playlist\/5f2d9d6ff17144074bd8a284.m3u8"
+    },
+    {
+        "id": 17,
+        "group-title": "A- TV MX",
+        "name": "TVMAS",
+        "tvg-logo": "https:\/\/directostv.teleame.com\/wp-content\/uploads\/2017\/10\/tvmas.png",
+        "url": "https:\/\/marine2.miplay.cl\/tvmas\/playlist.m3u8"
+    },
+    {
+        "id": 18,
+        "group-title": "A- TV MX",
+        "name": "ONCE NI\u00d1OS",
+        "tvg-logo": "https:\/\/onceninasyninos.tv\/wp-content\/uploads\/2019\/07\/cropped-Nuevo_Logo_ON-2019-e1561997594507.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278549.m3u8"
+    },
+    {
+        "id": 19,
+        "group-title": "A- TV MX",
+        "name": "RT",
+        "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a0\/Russia-today-logo.svg\/125px-Russia-today-logo.svg.png",
+        "url": "https:\/\/rt-esp.rttv.com\/live\/rtesp\/playlist_4500Kb.m3u8?=-1"
+    },
+    {
+        "id": 20,
+        "group-title": "A- TV MX",
+        "name": "ADN40",
+        "tvg-logo": "http:\/\/x.playerlatino.live\/adn40.png",
+        "url": "https:\/\/mdstrm.com\/live-stream-playlist\/60b578b060947317de7b57ac.m3u8"
+    },
+    {
+        "id": 21,
+        "group-title": "A- TV MX",
+        "name": "TLC",
+        "tvg-logo": "http:\/\/x.playerlatino.live\/tlc.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278407.m3u8"
+    },
+    {
+        "id": 22,
+        "group-title": "B- NOVELAS",
+        "name": "TLNOVELAS",
+        "tvg-logo": "https:\/\/x.playerlatino.live\/tlnovelas.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278367.m3u8"
+    },
+    {
+        "id": 23,
+        "group-title": "B- NOVELAS",
+        "name": "PASIONES",
+        "tvg-logo": "https:\/\/imagenes.gatotv.com\/logos\/canales\/claros\/pasiones-mediano.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278403.m3u8"
+    },
+    {
+        "id": 24,
+        "group-title": "B- NOVELAS",
+        "name": "TELEMUNDO USA",
+        "tvg-logo": "https:\/\/btv.mx\/posters\/1720842845264.png",
+        "url": "https:\/\/magmaplayer.com\/stream\/m3u8\/AGRjKmt4BS8kBQxhZGt5YwRkZP4kAmqsZGp0AmD1\/hls\/888.m3u8"
+    },
+    {
+        "id": 25,
+        "group-title": "B- NOVELAS",
+        "name": "TELEMUNDO",
+        "tvg-logo": "https:\/\/btv.mx\/posters\/1720842845264.png",
+        "url": "http:\/\/209.126.106.30:8081\/live\/974005b4204b4ad78588c404b9feac2a\/fee8e06e2a9140369d5ee6f58ce0f265\/99.m3u8"
+    },
+    {
+        "id": 26,
+        "group-title": "B- NOVELAS",
+        "name": "TELEMUNDO INTERNACIONAL",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s64835_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278685.m3u8"
+    },
+    {
+        "id": 27,
+        "group-title": "B- NOVELAS",
+        "name": "UNICABLE",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s16521_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278446.m3u8"
+    },
+    {
+        "id": 28,
+        "group-title": "B- NOVELAS",
+        "name": "AZ CORAZ\u00d3N",
+        "tvg-logo": "https:\/\/imagenes.gatotv.com\/logos\/canales\/oscuros\/tv_azteca_corazon-mediano.png",
+        "url": "http:\/\/tv.iprotv.live:80\/live\/canales-ProYeCtoX998\/NuevacanalesProyectoRw\/97970.ts"
+    },
+    {
+        "id": 29,
+        "group-title": "C- CULTURA",
+        "name": "DISCOVERY SCIENCE",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s48527_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278621.m3u8"
+    },
+    {
+        "id": 30,
+        "group-title": "C- CULTURA",
+        "name": "DISCOVERY H&H",
+        "tvg-logo": "http:\/\/2.bp.blogspot.com\/-J72Tsxq1uWo\/VG1hwAAg98I\/AAAAAAAAkDs\/CP1NNsI_Ayk\/s1600\/_0040_discovery_hh.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278395.m3u8"
+    },
+    {
+        "id": 31,
+        "group-title": "C- CULTURA",
+        "name": "DISCOVERY WORLD",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s66488_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278626.m3u8"
+    },
+    {
+        "id": 32,
+        "group-title": "C- CULTURA",
+        "name": "DISCOVERY TURBO",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s46608_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278414.m3u8"
+    },
+    {
+        "id": 33,
+        "group-title": "C- CULTURA",
+        "name": "DISCOVERY THEATER",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s65940_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278622.m3u8"
+    },
+    {
+        "id": 34,
+        "group-title": "C- CULTURA",
+        "name": "NACIONAL GEOGRAPHIC",
+        "tvg-logo": "https:\/\/cdn1.edgedatg.com\/aws\/v2\/natgeo\/Images\/16c2ba84acf1e35302d1189a30433414\/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278636.m3u8"
+    },
+    {
+        "id": 35,
+        "group-title": "C- CULTURA",
+        "name": "ANIMAL PLANET",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s18649_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278617.m3u8"
+    },
+    {
+        "id": 36,
+        "group-title": "C- CULTURA",
+        "name": "HISTORY MX",
+        "tvg-logo": "https:\/\/imagenes.gatotv.com\/logos\/canales\/oscuros\/history_latinoamerica-mediano.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278628.m3u8"
+    },
+    {
+        "id": 37,
+        "group-title": "C- CULTURA",
+        "name": "H2",
+        "tvg-logo": "https:\/\/imagenes.gatotv.com\/logos\/canales\/oscuros\/history_2-mediano.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278630.m3u8"
+    },
+    {
+        "id": 38,
+        "group-title": "C- CULTURA",
+        "name": "DISCOVERY CHANNEL",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s15798_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278619.m3u8"
+    },
+    {
+        "id": 39,
+        "group-title": "C- CULTURA",
+        "name": "HGTV",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s111055_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278430.m3u8"
+    },
+    {
+        "id": 40,
+        "group-title": "C- CULTURA",
+        "name": "DISCOVERY ID",
+        "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/18\/Logo_id.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278633.m3u8"
+    },
+    {
+        "id": 41,
+        "group-title": "C- CULTURA",
+        "name": "DISCOVERY TLC",
+        "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/b9\/TLC_USA_logo.png\/150px-TLC_USA_logo.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278407.m3u8"
+    },
+    {
+        "id": 42,
+        "group-title": "D- INFANTIL",
+        "name": "BITME",
+        "tvg-logo": "https:\/\/x.playerlatino.live\/bitme.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278522.m3u8"
+    },
+    {
+        "id": 43,
+        "group-title": "D- INFANTIL",
+        "name": "TOONCAST",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s63109_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278551.m3u8"
+    },
+    {
+        "id": 44,
+        "group-title": "D- INFANTIL",
+        "name": "DISCOVERY KIDS",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s16680_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278536.m3u8"
+    },
+    {
+        "id": 45,
+        "group-title": "D- INFANTIL",
+        "name": "NICKELODEO",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s11006_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278553.m3u8"
+    },
+    {
+        "id": 46,
+        "group-title": "D- INFANTIL",
+        "name": "TEENNICK",
+        "tvg-logo": "http:\/\/x.playerlatino.live\/teennick.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278550.m3u8"
+    },
+    {
+        "id": 47,
+        "group-title": "D- INFANTIL",
+        "name": "CARTOON NETWORK",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s59562_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278525.m3u8"
+    },
+    {
+        "id": 48,
+        "group-title": "D- INFANTIL",
+        "name": "DISNEY CHANNEL",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s19234_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278538.m3u8"
+    },
+    {
+        "id": 49,
+        "group-title": "D- INFANTIL",
+        "name": "CARTOONITO",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s26089_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278527.m3u8"
+    },
+    {
+        "id": 50,
+        "group-title": "D- INFANTIL",
+        "name": "BABY TV",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s56036_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278532.m3u8"
+    },
+    {
+        "id": 51,
+        "group-title": "D- INFANTIL",
+        "name": "NICK JR",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s60295_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278545.m3u8"
+    },
+    {
+        "id": 52,
+        "group-title": "D- INFANTIL",
+        "name": "DISNEY JR",
+        "tvg-logo": "http:\/\/3.bp.blogspot.com\/-VvbUqgHc5Pw\/VJIJWAJLxfI\/AAAAAAAAHi0\/A0nDmO29zwk\/s1600\/Logo%2BDisney_Junior.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278542.m3u8"
+    },
+    {
+        "id": 53,
+        "group-title": "E- PREMIUM",
+        "name": "HBO HD",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s12288_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278498.m3u8"
+    },
+    {
+        "id": 54,
+        "group-title": "E- PREMIUM",
+        "name": "HBO2",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s68140_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278493.m3u8"
+    },
+    {
+        "id": 55,
+        "group-title": "E- PREMIUM",
+        "name": "HBO FAMILY",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s34879_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278496.m3u8"
+    },
+    {
+        "id": 56,
+        "group-title": "E- PREMIUM",
+        "name": "HBO MUNDI",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s70081_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278501.m3u8"
+    },
+    {
+        "id": 57,
+        "group-title": "E- PREMIUM",
+        "name": "HBO PLUS",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s34725_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278490.m3u8"
+    },
+    {
+        "id": 58,
+        "group-title": "E- PREMIUM",
+        "name": "HBO POP",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s68134_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278503.m3u8"
+    },
+    {
+        "id": 59,
+        "group-title": "E- PREMIUM",
+        "name": "HBO SIGNATURE",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s80120_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278505.m3u8"
+    },
+    {
+        "id": 60,
+        "group-title": "E- PREMIUM",
+        "name": "HBO XTREME",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s80211_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278508.m3u8"
+    },
+    {
+        "id": 61,
+        "group-title": "E- PREMIUM",
+        "name": "UNIVERSAL CINEMA",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s121869_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278472.m3u8"
+    },
+    {
+        "id": 62,
+        "group-title": "E- PREMIUM",
+        "name": "UNIVERSAL COMEDY",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s121870_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278473.m3u8"
+    },
+    {
+        "id": 63,
+        "group-title": "E- PREMIUM",
+        "name": "UNIVERSAL CRIME",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s121868_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278474.m3u8"
+    },
+    {
+        "id": 64,
+        "group-title": "E- PREMIUM",
+        "name": "UNIVERSAL PREMIER",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s121866_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278476.m3u8"
+    },
+    {
+        "id": 65,
+        "group-title": "E- PREMIUM",
+        "name": "UNIVERSAL REALITY",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s121867_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278478.m3u8"
+    },
+    {
+        "id": 66,
+        "group-title": "F- CINE Y SERIES",
+        "name": "AXN",
+        "tvg-logo": "http:\/\/x.playerlatino.live\/axn.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278386.m3u8"
+    },
+    {
+        "id": 67,
+        "group-title": "F- CINE Y SERIES",
+        "name": "AE",
+        "tvg-logo": "https:\/\/x.playerlatino.live\/ae.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278389.m3u8"
+    },
+    {
+        "id": 68,
+        "group-title": "F- CINE Y SERIES",
+        "name": "AMC",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s90653_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278394.m3u8"
+    },
+    {
+        "id": 69,
+        "group-title": "F- CINE Y SERIES",
+        "name": "DISTRITO COMEDIA",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s55980_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278416.m3u8"
+    },
+    {
+        "id": 70,
+        "group-title": "F- CINE Y SERIES",
+        "name": "COMEDY CENTRAL",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s76326_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278409.m3u8"
+    },
+    {
+        "id": 71,
+        "group-title": "F- CINE Y SERIES",
+        "name": "STAR CHANNEL HD",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s88534_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278439.m3u8"
+    },
+    {
+        "id": 72,
+        "group-title": "F- CINE Y SERIES",
+        "name": "STAR CHANNEL MX",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s88534_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278439.m3u8"
+    },
+    {
+        "id": 73,
+        "group-title": "F- CINE Y SERIES",
+        "name": "FX HD",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s46442_dark_360w_270h.png",
+        "url": "https:\/\/corsproxy.io\/?url=http:\/\/user2.tvcluboficial.com:80\/live\/m\/m\/495.m3u8"
+    },
+    {
+        "id": 74,
+        "group-title": "F- CINE Y SERIES",
+        "name": "FX MX",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s46442_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278427.m3u8"
+    },
+    {
+        "id": 75,
+        "group-title": "F- CINE Y SERIES",
+        "name": "SONY CHANNEL",
+        "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b9\/Sony_Channel_Logo.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278404.m3u8"
+    },
+    {
+        "id": 76,
+        "group-title": "F- CINE Y SERIES",
+        "name": "SONY Channel MX",
+        "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b9\/Sony_Channel_Logo.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278405.m3u8"
+    },
+    {
+        "id": 77,
+        "group-title": "F- CINE Y SERIES",
+        "name": "SONY MOVIE",
+        "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9b\/Sony_Movies_Logo.svg\/598px-Sony_Movies_Logo.svg.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/27471.m3u8"
+    },
+    {
+        "id": 78,
+        "group-title": "F- CINE Y SERIES",
+        "name": "Universal TV",
+        "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/42\/Universal_TV_logo.svg\/1280px-Universal_TV_logo.svg.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278449.m3u8"
+    },
+    {
+        "id": 79,
+        "group-title": "F- CINE Y SERIES",
+        "name": "UNIVERSAL MX",
+        "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/42\/Universal_TV_logo.svg\/1280px-Universal_TV_logo.svg.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278518.m3u8"
+    },
+    {
+        "id": 80,
+        "group-title": "F- CINE Y SERIES",
+        "name": "STUDIO UNIVERSAL MX",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s29017_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278518.m3u8"
+    },
+    {
+        "id": 81,
+        "group-title": "F- CINE Y SERIES",
+        "name": "WARNER MX",
+        "tvg-logo": "http:\/\/img3.wikia.nocookie.net\/__cb20130619050550\/logopedia\/images\/thumb\/2\/27\/Warner_Bros._wordless_banner.png\/1157px-Warner_Bros._wordless_banner.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278454.m3u8"
+    },
+    {
+        "id": 82,
+        "group-title": "F- CINE Y SERIES",
+        "name": "WARNER",
+        "tvg-logo": "http:\/\/img3.wikia.nocookie.net\/__cb20130619050550\/logopedia\/images\/thumb\/2\/27\/Warner_Bros._wordless_banner.png\/1157px-Warner_Bros._wordless_banner.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278454.m3u8"
+    },
+    {
+        "id": 83,
+        "group-title": "F- CINE Y SERIES",
+        "name": "TNT MX",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s71727_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278520.m3u8"
+    },
+    {
+        "id": 84,
+        "group-title": "F- CINE Y SERIES",
+        "name": "TNT SERIES",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s91993_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278443.m3u8"
+    },
+    {
+        "id": 85,
+        "group-title": "F- CINE Y SERIES",
+        "name": "SPACE",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s68021_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278516.m3u8"
+    },
+    {
+        "id": 86,
+        "group-title": "F- CINE Y SERIES",
+        "name": "Space MX",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s68021_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278515.m3u8"
+    },
+    {
+        "id": 87,
+        "group-title": "F- CINE Y SERIES",
+        "name": "PARAMOUNT",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s106214_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278513.m3u8"
+    },
+    {
+        "id": 88,
+        "group-title": "F- CINE Y SERIES",
+        "name": "CINEMAX",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s16794_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278468.m3u8"
+    },
+    {
+        "id": 89,
+        "group-title": "F- CINE Y SERIES",
+        "name": "GOLDEN",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s50709_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278479.m3u8"
+    },
+    {
+        "id": 90,
+        "group-title": "F- CINE Y SERIES",
+        "name": "GOLDEN EDGE",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s16423_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278481.m3u8"
+    },
+    {
+        "id": 91,
+        "group-title": "F- CINE Y SERIES",
+        "name": "GOLDEN PLUS",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s68317_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278485.m3u8"
+    },
+    {
+        "id": 92,
+        "group-title": "F- CINE Y SERIES",
+        "name": "GOLDEN PREMIER",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s80596_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278486.m3u8"
+    },
+    {
+        "id": 93,
+        "group-title": "F- CINE Y SERIES",
+        "name": "DE PELICULA PLUS",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s74016_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278457.m3u8"
+    },
+    {
+        "id": 94,
+        "group-title": "H- DEPORTES",
+        "name": "CLARO SPORTS",
+        "tvg-logo": "https:\/\/x.playerlatino.live\/clarosports.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278556.m3u8"
+    },
+    {
+        "id": 95,
+        "group-title": "H- DEPORTES",
+        "name": "ESPN",
+        "tvg-logo": "https:\/\/x.playerlatino.live\/espn.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278578.m3u8"
+    },
+    {
+        "id": 96,
+        "group-title": "H- DEPORTES",
+        "name": "ESPN 2",
+        "tvg-logo": "https:\/\/x.playerlatino.live\/espn.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278762.m3u8"
+    },
+    {
+        "id": 97,
+        "group-title": "H- DEPORTES",
+        "name": "ESPN 3",
+        "tvg-logo": "https:\/\/x.playerlatino.live\/espn.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278763.m3u8"
+    },
+    {
+        "id": 98,
+        "group-title": "H- DEPORTES",
+        "name": "ESPN 4",
+        "tvg-logo": "https:\/\/x.playerlatino.live\/espn.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278582.m3u8"
+    },
+    {
+        "id": 99,
+        "group-title": "H- DEPORTES",
+        "name": "ESPN 5",
+        "tvg-logo": "https:\/\/x.playerlatino.live\/espn.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278558.m3u8"
+    },
+    {
+        "id": 100,
+        "group-title": "H- DEPORTES",
+        "name": "ESPN 6",
+        "tvg-logo": "https:\/\/x.playerlatino.live\/espn.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278566.m3u8"
+    },
+    {
+        "id": 101,
+        "group-title": "H- DEPORTES",
+        "name": "ESPN 7",
+        "tvg-logo": "https:\/\/x.playerlatino.live\/espn.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278567.m3u8"
+    },
+    {
+        "id": 102,
+        "group-title": "H- DEPORTES",
+        "name": "GOLF",
+        "tvg-logo": "https:\/\/x.playerlatino.live\/golfchannel.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278568.m3u8"
+    },
+    {
+        "id": 103,
+        "group-title": "H- DEPORTES",
+        "name": "Red Bull",
+        "tvg-logo": "https:\/\/www.redbull.com\/v3\/resources\/images\/client\/header\/redbullcom-logo_double-with-text.svg",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278569.m3u8"
+    },
+    {
+        "id": 104,
+        "group-title": "H- DEPORTES",
+        "name": "Fox Sports",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s41677_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278595.m3u8"
+    },
+    {
+        "id": 105,
+        "group-title": "H- DEPORTES",
+        "name": "Fox Sports 2",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s66365_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278590.m3u8"
+    },
+    {
+        "id": 106,
+        "group-title": "H- DEPORTES",
+        "name": "Fox Sports 3",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s105006_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278592.m3u8"
+    },
+    {
+        "id": 107,
+        "group-title": "H- DEPORTES",
+        "name": "FOX SPORTS PREMIUM",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s123582_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278598.m3u8"
+    },
+    {
+        "id": 108,
+        "group-title": "H- DEPORTES",
+        "name": "TUDN",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s65129_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278561.m3u8"
+    },
+    {
+        "id": 109,
+        "group-title": "H- DEPORTES",
+        "name": "TUDN",
+        "tvg-logo": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s65129_dark_360w_270h.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278570.m3u8"
+    },
+    {
+        "id": 110,
+        "group-title": "H- DEPORTES",
+        "name": "TUDN USA",
+        "tvg-logo": "http:\/\/x.playerlatino.live\/tudn.png",
+        "url": "http:\/\/strea.encohd.co\/live\/Zy0k45TV9IsJZ\/uMvUAS8O20PO\/5008.m3u8"
+    },
+    {
+        "id": 111,
+        "group-title": "H- DEPORTES",
+        "name": "ADRENALINA",
+        "tvg-logo": "https:\/\/images.pluto.tv\/channels\/61b793ccf571b80007b7a610\/colorLogoPNG.png",
+        "url": "http:\/\/stitcher-ipv4.pluto.tv\/v1\/stitch\/embed\/hls\/channel\/61b793ccf571b80007b7a610\/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+    },
+    {
+        "id": 112,
+        "group-title": "H- DEPORTES",
+        "name": "AZTECA DEPORTES",
+        "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/eb\/Aztecadeporteslogo.png\/250px-Aztecadeporteslogo.png",
+        "url": "http:\/\/xcm.budtv-ultra.com:2424\/budtv\/budtvline\/8Y3ymUpJESps\/278576.m3u8"
+    }
+]
