@@ -4,7 +4,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="Aztecauno.mx(m3u4u)" tvg-name="AZTECA UNO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="A- TV MX",AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx(m3u4u)" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5 
-http://live.superteve.com:33527/livetv/9Wu6os8Dmg/46
+http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278330.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx(m3u4u)" tvg-name="CANAL 5 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5 HD
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278329.m3u8
 
