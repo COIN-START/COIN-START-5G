@@ -3,6 +3,9 @@
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/img/77/2f/772ff09e1cd0915c57af6f331ea3ece3.jpg" group-title="A-ESTRENOS HD",HARTA
 http://vod.tuxchannel.mx/peliculas/720/straw%202025.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg" group-title="A-ESTRENOS HD",DESTINO FINAL 5
+http://app.tecnomolly.com:8080/movie/Edwincolo/YF4H53LUQZ/476887.mp4
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2BkFqgIpbWoP-NLfMNVO4P0M-EGSEhDb22uuzFURIIFls1NpS" group-title="A-ESTRENOS HD",EL DIA QUE LA TIERRA EXLOTO
 https://canvasolutions.com.mx/stuff/looney.mp4
 #EXTINF:-1 tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/49470-824728-20250403064922.jpg" group-title="A-ESTRENOS HD",UNA PELICULA DE MINECRAFT
