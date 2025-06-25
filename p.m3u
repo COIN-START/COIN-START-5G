@@ -1,4 +1,12 @@
 #EXTM3U url-tvg=""
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg" group-title="B-ESTRENOS CAM",Elio CAM
+http://app.tecnomolly.com:8080/movie/Edwincolo/YF4H53LUQZ/477942.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg" group-title="B-ESTRENOS CAM",Lilo and Stitch CAM
+http://app.tecnomolly.com:8080/movie/Edwincolo/YF4H53LUQZ/473058.mp4
+
 --------------------------------------------------------------------------ESTRENOS 2025---------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/img/77/2f/772ff09e1cd0915c57af6f331ea3ece3.jpg" group-title="A-ESTRENOS HD",HARTA
