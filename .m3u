@@ -4,7 +4,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="Aztecauno.mx(m3u4u)" tvg-name="AZTECA UNO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="A- TV MX",AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx(m3u4u)" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5 
-https://live2.saohgdasregions.fun:9091/2_/index.m3u8?token=4f6095b277ba5eeb4d480e2428d0767a959fb8e4-51a91d5d8bf10e8be9d1f37309989814-1751053858-1751032258&remote=187.190.159.203
+https://live2.saohgdasregions.fun:9091/2_/tracks-v1a1/mono.m3u8?remote=187.190.159.203&token=4f6095b277ba5eeb4d480e2428d0767a959fb8e4-51a91d5d8bf10e8be9d1f37309989814-1751053858-1751032258
 
 #EXTINF:-1 tvg-id="Canal5.mx(m3u4u)" tvg-name="CANAL 5 HD" tvg-logo="https://www.tvporinternet2.com/imge/canal5.png" group-title="A- TV MX",CANAL 5 HD
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278329.m3u8
