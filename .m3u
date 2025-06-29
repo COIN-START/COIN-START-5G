@@ -233,7 +233,7 @@ http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/5004.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.mx(m3u4u)" tvg-name="ESPN 2" tvg-logo="https://x.playerlatino.live/espn.png" group-title="H- DEPORTES",ESPN 2
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/5005.m3u8
-#EXTINF:-1 tvg-id="ESPN3.mx(m3u4u)" tvg-name="ESPN 3" tvg-logo="https://x.playerlatino.live/espn.png" group-title="H- DEPORTES",ESPN 4
+#EXTINF:-1 tvg-id="ESPN3.mx(m3u4u)" tvg-name="ESPN 4" tvg-logo="https://x.playerlatino.live/espn.png" group-title="H- DEPORTES",ESPN 4
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/5019.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3.mx(m3u4u)" tvg-name="GOLF" tvg-logo="https://x.playerlatino.live/golfchannel.png" group-title="H- DEPORTES",GOLF
@@ -250,7 +250,7 @@ http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/94.m3u8
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/95.m3u8
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx(m3u4u)" tvg-name="FOX SPORTS PREMIUM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123582_dark_360w_270h.png" group-title="H- DEPORTES",FOX SPORTS PREMIUM
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/99.m3u8
-#EXTINF:-1 tvg-id="TUDN.mx(m3u4u)" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="H- DEPORTES",TUDN MX
+#EXTINF:-1 tvg-id="TUDN.mx(m3u4u)" tvg-name="TUDN MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="H- DEPORTES",TUDN MX
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/100.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TUDN USA" tvg-logo="http://x.playerlatino.live/tudn.png" group-title="H- DEPORTES",TUDN USA
