@@ -243,17 +243,16 @@ http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278568.m3u8
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278569.m3u8
 
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx(m3u4u)" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="H- DEPORTES",Fox Sports
-http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/94.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.mx(m3u4u)" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66365_dark_360w_270h.png" group-title="H- DEPORTES",Fox Sports 2
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/93.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.mx(m3u4u)" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66365_dark_360w_270h.png" group-title="H- DEPORTES",Fox Sports 2
+http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/94.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.mx(m3u4u)" tvg-name="Fox Sports 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105006_dark_360w_270h.png" group-title="H- DEPORTES",Fox Sports 3
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/95.m3u8
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx(m3u4u)" tvg-name="FOX SPORTS PREMIUM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123582_dark_360w_270h.png" group-title="H- DEPORTES",FOX SPORTS PREMIUM
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/99.m3u8
-#EXTINF:-1 tvg-id="TUDN.mx(m3u4u)" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="H- DEPORTES",TUDN
+#EXTINF:-1 tvg-id="TUDN.mx(m3u4u)" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="H- DEPORTES",TUDN MX
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/100.m3u8
-#EXTINF:-1 tvg-id="TUDN.mx(m3u4u)" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="H- DEPORTES",TUDN
-http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278570.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TUDN USA" tvg-logo="http://x.playerlatino.live/tudn.png" group-title="H- DEPORTES",TUDN USA
 http://strea.encohd.co/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/5008.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" group-title="H- DEPORTES",ADRENALINA
