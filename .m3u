@@ -222,8 +222,8 @@ http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278457.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" tvg-name="DAZN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z_4hNN9C48l6Hp-jbYkmVnO5O2wSso0EGD187u4QFWvLORPs7YWKmxYb&s=10" group-title="H- DEPORTES",DAZN
+http://c1.frsports.info/sunFT1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" tvg-name="CLARO SPORTS" tvg-logo="https://x.playerlatino.live/clarosports.png" group-title="H- DEPORTES",CLARO SPORTS
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/67.m3u8
 
