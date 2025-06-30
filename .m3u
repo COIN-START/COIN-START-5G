@@ -220,8 +220,8 @@ http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278486.m3u8
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx(m3u4u)" tvg-name="DE PELICULA PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png" group-title="F- CINE Y SERIES",DE PELICULA PLUS
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278457.m3u8
 
-
-
+#EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" tvg-name="CALIENTE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzeccX_jxRhbiFL_gn1Yn2Z6LXvZWEyXI5R9S5R1eGjxH-Lbqvc7HKTBg&s=10" group-title="H- DEPORTES",CALIENTE TV
+http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/110.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" tvg-name="DAZN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z_4hNN9C48l6Hp-jbYkmVnO5O2wSso0EGD187u4QFWvLORPs7YWKmxYb&s=10" group-title="H- DEPORTES",DAZN
 http://c1.frsports.info/sunFT1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" tvg-name="CLARO SPORTS" tvg-logo="https://x.playerlatino.live/clarosports.png" group-title="H- DEPORTES",CLARO SPORTS
