@@ -157,8 +157,10 @@ http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278478.m3u8
 
 #EXTINF:-1 tvg-id="DistritoComedia.mx(m3u4u)" tvg-name="AXN" tvg-logo="http://x.playerlatino.live/axn.png" group-title="F- CINE Y SERIES",AXN
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278386.m3u8
-#EXTINF:-1 tvg-id="DistritoComedia.mx(m3u4u)" tvg-name="AE" tvg-logo="https://x.playerlatino.live/ae.png" group-title="F- CINE Y SERIES",AE
+
+#EXTINF:-1 tvg-id="DistritoComedia.mx(m3u4u)" tvg-name="AE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5fYyi7VgEOmMlxi-gDS9Wsco4xIxogpQu1g&usqp=CAU" group-title="F- CINE Y SERIES",AE
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278389.m3u8
+
 #EXTINF:-1 tvg-id="AMC.mx(m3u4u)" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="F- CINE Y SERIES",AMC
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278394.m3u8
 
