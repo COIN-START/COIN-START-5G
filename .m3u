@@ -233,6 +233,8 @@ http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/5004.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.mx(m3u4u)" tvg-name="ESPN 2" tvg-logo="https://x.playerlatino.live/espn.png" group-title="H- DEPORTES",ESPN 2
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/5005.m3u8
+#EXTINF:-1 tvg-id="ESPN3.mx(m3u4u)" tvg-name="ESPN 3" tvg-logo="https://x.playerlatino.live/espn.png" group-title="H- DEPORTES",ESPN 3
+http://app.tecnomolly.com:8080/live/Edwincolo/YF4H53LUQZ/33789.m3u8
 #EXTINF:-1 tvg-id="ESPN3.mx(m3u4u)" tvg-name="ESPN 4" tvg-logo="https://x.playerlatino.live/espn.png" group-title="H- DEPORTES",ESPN 4
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/5019.m3u8
 
