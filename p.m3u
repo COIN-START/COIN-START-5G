@@ -1,11 +1,10 @@
 #EXTM3U url-tvg=""
 
-
+-------------------------------------------------------------------cam 2025------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg" group-title="B-ESTRENOS CAM",Elio CAM
 http://app.tecnomolly.com:8080/movie/Edwincolo/YF4H53LUQZ/477942.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg" group-title="B-ESTRENOS CAM",Lilo and Stitch CAM
-http://app.tecnomolly.com:8080/movie/Edwincolo/YF4H53LUQZ/473058.mp4
+
 
 ----------------------------------------------------------SAPCE----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfk4TLuB9jJ9nUMD39aNHdqs_IvF5T6lSFJtJvLPI5nG8WLXFwdU-LWlCm&s=10" group-title="B- SPACE",INTERESTELAR
@@ -869,32 +868,11 @@ http://tv.zapping.life:8080/movie/nguarin1/NyQv3tktG1/126806.mkv
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
--------------------------------------------------------------------cam 2025------------------------------------------------------------------------------------------------------
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Los pecadores CAM (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdClwqpYQXBSCGGDMdtvsuggwec.jpg" group-title="VOD-ESTRENO CINE (CAM)",Los pecadores CAM (2025)
-http://tv.zapping.life:8080/movie/nguarin1/NyQv3tktG1/117598.mp4
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="The Beach House Murders" tvg-logo="https://i.postimg.cc/y8g8q3VQ/CALIDAD-CAM-20240819-203743-0000.png" group-title="VOD-ESTRENO CINE (CAM)",The Beach House Murders
-http://tv.zapping.life:8080/movie/nguarin1/NyQv3tktG1/19861.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Thunderbolts* (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLbhKNJGDSfBCXFNtypM7ZuPTaW.jpg" group-title="VOD-ESTRENO CINE (CAM)",Thunderbolts* (2025)
-http://tv.zapping.life:8080/movie/nguarin1/NyQv3tktG1/118410.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Karate Kid Leyendas CAM (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efNhiZPk71FTYJ30dBkWMfc939D.jpg" group-title="VOD-ESTRENO CINE (CAM)",Karate Kid Leyendas CAM (2025)
-http://tv.zapping.life:8080/movie/nguarin1/NyQv3tktG1/121326.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destino final Lazos de sangre CAM (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMrXZnGTPy52zgplp7PbZWll8W7.jpg" group-title="VOD-ESTRENO CINE (CAM)",Destino final Lazos de sangre CAM (2025)
-http://tv.zapping.life:8080/movie/nguarin1/NyQv3tktG1/121858.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Misión: Imposible - Sentencia final (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haOjJGUV00dKlZaJWgjM1UD1cJV.jpg" group-title="VOD-ESTRENO CINE (CAM)",Misión: Imposible - Sentencia final (2025)
-http://tv.zapping.life:8080/movie/nguarin1/NyQv3tktG1/123775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lilo y Stitch CAM (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/COzWKbKbHGsOM7HjWuYrUrlQ8r.jpg" group-title="VOD-ESTRENO CINE (CAM)",Lilo y Stitch CAM (2025)
-http://tv.zapping.life:8080/movie/nguarin1/NyQv3tktG1/124742.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ballerina, del universo de John Wick CAM (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAlIRnwdp17A6HsOcEoqZJk0ZqJ.jpg" group-title="VOD-ESTRENO CINE (CAM)",Ballerina, del universo de John Wick CAM (2025)
-http://tv.zapping.life:8080/movie/nguarin1/NyQv3tktG1/126802.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cómo entrenar a tu dragón CAM (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTpbUIwdsfyIldzYvzQi2K4Icws.jpg" group-title="VOD-ESTRENO CINE (CAM)",Cómo entrenar a tu dragón CAM (2025)
-http://tv.zapping.life:8080/movie/nguarin1/NyQv3tktG1/127009.mp4
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                          -NETFLIX
 
