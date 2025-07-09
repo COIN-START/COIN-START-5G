@@ -62,7 +62,7 @@ http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278407.m3u8
 http://fullgo.xyz:8880/live/56933267911f/58Q9gQAMRLHd/135436.m3u8?jsapi=true&autostart=true&volume=0
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278367.m3u8
 #EXTINF:-1 tvg-id="TLNovelas.mx(m3u4u)" tvg-name="TLNOVELAS" tvg-logo="https://x.playerlatino.live/tlnovelas.png" group-title="B- NOVELAS",TLNOVELAS
-http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/390.m3u8
+http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/390.m3u8?jsapi=true&autostart=true&volume=0
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PASIONES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png" group-title="B- NOVELAS",PASIONES
@@ -76,7 +76,7 @@ http://209.126.106.30:8081/live/974005b4204b4ad78588c404b9feac2a/fee8e06e2a91403
 http://fullgo.xyz:8880/live/56933267911f/58Q9gQAMRLHd/418482.m3u8?jsapi=true&autostart=true&volume=0
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278685.m3u8
 #EXTINF:-1 tvg-id="Unicable.mx(m3u4u)" tvg-name="UNICABLE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png" group-title="B- NOVELAS",UNICABLE
-http://fullgo.xyz:8880/live/56933267911f/58Q9gQAMRLHd/419091.m3u8?jsapi=true&autostart=true&volume=0
+http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/540.m3u8?jsapi=true&autostart=true&volume=0
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278446.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZ CORAZÓN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" group-title="B- NOVELAS",AZ CORAZÓN
 http://tv.iprotv.live:80/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/97970.ts
@@ -84,8 +84,10 @@ http://tv.iprotv.live:80/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/97970.
 
 
 #EXTINF:-1 tvg-id="DiscoveryScience.mx(m3u4u)" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY SCIENCE
+http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/37.m3u8?jsapi=true&autostart=true&volume=0
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278621.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY H&H" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="C- CULTURA",DISCOVERY H&H
+http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/390.m3u8?jsapi=true&autostart=true&volume=0
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278395.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx(m3u4u)" tvg-name="DISCOVERY WORLD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY WORLD
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278626.m3u8
