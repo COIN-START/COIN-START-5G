@@ -250,8 +250,7 @@ http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278516.m3u8
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/117.m3u8?jsapi=true&autostart=true&volume=0
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278513.m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx(m3u4u)" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="F- CINE Y SERIES",CINEMAX
-http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/300.m3u8?jsapi=true&autostart=true&volume=0
-http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278468.m3u8
+http://104.238.222.251:8989/165450_.m3u8?jsapi=true&autostart=true&volume=0
 
 #EXTINF:-1 tvg-id="Golden.mx(m3u4u)" tvg-name="GOLDEN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/136.m3u8?jsapi=true&autostart=true&volume=0
