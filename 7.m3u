@@ -72,8 +72,8 @@ http://tv.zapping.life:8080/live/tuenti/jedvLeWMEV/94867.m3u8
 http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279045.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/0d/Dr.HOUSE.jpg/revision/latest?cb=20230901022940&path-prefix=es" group-title="D- 24/7",DOCTOR HOUSE
-http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279023.m3u8
-
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279023.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/158620.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/30/Malcolm-in-the-middle.jpg/revision/latest?cb=20220813175946&path-prefix=es" group-title="D- 24/7",MALCOLM EL DE EN MEDIO
