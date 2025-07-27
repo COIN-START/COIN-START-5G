@@ -7,7 +7,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?jsapi=true
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/158620.m3u8?jsapi=true&autostart=true&volume=0
 
 #EXTINF:-1 tvg-id="Canal5.mx(m3u4u)" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5 
-https://spinoff.link/live/mpd.php?url=https://dish.akamaized.net/Content/DASH/Live/channel(espn_2)/manifest.mpd&id=ae99daa35220336fe9460b9060fa65a9&k=ac284e8e24296f30496d1f39a7138205
+https://dish.akamaized.net/Content/DASH/Live/channel(espn_2)/manifest.mpd&id=ae99daa35220336fe9460b9060fa65a9&k=ac284e8e24296f30496d1f39a7138205
 
 
 #EXTINF:-1 tvg-id="Canal5.mx(m3u4u)" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5 
