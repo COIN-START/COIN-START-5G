@@ -50,8 +50,9 @@ http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278359.m3u8
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 
 #EXTINF:-1 tvg-id="Once.mx(m3u4u)" tvg-name="ONCE HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png" group-title="A- TV MX",ONCE HD
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278332.m3u8?jsapi=true&autostart=true&volume=0
 http://fullgo.xyz:8880/live/56933267911f/58Q9gQAMRLHd/419071.m3u8?jsapi=true&autostart=true&volume=0
-http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278332.m3u8
+
 #EXTINF:-1 tvg-id="Teleformula.mx(m3u4u)" tvg-name="TELEFORMULA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34344_dark_360w_270h.png" group-title="A- TV MX",TELEFORMULA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 #EXTINF:-1 tvg-id="ImagenTV.mx(m3u4u)" tvg-name="IMAGEN TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" group-title="A- TV MX",IMAGEN TV
@@ -67,16 +68,18 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?jsapi=true
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVMAS" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/tvmas.png" group-title="A- TV MX",TVMAS
 https://marine2.miplay.cl/tvmas/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ONCE NIÑOS" tvg-logo="https://onceninasyninos.tv/wp-content/uploads/2019/07/cropped-Nuevo_Logo_ON-2019-e1561997594507.png" group-title="A- TV MX",ONCE NIÑOS
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278549.m3u8?jsapi=true&autostart=true&volume=0
 http://fullgo.xyz:8880/live/56933267911f/58Q9gQAMRLHd/419071.m3u8?jsapi=true&autostart=true&volume=0
-http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278549.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="A- TV MX",RT
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8?=-1
 #EXTINF:-1 tvg-id="ADN40.mx(m3u4u)" tvg-name="ADN40" tvg-logo="http://x.playerlatino.live/adn40.png" group-title="A- TV MX",ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?jsapi=true&autostart=true&volume=0
 
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://x.playerlatino.live/tlc.png" group-title="A- TV MX",TLC
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278407.m3u8?jsapi=true&autostart=true&volume=0
 http://fullgo.xyz:8880/live/56933267911f/58Q9gQAMRLHd/318629.m3u8?jsapi=true&autostart=true&volume=0
-http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278407.m3u8?jsapi=true&autostart=true&volume=0
+
 
 
 #EXTINF:-1 tvg-id="TLNovelas.mx(m3u4u)" tvg-name="TLNOVELAS" tvg-logo="https://x.playerlatino.live/tlnovelas.png" group-title="B- NOVELAS",TLNOVELAS
@@ -100,7 +103,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278685.m3u8?jsapi=t
 http://fullgo.xyz:8880/live/56933267911f/58Q9gQAMRLHd/418482.m3u8?jsapi=true&autostart=true&volume=0
 
 #EXTINF:-1 tvg-id="Unicable.mx(m3u4u)" tvg-name="UNICABLE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png" group-title="B- NOVELAS",UNICABLE
-http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278446.m3u8?jsapi=true&autostart=true&volume=0
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278446.m3u8?jsapi=true&autostart=true&volume=0
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/540.m3u8?jsapi=true&autostart=true&volume=0
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZ CORAZÓN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" group-title="B- NOVELAS",AZ CORAZÓN
@@ -161,7 +164,7 @@ http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/505.m3u8?jsapi=true&au
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278538.m3u8?jsapi=true&autostart=true&volume=0
 #EXTINF:-1 tvg-id="Cartoonito.mx(m3u4u)" tvg-name="CARTOONITO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png" group-title="D- INFANTIL",CARTOONITO
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/506.m3u8?jsapi=true&autostart=true&volume=0
-http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/278527.m3u8?jsapi=true&autostart=true&volume=0
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278527.m3u8?jsapi=true&autostart=true&volume=0
 #EXTINF:-1 tvg-id="BabyTv.mx(m3u4u)" tvg-name="BABY TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56036_dark_360w_270h.png" group-title="D- INFANTIL",BABY TV
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278532.m3u8?jsapi=true&autostart=true&volume=0
 #EXTINF:-1 tvg-id="NickJr.mx(m3u4u)" tvg-name="NICK JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60295_dark_360w_270h.png" group-title="D- INFANTIL",NICK JR
