@@ -18,7 +18,8 @@ http://mskghe.rqsglwdvh.com:80/vod/723D5D48EEB749F3A5C46BB6BEA08DAA_media.mp4
 --------------------------------------------------------------------------ESTRENOS 2025---------------------------------------------------------------------------------------
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Happy_Gilmore_2_poster.jpg/250px-Happy_Gilmore_2_poster.jpg" group-title="A-ESTRENOS HD",HAPPY GILMORE
+http://vod.tuxchannel.mx/peliculas/720/happy%20gilmore%202%202025.mkv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ea8VYuFo0sYI4TkLZ7Ed5CKWIpzSLXD9aRxwB5e5bCX7DO7g5ePzVF8f&s=10" group-title="A-ESTRENOS HD",Diablo 2025
 http://vod.tuxchannel.mx/peliculas/720/diablo%202025.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/img/5e/7a/5e7a52d3746b5aa9ecb0d1fb509db128.jpg" group-title="A-ESTRENOS HD",EL MURO NEGRO
