@@ -319,7 +319,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278481.m3u8?jsapi=t
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/115.m3u8?jsapi=true&autostart=true&volume=0
 
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx(m3u4u)" tvg-name="GOLDEN PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN PLUS
-http://xcm.budtv-ultra.com:900/budtv/budtvline/8Y3ymUpJESps/278485.m3u8?jsapi=true&autostart=true&volume=0
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278485.m3u8?jsapi=true&autostart=true&volume=0
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/116.m3u8?jsapi=true&autostart=true&volume=0
 
 #EXTINF:-1 tvg-id="GoldenPremier.mx(m3u4u)" tvg-name="GOLDEN PREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN PREMIER
