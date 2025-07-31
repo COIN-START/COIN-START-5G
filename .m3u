@@ -98,8 +98,7 @@ http://fullgo.xyz:8880/live/56933267911f/58Q9gQAMRLHd/135435.m3u8?jsapi=true&aut
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEMUNDO USA" tvg-logo="https://btv.mx/posters/1720842845264.png" group-title="B- NOVELAS",TELEMUNDO USA
 http://fullgo.xyz:8880/live/56933267911f/58Q9gQAMRLHd/418490.m3u8?jsapi=true&autostart=true&volume=0
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEMUNDO" tvg-logo="https://btv.mx/posters/1720842845264.png" group-title="B- NOVELAS",TELEMUNDO
-http://209.126.106.30:8081/live/974005b4204b4ad78588c404b9feac2a/fee8e06e2a9140369d5ee6f58ce0f265/99.m3u8
+
 #EXTINF:-1 tvg-id="TelemundoInternacional.mx(m3u4u)" tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png" group-title="B- NOVELAS",TELEMUNDO INTERNACIONAL
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278685.m3u8?jsapi=true&autostart=true&volume=0
 http://fullgo.xyz:8880/live/56933267911f/58Q9gQAMRLHd/418482.m3u8?jsapi=true&autostart=true&volume=0
@@ -109,7 +108,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278446.m3u8?jsapi=t
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/540.m3u8?jsapi=true&autostart=true&volume=0
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZ CORAZÓN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" group-title="B- NOVELAS",AZ CORAZÓN
-http://tv.iprotv.live:80/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/97970.ts
+http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/31.m3u8?jsapi=true&autostart=true&volume=0
 
 
 
