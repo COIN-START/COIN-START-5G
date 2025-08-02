@@ -337,6 +337,14 @@ http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/435.m3u8?jsapi=true&au
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278457.m3u8?jsapi=true&autostart=true&volume=0
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/389.m3u8?jsapi=true&autostart=true&volume=0
 
+#EXTINF:-1 tvg-id="" tvg-name="17:00 INTER MIAMI VS NECAXA" tvg-logo="https://scontent.fmex15-1.fna.fbcdn.net/v/t39.30808-6/526587568_1305322517715744_8225782605670859773_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Q9-Avm94GAAQ7kNvwHsAH8u&_nc_oc=AdkYu2epW485yVlRAN_YrxseBQG6X15yTkR-xguUEk6OsPHGSeni1x-z7mDYuKXpqWc&_nc_zt=23&_nc_ht=scontent.fmex15-1.fna&_nc_gid=FIsVux3j3Emtj-ZADQj-AQ&oh=00_AfQXYhiAN5Ki0595IkqzF77qhRgcMR5oZop8NH4lMmFXKA&oe=6894607E" group-title="H- DEPORTES",17:00 INTER MIAMI VS NECAXA
+http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/2162.m3u8?jsapi=true&autostart=true&volume=0
+
+#EXTINF:-1 tvg-id="" tvg-name="19:00 AMERICA VS MINNESOTA" tvg-logo="https://pbs.twimg.com/media/Gw5EEqBXIAATVh1?format=jpg&name=900x900" group-title="H- DEPORTES",19:00 AMERICA VS MINNESOTA
+http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/2161.m3u8?jsapi=true&autostart=true&volume=0
+
+
+
 
 
 #EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" tvg-name="CALIENTE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzeccX_jxRhbiFL_gn1Yn2Z6LXvZWEyXI5R9S5R1eGjxH-Lbqvc7HKTBg&s=10" group-title="H- DEPORTES",CALIENTE TV
