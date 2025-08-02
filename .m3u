@@ -1,18 +1,18 @@
 
 #EXTM3U url-tvg="http://m3u4u.com/epg/69wkng943dsv6mw6nq8g"
-#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="HABITACION DIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png" group-title="LA CASA DE LOS FAMOSOS MX",HABITACION DIA
+#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="HABITACION DIA" tvg-logo="http://strea.encohd.co/images/344e252b28c00c092980531d5a84e9f8.png" group-title="LA CASA DE LOS FAMOSOS MX",HABITACION DIA
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/1204.m3u8?jsapi=true&autostart=true&volume=0
-#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="HABITACION NOCHE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png" group-title="LA CASA DE LOS FAMOSOS MX",HABITACION NOCHE
+#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="HABITACION NOCHE" tvg-logo="http://strea.encohd.co/images/344e252b28c00c092980531d5a84e9f8.png" group-title="LA CASA DE LOS FAMOSOS MX",HABITACION NOCHE
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/1205.m3u8?jsapi=true&autostart=true&volume=0
-#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="COCINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png" group-title="LA CASA DE LOS FAMOSOS MX",COCINA
+#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="COCINA" tvg-logo="http://strea.encohd.co/images/344e252b28c00c092980531d5a84e9f8.png" group-title="LA CASA DE LOS FAMOSOS MX",COCINA
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/1203.m3u8?jsapi=true&autostart=true&volume=0
-#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="BAÑO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png" group-title="LA CASA DE LOS FAMOSOS MX",BAÑO
+#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="BAÑO" tvg-logo="http://strea.encohd.co/images/344e252b28c00c092980531d5a84e9f8.png" group-title="LA CASA DE LOS FAMOSOS MX",BAÑO
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/1202.m3u8?jsapi=true&autostart=true&volume=0
-#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="ACCESO TOTAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png" group-title="LA CASA DE LOS FAMOSOS MX",ACCESO TOTAL
+#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="ACCESO TOTAL" tvg-logo="http://strea.encohd.co/images/344e252b28c00c092980531d5a84e9f8.png" group-title="LA CASA DE LOS FAMOSOS MX",ACCESO TOTAL
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/1201.m3u8?jsapi=true&autostart=true&volume=0
-#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="SALA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png" group-title="LA CASA DE LOS FAMOSOS MX",SALA
+#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="SALA" tvg-logo="http://strea.encohd.co/images/344e252b28c00c092980531d5a84e9f8.png" group-title="LA CASA DE LOS FAMOSOS MX",SALA
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/1207.m3u8?jsapi=true&autostart=true&volume=0
-#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="TODA LA CASA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png" group-title="LA CASA DE LOS FAMOSOS MX",TODA LA CASA
+#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="TODA LA CASA" tvg-logo="http://strea.encohd.co/images/344e252b28c00c092980531d5a84e9f8.png" group-title="LA CASA DE LOS FAMOSOS MX",TODA LA CASA
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/1208.m3u8?jsapi=true&autostart=true&volume=0
 
 
