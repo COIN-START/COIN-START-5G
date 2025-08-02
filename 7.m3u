@@ -58,8 +58,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R404141aa90894f89d7090785b3e1685d?rik=ml589mK99ne4GQ&pid=ImgRaw" group-title="C- 24/7",CABALLEROS DEL ZODIACO
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/420.m3u8?jsapi=true&autostart=true&volume=0
 
-#EXTINF:-1 tvg-logo="https://media.posterstore.com/site_images/68631d2392c536b9cc92b068_1743910009_WB0081-8.jpg" group-title="D- 24/7",THE THEORY OF BIG BANG
-http://tv.zapping.life:8080/live/tuenti/jedvLeWMEV/94867.m3u8?jsapi=true&autostart=true&volume=0
+
 #EXTINF:-1 tvg-logo="https://media.posterstore.com/site_images/68631d2392c536b9cc92b068_1743910009_WB0081-8.jpg" group-title="D- 24/7",THE THEORY OF BIG BANG
 http://goldfull.pro:8880/live/FranciscoFullxd@/@@Fn9237@Manb72@/437995.m3u8?jsapi=true&autostart=true&volume=0
 
