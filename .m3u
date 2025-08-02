@@ -16,8 +16,11 @@ http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/1207.m3u8?jsapi=true&a
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/1208.m3u8?jsapi=true&autostart=true&volume=0
 
 
-#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="LAS ESTRELLAS" tvg-logo="https://btv.mx/posters/1728679191541.png" group-title="A- TV MX",LAS ESTRELLAS
+#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="LAS ESTRELLAS" tvg-logo="https://btv.mx/posters/1728679191541.png" group-title="A- TV MX",LAS ESTRELLAS 2
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8?jsapi=true&autostart=true&volume=0
+
+http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/42.ts
+
 #EXTINF:-1 tvg-id="Aztecauno.mx(m3u4u)" tvg-name="AZTECA UNO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="A- TV MX",AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?jsapi=true&autostart=true&volume=0
 
