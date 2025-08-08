@@ -3,6 +3,8 @@
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/405.m3u8?jsapi=true&autostart=true&volume=0
 #EXTINF:-1 tvg-logo="https://nezaman.be/uploads/series/r/r-1986-848-alf.jpg" group-title="A- 24/7",ALF
 http://user2.tvcluboficial.com:80/live/m/m/426.m3u8?jsapi=true&autostart=true&volume=0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLP8VYYN9xxhKMSlbB--ZG8_2euwpn2ECPwwrwIXL0pKXso2s4im7YiKw&s=10" group-title="A- 24/7",Narnia
+http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/10022.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/Asn0hWjjtGiCMcQzjjukeQJai1t.jpg" group-title="A- 24/7",LA VACA Y EL POLLITO
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279005.m3u8?jsapi=true&autostart=true&volume=0
