@@ -5,9 +5,6 @@ http://uyjj.xmqkychtb.com:80/vod/C094BFFE3C5E45DDB7873A1B9DB37290_media.mp4
 
 
 -------------------------------------------------------------------cam 2025------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg" group-title="B-ESTRENOS CAM",Elio CAM
-http://app.tecnomolly.com:8080/movie/Edwincolo/YF4H53LUQZ/477942.mp4
-
 
 
 ----------------------------------------------------------SAPCE----------------------------------------------------------------------------------------------------------
@@ -17,8 +14,10 @@ http://app.tecnomolly.com:8080/movie/Edwincolo/YF4H53LUQZ/477942.mp4
 http://mskghe.rqsglwdvh.com:80/vod/723D5D48EEB749F3A5C46BB6BEA08DAA_media.mp4
 --------------------------------------------------------------------------ESTRENOS 2025---------------------------------------------------------------------------------------
 
-
-
+#EXTINF:-1 tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-bad-guys-2/images/regions/us/updates2/onesheet.jpg" group-title="A-ESTRENOS HD",ELIO
+http://uyjj.xmqkychtb.com:80/vod/1649AE99A0104310B5E657E66C2D939E_media.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg" group-title="A-ESTRENOS HD",ELIO
+http://uyjj.xmqkychtb.com:80/vod/4420B47E056A488580210962EB153D7A_media.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkFr81JlUjBFFpEirIuIR9A7xmpFJXkjb3Swd0s9gABsY4TMM7pWbBXod8&s=10" group-title="A-ESTRENOS HD",SUPERMAN
 http://ptccloud.lsdwedsfsc.site:80/vod/9D48CFC34DFC465C89C9CC833AAD7EE4_media.mp4
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/8d/Los_Pitufos_2025_Nuevo_Poster.jpg/revision/latest/scale-to-width-down/1200?cb=20250514134602&path-prefix=es" group-title="A-ESTRENOS HD",PITUFOS
