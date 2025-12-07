@@ -42,8 +42,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278359.m3u8?jsapi=t
 http://fullgo.xyz:8880/live/56933267911f/58Q9gQAMRLHd/419068.m3u8?jsapi=true&autostart=true&volume=0
 
 #EXTINF:-1 tvg-id="ForoTV.mx(m3u4u)" tvg-name="FORO TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66635_dark_360w_270h.png" group-title="A- TV MX",FORO TV
-https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
-
+http://daleplaytv.vip/live/737474ndbfvvd/73737bdbrbf73/404359.m3u8
 #EXTINF:-1 tvg-id="Once.mx(m3u4u)" tvg-name="ONCE HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png" group-title="A- TV MX",ONCE HD
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278332.m3u8?jsapi=true&autostart=true&volume=0
 http://fullgo.xyz:8880/live/56933267911f/58Q9gQAMRLHd/419071.m3u8?jsapi=true&autostart=true&volume=0
