@@ -369,5 +369,26 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b793ccf571b80007b7a6
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZTECA DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/250px-Aztecadeporteslogo.png" group-title="H- DEPORTES",AZTECA DEPORTES
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278576.m3u8?jsapi=true&autostart=true&volume=0
-
+#EXTINF:-1 tvg-id="foxsportspremium.ar" tvg-name="MX| FOX SPORTS PREMIUN MX*" tvg-logo="https://logo.m3uassets.com/foxsportspremium.png" group-title="H- DEPORTES",MX| FOX SPORTS PREMIUN MX*
+http://cystematvmva.club:8080/adolfo/adolfo/1075957
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="MX| FOX SPORTS 1 HD*+*" tvg-logo="https://logo.m3uassets.com/foxsport1.png" group-title="H- DEPORTES",MX| FOX SPORTS 1 HD*+*
+http://cystematvmva.club:8080/adolfo/adolfo/1075958
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="MX| FOX SPORTS 1 FHD" tvg-logo="https://logo.m3uassets.com/foxsport1.png" group-title="H- DEPORTES",MX| FOX SPORTS 1 FHD
+http://cystematvmva.club:8080/adolfo/adolfo/1075959
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="MX| FOX SPORTS 2 FHD" tvg-logo="https://logo.m3uassets.com/foxsports2.png" group-title="H- DEPORTES",MX| FOX SPORTS 2 FHD
+http://cystematvmva.club:8080/adolfo/adolfo/1075960
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="MX| FOX SPORTS 3 FHD" tvg-logo="https://logo.m3uassets.com/foxsports3.png" group-title="H- DEPORTES",MX| FOX SPORTS 3 FHD
+http://cystematvmva.club:8080/adolfo/adolfo/1075961
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="MX| FOX SPORTS 3 HD*+*" tvg-logo="https://logo.m3uassets.com/foxsports3.png" group-title="H- DEPORTES",MX| FOX SPORTS 3 HD*+*
+http://cystematvmva.club:8080/adolfo/adolfo/1075962
+#EXTINF:-1 tvg-id="discoveryfamilia.latino" tvg-name="MX| ESPN XTRA HD" tvg-logo="https://logo.m3uassets.com/espnextra.png" group-title="H- DEPORTES",MX| ESPN XTRA HD
+http://cystematvmva.club:8080/adolfo/adolfo/1075963
+#EXTINF:-1 tvg-id="espn2.latino" tvg-name="MX| ESPN 1 FHD" tvg-logo="https://logo.m3uassets.com/espn.png" group-title="H- DEPORTES",MX| ESPN 1 FHD
+http://cystematvmva.club:8080/adolfo/adolfo/1075964
+#EXTINF:-1 tvg-id="ustudn.latino" tvg-name="MX| ESPN 2 SUR FHD" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="H- DEPORTES",MX| ESPN 2 SUR FHD
+http://cystematvmva.club:8080/adolfo/adolfo/1075965
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="MX| ESPN 3 FHD" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title="H- DEPORTES",MX| ESPN 3 FHD
+http://cystematvmva.club:8080/adolfo/adolfo/1075966
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES| CLARO SPORTS FHD MEXICO" tvg-logo="https://logo.m3uassets.com/clarosports.png" group-title="H- DEPORTES",DEPORTES| CLARO SPORTS FHD MEXICO
+http://cystematvmva.club:8080/adolfo/adolfo/1076056
 
