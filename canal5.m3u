@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1, Canal Provisorio
-#EXTVLCOPT:http-user-agent=Ranger/4.9.5-ebebe425
-#EXTHTTP:{"User-Agent":"Ranger/4.9.5-ebebe425","App":"com.msandroid.mobile","Connection":"Keep-Alive"}
-http://23.237.74.12:12387/live/?user_id=722534512&trans_id=fJYLx2db0eDo_wcxD48pIFFHf&app_id=magmob&host=23.237.74.12:12387&app_ver=60201&client_ip=187.190.63.64&expired=1773179758&auth_id=722534512_magmob__0&dev_id=d71d432275db1f9f5520ea7b7aa6a121&tag=free&sign_ver=1&token=b7d04514bc6cf2a4cc5af4edbb6e0d97&sign2_method=sign_o3&instance=0&start_moment=81629689&sign2=00f643f9336c982d1d9ee0e3af280eab
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://cystematvmva.club:8080/live/adolfo/adolfo/1111859.m3u8?token=GkMMUxBdEg1EUgJaDABXBQ8OUwAIBVJQAlYIUAFcBgBVUlUCUlNVAwARHUBLRRdXWVptCl0UXwAGAQBZBVxPQRQSAUA8XFQVXBEHVAgDVhAUFUYKVFNHCwccExFZAUFZQ1VVAloXHBUDS0UHSl8EXmdTVxVQVQATDV5EDVxJQQwPPgBXDlReU0QJE1IaHUdbS0cQWVdDCV0bElMIRBcCFwRDXhBSAgYARB8TAVdEC0ZKThBZG3s9ExsSVBlEAA0QCA4KEFkXXQQTCxNOGlgWbUpSQRdLUwRcUkITWxJVQU9DDAVKPFZfWQhWUhZRXgtBGg0QUBsaR1xYXlgVXxc8EwgFRghBBggFVRFM
 
