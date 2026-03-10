@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1, Canal Adolfo
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:input-repeat=-1
+https://cystematvmva.club:8080/live/adolfo/adolfo/1111859.m3u8
