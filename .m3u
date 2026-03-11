@@ -12,7 +12,7 @@ https://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/42.ts
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-id="Canal5.mx(m3u4u)" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5 
-http://ydcsngej.duperab.xyz/live/P37MQEAS/SDS4N2JA/33986.ts
+http://ydcsngej.duperab.xyz/live/P37MQEAS/SDS4N2JA/33986.m3u8
 
 
 #EXTINF:-1 tvg-id="Canal5.mx(m3u4u)" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5 
@@ -174,14 +174,17 @@ http://fullgo.xyz:8880/live/56933267911f/58Q9gQAMRLHd/414469/smAVz_uhytj5REM-4pY
 
 
 #EXTINF:-1 tvg-id="HBO2.mx(m3u4u)" tvg-name="HBO2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="E- PREMIUM",HBO2
+http://n8a6z9rk.top/627/53b5h7dwn7i2f0z9.m3u8
 http://live.btv.mx:2424/stream/278493/smAVz_uhytj5REM-4pYNZbkrcB2
 http://fullgo.xyz:8880/live/56933267911f/58Q9gQAMRLHd/414462/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-id="HBOFamily.mx(m3u4u)" tvg-name="HBO FAMILY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="E- PREMIUM",HBO FAMILY
+http://n8a6z9rk.top/632/53b5h7dwn7i2f0z9.m3u8
 http://live.btv.mx:2424/stream/278496/smAVz_uhytj5REM-4pYNZbkrcB2
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/141/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-id="HBOMundi.mx(m3u4u)" tvg-name="HBO MUNDI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="E- PREMIUM",HBO MUNDI
+http://n8a6z9rk.top/621/53b5h7dwn7i2f0z9.m3u8
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/121/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1 tvg-id="HBOPlus.mx(m3u4u)" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="E- PREMIUM",HBO PLUS
 http://live.btv.mx:2424/stream/278490/smAVz_uhytj5REM-4pYNZbkrcB2
@@ -280,6 +283,7 @@ http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/126/smAVz_uhytj5REM-4p
 
 
 #EXTINF:-1 tvg-id="TNT.mx(m3u4u)" tvg-name="TNT MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="F- CINE Y SERIES",TNT MX
+http://n8a6z9rk.top/797/53b5h7dwn7i2f0z9.m3u8
 http://live.btv.mx:2424/stream/278520/smAVz_uhytj5REM-4pYNZbkrcB2
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/5020/smAVz_uhytj5REM-4pYNZbkrcB2
 
@@ -289,6 +293,7 @@ http://live.btv.mx:2424/stream/278443/smAVz_uhytj5REM-4pYNZbkrcB2
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/537/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-id="Space.mx(m3u4u)" tvg-name="SPACE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="F- CINE Y SERIES",SPACE
+http://n8a6z9rk.top/756/53b5h7dwn7i2f0z9.m3u8
 http://live.btv.mx:2424/stream/278516/smAVz_uhytj5REM-4pYNZbkrcB2
 
 
