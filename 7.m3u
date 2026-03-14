@@ -72,7 +72,9 @@ http://live.btv.mx:2424/stream/279023/smAVz_uhytj5REM-4pYNZbkrcB2
 http://live.btv.mx:2424/stream/158620.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/30/Malcolm-in-the-middle.jpg/revision/latest?cb=20220813175946&path-prefix=es" group-title="D- 24/7",MALCOLM EL DE EN MEDIO
-http://live.btv.mx:2424/stream/279046/smAVz_uhytj5REM-4pYNZbkrcB2
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/30/Malcolm-in-the-middle.jpg/revision/latest?cb=20220813175946&path-prefix=es" group-title="D- 24/7",MALCOLM EL DE EN MEDIO
-http://cystematvmva.club:8080/adolfo/adolfo/893350
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:input-repeat=-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+http://cystematvmva.club:8080/live/adolfo/adolfo/893350.m3u8
