@@ -25,7 +25,8 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:input-repeat=-1
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
-http://181.78.137.227/HBO-XTREME-HD/mpegts
+http://209.87.175.160:5001/play/a0ll/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Azteca7.mx(m3u4u)" tvg-name="AZTECA 7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="A- TV MX",AZTECA 7
 #EXTVLCOPT:network-caching=3000
@@ -341,8 +342,7 @@ http://live.btv.mx:2424/stream/278542/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:input-repeat=-1
 #EXTVLCOPT:http-user-agent=NJ5HjyAvK4CrmkNWwU22zaS25HRdWbu33e7g6ghvn55BEJcmjbqJ3BMZAJMdMZwM1Tqrtc5db4vMyhvKiDk6eECFDBZWL8Mmftq7xDMSVhvw8BeWwZUv9v7nzbXHDEnQMbDTg2yz3fXD35GtbT7gx3vLkpnagyUnVc1gKtvryJuxSjF0utR
-https://mx1.gt-app.com/24/sFdTrWkjiPvlWmNyZsi.m3u8
-
+http://181.78.137.227/HBO-XTREME-HD/mpegts
 
 
 #EXTINF:-1 tvg-id="HBO2.mx(m3u4u)" tvg-name="HBO2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="E- PREMIUM",HBO2
