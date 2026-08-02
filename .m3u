@@ -32,7 +32,7 @@ http://209.87.175.160:5001/play/a0ll/index.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:input-repeat=-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+http://209.87.175.160:5001/play/a0me/index.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESTRELLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/509px-Estrella_TV_Logo_2020.png" group-title="A- TV MX",ESTRELLA TV
