@@ -534,7 +534,7 @@ https://mx1.gt-app.com/12/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:input-repeat=-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-https://mx1.gt-app.com/49/sFdTrWkjiPvlWmNyZsi.m3u8
+http://45.190.28.50/CINEMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="Golden.mx(m3u4u)" tvg-name="GOLDEN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN
 #EXTVLCOPT:network-caching=3000
