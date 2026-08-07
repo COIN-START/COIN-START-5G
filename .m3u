@@ -39,7 +39,7 @@ http://209.87.175.160:5001/play/a0me/index.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:input-repeat=-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-http://download943.mediafire.com/w1bcrpntu4sgCClK1E2o1jFyMv0jC3kIHLjs5-flikg-CoIq_DV9xK5seRO6qtLOoR1gBOK32i5lOPpRlHjRxBhzOMhUAx9t2416poaERCSGdh6beXeAr4X6XF5qB7tWHJTs6tr6eNtz4Db49UHPL4niuaZTgY-9uj7KZ07Gi6QSfDY/lyhj6e673p8ud94/1084244.mkv
+http://live.btv.mx:9000/hls/budtvline/8Y3ymUpJESps/WyKnQias4rfritoc2zbuvWRHbUNqdUxrd0NEL0xmbVpGOWNNUWd6Z2FiUUx5VCtlNjV0YlhmM0F6cXRDVEUyYjZnT1FBZTgzc2I0S29wTTRZWVRIYVBqU3E3dGZmYXZBNTBYYUNRPT0.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZ CLIC HD" tvg-logo="https://x.playerlatino.live/azclic.png" group-title="A- TV MX",AZ CLIC HD
 #EXTVLCOPT:network-caching=3000
