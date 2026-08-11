@@ -57,3 +57,36 @@ http://live.btv.mx:2424/stream/278685/smAVz_uhytj5REM-4pYNZbkrcB2
 http://live.btv.mx:2424/stream/278446/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1 group-title="B- NOVELAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png",AZ CORAZÓN
 http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/31/smAVz_uhytj5REM-4pYNZbkrcB2
+
+
+
+#EXTINF:-1 group-title="C- CULTURA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png",DISCOVERY SCIENCE
+http://live.btv.mx:2424/stream/278621/smAVz_uhytj5REM-4pYNZbkrcB2
+#EXTINF:-1 group-title="C- CULTURA" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png",DISCOVERY H&H
+https://mx1.gt-app.com/46/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:-1 group-title="C- CULTURA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png",DISCOVERY WORLD
+http://live.btv.mx:2424/stream/278626/smAVz_uhytj5REM-4pYNZbkrcB2
+#EXTINF:-1 group-title="C- CULTURA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png",DISCOVERY TURBO
+https://mx1.gt-app.com/80/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:-1 group-title="C- CULTURA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png",DISCOVERY THEATER
+http://live.btv.mx:2424/stream/278622/smAVz_uhytj5REM-4pYNZbkrcB2
+#EXTINF:-1 group-title="C- CULTURA" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png",NACIONAL GEOGRAPHIC
+https://mx1.gt-app.com/15/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:-1 group-title="C- CULTURA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png",ANIMAL PLANET
+https://mx1.gt-app.com/56/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:-1 group-title="C- CULTURA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png",HISTORY MX
+https://mx1.gt-app.com/19/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:-1 group-title="C- CULTURA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png",H2
+http://live.btv.mx:2424/stream/278630/smAVz_uhytj5REM-4pYNZbkrcB2
+#EXTINF:-1 group-title="C- CULTURA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png",DISCOVERY CHANNEL
+https://mx1.gt-app.com/47/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:-1 group-title="C- CULTURA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png",HGTV
+http://live.btv.mx:2424/stream/278430/smAVz_uhytj5REM-4pYNZbkrcB2
+#EXTINF:-1 group-title="C- CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png",DISCOVERY ID
+https://mx1.gt-app.com/18/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:-1 group-title="C- CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/150px-TLC_USA_logo.png",DISCOVERY TLC
+http://live.btv.mx:2424/stream/278407/smAVz_uhytj5REM-4pYNZbkrcB2
+
+
+#EXTINF:-1 group-title="D- INFANTIL" tvg-logo="https://x.playerlatino.live/bitme.png",BITME
+http://live.btv.mx:2424/stream/278522/smAVz_uhytj5REM-4pYNZbkrcB2
