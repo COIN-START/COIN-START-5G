@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/69wkng943dsv6mw6nq8g"
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:input-repeat=-1
-http://zonacero.lat:8080/player_api.php?username=2026&password=2026&action=get_vod_categories
+http://zonacero.lat:8080/get.php?username=2026&password=2026&type=m3u_plus&output=vod
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="LAS ESTRELLAS" tvg-logo="https://btv.mx/posters/1728679191541.png" group-title="A- TV MX",LAS ESTRELLAS 
 #EXTVLCOPT:network-caching=3000
