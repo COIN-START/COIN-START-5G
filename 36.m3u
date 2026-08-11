@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="A- TV MX" tvg-logo="https://btv.mx/posters/1728679191541.png",LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="A- TV MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png",AZTECA UNO
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+http://www.1play.cool:25461/live/6463386094/272d5ea404/133876.m3u8
 #EXTINF:-1 group-title="A- TV MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png",CANAL 5
 http://209.87.175.160:5001/play/a0ll/index.m3u8
 #EXTINF:-1 group-title="A- TV MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png",AZTECA 7
