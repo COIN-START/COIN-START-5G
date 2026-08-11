@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://btv.mx/posters/1728679191541.png", Canal Ejemplo 1
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 group-title="Películas" tvg-logo="https://btv.mx/posters/1728679191541.png", Película Ejemplo
+https://ejemplo.com/videos/pelicula.mp4
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://btv.mx/posters/1728679191541.png", Canal Noticias
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
