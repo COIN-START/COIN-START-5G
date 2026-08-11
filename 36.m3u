@@ -41,3 +41,19 @@ https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8?=-1
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1 group-title="A- TV MX" tvg-logo="http://x.playerlatino.live/tlc.png",TLC
 http://live.btv.mx:2424/stream/278407/smAVz_uhytj5REM-4pYNZbkrcB2
+
+
+
+
+#EXTINF:-1 group-title="B- NOVELAS" tvg-logo="https://x.playerlatino.live/tlnovelas.png",TLNOVELAS
+https://mx1.gt-app.com/69/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:-1 group-title="B- NOVELAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png",PASIONES
+http://live.btv.mx:2424/stream/278403/smAVz_uhytj5REM-4pYNZbkrcB2
+#EXTINF:-1 group-title="B- NOVELAS" tvg-logo="https://btv.mx/posters/1720842845264.png",TELEMUNDO USA
+https://mx1.gt-app.com/7/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:-1 group-title="B- NOVELAS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png",TELEMUNDO INTERNACIONAL
+http://live.btv.mx:2424/stream/278685/smAVz_uhytj5REM-4pYNZbkrcB2
+#EXTINF:-1 group-title="B- NOVELAS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png",UNICABLE
+http://live.btv.mx:2424/stream/278446/smAVz_uhytj5REM-4pYNZbkrcB2
+#EXTINF:-1 group-title="B- NOVELAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png",AZ CORAZÓN
+http://strea.encohd.co:80/live/Zy0k45TV9IsJZ/uMvUAS8O20PO/31/smAVz_uhytj5REM-4pYNZbkrcB2
