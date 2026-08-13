@@ -2,11 +2,15 @@
 #EXTINF:-1 group-title="A- TV MX" tvg-logo="https://btv.mx/posters/1728679191541.png",LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="A- TV MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png",AZTECA UNO
-http://www.1play.cool:25461/live/6463386094/272d5ea404/133876.m3u8
+http://190.83.9.222:8000/play/ca068/index.m3u8
 #EXTINF:-1 group-title="A- TV MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png",CANAL 5
 http://209.87.175.160:5001/play/a0ll/index.m3u8
+#EXTINF:-1 group-title="A- TV MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png",CANAL 5
+http://190.83.9.222:8000/play/ca016/index.m3u8
 #EXTINF:-1 group-title="A- TV MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png",AZTECA 7
 http://209.87.175.160:5001/play/a0me/index.m3u8
+#EXTINF:-1 group-title="A- TV MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png",AZTECA 7
+http://190.83.9.222:8000/play/ca103/index.m3u8
 #EXTINF:-1 group-title="A- TV MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/509px-Estrella_TV_Logo_2020.png",ESTRELLA TV
 http://zonacero.lat:8080/live/2026/2026/452739.m3u8
 #EXTINF:-1 group-title="A- TV MX" tvg-logo="https://x.playerlatino.live/azclic.png",AZ CLIC HD
