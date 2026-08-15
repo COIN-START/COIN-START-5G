@@ -1,8 +1,8 @@
 #EXTM3U x-generator="https://m3u4u.com/"
 #EXTINF:-1 group-title="MEXICO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" tvg-id="13C.cl",AZTECA UNO ᴴᴰ
-http://23.137.84.107:59000/live/Lopera77/872399/1155859.ts
+http://23.137.84.107:59000/live/Lopera77/872399/1155859.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" tvg-id="AzCorazon.mx",AZTECA UNO ᴴᴰ (2)
-http://23.137.84.107:59000/live/Lopera77/872399/4087.ts
+http://23.137.84.107:59000/live/Lopera77/872399/4087.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" tvg-id="13C.cl",AZTECA UNO
 http://23.137.84.107:59000/live/Lopera77/872399/1155860.ts
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://btv.mx/posters/1728679191541.png" tvg-id="13C.cl",EL CANAL DE LAS ESTRELLAS ᴴᴰ
