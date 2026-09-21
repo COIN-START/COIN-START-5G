@@ -48,7 +48,7 @@ http://ptccloud.lsdwedsfsc.site:80/vod/B2D7069F182240D6B7D13B3970639B59_media.mp
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:input-repeat=-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+http://23.137.84.107:59000/movie/Chicho/123/1295770.mkv
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZ CINEMA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" group-title="A- TV MX",AZ CINEMA
 #EXTVLCOPT:network-caching=3000
