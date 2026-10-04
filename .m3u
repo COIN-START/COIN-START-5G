@@ -22,7 +22,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:input-repeat=-1
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
-contentId=http://live.btv.mx:9000/hls/budtvline/8Y3ymUpJESps/0oCiY5VaqnB-TZPFLPNoFVJYeXdseUZWT1ZzdG9TOFpkdGJWY1pNMmd2SUM5Z3o0a3ZJTXZqdjVzVVYrRDVwVDdXREE4N0J2TDVtdUtrVkphY0swNWQ3cktjNTVhc0d0L0Y2RkpnPT0.m3u8
+http://live.btv.mx:9000/hls/budtvline/8Y3ymUpJESps/0oCiY5VaqnB-TZPFLPNoFVJYeXdseUZWT1ZzdG9TOFpkdGJWY1pNMmd2SUM5Z3o0a3ZJTXZqdjVzVVYrRDVwVDdXREE4N0J2TDVtdUtrVkphY0swNWQ3cktjNTVhc0d0L0Y2RkpnPT0.m3u8
 
 
 #EXTINF:-1 tvg-id="Azteca7.mx(m3u4u)" tvg-name="AZTECA 7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="A- TV MX",AZTECA 7
