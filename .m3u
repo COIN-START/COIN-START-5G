@@ -28,7 +28,7 @@ http://live.btv.mx:9000/hls/budtvline/8Y3ymUpJESps/0oCiY5VaqnB-TZPFLPNoFVJYeXdse
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:input-repeat=-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-http://209.87.175.160:5001/play/a0me/index.m3u8
+http://192.198.123.234:30000/live/cyx_93531158996778016_480p.m3u8|App=com.msandroid.mobile&App-Version=60291&User-Agent=Ranger/4.9.5-ebebe425&Content-Auth=/live/?user_id=891122234&trans_id=iT5gpbhaPFki_kWk33OBsoj91&app_id=magmob&host=192.198.123.234:30000&app_ver=60291&client_ip=189.203.38.91&expired=1791661673&auth_id=891122234_magmob__0&dev_id=dae15a92df1114652eda76b1d83d57f5&tag=free&sign_ver=1&token=f8e0232b98ba29ecd7415911cfe57407&sign2_method=sign_o3&instance=0&start_moment=1791647293065&sign2=57131dd68a8dd6b303a852fabed0c10a&Content-License=app_id=magmob&tag=free&scheme=md5-01&media_code=cyx_93531158996778016_480p&expired=1792248960&token=24279DDCC2710BC3C55B10909B6AC85B
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESTRELLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/509px-Estrella_TV_Logo_2020.png" group-title="A- TV MX",ESTRELLA TV
