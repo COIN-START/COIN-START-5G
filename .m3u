@@ -1,8 +1,7 @@
 #EXTM3U
 
 
-
-#EXTINF:-1, Nombre del Canal
+#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="LAS ESTRELLAS" tvg-logo="https://btv.mx/posters/1728679191541.png" group-title="A- TV MX",LAS ESTRELLAS 
 #KODIPROP:http-header=User-Agent=Magma Player/10
 #KODIPROP:http-header=X-App=di
 #KODIPROP:http-header=X-Version=10/1.0.9
