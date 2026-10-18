@@ -1,5 +1,17 @@
 #EXTM3U
 
+
+#EXTM3U
+#EXTINF:-1, Nombre del Canal
+#KODIPROP:http-header=User-Agent=Magma Player/10
+#KODIPROP:http-header=X-App=di
+#KODIPROP:http-header=X-Version=10/1.0.9
+#KODIPROP:http-header=X-Did=70d849ba93e29220
+#KODIPROP:http-header=X-Hash=AQUÍ_EL_HASH_ACTUALIZADO
+http://tv.m3uts.xyz/stream/secure/QsMFZmvt/196.m3u8
+
+
+
 #EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="LAS ESTRELLAS" tvg-logo="https://btv.mx/posters/1728679191541.png" group-title="A- TV MX",LAS ESTRELLAS 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:input-repeat=-1
